@@ -1,8 +1,13 @@
 logo: /images/xnlogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Xingnan
+    url: /xingnan/overview/
+    sublinks:
+      - title: Overview
+        url: /xingnan/overview/
+      - title: Our School
+        url: /xingnan/our-school/our-identity/
+      - title: Our People
+        url: /xingnan/our-people/our-principals-message/
+      - title: Our Partnerships
+        url: /xingnan/our-partnerships/school-advisory-committee/
