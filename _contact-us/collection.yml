@@ -2,4 +2,5 @@ collections:
   contact-us:
     output: true
     order:
+      - Locate Us.md
       - Sitemap.md
