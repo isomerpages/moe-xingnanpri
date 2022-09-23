@@ -2,4 +2,5 @@ collections:
   expedition:
     output: true
     order:
+      - School Publications/90th Anniversary Celebrations.md
       - School Publications/.keep
