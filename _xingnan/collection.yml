@@ -2,6 +2,7 @@ collections:
   xingnan:
     output: true
     order:
+      - Our People/Key Personnel.md
       - Our People/P1 to P6 Form Teachers.md
       - Our People/Allied Educators.md
       - Our People/Executive & Administrative Staff.md
