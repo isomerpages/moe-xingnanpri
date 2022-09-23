@@ -2,6 +2,7 @@ collections:
   expedition:
     output: true
     order:
+      - Achievements/Academic Achievements.md
       - Achievements/CCA Achievements.md
       - Achievements/.keep
       - Hot in the Press.md
