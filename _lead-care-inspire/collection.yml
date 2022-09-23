@@ -1,4 +1,5 @@
 collections:
   lead-care-inspire:
     output: true
-    order: []
+    order:
+      - stARS.md
