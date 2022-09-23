@@ -2,6 +2,7 @@ collections:
   expedition:
     output: true
     order:
+      - Achievements/Overview.md
       - Achievements/School Awards.md
       - Achievements/Academic Achievements.md
       - Achievements/CCA Achievements.md
