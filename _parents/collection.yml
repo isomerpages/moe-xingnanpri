@@ -2,6 +2,8 @@ collections:
   parents:
     output: true
     order:
+      - PSLE Related Information/Indicative PSLE Score Ranges for Individual
+        Secondary Schools.md
       - PSLE Related Information/.keep
       - Sale of Textbooks and Uniforms (2022).md
       - Parents Engagement Session/P2 Parent Engagement Session.md
