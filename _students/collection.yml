@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - School Library.md
       - "Let's Be Safe: Updates to COVID Operations.md"
       - Student Icon.md
