@@ -26,3 +26,16 @@ links:
         url: /learn-for-life/x3-learning-years-programme/
       - title: Ecostewardship
         url: /learn-for-life/ecostewardship/
+  - title: Expedition
+    url: /expedition/overview/
+    sublinks:
+      - title: Overview
+        url: /expedition/overview/
+      - title: Achievements
+        url: /expedition/achievements/overview/
+      - title: Hot in the Press
+        url: /expedition/hot-in-the-press/
+      - title: Commemorative Events
+        url: /expedition/commemorative-events/overview/
+      - title: School Publications
+        url: /expedition/school-publications/overview/
