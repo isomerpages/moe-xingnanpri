@@ -2,6 +2,8 @@ collections:
   parents:
     output: true
     order:
+      - PSLE Related Information/Changes to PSLE Scoring & S1 Posting from
+        2021.md
       - PSLE Related Information/Indicative PSLE Score Ranges for Individual
         Secondary Schools.md
       - PSLE Related Information/.keep
