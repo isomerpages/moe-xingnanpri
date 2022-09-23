@@ -136,100 +136,89 @@ _"As a Teacher, I believe in Empathising with my pupils' learning needs prior to
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/kp13.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+<img src="/images/kp14.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/kp15.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+<img src="/images/kp16.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/kp17.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+<img src="/images/kp18.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/kp19.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+<img src="/images/kp20.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/kp21.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+<img src="/images/kp22.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/kp23.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+<img src="/images/kp24.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/kp25.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+<img src="/images/kp26.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/kp27.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+<img src="/images/kp28.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/kp29.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+<img src="/images/kp30.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/kp31.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+<img src="/images/kp32.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/kp33.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
 
 * * *
 
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+<img src="/images/kp34.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
-* * *
-
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
-
-* * *
-
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
-
-* * *
-
-<img src="/images/kp.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
