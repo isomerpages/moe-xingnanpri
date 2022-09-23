@@ -1,0 +1,4 @@
+collections:
+  expedition:
+    output: true
+    order: []
