@@ -2,6 +2,7 @@ collections:
   xingnan:
     output: true
     order:
+      - Our People/Executive & Administrative Staff.md
       - Our People/.keep
       - Our Partnerships/School Advisory Committee (SAC).md
       - Our Partnerships/Parent Support Group (PSG).md
