@@ -18,10 +18,29 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Xingnan
+      description: A vibrant environment that nurtures minds and builds character as
+        we believe that every child is of worth and can learn.
+      button: Read More
+      url: /xingnan/overview/
+      image: /images/info1.png
+      alt: Image alt text
+  - infopic:
+      title: Learn For Life
+      description: Xingnanians discover their own talents. make the best of their
+        talents and realise their full potential as self-directed learners and
+        gracious citizens.
+      button: Read More
+      url: /learn-for-life/overview/
+      image: /images/info2.png
+      alt: Image alt text
+  - infopic:
+      title: Expedition
+      description: The endeavour, hard work and achievement of every Xingnanian is for
+        country and for school.
+      button: Read More
+      url: /expedition/overview/
+      image: /images/info3.png
+      alt: Image alt text
 ---
