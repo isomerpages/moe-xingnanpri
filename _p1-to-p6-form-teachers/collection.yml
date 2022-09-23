@@ -1,4 +1,5 @@
 collections:
   p1-to-p6-form-teachers:
     output: true
-    order: []
+    order:
+      - P6 Teachers.md
