@@ -2,4 +2,5 @@ collections:
   lead-care-inspire:
     output: true
     order:
+      - Learning from Experience.md
       - stARS.md
