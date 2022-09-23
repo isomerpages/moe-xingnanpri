@@ -2,4 +2,5 @@ collections:
   staff-and-teachers:
     output: true
     order:
+      - President's Award for Teachers.md
       - 2022 Teaching Awards.md
