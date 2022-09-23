@@ -2,5 +2,6 @@ collections:
   p1-to-p6-form-teachers:
     output: true
     order:
+      - P4 Teachers.md
       - P5 Teachers.md
       - P6 Teachers.md
