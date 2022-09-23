@@ -2,4 +2,5 @@ collections:
   xingnan:
     output: true
     order:
+      - Our Partnerships/Alumni.md
       - Our Partnerships/.keep
