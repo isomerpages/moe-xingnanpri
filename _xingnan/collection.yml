@@ -2,5 +2,6 @@ collections:
   xingnan:
     output: true
     order:
+      - Our Partnerships/Parent Support Group (PSG).md
       - Our Partnerships/Alumni.md
       - Our Partnerships/.keep
