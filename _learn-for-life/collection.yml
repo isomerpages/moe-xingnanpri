@@ -2,4 +2,5 @@ collections:
   learn-for-life:
     output: true
     order:
+      - X³ Learning Years Programme.md
       - Ecostewardship.md
