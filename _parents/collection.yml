@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - Pledge to Plant.md
       - Sexuality Education Programme in Xingnan Primary School.md
