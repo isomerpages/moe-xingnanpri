@@ -37,3 +37,9 @@ third_nav_title: Our People
 | **Mdm Chan Mooi**<br>Operations Support Officer 	| <img src="/images/ast16.png" style="width:50%"> 	|
 | **Mdm Sia Ah Chai**<br>Operations Support Officer 	| <img src="/images/ast17.png" style="width:50%"> 	|
 | **Mr Mohamad Ghazali Bin Shamsuddin**<br>Operations Support Officer 	| <img src="/images/ast18.png" style="width:50%"> 	|
+
+#### Other Support Staff
+
+|  	|  	|
+|---	|---	|
+| **Ms Whitney Lee** <br> Photocopy Service 	| <img src="/images/ast19.png" style="width:50%"> 	|
