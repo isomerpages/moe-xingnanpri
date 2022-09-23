@@ -2,6 +2,7 @@ collections:
   expedition:
     output: true
     order:
+      - School Publications/Amazing Encounters.md
       - School Publications/School Year Book.md
       - School Publications/90th Anniversary Celebrations.md
       - School Publications/.keep
