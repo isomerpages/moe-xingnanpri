@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Overview.md
       - Parents' Briefing Slides.md
       - Big Heart Student Care.md
       - PSLE Related Information/.keep
