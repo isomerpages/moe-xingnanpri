@@ -39,17 +39,17 @@ links:
         url: /expedition/commemorative-events/overview/
       - title: School Publications
         url: /expedition/school-publications/overview/
-  - title: Staff
-    url: /staff/overview/
+  - title: Staff and Teachers
+    url: /staff-and-teachers/overview/
     sublinks:
       - title: Overview
-        url: /staff/overview/
+        url: /staff-and-teachers/overview/
       - title: OYE Award
-        url: /staff/oye-award/
+        url: /staff-and-teachers/oye-award/
       - title: President's Award for Teachers
-        url: /staff/presidents-award-for-teachers/
+        url: /staff-and-teachers/presidents-award-for-teachers/
       - title: 2022 Teaching Awards
-        url: /staff/2022-teaching-awards/
+        url: /staff-and-teachers/2022-teaching-awards/
   - title: Parents
     url: /parents/overview/
     sublinks:
@@ -75,3 +75,16 @@ links:
         url: /parents/pledge-to-plant/
       - title: Sexuality Education Programme
         url: /parents/sexuality-education-programme/
+  - title: Students
+    url: /students/overview/
+    sublinks:
+      - title: Overview
+        url: /students/overview/
+      - title: E-Learning Day
+        url: /students/e-learning-day/
+      - title: School Library
+        url: /students/school-library/
+      - title: Let's be Safe
+        url: /students/lets-be-safe/
+      - title: Student Icon
+        url: /students/student-icon/
