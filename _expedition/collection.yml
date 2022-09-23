@@ -2,7 +2,7 @@ collections:
   expedition:
     output: true
     order:
-      - Commemorative Events/Example Title.md
+      - Commemorative Events/School Events.md
       - Commemorative Events/Festival Celebrations.md
       - Commemorative Events/.keep
       - School Publications/Overview.md
