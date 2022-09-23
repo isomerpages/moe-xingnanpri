@@ -1,4 +1,5 @@
 collections:
   expedition:
     output: true
-    order: []
+    order:
+      - School Publications/.keep
