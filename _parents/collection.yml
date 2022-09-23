@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - 2022 MOS FAS Application.md
       - 2022 Primary 1 Resource.md
       - Pledge to Plant.md
       - Sexuality Education Programme in Xingnan Primary School.md
