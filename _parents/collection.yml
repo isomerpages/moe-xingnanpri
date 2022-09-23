@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parents' Briefing Slides.md
       - Big Heart Student Care.md
       - PSLE Related Information/.keep
       - PSLE Related Information/Changes to PSLE Scoring & S1 Posting from
