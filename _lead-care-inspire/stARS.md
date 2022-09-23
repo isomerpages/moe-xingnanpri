@@ -9,7 +9,46 @@ description: ""
 
 ##### 2021 Awards - MOE Service Excellence Award (Silver)
 
+<img src="/images/stars1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Athena Choo Jia Yee**
 
+* * *
 
+<img src="/images/stars2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Huang Li Juan**
 
+* * *
 
+<img src="/images/stars3.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Jessie Tan Wee-Ai Hwa**
+
+* * *
+
+<img src="/images/stars4.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Juhariyah Bte Johari**
+
+* * *
+
+<img src="/images/stars5.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Logeshwaran Mirna**
+
+* * *
+
+<img src="/images/stars6.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm NurKamaliah Bte Yusoff**
+
+* * *
+
+<img src="/images/stars7.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Ong Li Jing**
+
+* * *
+
+<img src="/images/stars8.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Sia Chu Kwee**
+
+* * *
+
+##### Associate of Academy of Singapore Teachers (AST) Award 2021 as Facilitator of Network Learning Communities (NLCs)
+
+<img src="/images/stars9.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Abdul Wahab B Abdul Rahman**
+
+* * *
+
+##### Singapore PE Association (SPEA) Outstanding Teacher-Coach Award 2021
+
+<img src="/images/stars10.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Jason Chua Kian Seng**
+
+* * *
