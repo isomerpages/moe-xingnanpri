@@ -2,6 +2,7 @@ collections:
   expedition:
     output: true
     order:
+      - Commemorative Events/85th Anniversary Celebrations.md
       - Commemorative Events/National Events.md
       - Commemorative Events/School Events.md
       - Commemorative Events/Festival Celebrations.md
