@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Edusave Character Award 2022.md
       - 2022 MOS FAS Application.md
       - 2022 Primary 1 Resource.md
       - Pledge to Plant.md
