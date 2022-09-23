@@ -2,5 +2,6 @@ collections:
   learn-for-life:
     output: true
     order:
+      - Leaders lead Leaders.md
       - X³ Learning Years Programme.md
       - Ecostewardship.md
