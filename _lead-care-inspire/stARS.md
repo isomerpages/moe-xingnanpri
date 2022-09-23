@@ -52,3 +52,75 @@ description: ""
 <img src="/images/stars10.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Jason Chua Kian Seng**
 
 * * *
+
+#### 2020 Awards
+
+##### National Day Awards
+
+##### The Public Administration Medal, 2020 (Bronze)
+
+*    Mdm S Anitha (Vice-Principal)   
+    
+
+##### The commendation Medal, 2020
+
+*   ******Mr Abdul Wahab B Abdul Rahman******
+
+
+##### MOE Service Excellence Award (Silver)
+
+*   Chau Ailing
+
+*   Chong Yen Lian Janet
+
+*   Nur Azlindah Azlan
+
+*   Wong Shi Yuan
+
+##### Associate of Academy of Singapore Teachers (AST) Award 2020 as Facilitator of Network Learning Communities (NLCs)
+
+
+*   Mr Abdul Wahab B Abdul Rahman
+
+
+
+##### Certificate of Appreciation as a member of the Academy of Singapore Teachers (AST) Chinese Language Core Team from 2015 to 2020
+
+
+
+*   Yang Xuehui** 
+
+  
+
+#### 2019 Awards  
+
+##### MOE Service Excellence Award (Gold)
+
+*   Mr Abdul Wahab B Abdul Rahman
+
+  
+##### MOE Service Excellence Award (Silver)
+
+*   Miss A Sumathi
+
+*   Mdm Delia Ang Yen Peng
+
+*   Mdm Yang Nian
+
+
+##### Distinguished Chinese Language Teachers Awards 2019 
+
+*   Miss Lim Hui Min
+
+
+##### Associate of Academy of Singapore Teachers (AST) Award 2019
+ 
+
+*   Mr Abdul Wahab B Abdul Rahman
+
+  
+
+##### Singapore Youth Award 2019 
+ 
+
+*   Miss Francesca Phoebe Wah Li Ting
