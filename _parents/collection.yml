@@ -2,13 +2,13 @@ collections:
   parents:
     output: true
     order:
-      - PSLE Related Information/Parents Briefing for Sec 1 Posting and PSLE
-        Result Release.md
+      - PSLE Related Information/.keep
       - PSLE Related Information/Changes to PSLE Scoring & S1 Posting from
         2021.md
+      - PSLE Related Information/Parents Briefing for Sec 1 Posting and PSLE
+        Result Release.md
       - PSLE Related Information/Indicative PSLE Score Ranges for Individual
         Secondary Schools.md
-      - PSLE Related Information/.keep
       - Sale of Textbooks and Uniforms (2022).md
       - Parents Engagement Session/P2 Parent Engagement Session.md
       - Parents Engagement Session/P3 & P4 Parent Engagement Session.md
