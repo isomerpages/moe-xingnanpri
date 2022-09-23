@@ -39,3 +39,14 @@ links:
         url: /expedition/commemorative-events/overview/
       - title: School Publications
         url: /expedition/school-publications/overview/
+  - title: Staff
+    url: /staff/overview/
+    sublinks:
+      - title: Overview
+        url: /staff/overview/
+      - title: OYE Award
+        url: /staff/oye-award/
+      - title: President's Award for Teachers
+        url: /staff/presidents-award-for-teachers/
+      - title: 2022 Teaching Awards
+        url: /staff/2022-teaching-awards/
