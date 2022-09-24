@@ -71,7 +71,7 @@ Primary 3D
 
 “To be updated Soon”
 
-**[noriayati\_ishak@schools.gov.sg](mailto:noriayati_ishak@schools.gov.sg)**
+[**noriayati\_ishak@schools.gov.sg**](mailto:noriayati_ishak@schools.gov.sg)
 
 * * *
 
@@ -82,4 +82,3 @@ Primary 3D
 _"I believe that teaching is not just about teaching pupils the content but motivating them to be morally upright people with the right attitudes and skills for their future. I believe that with my passion, love and care for Xingnanians, I will be able to inspire my pupils."_
 
 [**oen\_hui\_qin@schools.gov.sg**](mailto:oen_hui_qin@schools.gov.sg)
-
