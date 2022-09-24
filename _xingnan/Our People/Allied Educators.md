@@ -27,25 +27,32 @@ School Counselor
 * * *
 
 <img src="/images/ae3.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Ms Liu Jia Mei**  
+
 Senior  Special Educational Needs Officer
 
 [liu\_jiamei@schools.gov.sg](mailto:liu_jiamei@schools.gov.sg) <br><br>
 
 * * *
 
-<img src="/images/ae4.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Janarthanaan Lakshmi** Special Educational Needs officer
+<img src="/images/ae4.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Janarthanaan Lakshmi** 
+
+Special Educational Needs officer
 
 [lakshmi\_janarthanan@schools.gov.sg](mailto:lakshmi_janarthanan@schools.gov.sg) <br><br>
 
 * * *
 
-<img src="/images/ae5.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Zhang Jingxuan** Allied Educator- Teaching and Learning (Chinese Language)
+<img src="/images/ae5.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Zhang Jingxuan** 
+
+Allied Educator- Teaching and Learning (Chinese Language)
 
 [zhang\_jing\_xuan@schools.gov.sg](mailto:zhang_jing_xuan@schools.gov.sg)<br><br>
 
 * * *
 
-<img src="/images/ae6.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm  Sharifah Insyeera Binte Nasar Ahmad** Special Educational Needs officer
+<img src="/images/ae6.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm  Sharifah Insyeera Binte Nasar Ahmad** 
+
+Special Educational Needs officer
 
  [sharifah\_insyeera\_nasar\_ahmad@schools.gov.sg](mailto:sharifah_insyeera_nasar_ahmad@schools.gov.sg)<br><br>
 
@@ -53,28 +60,37 @@ Senior  Special Educational Needs Officer
 
 #### Flexi-Adjunct Teachers
 
-Mrs Harjit Singh   
+**Mrs Harjit Singh**   
+
 Senior Teacher - Educational Support   
 Mathematics Department
 
 * * *
 
-**Mdm Flora Chew Seok May** Mathematics Department
+**Mdm Flora Chew Seok May** 
+
+Mathematics Department
 
 * * *
 
 **Mrs Soong-Ong Buang Eng**   
+
 Science Department
 
 * * *
 
 **Mr Ho Sau Ken**   
+
 Mother Tongue Department
 
 * * *
 
-**Mr Liu Lizhu** Mother Tongue Department
+**Mr Liu Lizhu** 
+
+Mother Tongue Department
 
 * * *
 
-**Mr Tan Chong Hian** Mother Tongue Department
+**Mr Tan Chong Hian** 
+
+Mother Tongue Department
