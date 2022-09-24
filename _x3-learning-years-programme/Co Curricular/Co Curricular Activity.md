@@ -4,3 +4,10 @@ permalink: /x3-learning-years-programme/Co-Curricular/cca/
 description: ""
 third_nav_title: Co Curricular
 ---
+### Co-Curricular Activity (CCA)
+
+#### Performing Arts
+
+|  	|  	|  	|  	|
+|---	|---	|---	|---	|
+|  	|  	|  	|  	|
