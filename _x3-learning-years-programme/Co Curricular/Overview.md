@@ -14,4 +14,4 @@ Participation in CCAs allows Xingnanians to grow holistically and in areas that 
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <a href="web"><img style="width:60%" src="/images/cco1.png"></a> <b>Information Communication and Digital Media (ICDM) & School Library </b>[read more](link) 	| <a href="web"><img style="width:75%" src="/images/cco2.png"></a> <b>Character and Citizenship Education (CCE) </b>[read more](link)	|  <a href="web"><img style="width:85%" src="/images/cco3.png"></a><b>Co-Curricular Activity (CCA) </b>[read more](link)	|
+| <a href="web"><img style="width:60%" src="/images/cco1.png"></a> <b>Information Communication and Digital Media (ICDM) & School Library </b><br>[read more](link) 	| <a href="web"><img style="width:75%" src="/images/cco2.png"></a> <b>Character and Citizenship Education (CCE) </b><br>[read more](link)	|  <a href="web"><img style="width:85%" src="/images/cco3.png"></a><b>Co-Curricular Activity (CCA) </b><Br>[read more](link)	|
