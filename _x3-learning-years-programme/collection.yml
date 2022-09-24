@@ -2,4 +2,5 @@ collections:
   x3-learning-years-programme:
     output: true
     order:
+      - Co Curricular/CCA Videos.md
       - Co Curricular/.keep
