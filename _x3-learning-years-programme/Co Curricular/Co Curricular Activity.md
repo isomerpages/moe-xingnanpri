@@ -15,3 +15,13 @@ third_nav_title: Co Curricular
 |  	|  	|  	|
 |---	|---	|---	|
 | <a href="web"><img style="width:65%" src="/images/cca4.png"></a> <b>Indian Dance </b><br>[read more](link) 	| <a href="web"><img style="width:55%" src="/images/cca5.png"></a> <b>International Dance </b><br>[read more](link)	|  <a href="web"><img style="width:75%" src="/images/cca6.png"></a><b>Malay Dance </b><Br>[read more](link)	|
+
+#### Clubs and Societies
+
+|  	|  	|  	|
+|---	|---	|---	|
+| <a href="web"><img style="width:75%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b><br>[read more](link) 	| <a href="web"><img style="width:65%" src="/images/cca8.png"></a> <b>Environmental Club </b><br>[read more](link)	|  <a href="web"><img style="width:65%" src="/images/cca9.png"></a><b>Scouts </b><Br>[read more](link)	|
+
+|  	|  	|  	|
+|---	|---	|---	|
+| <a href="web"><img style="width:75%" src="/images/cca10.png"></a> <b>Pottery Club </b><br>[read more](link) 	| <a href="web"><img style="width:55%" src="/images/cca11.png"></a> <b>Art Club </b><br>[read more](link)	|  <a href="web"><img style="width:75%" src="/images/cca12.png"></a><b>Infocomm Club </b><Br>[read more](link)	|
