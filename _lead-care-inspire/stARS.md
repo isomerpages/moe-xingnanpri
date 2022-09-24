@@ -9,47 +9,47 @@ description: ""
 
 ##### 2021 Awards - MOE Service Excellence Award (Silver)
 
-<img src="/images/stars1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Athena Choo Jia Yee**
+<img src="/images/stars1.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Ms Athena Choo Jia Yee** <br><br>
 
 * * *
 
-<img src="/images/stars2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Huang Li Juan**
+<img src="/images/stars2.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mrs Huang Li Juan** <br><br>
 
 * * *
 
-<img src="/images/stars3.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Jessie Tan Wee-Ai Hwa**
+<img src="/images/stars3.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mrs Jessie Tan Wee-Ai Hwa** <br><br>
 
 * * *
 
-<img src="/images/stars4.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Juhariyah Bte Johari**
+<img src="/images/stars4.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Juhariyah Bte Johari** <br><br>
 
 * * *
 
-<img src="/images/stars5.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Logeshwaran Mirna**
+<img src="/images/stars5.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Logeshwaran Mirna** <br><br>
 
 * * *
 
-<img src="/images/stars6.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm NurKamaliah Bte Yusoff**
+<img src="/images/stars6.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm NurKamaliah Bte Yusoff** <br><br>
 
 * * *
 
-<img src="/images/stars7.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Ong Li Jing**
+<img src="/images/stars7.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Miss Ong Li Jing** <br><br>
 
 * * *
 
-<img src="/images/stars8.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Sia Chu Kwee**
+<img src="/images/stars8.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Sia Chu Kwee** <br><br>
 
 * * *
 
 ##### Associate of Academy of Singapore Teachers (AST) Award 2021 as Facilitator of Network Learning Communities (NLCs)
 
-<img src="/images/stars9.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Abdul Wahab B Abdul Rahman**
+<img src="/images/stars9.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Abdul Wahab B Abdul Rahman** <br><br>
 
 * * *
 
 ##### Singapore PE Association (SPEA) Outstanding Teacher-Coach Award 2021
 
-<img src="/images/stars10.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Jason Chua Kian Seng**
+<img src="/images/stars10.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mr Jason Chua Kian Seng** <br><br>
 
 * * *
 
@@ -59,28 +59,28 @@ description: ""
 
 ##### The Public Administration Medal, 2020 (Bronze)
 
-*    Mdm S Anitha (Vice-Principal)   
+*    **Mdm S Anitha (Vice-Principal)**   
     
 
 ##### The commendation Medal, 2020
 
-*   ******Mr Abdul Wahab B Abdul Rahman******
+*   **Mr Abdul Wahab B Abdul Rahman**
 
 
 ##### MOE Service Excellence Award (Silver)
 
-*   Chau Ailing
+*   **Chau Ailing**
 
-*   Chong Yen Lian Janet
+*   **Chong Yen Lian Janet**
 
-*   Nur Azlindah Azlan
+*   **Nur Azlindah Azlan**
 
-*   Wong Shi Yuan
+*   **Wong Shi Yuan**
 
 ##### Associate of Academy of Singapore Teachers (AST) Award 2020 as Facilitator of Network Learning Communities (NLCs)
 
 
-*   Mr Abdul Wahab B Abdul Rahman
+*   **Mr Abdul Wahab B Abdul Rahman**
 
 
 
@@ -88,7 +88,7 @@ description: ""
 
 
 
-*   Yang Xuehui** 
+*   **Yang Xuehui**
 
   
 
@@ -96,31 +96,31 @@ description: ""
 
 ##### MOE Service Excellence Award (Gold)
 
-*   Mr Abdul Wahab B Abdul Rahman
+*   **Mr Abdul Wahab B Abdul Rahman**
 
   
 ##### MOE Service Excellence Award (Silver)
 
-*   Miss A Sumathi
+*   **Miss A Sumathi**
 
-*   Mdm Delia Ang Yen Peng
+*   **Mdm Delia Ang Yen Peng**
 
-*   Mdm Yang Nian
+*   **Mdm Yang Nian**
 
 
 ##### Distinguished Chinese Language Teachers Awards 2019 
 
-*   Miss Lim Hui Min
+*   **Miss Lim Hui Min**
 
 
 ##### Associate of Academy of Singapore Teachers (AST) Award 2019
  
 
-*   Mr Abdul Wahab B Abdul Rahman
+*   **Mr Abdul Wahab B Abdul Rahman**
 
   
 
 ##### Singapore Youth Award 2019 
  
 
-*   Miss Francesca Phoebe Wah Li Ting
+*   **Miss Francesca Phoebe Wah Li Ting**
