@@ -2,6 +2,7 @@ collections:
   x3-learning-years-programme:
     output: true
     order:
+      - Co Curricular/Character and Citizenship Education.md
       - Co Curricular/Co Curricular Activity.md
       - Co Curricular/CCA Videos.md
       - Co Curricular/.keep
