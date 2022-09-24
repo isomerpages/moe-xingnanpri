@@ -140,7 +140,7 @@ _"I believe that all students can and want to learn. We can foster their natura
 
 _"I believe every child can learn. It is how we empower them with learning opportunities and encourage them to try that makes a positive difference to them."_
 
-[sumitha\_sudevan@schools.gov.sg](mailto:sumitha_sudevan@schools.gov.sg)
+[**sumitha\_sudevan@schools.gov.sg**](mailto:sumitha_sudevan@schools.gov.sg)
 
 * * *
 
