@@ -21,25 +21,25 @@ third_nav_title: Our People
 
 |  	|  	|
 |---	|---	|
-| **Mr Manmeeth Singh**<br>ICT Associate / Manager 	|  <img src="/images/ast8.png" style="width:50%">	|
-| **Mr Khairil Anuar Salim**<br>Desktop Engineer 	|  <img src="/images/ast9.png" style="width:50%">	|
-| **Miss Nabilah Binte Alfian** <br> Desktop Engineer 	| <img src="/images/ast10.png" style="width:50%"> 	|
-| **Mdm N. Punnitha**<br> Media Resource Library Assistant 	|  <img src="/images/ast11.png" style="width:50%">	|
+| **Mr Manmeeth Singh**<br>ICT Associate / Manager 	|  <img src="/images/ast8.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	|
+| **Mr Khairil Anuar Salim**<br>Desktop Engineer 	|  <img src="/images/ast9.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	|
+| **Miss Nabilah Binte Alfian** <br> Desktop Engineer 	| <img src="/images/ast10.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
+| **Mdm N. Punnitha**<br> Media Resource Library Assistant 	|  <img src="/images/ast11.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	|
 
 #### Operational Support Team
 
 |  	|  	|
 |---	|---	|
-| **Mr Lim Suar Poh**<br>Operations Manager 	| <img src="/images/ast12.png" style="width:50%">[lim\_suar\_poh@schools.gov.sg](mailto:lim_suar_poh@schools.gov.sg) 	|
-| **Mr Rawi Bin Abdullah**<br>Operations Manager 	| <img src="/images/ast13.png" style="width:50%">[rawi\_abdullah@schools.gov.sg](mailto:rawi_abdullah@schools.gov.sg) 	|
-| **Mdm Low Chun Hong**<br>Operations Support Officer 	| <img src="/images/ast14.png" style="width:50%">[low\_chun\_hong@schools.gov.sg](mailto:low_chun_hong@schools.gov.sg) 	|
-| **Mr Abu Bakar Bin Aman**<br>Operations Support Officer 	| <img src="/images/ast15.png" style="width:50%"> 	|
-| **Mdm Chan Mooi**<br>Operations Support Officer 	| <img src="/images/ast16.png" style="width:50%"> 	|
-| **Mdm Sia Ah Chai**<br>Operations Support Officer 	| <img src="/images/ast17.png" style="width:50%"> 	|
-| **Mr Mohamad Ghazali Bin Shamsuddin**<br>Operations Support Officer 	| <img src="/images/ast18.png" style="width:50%"> 	|
+| **Mr Lim Suar Poh**<br>Operations Manager<br><br>[lim\_suar\_poh@schools.gov.sg](mailto:lim_suar_poh@schools.gov.sg) 	| <img src="/images/ast12.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
+| **Mr Rawi Bin Abdullah**<br>Operations Manager<br><br>[rawi\_abdullah@schools.gov.sg](mailto:rawi_abdullah@schools.gov.sg) 	| <img src="/images/ast13.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
+| **Mdm Low Chun Hong**<br>Operations Support Officer <br><br>[low\_chun\_hong@schools.gov.sg](mailto:low_chun_hong@schools.gov.sg)	| <img src="/images/ast14.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
+| **Mr Abu Bakar Bin Aman**<br>Operations Support Officer 	| <img src="/images/ast15.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
+| **Mdm Chan Mooi**<br>Operations Support Officer 	| <img src="/images/ast16.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
+| **Mdm Sia Ah Chai**<br>Operations Support Officer 	| <img src="/images/ast17.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
+| **Mr Mohamad Ghazali Bin Shamsuddin**<br>Operations Support Officer 	| <img src="/images/ast18.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
 
 #### Other Support Staff
 
 |  	|  	|
 |---	|---	|
-| **Ms Whitney Lee** <br> Photocopy Service 	| <img src="/images/ast19.png" style="width:50%"> 	|
+| **Ms Whitney Lee** <br> Photocopy Service 	| <img src="/images/ast19.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
