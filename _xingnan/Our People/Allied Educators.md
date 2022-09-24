@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Allied Educators
 
-<img src="/images/ae1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Goh Soo Geem**
+<img src="/images/ae1.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mrs Goh Soo Geem**
 
 School Counselor - Part time
 
@@ -15,7 +15,7 @@ School Counselor - Part time
 
 * * *
 
-<img src="/images/ae2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+<img src="/images/ae2.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
 
 **Miss Nur Rahmah Binte Ja'afar**
 
@@ -26,26 +26,26 @@ School Counselor
 
 * * *
 
-<img src="/images/ae3.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Liu Jia Mei**  
+<img src="/images/ae3.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Ms Liu Jia Mei**  
 Senior  Special Educational Needs Officer
 
 [liu\_jiamei@schools.gov.sg](mailto:liu_jiamei@schools.gov.sg) <br><br>
 
 * * *
 
-<img src="/images/ae4.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Janarthanaan Lakshmi** Special Educational Needs officer
+<img src="/images/ae4.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Janarthanaan Lakshmi** Special Educational Needs officer
 
 [lakshmi\_janarthanan@schools.gov.sg](mailto:lakshmi_janarthanan@schools.gov.sg) <br><br>
 
 * * *
 
-<img src="/images/ae5.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Zhang Jingxuan** Allied Educator- Teaching and Learning (Chinese Language)
+<img src="/images/ae5.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Zhang Jingxuan** Allied Educator- Teaching and Learning (Chinese Language)
 
 [zhang\_jing\_xuan@schools.gov.sg](mailto:zhang_jing_xuan@schools.gov.sg)<br><br>
 
 * * *
 
-<img src="/images/ae6.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm  Sharifah Insyeera Binte Nasar Ahmad** Special Educational Needs officer
+<img src="/images/ae6.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm  Sharifah Insyeera Binte Nasar Ahmad** Special Educational Needs officer
 
  [sharifah\_insyeera\_nasar\_ahmad@schools.gov.sg](mailto:sharifah_insyeera_nasar_ahmad@schools.gov.sg)<br><br>
 
