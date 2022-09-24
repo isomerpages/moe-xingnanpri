@@ -5,7 +5,7 @@ description: ""
 ---
 ### P2 Teachers
 
-<img src="/images/ft22.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Norain Bte Bakadool**
+<img src="/images/ft22.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Norain Bte Bakadool**
 
 Primary 2A
 
@@ -17,7 +17,7 @@ _"Hearts on. Minds on. Hands-on"_
 
 * * *
 
-<img src="/images/ft23.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Miss Denise Yap**
+<img src="/images/ft23.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Denise Yap**
 
 Primary 2A
 
@@ -28,7 +28,7 @@ _"I believe in developing positive relationship with my students. As pupils spen
 
 * * *
 
-<img src="/images/ft24.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Miss Lim Pei Gen**
+<img src="/images/ft24.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Lim Pei Gen**
 
 Primary 2B
 
@@ -38,7 +38,7 @@ _"I believe that enthusiasm is contagious. As an educator, I need to model inter
 
 * * *
 
-<img src="/images/ft25.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Noratiqah Binti Talib**
+<img src="/images/ft25.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Noratiqah Binti Talib**
 
 Primary 2B
 
@@ -50,7 +50,7 @@ _"Art teachers mould students to become creative, inquisitive, flexible & tenaci
 
 * * *
 
-<img src="/images/ft26.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mr Pierre E**
+<img src="/images/ft26.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Pierre E**
 
 Primary 2C
 
@@ -60,7 +60,7 @@ _"Children are capable of more than we think, sometimes even more than they them
 
 * * *
 
-<img src="/images/ft27.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Ms Salini A/P Baloh** 
+<img src="/images/ft27.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Salini A/P Baloh** 
 
 Primary 2C
 
@@ -71,7 +71,7 @@ _"I believe that every child is unique and has something special that he/she can
 
 * * *
 
-<img src="/images/ft28.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Rafizah Bte Rahman**  
+<img src="/images/ft28.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Rafizah Bte Rahman**  
 
 Primary 2D
 
@@ -81,7 +81,7 @@ _"Every child has his strength waiting to be discovered."_
 
 * * *
 
-<img src="/images/ft29.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mr Skye Gan Soon Keat**
+<img src="/images/ft29.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Skye Gan Soon Keat**
 
 Primary 2D
 
@@ -91,7 +91,7 @@ _"Teaching is not hard work, it's HeartWork. I teach like how I would like to be
 
 * * *
 
-<img src="/images/ft30.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/ft30.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
 
 Primary 2E
 
@@ -101,7 +101,7 @@ _"I believe that every child can be taught and nurtured through education."_
 
 * * *
 
-<img src="/images/ft31.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Nur Syahida Bte Paiman**
+<img src="/images/ft31.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Syahida Bte Paiman**
 
 Primary 2E
 
@@ -111,7 +111,7 @@ _"Every child has his or her strength. It is the teachers' duty to discover that
 
 * * *
 
-<img src="/images/ft32.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Maslinda Bte Abd Wahab**
+<img src="/images/ft32.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Maslinda Bte Abd Wahab**
 
 Primary 2F
 
@@ -121,7 +121,7 @@ _"Every child is a star in its own light!"_
 
 * * *
 
-<img src="/images/ft33.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Miss Ong Xiao Hui**
+<img src="/images/ft33.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Ong Xiao Hui**
 
 Primary 2F
 
@@ -131,7 +131,7 @@ _"There's no definition of normal."_
 
 * * *
 
-<img src="/images/ft34.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Chia Tzu Lin (Mrs Low)**
+<img src="/images/ft34.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Chia Tzu Lin (Mrs Low)**
 
 Primary 2G
 
@@ -141,7 +141,7 @@ _"Children need to be challenged. They need to solve hard problems and develop v
 
 * * *
 
-<img src="/images/ft35.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mr Wong Shui Zhu** 
+<img src="/images/ft35.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Wong Shui Zhu** 
 
 Primary 2G
 
