@@ -4,3 +4,6 @@ permalink: /x3-learning-years-programme/Co-Curricular/infomation-communication-a
 description: ""
 third_nav_title: Co Curricular
 ---
+### Information Communication and Digital Media & School Library
+
+<img src="/images/icdm1.png" style="width:80%">
