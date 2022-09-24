@@ -1,4 +1,5 @@
 collections:
   x3-learning-years-programme:
     output: true
-    order: []
+    order:
+      - Co Curricular/.keep
