@@ -91,7 +91,7 @@ Primary 6D
 
 _“To be updated soon”_
 
-[daniel\_balhetchet@schools.edu.sg](mailto:daniel_balhetchet@schools.edu.sg)
+[**daniel\_balhetchet@schools.edu.sg**](mailto:daniel_balhetchet@schools.edu.sg)
 
 * * *
 
