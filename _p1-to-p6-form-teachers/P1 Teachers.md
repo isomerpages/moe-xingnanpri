@@ -5,7 +5,7 @@ description: ""
 ---
 ### P1 Teachers
 
-<img src="/images/ft1.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/ft1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
 
 Primary 1A
 
@@ -15,7 +15,7 @@ _"Every child deserves to be acknowledged and every learner_ _deserves to be ed
 
 * * *
 
-<img src="/images/ft2.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Nur Hidayah Bte Suhardjono**
+<img src="/images/ft2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Hidayah Bte Suhardjono**
 
 Primary 1B
 
@@ -25,7 +25,7 @@ _"Teaching and learning is always occurring. Children have the ability to empowe
 
 * * *
 
-<img src="/images/ft3.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Yuan Quan**
+<img src="/images/ft3.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Yuan Quan**
 
 Primary 1B
 
@@ -35,7 +35,7 @@ _"To be updated soon"_
 
 * * *
 
-<img src="/images/ft4.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Miss Khoo Chun Mei**
+<img src="/images/ft4.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Khoo Chun Mei**
 
 Primary 1C
 
@@ -45,7 +45,7 @@ _"To be updated soon"_
 
 * * *
 
-<img src="/images/ft5.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mrs Mok Song Imm**
+<img src="/images/ft5.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Mok Song Imm**
 
 Primary 1C
 
@@ -55,7 +55,7 @@ _“Meaningful learning occurs when students are allowed to confront real proble
 
 * * *
 
-<img src="/images/ft6.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Jamilah Binte Rahim**
+<img src="/images/ft6.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Jamilah Binte Rahim**
 
 Primary 1C
 
@@ -65,7 +65,7 @@ _"Every child is special and has the potential to soar to greater heights."_
 
 * * *
 
-<img src="/images/ft7.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Ms Piragatheeswari D/O Sigamani**
+<img src="/images/ft7.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Piragatheeswari D/O Sigamani**
 
 Primary 1D
 
@@ -75,7 +75,7 @@ _"Our children are our future. I believe by nurturing their character and knowle
 
 * * *
 
-<img src="/images/ft8.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Wong Shi Yuan**
+<img src="/images/ft8.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Wong Shi Yuan**
 
 Primary 1D
 
@@ -84,7 +84,7 @@ _"教学是种分享，分享我对美术和华文的爱。"_
 [**wong\_shiyuan@schools.gov.sg**](mailto:wong_shiyuan@schools.gov.sg)
 * * *
 
-<img src="/images/ft9.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Nurkamaliah Bte Yusoff**
+<img src="/images/ft9.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nurkamaliah Bte Yusoff**
 
 Primary 1E
 
@@ -94,7 +94,7 @@ _"To teach is not to merely deliver facts and knowledge but to help children dev
 
 * * *
 
-<img src="/images/ft10.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Ho Seow Lee**
+<img src="/images/ft10.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Ho Seow Lee**
 
 Primary 1E
 
@@ -104,7 +104,7 @@ _"教师，是播撒知识的种子，传递文明火炬的使者"_
 
 * * *
 
-<img src="/images/ft11.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mr Shankar Ganesh S/O Balakrishna**
+<img src="/images/ft11.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Shankar Ganesh S/O Balakrishna**
 
 Primary 1F
 
@@ -114,7 +114,7 @@ _"Every child deserves equal treatment and no one should be left behind in the l
 
 * * *
 
-<img src="/images/ft12.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mrs Tan Hui Min**
+<img src="/images/ft12.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Tan Hui Min**
 
 Primary 1F
 
@@ -124,7 +124,7 @@ _"我相信认真快乐的老师能营造快乐愉悦的学习环境和气氛，
 
 * * *
 
-<img src="/images/ft13.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Delia Ang Yen Peng**
+<img src="/images/ft13.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Delia Ang Yen Peng**
 
 Primary 1G
 
@@ -134,7 +134,7 @@ _"I believe that all students can and want to learn. We can foster their natura
 
 * * *
 
-<img src="/images/ft14.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Sumitha D/O Sudevan**
+<img src="/images/ft14.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Sumitha D/O Sudevan**
 
  Primary 1G
 
@@ -144,7 +144,7 @@ _"I believe every child can learn. It is how we empower them with learning oppor
 
 * * *
 
-<img src="/images/ft15.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mr Muhammad Hilmi Bin Mohamad Salim**
+<img src="/images/ft15.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Muhammad Hilmi Bin Mohamad Salim**
 
 Primary 1G  
 
@@ -154,7 +154,7 @@ Primary 1G
 
 * * *
 
-<img src="/images/ft16.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Ms Nur Millah Bte Rasimin**
+<img src="/images/ft16.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Millah Bte Rasimin**
 
 Primary 1H
 
@@ -164,7 +164,7 @@ _"The best kind of teacher is one who commands respect and love from her student
 
 * * *
 
-<img src="/images/ft17.png" style="width:200px;height:200px;margin-left:15px;" align = "right">**Mrs Athena Choo Jia Yee**
+<img src="/images/ft17.png" style="width:240px;height:240px;margin-left:15px;" align = "right">**Mrs Athena Choo Jia Yee**
 
 Primary 1H
 
@@ -176,7 +176,7 @@ _"Every student can learn, just not on the same day, or the same way." - George 
 
 * * *
 
-<img src="/images/ft18.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Tang Lai Peng**
+<img src="/images/ft18.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tang Lai Peng**
 
 Primary 1I
 
@@ -186,7 +186,7 @@ _"I believe that it is important for every child to experience joy and love for 
 
 * * *
 
-<img src="/images/ft19.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mr Vincent Arokia Dass S/O T**
+<img src="/images/ft19.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Vincent Arokia Dass S/O T**
 
 Primary 1I
 
@@ -196,7 +196,7 @@ _"To be updated soon"_
 
 * * *
 
-<img src="/images/ft20.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mrs Sulastri Ryanti Khan**
+<img src="/images/ft20.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Sulastri Ryanti Khan**
 
 Primary 1J  
   
@@ -206,7 +206,7 @@ _"Every child deserves a hero – an adult who will never give up on them no mat
 
 * * *
 
-<img src="/images/ft21.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Miss Lim Jingle**
+<img src="/images/ft21.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Lim Jingle**
 
 Primary 1J
 
