@@ -2,6 +2,8 @@ collections:
   x3-learning-years-programme:
     output: true
     order:
+      - Co Curricular/Information Communication and Digital Media & School
+        Library.md
       - Co Curricular/Character and Citizenship Education.md
       - Co Curricular/Co Curricular Activity.md
       - Co Curricular/CCA Videos.md
