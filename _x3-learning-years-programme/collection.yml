@@ -2,6 +2,7 @@ collections:
   x3-learning-years-programme:
     output: true
     order:
+      - Curricular/PE, Art and Music.md
       - Curricular/.keep
       - Co Curricular/Information Communication and Digital Media & School
         Library.md
