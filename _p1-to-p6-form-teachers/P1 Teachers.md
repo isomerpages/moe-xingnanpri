@@ -31,7 +31,7 @@ Primary 1B
 
 _"To be updated soon"_
 
- **[yuan\_quan\_a@schools.gov.sg](mailto:yuan_quan_a@schools.gov.sg)**
+ [**yuan\_quan\_a@schools.gov.sg**](mailto:yuan_quan_a@schools.gov.sg)
 
 * * *
 
