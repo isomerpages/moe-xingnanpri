@@ -5,74 +5,61 @@ description: ""
 ---
 ### P4 Teachers
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
+
+* * *
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
 
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
-
-* * *
-
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
-
-* * *
-
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
-
-* * *
-
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
-
-* * *
-
-<img src="/images/ft.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+<img src="/images/ft.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> 
 
 * * *
