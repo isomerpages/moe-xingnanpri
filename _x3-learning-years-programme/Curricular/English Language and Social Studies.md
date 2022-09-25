@@ -4,12 +4,14 @@ permalink: /x3-learning-years-programme/Curricular/english-language-and-social-s
 description: ""
 third_nav_title: Curricular
 ---
+### English Language and Social Studies
+
 <ul class="jekyllcodex_accordion">
 <li>
 
 <input type="checkbox" id="accordion1">
 
-<label for="accordion1">Thailand</label>
+<label for="accordion1">English</label>
 
 <div>
 
@@ -22,7 +24,7 @@ third_nav_title: Curricular
 
 <input type="checkbox" id="accordion2">
 
-<label for="accordion2">Russia </label>
+<label for="accordion2">Support Programmes </label>
  <div>
 
 <p> text </p>
@@ -35,7 +37,7 @@ third_nav_title: Curricular
 
     <input type="checkbox" id="accordion3">
 
-<label for="accordion3">tttt</label>
+<label for="accordion3">Spelling in Xingnan Primary</label>
 
 <div>
 
@@ -49,7 +51,7 @@ third_nav_title: Curricular
 
 <input type="checkbox" id="accordion4">
 
-<label for="accordion4">title</label>
+<label for="accordion4">SGEMIX</label>
 
     <div>
 
@@ -64,7 +66,7 @@ third_nav_title: Curricular
 
 <input type="checkbox" id="accordion5">
 
-<label for="accordion5"> title</label>
+<label for="accordion5"> Social Studies</label>
 
 <div>
 
