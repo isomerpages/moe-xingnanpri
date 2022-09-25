@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Curricular/pictures.md
       - Curricular/Overview.md
       - Curricular/English Language and Social Studies.md
       - Curricular/Mathematics.md
