@@ -12,24 +12,24 @@ third_nav_title: Co Curricular
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <figure><a href="web"><img style="width:95%" src="/images/cca1.png"></a><b>Brass Band</b></figure>| <figure><a href="web"><img style="width:95%" src="/images/cca2.png"></a><b> Chinese Dance</b></figure>|  <figure><a href="web"><img style="width:95%" src="/images/cca3.png"></a><b>Diabolo </b></figure>	|
+| <figure><a href="web"><img style="width:103%" src="/images/cca1.png"></a><b>Brass Band</b></figure>| <figure><a href="web"><img style="width:95%" src="/images/cca2.png"></a><b> Chinese Dance</b></figure>|  <figure><a href="web"><img style="width:95%" src="/images/cca3.png"></a><b>Diabolo </b></figure>	|
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <figure><a href="web"><img style="width:90%" src="/images/cca4.png"></a> <b>Indian Dance </b></figure>	| <figure><a href="web"><img style="width:85%" src="/images/cca5.png"></a> <b>International Dance </b></figure><br>	|  <figure><a href="web"><img style="width:105%" src="/images/cca6.png"></a><b>Malay Dance </b></figure><Br>	|
+| <figure><a href="web"><img style="width:98%" src="/images/cca4.png"></a> <b>Indian Dance </b></figure>	| <figure><a href="web"><img style="width:80%" src="/images/cca5.png"></a> <b>International Dance </b></figure><br>	|  <figure><a href="web"><img style="width:105%" src="/images/cca6.png"></a><b>Malay Dance </b></figure><Br>	|
 
 #### Clubs and Societies
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <a href="web"><img style="width:95%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b>	| <a href="web"><img style="width:95%" src="/images/cca8.png"></a> <b>Environmental Club </b>	|  <a href="web"><img style="width:95%" src="/images/cca9.png"></a><b>Scouts </b>	|
+| <a href="web"><img style="width:65%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b>	| <a href="web"><img style="width:65%" src="/images/cca8.png"></a> <b>Environmental Club </b>	|  <a href="web"><img style="width:75%" src="/images/cca9.png"></a><b>Scouts </b>	|
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <a href="web"><img style="width:95%" src="/images/cca10.png"></a> <b>Pottery Club </b><br>	| <a href="web"><img style="width:95%" src="/images/cca11.png"></a> <b>Art Club </b><br>|  <a href="web"><img style="width:95%" src="/images/cca12.png"></a><b>Infocomm Club </b><Br>|
+| <a href="web"><img style="width:65%" src="/images/cca10.png"></a> <b>Pottery Club </b><br>	| <a href="web"><img style="width:65%" src="/images/cca11.png"></a> <b>Art Club </b><br>|  <a href="web"><img style="width:65%" src="/images/cca12.png"></a><b>Infocomm Club </b><Br>|
 
 #### Sports and Games
 
 |  	|  	|  	|  	|
 |---	|---	|---	|---	|
-| <a href="web"><img style="width:95%" src="/images/cca13.png"></a> <b>Badminton </b><br> 	| <a href="web"><img style="width:120%" src="/images/cca14.png"></a> <b>Soccer </b><br>	| <a href="web"><img style="width:95%" src="/images/cca15.png"></a> <b>Basketball </b><br>	| <a href="web"><img style="width:110%" src="/images/cca16.png"></a> <b>Volleyball </b><br>	|
+| <a href="web"><img style="width:88%" src="/images/cca13.png"></a> <b>Badminton </b><br> 	| <a href="web"><img style="width:120%" src="/images/cca14.png"></a> <b>Soccer </b><br>	| <a href="web"><img style="width:88%" src="/images/cca15.png"></a> <b>Basketball </b><br>	| <a href="web"><img style="width:100%" src="/images/cca16.png"></a> <b>Volleyball </b><br>	|
