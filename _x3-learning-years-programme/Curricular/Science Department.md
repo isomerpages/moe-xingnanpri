@@ -56,16 +56,12 @@ third_nav_title: Curricular
 <p>text
 			</p>
 
-  </div>
+	
+	    </div>
 
 </li>
 	
-<li>
+	
 
-<input type="checkbox" id="accordion5">
-
-<label for="accordion5"> Social Studies</label>
-
-<div>
-
-<p> text</p>
+	
+</ul>
