@@ -6,15 +6,17 @@ third_nav_title: Co Curricular
 ---
 ### Co-Curricular Activity (CCA)
 
+**Click on the image to read more!**
+
 #### Performing Arts
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <figure><a href="web"><img style="width:75%" src="/images/cca1.png"></a>Brass Band</figure><br>[read more](link) 	| <a href="web"><img style="width:65%" src="/images/cca2.png"></a> Chinese Dance<br>[read more](link)	|  <a href="web"><img style="width:85%" src="/images/cca3.png"></a><b>Diabolo </b><Br>[read more](link)	|
+| <figure><a href="web"><img style="width:75%" src="/images/cca1.png"></a><b>Brass Band</b></figure>| <figure><a href="web"><img style="width:65%" src="/images/cca2.png"></a><b> Chinese Dance</b></figure>|  <figure><a href="web"><img style="width:85%" src="/images/cca3.png"></a><b>Diabolo </b></figure>	|
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <a href="web"><img style="width:65%" src="/images/cca4.png"></a> <b>Indian Dance </b><br>[read more](link) 	| <a href="web"><img style="width:55%" src="/images/cca5.png"></a> <b>International Dance </b><br>[read more](link)	|  <a href="web"><img style="width:75%" src="/images/cca6.png"></a><b>Malay Dance </b><Br>[read more](link)	|
+| <figure><a href="web"><img style="width:65%" src="/images/cca4.png"></a> <b>Indian Dance </b></figure>	| <figure><a href="web"><img style="width:55%" src="/images/cca5.png"></a> <b>International Dance </b></figure><br>	|  <figure><a href="web"><img style="width:75%" src="/images/cca6.png"></a><b>Malay Dance </b></figure><Br>	|
 
 #### Clubs and Societies
 
