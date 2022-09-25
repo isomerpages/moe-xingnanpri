@@ -10,7 +10,7 @@ third_nav_title: Co Curricular
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <figure><a href="web"><img style="width:75%" src="/images/cca1.png"></a> <figcaption> Brass Band</figcaption></figure><br>[read more](link) 	| <a href="web"><img style="width:65%" src="/images/cca2.png"></a> <figcaption> Chinese Dance</figcaption><br>[read more](link)	|  <a href="web"><img style="width:65%" src="/images/cca3.png"></a><b>Diabolo </b><Br>[read more](link)	|
+| <figure><a href="web"><img style="width:75%" src="/images/cca1.png"></a><figcaption>Brass Band</figcaption></figure><br>[read more](link) 	| <a href="web"><img style="width:65%" src="/images/cca2.png"></a><figcaption> Chinese Dance</figcaption><br>[read more](link)	|  <a href="web"><img style="width:85%" src="/images/cca3.png"></a><b>Diabolo </b><Br>[read more](link)	|
 
 |  	|  	|  	|
 |---	|---	|---	|
@@ -30,4 +30,4 @@ third_nav_title: Co Curricular
 
 |  	|  	|  	|  	|
 |---	|---	|---	|---	|
-| <a href="web"><img style="width:95%" src="/images/cca13.png"></a> <b>Badminton </b><br>[read more](link) 	| <a href="web"><img style="width:95%" src="/images/cca14.png"></a> <b>Soccer </b><br>[read more](link) 	| <a href="web"><img style="width:95%" src="/images/cca15.png"></a> <b>Basketball </b><br>[read more](link) 	| <a href="web"><img style="width:95%" src="/images/cca16.png"></a> <b>Volleyball </b><br>[read more](link) 	|
+| <a href="web"><img style="width:95%" src="/images/cca13.png"></a> <b>Badminton </b><br>[read more](link) 	| <a href="web"><img style="width:95%" src="/images/cca14.png"></a> <b>Soccer </b><br>[read more](link) 	| <a href="web"><img style="width:110%" src="/images/cca15.png"></a> <b>Basketball </b><br>[read more](link) 	| <a href="web"><img style="width:95%" src="/images/cca16.png"></a> <b>Volleyball </b><br>[read more](link) 	|
