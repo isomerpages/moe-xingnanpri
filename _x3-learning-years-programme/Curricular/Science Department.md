@@ -66,7 +66,13 @@ Our Science department aims to nurture Xingnanians to be self-directed learners,
 
     <div>
 
-<p>text
+<p><img src="/images/sbp.gif" style="width:290px;height:180px;margin-right:30px;" align = "left">In 2020, Erik Pasquale from 4A, Phan Thu Linh from 4B, and Janice Wong Xin Yi from 4D represented Xingnan Primary School in the Science Buskers Festival 2020 organised by Singapore Science Centre. This event aims to promote the learning of Science in an engaging way as well as the generating of interest in creative Science communications and expressions.  
+  
+Due to Covid-19, Science Buskers Festival was conducted online. Participants had to submit their online videos instead of busking together with their peers in front of the judges. Erik, Thu Linh, and Janice came up with ideas for their videos with the help of their parents and teachers before filming individually at home. All of them put in a lot of effort in conducting their experiments multiple times and learning to edit their own videos.  
+  
+Xingnan Primary School is proud to announce that Phan Thu Linh from 4B has won the Judges’ Choice Award this year! She was also featured in the student publication Thumbs Up section in Lianhe Zaobao. You can read the article <a href="https://www.zbschools.sg/news/local/stories-16621">here</a>.  
+  
+Congratulations, Thu Linh! We would also like to take this opportunity to commend Erik and Janice for their wonderful effort! Well done, Xingnanians!
 			</p>
 
 	
