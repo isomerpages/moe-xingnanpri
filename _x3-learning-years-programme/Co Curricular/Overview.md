@@ -12,6 +12,8 @@ A variety of CCAs in performing arts, sports as well as clubs and societies are 
   
 Participation in CCAs allows Xingnanians to grow holistically and in areas that they are passionate about. It is also a platform for pupils to develop leadership qualities and important social skills that are critical for the 21st century.
 
+**Click on the image to read more!**
+
 |  	|  	|  	|
 |---	|---	|---	|
-| <a href="web"><img style="width:66%" src="/images/cco1.png"></a> <b>Information Communication and Digital Media (ICDM) & School Library </b><br>[read more](link) 	| <a href="web"><img style="width:75%" src="/images/cco2.png"></a> <b>Character and Citizenship Education (CCE) </b><br>[read more](link)	|  <a href="web"><img style="width:80%" src="/images/cco3.png"></a><b>Co-Curricular Activity (CCA) </b><Br>[read more](link)	|
+| <figure><a href="web"><img style="width:66%" src="/images/cco1.png"></a> <b>Information Communication and Digital Media (ICDM) & School Library </b></figure><br>	| <figure><a href="web"><img style="width:75%" src="/images/cco2.png"></a> <b>Character and Citizenship Education (CCE) </b></figure><br>	|  <figure><a href="web"><img style="width:80%" src="/images/cco3.png"></a><b>Co-Curricular Activity (CCA) </b></figure>	|
