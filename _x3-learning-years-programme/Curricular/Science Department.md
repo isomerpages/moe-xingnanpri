@@ -34,7 +34,13 @@ The Science Buskers Festival is an annual event. Organised by A*STAR and Science
 
 *   Curate meaningful learning experiences to foster seamless connections between Math and Science. This programme is also linked to our XCITE curriculum. <br>
 *   Provide hands-on learning experiences and draw meaningful connections with real-world applications. This programme is also linked to our XTEND curriculum. <br>
-*   Gain problem-solving skills, exploratory learning, and critical thinking that go hand-in-hand with the two subjects. This programme is also linked to our XPLORE curriculum.
+*   Gain problem-solving skills, exploratory learning, and critical thinking that go hand-in-hand with the two subjects. This programme is also linked to our XPLORE curriculum. <br><br> <b> Science Centre Enrichment Lesson</b> <br><br> Put slides here. <br><br> As part of our school’s Science enrichment programme, the Primary 6 pupils went for an enrichment course at the Science Centre. It will be a platform for our pupils to extend their learning of Science beyond the textbook and classroom. The objectives of the programme are for the pupils to: <br><br>
+
+\-Observe and identify the different organisms found in a pond. <Br>
+
+\-Understand the different adaptation of the plants and animals found in a pond. <br>
+
+\-Identify the roles of various organisms in a food chain and food web.
 </p>
 
 </div>
