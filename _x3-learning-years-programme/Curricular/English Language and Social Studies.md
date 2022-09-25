@@ -15,7 +15,9 @@ third_nav_title: Curricular
 
 <div>
 
-<p> text</p>
+<p> <img src="/images/elss1.png" style="width:60%"><img src="/images/elss2.png" style="width:60%">
+	<img src="/images/elss3.png" style="width:60%">
+	<img src="/images/elss4.png" style="width:60%">
 
 </div>
 
@@ -27,7 +29,7 @@ third_nav_title: Curricular
 <label for="accordion2">Support Programmes </label>
  <div>
 
-<p> text </p>
+<p> <img src="/images/elss5.png" style="width:60%"></p>
 
     </div>
 
@@ -41,7 +43,7 @@ third_nav_title: Curricular
 
 <div>
 
-<p>text </p>
+<p><img src="/images/elss6.png" style="width:60%"> </p>
 
     </div>
 
@@ -55,7 +57,7 @@ third_nav_title: Curricular
 
     <div>
 
-<p>text
+<p><img src="/images/elss7.png" style="width:60%">
 			</p>
 
   </div>
@@ -70,7 +72,7 @@ third_nav_title: Curricular
 
 <div>
 
-<p> text</p>
+<p> <img src="/images/elss8.png" style="width:60%"></p>
 	
 	    </div>
 
