@@ -19,9 +19,7 @@ third_nav_title: Curricular
 	<img src="/images/elss3.png" style="width:60%">
 	<img src="/images/elss4.png" style="width:60%">
 
-</div>
 
-</li>
 <li>
 
 <input type="checkbox" id="accordion2">
@@ -81,4 +79,3 @@ third_nav_title: Curricular
 	
 
 	
-</ul>
