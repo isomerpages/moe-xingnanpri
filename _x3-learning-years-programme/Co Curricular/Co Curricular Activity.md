@@ -10,7 +10,7 @@ third_nav_title: Co Curricular
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <a href="web"><img style="width:75%" src="/images/cca1.png"></a> <b>Brass Band </b><br>[read more](link) 	| <a href="web"><img style="width:65%" src="/images/cca2.png"></a> <b>Chinese Dance </b><br>[read more](link)	|  <a href="web"><img style="width:65%" src="/images/cca3.png"></a><b>Diabolo </b><Br>[read more](link)	|
+| <figure><a href="web"><img style="width:75%" src="/images/cca1.png"></a> <figcaption> Brass Band</figcaption></figure><br>[read more](link) 	| <a href="web"><img style="width:65%" src="/images/cca2.png"></a> <figcaption> Chinese Dance</figcaption><br>[read more](link)	|  <a href="web"><img style="width:65%" src="/images/cca3.png"></a><b>Diabolo </b><Br>[read more](link)	|
 
 |  	|  	|  	|
 |---	|---	|---	|
@@ -20,7 +20,7 @@ third_nav_title: Co Curricular
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <a href="web"><img style="width:65%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b><br>[read more](link) 	| <a href="web"><img style="width:60%" src="/images/cca8.png"></a> <b>Environmental Club </b><br>[read more](link)	|  <a href="web"><img style="width:95%" src="/images/cca9.png"></a><b>Scouts </b><Br>[read more](link)	|
+| <a href="web"><img style="width:65%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b><br>[read more](link) 	| <a href="web"><img style="width:60%" src="/images/cca8.png"></a> <b>Environmental Club </b><br>[read more](link)	|  <a href="web"><img style="width:75%" src="/images/cca9.png"></a><b>Scouts </b><Br>[read more](link)	|
 
 |  	|  	|  	|
 |---	|---	|---	|
