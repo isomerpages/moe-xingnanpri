@@ -36,7 +36,7 @@ Our Science department aims to nurture Xingnanians to be self-directed learners,
 <label for="accordion2">Junior Science Whiz Challenge </label>
  <div>
 
-<p> text </p>
+<p> Include missing images here. <br><br>Two teams participated in the 2021 Junior Science Whiz Challenge which was jointly organised by West Zone Centre of Excellence and Technology (WZCOE) @ River Valley High School and RV Science Leaders Academy. The challenge was conducted via Zoom online. Participants first went through the individual MCQ Round and then the Stage Round in teams. Jin Zi Jie from 6A did well and came in 21st place in the individual MCQ Round. He was awarded a Certificate of Achievement and a $5 Popular Gift Voucher. Although both teams did not manage to get into the Stage Round to compete with the other school teams, our pupils had gained valuable learning experience from the challenge.</p>
 
     </div>
 
@@ -50,7 +50,9 @@ Our Science department aims to nurture Xingnanians to be self-directed learners,
 
 <div>
 
-<p>text </p>
+<p><img src="/images/e2k1.png" style="width:220px;height:190px;margin-left:15px;" align = "right"> </p> Excellence 2000 (E2K) Science – Sharing Good Practices In collaboration with Juying Primary School, two of our Science Teachers, Mdm Sumitha and Mr Benjamin Wong, conducted an e-sharing session of the Excellence 2000 (E2K) Science Programme. Organised by the Gifted Education Branch in MOE, the e-sharing session is part of the professional development of E2K teachers in the fraternity. Teachers from Juying Primary School and Xingnan Primary School presented their insights, challenges and learning during this meaningful collaboration since 2019. <br><br> 
+	
+<img src="/images/e2k2.png" style="width:60%">
 
     </div>
 
