@@ -41,3 +41,71 @@ third_nav_title: Co Curricular
 <iframe width="429" height="241" src="https://www.youtube.com/embed/BLiOTPGwIfQ" title="Environmental Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Frequently Asked Questions
+
+<ul class="jekyllcodex_accordion">
+<li>
+
+<input type="checkbox" id="accordion1">
+
+<label for="accordion1">1. Is it compulsory to join a CCA in Primary School?</label>
+
+<div>
+
+<p> CCA is strongly encouraged at Primary School. CCA plays a key role in students' holistic education. Through CCA, students can develop character, learn values, social emotional competencies and skills to prepare them for future challenges. Participation in CCA fosters social integration and deepens our students' sense of belonging. Therefore, we strongly encourage all students to enrol in at least one CCA in the school.
+
+
+<li>
+
+<input type="checkbox" id="accordion2">
+
+<label for="accordion2">Support Programmes </label>
+ <div>
+
+<p> <img src="/images/elss5.png" style="width:60%"></p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion3">
+
+<label for="accordion3">Spelling in Xingnan Primary</label>
+
+<div>
+
+<p><img src="/images/elss6.png" style="width:60%"> </p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+<input type="checkbox" id="accordion4">
+
+<label for="accordion4">SGEMIX</label>
+
+    <div>
+
+<p><img src="/images/elss7.png" style="width:60%">
+			</p>
+
+  </div>
+
+</li>
+	
+<li>
+
+<input type="checkbox" id="accordion5">
+
+<label for="accordion5"> Social Studies</label>
+
+<div>
+
+<p> <img src="/images/elss8.png" style="width:60%"></p>
+	
+	    </div>
+
+</li>
