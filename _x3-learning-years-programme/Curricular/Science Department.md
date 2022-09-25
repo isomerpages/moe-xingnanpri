@@ -26,6 +26,15 @@ Our Science department aims to nurture Xingnanians to be self-directed learners,
 <b>Junior Science Whiz Challenge </b> <br><br> <img src="/images/jswc.gif" style="width:180px;height:290px;margin-right:30px;" align = "left"> The West Zone Junior Science Whiz Challenge: Inter-Primary School Science Quiz is organised by the West Zone Centre of Excellence (WZCOE) for Science and Technology@River Valley High School. Through this challenge, it provides an engaging and exciting platform for Primary 6 pupils from different schools to put their scientific knowledge to the test. The competition inspires pupils to engage in scientific pursuits beyond their curriculum. <br><br> <b>Science Buskers Programme</b> <br><br>
 <iframe width="529" height="294" src="https://www.youtube.com/embed/SHsNtitqbR0" title="Xingnan Primary School   Amazing Soap!   Phan Thu Linh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br><iframe width="529" height="296" src="https://www.youtube.com/embed/aWmih599UcU" title="Xingnan Primary School — J unior S cience T rio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br><br>
 The Science Buskers Festival is an annual event. Organised by A*STAR and Science Centre Singapore, the competition aims to promote learning of science in an engaging way as well as generating greater interest in creative science communications and expressions. <br><br>
+	<b>Excellence 2000 (E2K) Science</b> <br><br><img src="/images/e2s.gif" style="width:220px;height:180px;margin-right:30px;" align = "left"> The E2K Science Programme offers opportunities for pupils to engage in scientific investigations to discover and deepen their understanding of advanced science concepts through an inquiry approach. The rich learning experiences offered by the programme serve to help pupils to:  <br><br>
+
+*   Develop the habits, attitudes and dispositions scientists possess. <br>
+
+*   Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills. <br><br> <b>Math Meets Science (MMS) Week </b> <br><br> <iframe width="535" height="300" src="https://www.youtube.com/embed/kK5WjEtnT90" title="Math Meets Science 2021 CLOSURE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <Br><br> MMS Week aims to:  <br><br>
+
+*   Curate meaningful learning experiences to foster seamless connections between Math and Science. This programme is also linked to our XCITE curriculum. <br>
+*   Provide hands-on learning experiences and draw meaningful connections with real-world applications. This programme is also linked to our XTEND curriculum. <br>
+*   Gain problem-solving skills, exploratory learning, and critical thinking that go hand-in-hand with the two subjects. This programme is also linked to our XPLORE curriculum.
 </p>
 
 </div>
