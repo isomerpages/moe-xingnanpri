@@ -10,7 +10,7 @@ third_nav_title: Co Curricular
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <figure><a href="web"><img style="width:75%" src="/images/cca1.png"></a>Brass Band</figure><br>[read more](link) 	| <a href="web"><img style="width:65%" src="/images/cca2.png"></a><figcaption> Chinese Dance</figcaption><br>[read more](link)	|  <a href="web"><img style="width:85%" src="/images/cca3.png"></a><b>Diabolo </b><Br>[read more](link)	|
+| <figure><a href="web"><img style="width:75%" src="/images/cca1.png"></a>Brass Band</figure><br>[read more](link) 	| <a href="web"><img style="width:65%" src="/images/cca2.png"></a> Chinese Dance<br>[read more](link)	|  <a href="web"><img style="width:85%" src="/images/cca3.png"></a><b>Diabolo </b><Br>[read more](link)	|
 
 |  	|  	|  	|
 |---	|---	|---	|
