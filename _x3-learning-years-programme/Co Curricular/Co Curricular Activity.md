@@ -32,5 +32,5 @@ third_nav_title: Co Curricular
 
 |  	|  	|
 |---	|---	|
-| <figure><a href="web"><img style="width:120%" src="/images/cca13.png"></a> <b>Badminton </b></figure><br> 	| <figure><a href="web"><img style="width:180%" src="/images/cca14.png"></a> <b>Soccer </b></figure><br> 	|
-| <figure><a href="web"><img style="width:120%" src="/images/cca15.png"></a> <b>Basketball </b></figure><br> 	| <figure><a href="web"><img style="width:120%" src="/images/cca16.png"></a> <b>Volleyball </b></figure><br> 	|
+| <figure><a href="web"><img style="width:80%" src="/images/cca13.png"></a> <b>Badminton </b></figure><br> 	| <figure><a href="web"><img style="width:145%" src="/images/cca14.png"></a> <b>Soccer </b></figure><br> 	|
+| <figure><a href="web"><img style="width:80%" src="/images/cca15.png"></a> <b>Basketball </b></figure><br> 	| <figure><a href="web"><img style="width:80%" src="/images/cca16.png"></a> <b>Volleyball </b></figure><br> 	|
