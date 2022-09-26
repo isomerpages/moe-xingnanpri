@@ -22,7 +22,7 @@ third_nav_title: Co Curricular
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Clubs-and-Societies/chinese-cultural-appreciation-club/"><img style="width:80%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b></figure>	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Clubs-and-Societies/environmental-club/"><img style="width:75%" src="/images/cca8.png"></a> <b>Environmental Club </b></figure>	|  <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Clubs-and-Societies/scouts/"><img style="width:165%" src="/images/cca9.png"></a><b>Scouts </b></figure>	|
+| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Clubs-and-Societies/chinese-cultural-appreciation-club/"><img style="width:70%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b></figure>	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Clubs-and-Societies/environmental-club/"><img style="width:70%" src="/images/cca8.png"></a> <b>Environmental Club </b></figure>	|  <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Clubs-and-Societies/scouts/"><img style="width:165%" src="/images/cca9.png"></a><b>Scouts </b></figure>	|
 
 |  	|  	|  	|
 |---	|---	|---	|
