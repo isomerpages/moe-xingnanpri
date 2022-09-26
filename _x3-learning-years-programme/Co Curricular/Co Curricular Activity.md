@@ -22,14 +22,14 @@ third_nav_title: Co Curricular
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <figure><a href="web"><img style="width:65%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b></figure>	| <figure><a href="web"><img style="width:65%" src="/images/cca8.png"></a> <b>Environmental Club </b></figure>	|  <figure><a href="web"><img style="width:75%" src="/images/cca9.png"></a><b>Scouts </b></figure>	|
+| <figure><a href="web"><img style="width:90%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b></figure>	| <figure><a href="web"><img style="width:85%" src="/images/cca8.png"></a> <b>Environmental Club </b></figure>	|  <figure><a href="web"><img style="width:105%" src="/images/cca9.png"></a><b>Scouts </b></figure>	|
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <figure><a href="web"><img style="width:65%" src="/images/cca10.png"></a> <b>Pottery Club </b></figure><br>	| <figure><a href="web"><img style="width:65%" src="/images/cca11.png"></a> <b>Art Club </b><br></figure>|  <figure><a href="web"><img style="width:65%" src="/images/cca12.png"></a><b>Infocomm Club </b></figure><Br>|
+| <figure><a href="web"><img style="width:90%" src="/images/cca10.png"></a> <b>Pottery Club </b></figure><br>	| <figure><a href="web"><img style="width:105%" src="/images/cca11.png"></a> <b>Art Club </b><br></figure>|  <figure><a href="web"><img style="width:85%" src="/images/cca12.png"></a><b>Infocomm Club </b></figure><Br>|
 
 #### Sports and Games
 
 |  	|  	|  	|  	|
 |---	|---	|---	|---	|
-| <figure><a href="web"><img style="width:88%" src="/images/cca13.png"></a> <b>Badminton </b></figure><br> 	| <figure><a href="web"><img style="width:120%" src="/images/cca14.png"></a> <b>Soccer </b></figure><br>	| <figure><a href="web"><img style="width:88%" src="/images/cca15.png"></a> <b>Basketball </b></figure><br>	| <figure><a href="web"><img style="width:100%" src="/images/cca16.png"></a> <b>Volleyball </b></figure><br>	|
+| <figure><a href="web"><img style="width:150%" src="/images/cca13.png"></a> <b>Badminton </b></figure><br> 	| <figure><a href="web"><img style="width:180%" src="/images/cca14.png"></a> <b>Soccer </b></figure><br>	| <figure><a href="web"><img style="width:99%" src="/images/cca15.png"></a> <b>Basketball </b></figure><br>	| <figure><a href="web"><img style="width:120%" src="/images/cca16.png"></a> <b>Volleyball </b></figure><br>	|
