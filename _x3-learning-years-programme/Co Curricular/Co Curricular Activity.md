@@ -22,7 +22,7 @@ third_nav_title: Co Curricular
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <figure><a href="web"><img style="width:90%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b></figure>	| <figure><a href="web"><img style="width:85%" src="/images/cca8.png"></a> <b>Environmental Club </b></figure>	|  <figure><a href="web"><img style="width:125%" src="/images/cca9.png"></a><b>Scouts </b></figure>	|
+| <figure><a href="web"><img style="width:80%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b></figure>	| <figure><a href="web"><img style="width:75%" src="/images/cca8.png"></a> <b>Environmental Club </b></figure>	|  <figure><a href="web"><img style="width:165%" src="/images/cca9.png"></a><b>Scouts </b></figure>	|
 
 |  	|  	|  	|
 |---	|---	|---	|
