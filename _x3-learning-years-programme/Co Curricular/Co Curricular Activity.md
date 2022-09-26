@@ -12,7 +12,7 @@ third_nav_title: Co Curricular
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <figure><a href="web"><img style="width:108%" src="/images/cca1.png"></a><b>Brass Band</b></figure>| <figure><a href="web"><img style="width:95%" src="/images/cca2.png"></a><b> Chinese Dance</b></figure>|  <figure><a href="web"><img style="width:95%" src="/images/cca3.png"></a><b>Diabolo </b></figure>	|
+| <figure><a href="web"><img style="width:115%" src="/images/cca1.png"></a><b>Brass Band</b></figure>| <figure><a href="web"><img style="width:95%" src="/images/cca2.png"></a><b> Chinese Dance</b></figure>|  <figure><a href="web"><img style="width:95%" src="/images/cca3.png"></a><b>Diabolo </b></figure>	|
 
 |  	|  	|  	|
 |---	|---	|---	|
@@ -22,7 +22,7 @@ third_nav_title: Co Curricular
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <figure><a href="web"><img style="width:90%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b></figure>	| <figure><a href="web"><img style="width:85%" src="/images/cca8.png"></a> <b>Environmental Club </b></figure>	|  <figure><a href="web"><img style="width:105%" src="/images/cca9.png"></a><b>Scouts </b></figure>	|
+| <figure><a href="web"><img style="width:90%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b></figure>	| <figure><a href="web"><img style="width:85%" src="/images/cca8.png"></a> <b>Environmental Club </b></figure>	|  <figure><a href="web"><img style="width:125%" src="/images/cca9.png"></a><b>Scouts </b></figure>	|
 
 |  	|  	|  	|
 |---	|---	|---	|
@@ -30,6 +30,7 @@ third_nav_title: Co Curricular
 
 #### Sports and Games
 
-|  	|  	|  	|  	|
-|---	|---	|---	|---	|
-| <figure><a href="web"><img style="width:150%" src="/images/cca13.png"></a> <b>Badminton </b></figure><br> 	| <figure><a href="web"><img style="width:180%" src="/images/cca14.png"></a> <b>Soccer </b></figure><br>	| <figure><a href="web"><img style="width:99%" src="/images/cca15.png"></a> <b>Basketball </b></figure><br>	| <figure><a href="web"><img style="width:120%" src="/images/cca16.png"></a> <b>Volleyball </b></figure><br>	|
+|  	|  	|
+|---	|---	|
+| <figure><a href="web"><img style="width:120%" src="/images/cca13.png"></a> <b>Badminton </b></figure><br> 	| <figure><a href="web"><img style="width:180%" src="/images/cca14.png"></a> <b>Soccer </b></figure><br> 	|
+| <figure><a href="web"><img style="width:120%" src="/images/cca15.png"></a> <b>Basketball </b></figure><br> 	| <figure><a href="web"><img style="width:120%" src="/images/cca16.png"></a> <b>Volleyball </b></figure><br> 	|
