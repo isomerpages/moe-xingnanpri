@@ -6,11 +6,7 @@ description: ""
 ### Hot In The Press
 
   
-
-  
-image here
-  
-  
+<img src="/images/hitp7.png" style="width:80%">
 
 [](https://www.todayonline.com/singapore/not-all-are-back-class-its-right-timing-reopen-schools-says-ong-ye-kung)
 
@@ -20,9 +16,7 @@ Link to articles:
 [Not all are back in class but it’s right timing to reopen schools](https://www.todayonline.com/singapore/not-all-are-back-class-its-right-timing-reopen-schools-says-ong-ye-kung)   
   
   
-
-image here
-  
+<img src="/images/hitp2.png" style="width:80%">
 
 [](https://www.straitstimes.com/singapore/telcos-national-day-videos-prove-big-hit-online)
 
@@ -30,7 +24,7 @@ Link to the full article:
 
 [https://www.straitstimes.com/singapore/telcos-national-day-videos-prove-big-hit-online](https://www.straitstimes.com/singapore/telcos-national-day-videos-prove-big-hit-online)
 
- image here
+<img src="/images/hitp3.png" style="width:80%">
   
 
 [](https://www.straitstimes.com/singapore/having-fun-learning-plane-and-simple)
@@ -39,7 +33,7 @@ Link to the full article:
 
 [https://www.straitstimes.com/singapore/having-fun-learning-plane-and-simple](https://www.straitstimes.com/singapore/having-fun-learning-plane-and-simple)
 
-image here
+<img src="/images/hitp4.png" style="width:80%">
 
   
 
@@ -51,7 +45,7 @@ Link to the full article:
 
   
 
-image here
+<img src="/images/hitp5.png" style="width:80%">
   
 
 [](https://www.straitstimes.com/singapore/education/phase-1-sees-eight-schools-fill-up-fast)
@@ -60,9 +54,7 @@ Link to the full article:
 
 [https://www.straitstimes.com/singapore/education/phase-1-sees-eight-schools-fill-up-fast](https://www.straitstimes.com/singapore/education/phase-1-sees-eight-schools-fill-up-fast)
 
-image here
-
-
+<img src="/images/hitp6.png" style="width:80%">
 
 [](https://www.straitstimes.com/singapore/education/a-clean-way-to-pick-up-good-habits-in-schools)
 
