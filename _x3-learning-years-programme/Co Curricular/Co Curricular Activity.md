@@ -32,5 +32,5 @@ third_nav_title: Co Curricular
 
 |  	|  	|
 |---	|---	|
-| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Sports-and-Games/badminton/"><img style="width:50%" src="/images/cca13.png"></a> <b>Badminton </b></figure><br> 	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Sports-and-Games/soccer/"><img style="width:105%" src="/images/cca14.png"></a> <b>Soccer </b></figure><br> 	|
+| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Sports-and-Games/badminton/"><img style="width:50%" src="/images/cca13.png"></a> <b>Badminton </b></figure><br> 	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Sports-and-Games/soccer/"><img style="width:80%" src="/images/cca14.png"></a> <b>Soccer </b></figure><br> 	|
 | <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Sports-and-Games/basketball/"><img style="width:50%" src="/images/cca15.png"></a> <b>Basketball </b></figure><br> 	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Sports-and-Games/volleyball/"><img style="width:54%" src="/images/cca16.png"></a> <b>Volleyball </b></figure><br> 	|
