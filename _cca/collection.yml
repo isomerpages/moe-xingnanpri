@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/Chinese Cultural Appreciation Club.md
       - Clubs and Societies/Environmental Club.md
       - Clubs and Societies/Scouts.md
       - Clubs and Societies/Pottery Club.md
