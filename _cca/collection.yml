@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/International Dance.md
       - Performing Arts/Malay Dance.md
       - Performing Arts/.keep
       - Clubs and Societies/Chinese Cultural Appreciation Club.md
