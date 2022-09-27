@@ -21,13 +21,6 @@ You can also read our past newsletters from the archives here.
 
 #### Past Year
 
-[XNPS EXPERIENCE Jan 2021]
-[XNPS EXPERIENCE Feb 2021]
-[XNPS EXPERIENCE Mar 2021]
-[XNPS EXPERIENCE April 2021
-[XNPS EXPERIENCE May 2021]
-[XNPS EXPERIENCE July 2021]
-[XNPS EXPERIENCE Aug 2021.]
-[XNPS EXPERIENCE Sept 2021]
-[XNPS EXPERIENCE Oct 2021]  
-[XNPS EXPERIENCE Nov 2021]
+[XNPS EXPERIENCE Jan 2021](/files/jan2021.pdf)
+
+Upload the rest of the PDFs here.
