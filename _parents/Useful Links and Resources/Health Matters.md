@@ -18,9 +18,9 @@ third_nav_title: Useful Links and Resources
 
 #### Useful downloads
 
-[**What You Need to know about Influenza A H1N1**](http://www.crisis.gov.sg/NR/rdonlyres/D4985A06-E928-4B4E-9A0B-938EDBC88860/24019/H1N1_what_u_need_to_know.pdf) **(MICA, MOH)**
+**[What You Need to know about Influenza A H1N1](http://www.crisis.gov.sg/NR/rdonlyres/D4985A06-E928-4B4E-9A0B-938EDBC88860/24019/H1N1_what_u_need_to_know.pdf)** **(MICA, MOH)**
 
-[**Steps** **in washing your hands**](http://www.hpb.gov.sg/infectiousdiseases/article.aspx?id=5652)
+**[Steps in washing your hands](http://www.hpb.gov.sg/infectiousdiseases/article.aspx?id=5652)**
 
 **[Handwashing Song to sing with your child/ward](http://www.youtube.com/watch?v=zxlQn7KaCNU)**
 
