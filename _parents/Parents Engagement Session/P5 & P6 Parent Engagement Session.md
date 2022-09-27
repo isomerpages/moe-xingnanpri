@@ -11,6 +11,8 @@ The Primary 5 & 6 parents engagement session will be held via zoom on 14 Jan 202
 More information on the zoom session will be sent to you via Parent Gateway Portal.  
 Please refer to the following slides based on your child/ward level for more information before the zoom session.
 
+#### Primary 5
+
 ####  Admin Briefing
 
 <iframe width="561" height="315" src="https://www.youtube.com/embed/SOEgItUXObc" title="P5 Parent Engagement Introduction Slides" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,5 +29,64 @@ Please refer to the following slides based on your child/ward level for more inf
     
 *   [2022 P5 Parents Engagement Ecostewardship.pdf](/files/2022%20P5%20Parents%20Engagement%20Ecostewardship.pdf)
 
+#### PSLE Scoring and S1 Posting slides  
+
+*   [PSLE SCORING and SI POSTING Parents Briefing.pdf](/files/PSLE%20SCORING%20and%20SI%20POSTING%20Parents%20Briefing.pdf) 
+    
+#### Classroom Slides.  
+
+*   [2022 P5A Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P5/Classes/2022%20P5A%20Parents%20Briefing%20Classroom.pdf)  Upload PDF here.
+    
+*   [2022 P5B Parents Briefing Classroom.pdf](/files/2022%20P5B%20Parents%20Briefing%20Classroom.pdf)
+    
+*   [2022 P5C Parents Briefing Classroom.pdf](/files/2022%20P5C%20Parents%20Briefing%20Classroom.pdf)  
+    
+*   [2022 P5D Parents Briefing Classroom.pdf](/files/2022%20P5D%20Parents%20Briefing%20Classroom.pdf)
+    
+*   [2022 P5E Parents Briefing Classroom.pdf](/files/2022%20P5E%20Parents%20Briefing%20Classroom.pdf)
+    
+
+  #### Primary 6
+
+####  Admin Briefing
+
+<iframe width="561" height="315" src="https://www.youtube.com/embed/MUhfV4P_gWo" title="P6 Parent Engagement Introduction Slides" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Subject Briefing Slides  
+
+*   [2022 P6 Parents Engagement - Math.pdf](/files/p6math.pdf)
+    
+*   [2022 P6 Parents Engagement - MT.pdf](/files/p6mt.pdf) 
+    
+*   [2022 P6 Parents Engagement - SCI.pdf](/files/p6sci.pdf)
+    
+*   [2022 P6 Parents Engagement -xTEND EL.pdf](/files/p6eng.pdf)
+    
+*   [2022 P6 Parents Engagement Ecostewardship.pdf](/files/2022%20P5%20Parents%20Engagement%20Ecostewardship.pdf)
+    
+
+#### PSLE Scoring and S1 Posting slides  
+
+*   [PSLE SCORING and SI POSTING Parents Briefing.pdf](/files/PSLE%20SCORING%20and%20SI%20POSTING%20Parents%20Briefing.pdf) 
+    
 
   
+
+#### Class Slides
+
+*   [2022 P6A Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P6/Class/2022%20P6A%20Parents%20Briefing%20Classroom.pdf)  
+    
+*   [2022 P6B Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P6/Class/2022%20P6B%20Parents%20Briefing%20Classroom.pdf)  
+    
+*   [2022 P6C Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P6/Class/2022%20P6C%20Parents%20Briefing%20Classroom.pdf)  
+    
+*   [2022 P6D Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P6/Class/2022%20P6D%20Parents%20Briefing%20Classroom.pdf)  
+    
+*   [2022 P6E Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P6/Class/2022%20P6E%20Parents%20Briefing%20Classroom.pdf)  
+    
+*   [2022 P6F Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P6/Class/2022%20P6F%20Parents%20Briefing%20Classroom.pdf)
+
+
+
+
+
