@@ -74,19 +74,14 @@ Please refer to the following slides based on your child/ward level for more inf
 
 #### Class Slides
 
-*   [2022 P6A Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P6/Class/2022%20P6A%20Parents%20Briefing%20Classroom.pdf)  
+*   [2022 P6A Parents Briefing Classroom.pdf](/files/2022_p6a.pdf)
     
-*   [2022 P6B Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P6/Class/2022%20P6B%20Parents%20Briefing%20Classroom.pdf)  
+*   [2022 P6B Parents Briefing Classroom.pdf](/files/2022_p6b.pdf)
     
-*   [2022 P6C Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P6/Class/2022%20P6C%20Parents%20Briefing%20Classroom.pdf)  
+*   [2022 P6C Parents Briefing Classroom.pdf](/files/2022_p6c.pdf)
     
-*   [2022 P6D Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P6/Class/2022%20P6D%20Parents%20Briefing%20Classroom.pdf)  
+*   [2022 P6D Parents Briefing Classroom.pdf](/files/2022_p6d.pdf) 
     
-*   [2022 P6E Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P6/Class/2022%20P6E%20Parents%20Briefing%20Classroom.pdf)  
+*   [2022 P6E Parents Briefing Classroom.pdf](/files/2022_p6e.pdf)
     
-*   [2022 P6F Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P6/Class/2022%20P6F%20Parents%20Briefing%20Classroom.pdf)
-
-
-
-
-
+*   [2022 P6F Parents Briefing Classroom.pdf](/files/2022_p6f.pdf)
