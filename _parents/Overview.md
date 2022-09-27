@@ -96,3 +96,11 @@ Email : xingnan@shgstudentcare.com.sg
 | School Term | 1.30 p.m. – 7.00 p.m. |
 | School Holiday | 7.30 a.m. – 7.00 p.m. |
 |  |  |
+
+##### TAKING YOUR CHILD HOME EARLIER
+
+<img src="/images/parents1.png" style="width:150px;height:150px;margin-right:15px;" align = "left"> When Parents/Guardians need to take your child/ward home earlier for any valid reason, they have to complete the ‘Permission to Leave School Early’ Form available at the General Office. The school can only release your child/ward when the form is duly completed. Please bring along identification documents for security verification reasons.
+
+##### ABSENCE DURING SCHOOL TERM
+
+<img src="/images/parents2.png" style="width:180px;height:150px;margin-right:15px;" align = "left"> Absence from school must be supported by a valid reason. If your child/ward is unwell, the absence must be covered by a medical certificate from a doctor. For other valid reasons, a letter from our parent/guardian with accompanying documents will be required. All pupils are expected to complete each school term and not lose valuable curriculum learning time. Any request to return to home country early or for tours during school term will not be considered as a valid reason for absence.
