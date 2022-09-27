@@ -56,3 +56,5 @@ We have attached the following for your convenience
   
 
 5\. Bookshop Vendor Website - [Click Here](http://www.ihuntforbooks.com/)
+
+6\. Uniform Vendor Website - [Click Here](https://asencio.com.sg/)
