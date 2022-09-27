@@ -9,3 +9,8 @@ The President’s Award for Teachers (PAT) recognises excellent educators for th
 
 <img src="/images/pat1.png" style="width:60%">
 
+President's Award for Teachers 2021
+
+Nominate here: [go.gov.sg/pat2021](http://go.gov.sg/pat2021)
+
+For more info: [https://academyofsingaporeteachers.moe.edu.sg/professional-recognition/president-s-award-for-teachers](https://academyofsingaporeteachers.moe.edu.sg/professional-recognition/president-s-award-for-teachers)
