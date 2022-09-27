@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
+      - Overview.md
+      - Useful Links and Resources/.keep
       - Useful Links and Resources/Health Matters.md
       - Useful Links and Resources/Travel Declaration.md
-      - Useful Links and Resources/.keep
-      - Overview.md
       - Parents' Briefing Slides.md
       - Big Heart Student Care.md
       - PSLE Related Information/.keep
@@ -16,10 +16,10 @@ collections:
       - PSLE Related Information/Indicative PSLE Score Ranges for Individual
         Secondary Schools.md
       - Sale of Textbooks and Uniforms (2022).md
+      - Parents Engagement Session/.keep
       - Parents Engagement Session/P2 Parent Engagement Session.md
       - Parents Engagement Session/P3 & P4 Parent Engagement Session.md
       - Parents Engagement Session/P5 & P6 Parent Engagement Session.md
-      - Parents Engagement Session/.keep
       - Edusave Character Award 2022.md
       - 2022 MOS FAS Application.md
       - 2022 Primary 1 Resource.md
