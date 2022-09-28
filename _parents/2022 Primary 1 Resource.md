@@ -82,3 +82,20 @@ Transition from Preschool to Primary School : [Click Here](https://www.youtube.
 
 	*   [Book 1](/files/book1.pdf)
 	*   [Book 2](/files/book2.pdf)
+
+#### Parent's Engagement Day Resource 2022
+
+##### Principal Message
+
+<iframe width="561" height="315" src="https://www.youtube.com/embed/qnaYvP9w34A" title="P1 Parents Engagement Day 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Click on the following link to download all the resources used for primary 1 Engagement day,
+
+[XCITE - 2022 P1 Parents Engagement Day.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P1-%202022%20RESOURCE/XCITE%20-%202022%20P1%20Parents%20Engagement%20Day.pdf)  
+
+[Signature Programme - 2022 P1 Parents Engagement Day.pdf](/files/p1eng.pdf)  
+
+[CCE - 2022 P1 Parents Engagement Day.pdf](/files/p1cce.pdf)
+
+Note : Photos taken in the photobooth on P1 Engagement day will be printed and distributed during the term 1 parents teacher meeting session on 11 March 2022.
+
