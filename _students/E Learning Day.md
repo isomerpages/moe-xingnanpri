@@ -47,3 +47,7 @@ Alex Lee Xiao Ming (T1234567X)’s Login ID will be ALEXL4567X
 
  Example:  
 Login ID example: Alex Lee Xiao Ming (T1234567X)’s Login ID will be XNPS34567X
+
+#### Student ICON and SLS Login Guide.
+
+<img src="/images/lp4.png" style="width:60%">
