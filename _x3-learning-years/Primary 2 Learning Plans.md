@@ -12,3 +12,8 @@ Click on the subjects below to access the Term 4 Learning Plans.
 <img src="/images/p2lp.png" style="width:60%">
 
 Click on the following links below to download a PDF copy of the Learning Plans.
+
+[Term 1 Learning Plans](/files/t1p2.pdf)<br>
+[Term 2 Learning Plans](/files/t2p2.pdf)<br>
+[Term 3 Learning Plans](/files/t3p2.pdf) <br>
+[Term 4 Learning Plans](/files/t4p2.pdf)
