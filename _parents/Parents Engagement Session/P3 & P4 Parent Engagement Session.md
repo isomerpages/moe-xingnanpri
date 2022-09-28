@@ -16,13 +16,13 @@ Please refer to the following slides based on your child/ward level for more inf
 
 <iframe width="561" height="315" src="https://www.youtube.com/embed/aJ2ZjdLhWIA" title="P3 Parents Engagement Briefing 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**[P3 EL and MT PAM subject info 22 .pdf](/files/P3%20EL%20and%20MT%20PAM%20subjects%20info%2021%20JAN%2022%20bryan.pdf)<Br>
+[P3 EL and MT PAM subject info 22 .pdf](/files/P3%20EL%20and%20MT%20PAM%20subjects%20info%2021%20JAN%2022%20bryan.pdf)<Br>
 [P3 SC MA subjects info 22 .pdf](/files/P3%20SC%20MA%20subjects%20info%2021%20JAN%2022%20bryan.pdf)<br>
-[P3 Parent Engagement Ecostewardship.pdf](/files/P3_P4%20Parent%20Engagement%20Ecostewardship.pdf)**
+[P3 Parent Engagement Ecostewardship.pdf](/files/P3_P4%20Parent%20Engagement%20Ecostewardship.pdf)
 
 #### Primary 4
 
 <iframe width="561" height="315" src="https://www.youtube.com/embed/b8E1DSiHoVA" title="P4 Parents Engagement Briefing 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**[P4 Briefing on Subject Information 22 .pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P3%20&%20P4%20Parent%20Engagement%20session/P4/P4%20Briefing%20on%20Subject%20Information%2021Jan22%20philip.pdf)  Upload PDF here. <br> 
-[P4 Parent Engagement Ecostewardship.pdf](/files/P3_P4%20Parent%20Engagement%20Ecostewardship.pdf)**
+[P4 Briefing on Subject Information 22 .pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P3%20&%20P4%20Parent%20Engagement%20session/P4/P4%20Briefing%20on%20Subject%20Information%2021Jan22%20philip.pdf)  Upload PDF here. <br> 
+[P4 Parent Engagement Ecostewardship.pdf](/files/P3_P4%20Parent%20Engagement%20Ecostewardship.pdf)
