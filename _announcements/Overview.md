@@ -14,7 +14,7 @@ The 2022 Echa nomination is open, please refer to the following infographic for 
 
 ##### [September 2022 Newsletter](https://staging.d24s03z0ob23eb.amplifyapp.com/expedition/School-Publications/school-newsletter/)
 
-##### [Primary 1 to 6 Learning Plans](
+##### [Primary 1 to 6 Learning Plans](https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years/p1-learning-plans/)
 
 ##### [School Yearbook](https://staging.d24s03z0ob23eb.amplifyapp.com/expedition/School-Publications/school-year-book/)
 
