@@ -2,6 +2,7 @@ collections:
   x3-learning-years:
     output: true
     order:
+      - Primary 2 Learning Plans.md
       - Primary 3 Learning Plans.md
       - Primary 4 Learning Plans.md
       - Primary 5 Learning Plans.md
