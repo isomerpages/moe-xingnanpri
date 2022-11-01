@@ -33,7 +33,7 @@ Please refer to the following slides based on your child/ward level for more inf
 
 *   [PSLE SCORING and SI POSTING Parents Briefing.pdf](/files/PSLE%20SCORING%20and%20SI%20POSTING%20Parents%20Briefing.pdf) 
     
-#### Classroom Slides.  
+#### Classroom Slides  
 
 *   [2022 P5A Parents Briefing Classroom.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/P5%20&%20P6%20Parent%20Engagement%20Session/P5/Classes/2022%20P5A%20Parents%20Briefing%20Classroom.pdf)  Upload PDF here.
     
@@ -46,7 +46,7 @@ Please refer to the following slides based on your child/ward level for more inf
 *   [2022 P5E Parents Briefing Classroom.pdf](/files/2022%20P5E%20Parents%20Briefing%20Classroom.pdf)
     
 
-  #### Primary 6
+#### Primary 6
 
 ####  Admin Briefing
 
