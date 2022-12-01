@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 ---
 ### Primary 1 form teachers
-#### School Leaders
+
 
 <img src="/images/Our Staff/03 EAS and Others/ae1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Chow Kar Yin**  
 Primary 1A
