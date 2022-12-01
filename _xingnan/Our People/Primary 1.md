@@ -12,5 +12,5 @@ Primary 1A
   
 _"I believe that every child can be taught and nurtured through education."_
 
-[Chow_Kar_yin@schools.gov.sg](mailto:Chow_Kar_yin@schools.gov.sg)
+[chow_kar_yin@schools.gov.sg](mailto:chow_kar_yin@schools.gov.sg)
 * * *
