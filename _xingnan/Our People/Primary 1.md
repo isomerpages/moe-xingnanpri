@@ -7,10 +7,10 @@ third_nav_title: Our People
 ### Primary 1 form teachers
 #### School Leaders
 
-<img src="/images/Our Staff/EAS and Others/ae1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Charles Chan**  
-Principal  
+<img src="/images/Our Staff/03 EAS and Others/ae1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Chow Kar Yin**  
+Primary 1A
   
-_"Children are curious, active and competent learners. They can learn almost anything with the right support and environment. Our focus as educators is to facilitate authentic learning experiences through quality interactions. We want to provide opportunities to nurture their holistic development for lifelong learning."_
+_"I believe that every child can be taught and nurtured through education."_
 
-[Charles\_CHAN@schools.gov.sg](mailto:Charles_CHAN@schools.gov.sg)
+[Chow_Kar_yin@schools.gov.sg](mailto:Chow_Kar_yin@schools.gov.sg)
 * * *
