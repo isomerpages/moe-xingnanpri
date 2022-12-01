@@ -8,8 +8,8 @@ Primary 1 teachers
 
 
 
-| Column 1 | Column 2 | 
+|  |  | 
 | -------- | -------- | 
-| Ms Chow Kar Yin  Primary 2E
+| Ms Chow Kar Yin Primary 2E
 __"I believe that every child can be taught and nurtured through education."__     | <img src="/images/Our Staff/03 EAS and Others/ae1.png" style="width:200px;height:200px;margin-left:15px;" align = "right">     |
 |hsdbfs|,sdfjv|
