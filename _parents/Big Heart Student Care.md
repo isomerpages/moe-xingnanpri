@@ -23,4 +23,4 @@ Interested applicants may submit your interest online via the URL online link or
 Kindly note that both the School and the Student Care will assess the eligibility of the application and only short-listed applicants will be contacted for the official registration.
 
 
-<img src="/images/bhsc3.png" style="width:40%">
+<img src="/images/Parent/BHSCICON.png" style="width:60%">
