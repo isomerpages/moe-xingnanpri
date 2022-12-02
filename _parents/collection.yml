@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - AY 2023 P1 Orientation.md
       - Overview.md
       - Useful Links and Resources/.keep
       - Useful Links and Resources/Travel Declaration.md
