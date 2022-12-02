@@ -5,7 +5,7 @@ description: ""
 ---
 ### Big Heart Student Care
 
-<img src="/images/Parent/BHSC.png" style="width:100%">
+<img src="/images/Parents/BHSC.png" style="width:100%">
 
 #### Student Care Registration 2023
 
@@ -18,9 +18,9 @@ Interested applicants may submit your interest online via the URL online link or
 
 
 
-<img src="/images/Parent/BHSCQR.png" style="width:30%">
+<img src="/images/Parents/BHSCQR.png" style="width:30%">
 
 Kindly note that both the School and the Student Care will assess the eligibility of the application and only short-listed applicants will be contacted for the official registration.
 
 
-<img src="/images/Parent/BHSCICON.png" style="width:60%">
+<img src="/images/Parents/BHSCICON.png" style="width:60%">
