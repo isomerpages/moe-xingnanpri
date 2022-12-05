@@ -3,8 +3,18 @@ title: P1 Teachers
 permalink: /p1-to-p6-form-teachers/p1/
 description: ""
 ---
-### P1 Teachers
+### P1 Teachers 2023 
+<img src="/images/ft1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
 
+Primary 1A
+
+_"Every child deserves to be acknowledged and every learner_ _deserves to be educated."_
+
+[**nur\_syafawani\_amira\_kamal@schools.gov.sg**](mailto:nur_syafawani_amira_kamal@schools.gov.sg)
+
+### P1 Teachers 2022
+
+***
 <img src="/images/ft1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
 
 Primary 1A
