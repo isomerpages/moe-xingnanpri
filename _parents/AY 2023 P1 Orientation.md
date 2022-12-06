@@ -19,3 +19,6 @@ Parents are encouraged to go through the following materials prior to meeting up
 **Year Head Sharing**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c1dtjgq6JCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+ **Start-It-Right Kit**
+
+*   Click [here](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/3%20SIR%20Kit%20-%202023-revised.pdf) [](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/3.%20SIR%20Kit%20-%202023-revised.pdf)for Start-It-Right Kit
