@@ -21,7 +21,7 @@ Parents are encouraged to go through the following materials prior to meeting up
 
  **Start-It-Right Kit**
 
-*   Click [here] ([Here](/files/Parents/P1%20Orientation/sirkit2023.pdf))for Start-It-Right Kit
+*   Click ([Here](files/Parents/P1%20Orientation/sirkit2023.pdf)) or Start-It-Right Kit
 
 **Sale of Textbooks and School Attire**
 
