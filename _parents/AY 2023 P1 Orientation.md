@@ -22,3 +22,30 @@ Parents are encouraged to go through the following materials prior to meeting up
  **Start-It-Right Kit**
 
 *   Click [here]([](/files/Parents/P1%20Orientation/sirkit2023.pdf))for Start-It-Right Kit
+
+**Sale of Textbooks and School Attire**
+
+
+*   For your convenience, we will be introducing online purchasing of school textbooks and school attire from 22 November to 22 December 2022.
+
+  
+
+*   Arrangements have been made with our bookshop vendor, HB Book Centre, and uniform vendor, Asencio Pte Ltd to carry out these online purchasing processes.  Just register for an account and select your mode of receipt – Home Delivery Service or Self-collection at school.  Self-collection at school will be strictly based on appointments only.  You may indicate your preferred time and date when you make your orders.  
+
+*   [2023 Primary 1 Booklist](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/4.%20Primary%201%20Booklist.pdf)  
+*   [Instructions for the purchase of textbooks and school attire](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/5.%20Instructions%20for%20Sale%20of%20Textbooks%20and%20School%20Attire.pdf) 
+*   Online buying guides for textbooks and school attire 
+
+ [6a. Online Buying Guide for Attire.pdf](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/6a.%20Online%20Buying%20Guide%20for%20Attire.pdf)  
+
+[6b.Online Buying Guide - Attire for FAS students.pdf](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/6b.Online%20Buying%20Guide%20-%20Attire%20for%20FAS%20students.pdf)  
+
+[7\. Online Buying Guide for Textbooks.pdf](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/7.%20Online%20Buying%20Guide%20for%20Textbooks.pdf)
+*   [Bookshop Vendor Website](https://www.huntforbooks.com/)  (Available from 21st November 2022)
+*   [Uniform Vendor Website](https://asencio.com.sg/)
+*   [School Bus Request For](https://go.gov.sg/xnpsbus23)m
+
+**Our Learning Environment**
+
+
+Click on the play button below to take a tour of our school. Use the navigation link in the tour to read and watch more information about our school.
