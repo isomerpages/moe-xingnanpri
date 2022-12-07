@@ -32,7 +32,7 @@ third_nav_title: Our People
 |---	|---	|
 | **Mr Lim Suar Poh**<br>Operations Manager<br><br>[lim\_suar\_poh@schools.gov.sg](mailto:lim_suar_poh@schools.gov.sg) 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast12.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
 | **Mr Rawi Bin Abdullah**<br>Operations Manager<br><br>[rawi\_abdullah@schools.gov.sg](mailto:rawi_abdullah@schools.gov.sg) 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast13.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
-| **Mdm Low Chun Hong**<br>Operations Support Officer <br><br>[low\_chun\_hong@schools.gov.sg](mailto:low_chun_hong@schools.gov.sg)	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast14.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
+| **Mdm Low Chun Hong**<br>Operations Support Officer <br><br>[low\_chun\_hong@schools.gov.sg](mailto:low_chun_hong@schools.gov.sg)	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast14.jpg" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
 | **Mr Abu Bakar Bin Aman**<br>Operations Support Officer 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast15.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
 | **Mdm Chan Mooi**<br>Operations Support Officer 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast16.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
 | **Mdm Sia Ah Chai**<br>Operations Support Officer 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast17.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
