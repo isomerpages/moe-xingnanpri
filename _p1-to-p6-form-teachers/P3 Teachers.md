@@ -45,9 +45,14 @@ _"发光不是太阳的专利，只要用心发掘，每一个孩子都能发光
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/3C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Constance Chia Kai Ting**
 
-[****](mailto:)
+Primary 3C
+
+_"To be updated soon" _
+
+
+[**constance_toh_kai_ting@schools.gov.sg**](mailto:constance_toh_kai_ting@schools.gov.sg)
 
 * * *
 
