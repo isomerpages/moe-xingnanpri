@@ -185,42 +185,23 @@ _""_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2J1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Sulastri Ryanti Bte Sujak**
 
-Primary 2A
+Primary 2J
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Every child deserves a hero – an adult who will never give up on them no matter what, who understands the power of communication and insists that they become the best that they can possibly be to reach their fullest potential. As a teacher, I aim to mould students holistically and not just academically."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
-
-* * *
-
-<img src="/images/Our Staff/02 Teacher/2J1.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
-
-Primary 2A
-
-_"I believe that every child can be taught and nurtured through education."_
-
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**sulastri_ryanti_sujak@schools.gov.sg**](mailto:sulastri_ryanti_sujak@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2J2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Lim Jingle**
 
-Primary 2A
+ Primary 2J
 
-_"I believe that every child can be taught and nurtured through education."_
+ _"To be updated soon"_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
 
-* * *
-
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
-
-Primary 2A
-
-_"I believe that every child can be taught and nurtured through education."_
-
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**lim_jingle@schools.gov.sg**](mailto:lim_jingle@schools.gov.sg)
 
 * * *
