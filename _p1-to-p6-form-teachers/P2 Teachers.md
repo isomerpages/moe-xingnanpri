@@ -85,23 +85,23 @@ _"教学是种分享，分享我对美术和华文的爱。"_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Kamaliah Bte Yusoff**
 
-Primary 2A
+Primary 2E
 
-_"I believe that every child can be taught and nurtured through education."_
+_"To teach is not to merely deliver facts and knowledge but to help children develop their curiosity, arouse their enthusiasm in the quest for the unknown and to discover the joy of uncovering them."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**nurkamaliah_yusoff@schools.gov.sg**](mailto:nurkamaliah_yusoff@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Ho Seow Lee**
 
-Primary 2A
+Primary 2E
 
-_"I believe that every child can be taught and nurtured through education."_
+_"教师，是播撒知识的种子，传递文明火炬的使者"_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**ho_seow_lee@schools.gov.sg**](mailto:ho_seow_lee@schools.gov.sg)
 
 * * *
 
