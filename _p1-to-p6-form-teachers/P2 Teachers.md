@@ -125,33 +125,33 @@ _" "_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2G1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Muhammad Hilmi Bin Mohamad Salim**
 
-Primary 2A
+Primary 2G
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Teaching through the heart isn't hard. With that in mind, being a positive role model to the students towards achieving a healthy mind, heart and body has always been the central belief of my teaching philosophy"_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
-
-* * *
-
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
-
-Primary 2A
-
-_"I believe that every child can be taught and nurtured through education."_
-
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**muhammad_hilmi_mohamad_salim@schools.gov.sg**](mailto:muhammad_hilmi_mohamad_salim@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2G2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Sumitha D/O Sudevan**
 
-Primary 2A
+ Primary 2G.
 
-_"I believe that every child can be taught and nurtured through education."_
+_"I believe every child can learn. It is how we empower them with learning opportunities and encourage them to try that makes a positive difference to them."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**sumitha_sudevan@schools.gov.sg**](mailto:sumitha_sudevan@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/2H1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Millah Bte Rasimin**
+
+Primary 2H
+
+_"The best kind of teacher is one who commands respect and love from her students - and in that way students will naturally want to learn from that teacher."_
+
+[**nur_millah_rasimin@schools.gov.sg**](mailto:nur_millah_rasimin@schools.gov.sg)
 
 * * *
 
