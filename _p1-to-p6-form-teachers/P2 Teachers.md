@@ -35,11 +35,11 @@ _"Teaching and learning is always occurring. Children have the ability to empowe
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **NEW TEACHER**
+<img src="/images/Our Staff/02 Teacher/2B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
 
 Primary 2B
 
-_""_
+_"TO BE UPDATED SOON"_
 
 [****](mailto:)
 
@@ -55,11 +55,11 @@ _"Every child is special and has the potential to soar to greater heights."_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **BRAN**
+<img src="/images/Our Staff/02 Teacher/2C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
 
 Primary 2C
 
-_""_
+_"TO BE UPDATED SOON"_
 
 [****](mailto:)
 
@@ -115,11 +115,11 @@ _"Every child deserves equal treatment and no one should be left behind in the l
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2F2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **NEW TEACHER**
+<img src="/images/Our Staff/02 Teacher/2F2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
 
 Primary 2F
 
-_""_
+_"TO BE UPDATED SOON"_
 
 [****](mailto:)
 
@@ -145,11 +145,11 @@ _"I believe every child can learn. It is how we empower them with learning oppor
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2G3.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **NEW TEACHER**
+<img src="/images/Our Staff/02 Teacher/2G3.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
 
 Primary 2G
 
-_""_
+_"TO BE UPDATED SOON"_
 
 [****](mailto:)
 
@@ -185,11 +185,11 @@ _“Meaningful learning occurs when students are allowed to confront real proble
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2I2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **QURAISYAH**
+<img src="/images/Our Staff/02 Teacher/2I2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
 
 Primary 2I
 
-_""_
+_"TO BE UPDATED SOON"_
 
 [****](mailto:)
 
@@ -209,7 +209,7 @@ _"Every child deserves a hero – an adult who will never give up on them no mat
 
  Primary 2J
 
- _"To be updated soon"_
+ _"TO BE UPDATED SOON"_
 
 
 [**lim_jingle@schools.gov.sg**](mailto:lim_jingle@schools.gov.sg)
