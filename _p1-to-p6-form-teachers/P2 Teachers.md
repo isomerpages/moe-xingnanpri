@@ -65,23 +65,23 @@ _" "_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Piragatheeswari D/O Sigamani**
 
-Primary 2A
+Primary 2D
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Our children are our future. I believe by nurturing their character and knowledge, they can take ownership of their learning and overcome challenges with optimism."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**piragatheeswari_sigamani@schools.gov.sg**](mailto:piragatheeswari_sigamani@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Wong Shi Yuan**
 
-Primary 2A
+Primary 2D
 
-_"I believe that every child can be taught and nurtured through education."_
+_"教学是种分享，分享我对美术和华文的爱。"_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**wong_shiyuan@schools.gov.sg**](mailto:wong_shiyuan@schools.gov.sg)
 
 * * *
 
