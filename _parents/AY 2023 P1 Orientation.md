@@ -57,4 +57,4 @@ Click on the play button below to take a tour of our school. Use the navigation 
 
 Parents Gateway is a mobile app developed by MOE to support parents’ involvement in their child’s educational journey. The app enables you to receive information from the school and perform a range of administrative functions, including granting consent for school programmes/activities, booking of Parent-Teacher Meeting slots and declaring travel plans during school terms.  
 [Click here to learn more about PG](/files/Parents/P1%20Orientation/Guide%20to%20PG%20Onboarding.pdf)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
