@@ -10,7 +10,7 @@ third_nav_title: Our People
 
 |  	|  	|
 |---	|---	|
-| **Mrs Jesslyn Phon**<br>Administration Manager<br><br>[goh\_boon\_kim@schools.gov.sg](mailto:goh_boon_kim@schools.gov.sg) 	| <img src="/images/ast7.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
+| **Mrs Jesslyn Phon**<br>Administration Manager<br><br>[goh\_boon\_kim@schools.gov.sg](mailto:goh_boon_kim@schools.gov.sg) 	| <img src="/images/Our Staff/ 03 EAS and Others/ast7.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
 | **Mdm Aneza Abdullah**<br>Corporate Support Officer <br><br>[aneza\_abdullah@schools.gov.sg](mailto:aneza_abdullah@schools.gov.sg)	| <img src="/images/ast2.png" style="width:200px;height:200px;margin-left:15px;" align = "right">  	|
 | **Mdm Zuridah Hussein**<br>Corporate Support Officer<br><br>[zuridah\_hussein@schools.gov.sg](mailto:zuridah_hussein@schools.gov.sg) 	| <img src="/images/ast3.png" style="width:200px;height:200px;margin-left:15px;" align = "right">  	|
 | **Mdm Lim Jenny**<br>Corporate Support Officer<br><br>[lim\_jenny@schools.gov.sg](mailto:lim_jenny@schools.gov.sg) 	| <img src="/images/ast4.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
