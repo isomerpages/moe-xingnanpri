@@ -8,7 +8,7 @@ third_nav_title: Our People
 
 #### School Leaders
 
-<img src="/images/kp1.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Charles Chan**  
+<img src="/images/kp1.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Cindy ong**  
 Principal  
   
 _"Children are curious, active and competent learners. They can learn almost anything with the right support and environment. Our focus as educators is to facilitate authentic learning experiences through quality interactions. We want to provide opportunities to nurture their holistic development for lifelong learning."_
