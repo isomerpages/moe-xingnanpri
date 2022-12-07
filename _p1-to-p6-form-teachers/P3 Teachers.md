@@ -66,15 +66,23 @@ _"Every child has his or her strength. It is the teachers' duty to discover that
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/3D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Khoo Chun Mei**
 
-[****](mailto:)
+Primary 3D
+
+_" To be updated soon"_ 
+
+[**khoo_chun_mei@schools.gov.sg**](mailto:khoo_chun_mei@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/3D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chen Degeng**
 
-[****](mailto:)
+Primary 3D
+
+_"Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions."_
+
+[**chen_degeng@schools.gov.sg**](mailto:chen_degeng@schools.gov.sg)
 
 * * *
 
