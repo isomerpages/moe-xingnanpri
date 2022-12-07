@@ -145,23 +145,23 @@ _"Pendidikan adalah asas untuk masa depan yang lebih baik. ~~~ Education is the 
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1H1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Delia Ang**
 
-Primary 1A
+Primary 1H
 
-_"I believe that every child can be taught and nurtured through education."_
+_"I believe that all students can and want to learn. We can foster their natural desire to learn by bringing exciting learning experiences into classrooms." _
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**ang_yen_peng@school.gov.sg**](mailto:ang_yen_peng@school.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1H2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Ong Xiao Hui**
 
-Primary 1A
+Primary 1H
 
-_"I believe that every child can be taught and nurtured through education."_
+_"There's no definition of normal."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**ong_xiao_hui@schools.gov.sg**](mailto:ong_xiao_hui@schools.gov.sg)
 
 * * *
 
