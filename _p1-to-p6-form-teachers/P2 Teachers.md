@@ -45,23 +45,23 @@ _" "_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Jamilah Binte Rahim**
 
-Primary 2A
+Primary 2C
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Every child is special and has the potential to soar to greater heights."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**jamilah_rahim@schools.gov.sg**](mailto:jamilah_rahim@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **BRAN**
 
-Primary 2A
+Primary 2C
 
-_"I believe that every child can be taught and nurtured through education."_
+_" "_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[** **](mailto:)
 
 * * *
 
