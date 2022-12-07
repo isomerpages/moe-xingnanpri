@@ -197,8 +197,6 @@ _"Education goes beyond imparting knowledge and skills. Pupils must be imbued wi
 
 * * *
 
-
-
 ### P1 Teachers 2022
 
 ***
