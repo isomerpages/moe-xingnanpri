@@ -35,15 +35,23 @@ _"Our students and our children are our future. I firmly believe that as primary
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/4B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/4B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Lin Chudai**
 
-[****](mailto:)
+Primary 4B
+
+_"学习是一件快乐的事。我希望做一个快乐的老师，努力让学生在快乐的学习氛围中快快乐乐地学习华文。"_
+
+[**lin_chudai@schools.gov.sg**](mailto:lin_chudai@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Ong Li Jing**
 
-[****](mailto:)
+Primary 4C
+
+_"Every child can learn, and even teach others, to become better. May we be able to guide them and remind them to enjoy and treasure what is important."_
+
+[**ong_lijing@schools.gov.sg**](mailto:ong_lijing@schools.gov.sg)
 
 * * *
 
@@ -64,4 +72,3 @@ _"Our students and our children are our future. I firmly believe that as primary
 [****](mailto:)
 
 * * *
-
