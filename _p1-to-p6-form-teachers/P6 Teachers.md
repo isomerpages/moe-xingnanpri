@@ -38,15 +38,23 @@ _"Caring, Competence and Commitment. I will motivate and inspire my students to 
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/6B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/6B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Abdul Wahab**
 
-[****](mailto:)
+Primary 6B
+
+_"I believe in being a PE Mentor to every pupil, Build their confidence, Engage them in Learning, Inspire them to Excel and be a Facilitator of knowledge."_
+
+[**wahab_rahman@schools.gov.sg**](mailto:wahab_rahman@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/6C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/6C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Mirna D/O Ramalengam**
 
-[****](mailto:)
+Primary 6C
+
+_"I believe that every child is like coal. By applying pressure, they can become diamonds."_
+
+[**mirna_ramalengam@schools.gov.sg**](mailto:mirna_ramalengam@schools.gov.sg)
 
 * * *
 
