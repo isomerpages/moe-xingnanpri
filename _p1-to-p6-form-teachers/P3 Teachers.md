@@ -96,32 +96,43 @@ _"Stay humble and be eager to learn! A cup cannot take in anymore water if it is
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **NEW TEACHER**
+
+
+Primary 3E
+
+_""_
 
 [****](mailto:)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/3E3.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Ma Chen**
 
-[****](mailto:)
+Primary 3E
 
-* * *
+_"和孩子们一同打造他们自己绝无仅有的开启世界之门的华语钥匙。"_
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
-
-[****](mailto:)
+[**ma_chen@schools.gov.sg**](mailto:ma_chen@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/3F1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Santha Padman**
 
-[****](mailto:)
+Primary 3F
+
+_"Teaching and learning is a journey with routes and traffic lights – We are guided along the way, we pause to think, stop to reflect and move on again."_
+
+[**santha_subramaniam@schools.gov.sg**](mailto:santha_subramaniam@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/3F2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Skye Gan Soon Keat**
 
-[****](mailto:)
+Primary 3F
+
+_"Teaching is not hard work, it's HeartWork. I teach like how I would like to be taught. Putting myself in the shoes of my students allows me to come up with engaging and inspiring lessons."_
+
+[**gan_soon_keat@schools.gov.sg**](mailto:gan_soon_keat@schools.gov.sg)
 
 * * *
