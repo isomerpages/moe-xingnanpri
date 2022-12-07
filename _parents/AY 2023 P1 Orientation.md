@@ -62,6 +62,7 @@ Parents Gateway is a mobile app developed by MOE to support parents’ involveme
 **Administrative Task**
 
 Please click on the link below to access and complete all the administrative tasks for the 2023 primary registration. All links and instruction to complete the task is listed in the table given. Please be advised on the dates of link availability.
+Click here to complete the administrative Task
 All administrative task needs to be completed latest by **29 December 2022.**
 
 **Useful Resources / Links**
