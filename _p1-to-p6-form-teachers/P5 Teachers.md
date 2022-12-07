@@ -65,15 +65,24 @@ _Teaching is not the filling of a pail, but the lighting of a fire. We owe these
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/5C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/5C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Yang Nian**
 
-[****](mailto:)
+Primary 5C 
+
+_"学生都是一颗花的种子，有的一开始就会灿烂地绽放，有的则需要漫长的等待。因此，陪伴学生们一起成长，要有耐心，更要有爱心。"_
+
+
+[**yang_nian@schools.gov.sg**](mailto:yang_nian@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/5D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/5D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Janet See**
 
-[****](mailto:)
+Primary 5D 
+
+_I believe that pupils learn best in a non-threatening environment where they are not afraid to make mistakes from which they will learn and become wiser."_
+
+[**chong_yen_lian_janet@schools.gov.sg**](mailto:chong_yen_lian_janet@schools.gov.sg)
 
 * * *
 
