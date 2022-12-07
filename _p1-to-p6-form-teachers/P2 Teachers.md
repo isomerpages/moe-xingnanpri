@@ -145,6 +145,16 @@ _"I believe every child can learn. It is how we empower them with learning oppor
 
 * * *
 
+<img src="/images/Our Staff/02 Teacher/2G3.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **NEW TEACHER**
+
+Primary 2G
+
+_""_
+
+[****](mailto:)
+
+* * *
+
 <img src="/images/Our Staff/02 Teacher/2H1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Millah Bte Rasimin**
 
 Primary 2H
