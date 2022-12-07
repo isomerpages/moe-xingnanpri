@@ -75,4 +75,17 @@ All administrative task needs to be completed latest by **29 December 2022.**
 * [Parent Kit - Preschool to Primary School Transition](/files/Parents/P1%20Orientation/Parent%20Kit%20-%20Preschool%20to%20Primary%20School%20Transition.pdf)
 [FAQ on Transition to P1](/files/Parents/P1%20Orientation/FAQ%20on%20Transition%20to%20P1.pdf)
 
+**MOE Parents Kit**
 
+Each Parent Kit issue contains bite-sized actionable tips with supporting resources for parents to help them support their child in their education journey.
+
+[https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit)
+
+**Schoolbag.edu.sg**
+
+Through articles and multimedia content, Schoolbag provide parents and general public with information and insights related to education, tips for parent involvement and features on school programmes.
+
+[www.schoolbag.edu.sg](http://www.schoolbag.edu.sg/)
+
+**Parent-Child Activity Book (Digital)**
+The Parent-Child Activity Book (PCAB) is specially designed to help your child transit from preschool to P1 with the aid of fun and meaningful parent-child activities.  The book is made up of 10 chapters to support parents in helping your child adjust to their new environment.  Available on the Parent Kit website and Parenting Resources repository on Parents Gateway, you may scan the QR code to access a digital copy of the book.
