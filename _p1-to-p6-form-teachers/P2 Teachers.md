@@ -155,33 +155,33 @@ _"The best kind of teacher is one who commands respect and love from her student
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2H2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Athena Choo Jia Yee**
 
-Primary 2A
+Primary 2H
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Every student can learn, just not on the same day, or the same way." - George Evans. I believe that children have their own unique talents and abilities. As an educator, we should help them reach their maximum potential, with the right guidance and support."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
-
-* * *
-
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
-
-Primary 2A
-
-_"I believe that every child can be taught and nurtured through education."_
-
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**athena_choo_jia_yee@schools.gov.sg**](mailto:athena_choo_jia_yee@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2I1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Mok Song Imm**
 
-Primary 2A
+Primary 2I
 
-_"I believe that every child can be taught and nurtured through education."_
+_“Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions.”_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**mok_song_imm@schools.gov.sg**](mailto:mok_song_imm@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/2I2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **QURAISYAHl**
+
+Primary 2I
+
+_""_
+
+[****](mailto:)
 
 * * *
 
