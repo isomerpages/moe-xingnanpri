@@ -14,13 +14,13 @@ _"I believe that every child can be taught and nurtured through education."_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1A2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Mohmmaad Irwan Bin Md Isa**
 
 Primary 1A
 
-_"I believe that every child can be taught and nurtured through education."_
+_"As a Teacher, I believe in Empathising with my pupils' learning needs prior to Assessing their full potentials Carefully and Honestly so that I can Enjoy my role with a Reflective mind."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**mohammad_irwan_md_isa@schools.gov.sg**](mailto:mohammad_irwan_md_isa@schools.gov.sg)
 
 * * *
 
