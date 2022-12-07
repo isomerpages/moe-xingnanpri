@@ -74,23 +74,23 @@ _"Every child has his strength waiting to be discovered."_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1D2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Wong Shui Zhu**
 
-Primary 1A
+Primary 1D
 
-_"I believe that every child can be taught and nurtured through education."_
+_"我相信每一位孩子都有自己的天赋，教师需要通过关爱，细心的教学培养孩子的天赋。"_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**wong_shui_zhu@schools.gov.sg**](mailto:wong_shui_zhu@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Maslinda Bte Abd Wahab**
 
-Primary 1A
+Primary 1E
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Every child is a star in its own light!"_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**maslinda_abd_wahab@schools.gov.sg**](mailto:maslinda_abd_wahab@schools.gov.sg)
 
 * * *
 
