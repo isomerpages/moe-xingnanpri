@@ -64,13 +64,13 @@ _"TO BE UPDATED SOON"_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Rafizah Bte Rahman**
 
-Primary 1A
+Primary 1D
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Every child has his strength waiting to be discovered."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**rafizah\_rahman@schools.gov.sg**](mailto:rafizah_rahman@schools.gov.sg)
 
 * * *
 
