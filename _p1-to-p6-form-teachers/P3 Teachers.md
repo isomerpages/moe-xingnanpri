@@ -56,9 +56,13 @@ _"To be updated soon" _
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/3C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Syahida Bte Paiman**
 
-[****](mailto:)
+Primary 3C
+
+_"Every child has his or her strength. It is the teachers' duty to discover that strength by developing their potential and nurturing them to be the best that they can be."_
+
+[**nur_syahida_paiman@schools.gov.sg**](mailto:nur_syahida_paiman@schools.gov.sg)
 
 * * *
 
