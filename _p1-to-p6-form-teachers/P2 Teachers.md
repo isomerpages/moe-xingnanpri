@@ -39,9 +39,9 @@ _"Teaching and learning is always occurring. Children have the ability to empowe
 
 Primary 2B
 
-_" "_
+_""_
 
-[** **](mailto:)
+[****](mailto:)
 
 * * *
 
@@ -59,9 +59,9 @@ _"Every child is special and has the potential to soar to greater heights."_
 
 Primary 2C
 
-_" "_
+_""_
 
-[** **](mailto:)
+[****](mailto:)
 
 * * *
 
@@ -119,9 +119,9 @@ _"Every child deserves equal treatment and no one should be left behind in the l
 
 Primary 2F
 
-_" "_
+_""_
 
-[** **](mailto:)
+[****](mailto:)
 
 * * *
 
