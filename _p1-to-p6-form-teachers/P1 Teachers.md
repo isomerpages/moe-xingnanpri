@@ -24,13 +24,13 @@ _"As a Teacher, I believe in Empathising with my pupils' learning needs prior to
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Chia Tzu Lin**
 
-Primary 1A
+Primary 1B
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Children need to be challenged. They need to solve hard problems and develop values. I hope to give our children the opportunity to be deeply engaged, and equip them with the processes they need to succeed in the future."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**chia\_tzu\_lin@schools.gov.sg**](mailto:chia_tzu_lin@schools.gov.sg)
 
 * * *
 
