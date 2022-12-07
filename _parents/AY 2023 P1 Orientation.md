@@ -45,7 +45,7 @@ Online buying guides for textbooks and school attire 
 
 *   [Bookshop Vendor Website](https://www.huntforbooks.com/)  (Available from 21st November 2022)
 *   [Uniform Vendor Website](https://asencio.com.sg/)
-*   [School Bus Request For](https://go.gov.sg/xnpsbus23)m
+*   [School Bus Request Form](https://go.gov.sg/xnpsbus23)
 
 **Our Learning Environment**
 
