@@ -52,3 +52,10 @@ Online buying guides for textbooks and school attire 
 
 Click on the play button below to take a tour of our school. Use the navigation link in the tour to read and watch more information about our school.
 *  [Xingnan Primary School Virtual Tour](https://roundme.com/tour/651486/view/2062694)
+
+**Parents Gateway (PG)**
+
+Parents Gateway is a mobile app developed by MOE to support parents’ involvement in their child’s educational journey. The app enables you to receive information from the school and perform a range of administrative functions, including granting consent for school programmes/activities, booking of Parent-Teacher Meeting slots and declaring travel plans during school terms.  
+[Click here to learn more about PG](/files/Parents/P1%20Orientation/Guide%20to%20PG%20Onboarding.pdf)
+
+*   [Click here to learn more about PG](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/8.%20Guide%20to%20PG%20Onboarding.pdf)
