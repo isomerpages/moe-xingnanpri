@@ -108,8 +108,12 @@ _Direct children onto the right path. When they are older, they will not depart 
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/5E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/5E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Benjamin Wong**
 
-[****](mailto:)
+Primary 5E
+
+_I believe that every child has the ability to improve. What matters is, no matter how minute, the child who had performed better today than yesterday is going to do even better tomorrow."_
+
+[**wong_chun_chit_benjamin@schools.gov.sg**](mailto:wong_chun_chit_benjamin@schools.gov.sg)
 
 * * *
