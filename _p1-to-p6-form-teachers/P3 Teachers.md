@@ -35,9 +35,13 @@ _"To be updated Soon"_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/3B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tii Siew Ping**
 
-[****](mailto:)
+Primary 3B
+
+_"发光不是太阳的专利，只要用心发掘，每一个孩子都能发光发亮。"_
+
+[**tii_siew_ping@schools.gov.sg**](mailto:tii_siew_ping@schools.gov.sg)
 
 * * *
 
