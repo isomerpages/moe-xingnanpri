@@ -14,7 +14,7 @@ _"I believe that every child can be taught and nurtured through education."_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Mohmmaad Irwan Bin Md Isa**
+<img src="/images/Our Staff/02 Teacher/1A2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Mohmmaad Irwan Bin Md Isa**
 
 Primary 1A
 
