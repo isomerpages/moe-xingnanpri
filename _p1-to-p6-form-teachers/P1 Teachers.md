@@ -104,23 +104,23 @@ _"孩子们需要一个安全、愉快的学习环境。我会尽力为他们打
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1F1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Juhariyah Bte Johari**
 
-Primary 1A
+Primary 1F
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Education is not preparation for life, education is the journey to life itself."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**juhariyah_johari@schools.gov.sg**](mailto:juhariyah_johari@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1F2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Philip Chiu**
 
-Primary 1A
+Primary 1F
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Pupils should develop to be lifetime learners and continue to improve their talents, skills and knowledge. Therefore, teachers should not only teach pupils what to learn, but also, more importantly, teach them how to learn."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**chiu_shek_man_philip@schools.gov.sg**](mailto:chiu_shek_man_philip@schools.gov.sg)
 
 * * *
 
