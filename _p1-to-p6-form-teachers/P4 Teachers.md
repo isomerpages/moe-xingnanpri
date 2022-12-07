@@ -55,20 +55,32 @@ _"Every child can learn, and even teach others, to become better. May we be able
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/4C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/4C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tuminah Bte Mohd Bakir**
 
-[****](mailto:)
+Primary 4C
 
-* * *
+_"I believe in nurturing, inspiring and motivating each child with tender care and sincerity."_
 
-<img src="/images/Our Staff/02 Teacher/4D1.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
-
-[****](mailto:)
+[**tuminah_mohamed_bakir@schools.gov.sg**](mailto:tuminah_mohamed_bakir@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/4D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/4D1.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Noriayati Ishak**
 
-[****](mailto:)
+Primary 4D
+
+_“To be updated Soon”_
+
+[**noriayati_ishak@schools.gov.sg**](mailto:noriayati_ishak@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/4D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Denise Yap**
+
+Primary 4D
+
+_"I believe in developing positive relationship with my students. As pupils spend most of their waking time in school, a strong pupil-teacher relationship will lead to better engagement, allowing effective instructions to take place."_
+
+[**denise_yap@schools.gov.sg**](mailto:denise_yap@schools.gov.sg)
 
 * * *
