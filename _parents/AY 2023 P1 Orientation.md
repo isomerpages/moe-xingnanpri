@@ -86,8 +86,11 @@ Each Parent Kit issue contains bite-sized actionable tips with supporting resour
 **Schoolbag.edu.sg**
 
 Through articles and multimedia content, Schoolbag provide parents and general public with information and insights related to education, tips for parent involvement and features on school programmes.
-
+<img src="/images/Parents/P1%20Orientation/school%20bag.png" style="width:150px;height:150px;margin-left:15px;" align = "Centre">
 [www.schoolbag.edu.sg](http://www.schoolbag.edu.sg/)
+
+
 
 **Parent-Child Activity Book (Digital)**
 The Parent-Child Activity Book (PCAB) is specially designed to help your child transit from preschool to P1 with the aid of fun and meaningful parent-child activities.  The book is made up of 10 chapters to support parents in helping your child adjust to their new environment.  Available on the Parent Kit website and Parenting Resources repository on Parents Gateway, you may scan the QR code to access a digital copy of the book.
+<img src="/images/Parents/P1%20Orientation/Parent%20Child%20Activity%20Book.png" style="width:150px;height:150px;margin-left:15px;" align = "Centre">
