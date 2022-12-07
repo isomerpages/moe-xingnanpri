@@ -124,23 +124,23 @@ _"Pupils should develop to be lifetime learners and continue to improve their ta
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1G1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Pierre E**
 
-Primary 1A
+Primary 1G
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Children are capable of more than we think, sometimes even more than they themselves think. As teachers, we need to encourage children to aim high and reach that potential."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**rern_yi_pierre_e@schools.gov.sg**](mailto:rern_yi_pierre_e@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1G2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Rosneayu Binte Rosenen**
 
-Primary 1A
+Primary 1G
 
-_"I believe that every child can be taught and nurtured through education."_
+_"All students can learn and succeed, but not on the same day in the same way. As a teacher, I believe in understanding my students' needs, and giving them every possible opportunity that they deserve in order to learn and grow to the best of their potential."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**rosneayu_rosenen@schools.gov.sg**](mailto:rosneayu_rosenen@schools.gov.sg)
 
 * * *
 
