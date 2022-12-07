@@ -5,7 +5,7 @@ description: ""
 ---
 ### P3 Teachers (2023)
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Salini a/p Baloh**
+<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Salini A/P Baloh**
 
 Primary 3A
 
@@ -25,11 +25,22 @@ _"You can teach a pupil a lesson a day but if you can develop his curiosity, he 
 
 * * *
 
+<img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
+
+
+Primary 3E
+
+_"TO BE UPDATED SOON"_
+
+[****](mailto:)
+
+* * *
+
 <img src="/images/Our Staff/02 Teacher/3B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Peh En Mey**
 
 Primary 3B
 
-_"To be updated Soon"_
+_"TO BE UPDATED SOON"_
 
 [**peh_en_mey@schools.gov.sg**](mailto:peh_en_mey@schools.gov.sg)
 
@@ -49,7 +60,7 @@ _"发光不是太阳的专利，只要用心发掘，每一个孩子都能发光
 
 Primary 3C
 
-_"To be updated soon" _
+_"TO BE UPDATED SOON"_
 
 
 [**constance_toh_kai_ting@schools.gov.sg**](mailto:constance_toh_kai_ting@schools.gov.sg)
@@ -70,7 +81,7 @@ _"Every child has his or her strength. It is the teachers' duty to discover that
 
 Primary 3D
 
-_" To be updated soon"_ 
+_"TO BE UPDATED SOON"_ 
 
 [**khoo_chun_mei@schools.gov.sg**](mailto:khoo_chun_mei@schools.gov.sg)
 
@@ -96,12 +107,12 @@ _"Stay humble and be eager to learn! A cup cannot take in anymore water if it is
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **NEW TEACHER**
+<img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
 
 
 Primary 3E
 
-_""_
+_"TO BE UPDATED SOON"_
 
 [****](mailto:)
 
