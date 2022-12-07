@@ -78,20 +78,32 @@ _"Every child has strengths. Education is the ongoing process to help each and e
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/6D2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/6D2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Sia Chu Kwee**
 
-[****](mailto:)
+Primary 6D
 
-* * *
+_"教育是事业，事业的成功在于奉献； 教育是科学，科学的探索在于求真； 教育是艺术，艺术的生命在于创新； 教育是信念，信念的坚定在于观念。"_
 
-<img src="/images/Our Staff/02 Teacher/6E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
-
-[****](mailto:)
+[**sia_chu_kwee@schools.gov.sg**](mailto:sia_chu_kwee@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/6E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/6E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Mazidah Bte Othman**
 
-[****](mailto:)
+Primary 6E
+
+_"To be updated soon."_
+
+[**mazidah_othman@schools.gov.sg**](mailto:mazidah_othman@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/6E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Taufek Bin Siniwi**
+
+Primary 6E
+
+_"Every Child Deserves An Opportunity To Learn."_
+
+[**taufek_b_siniwi@schools.gov.sg**](mailto:taufek_b_siniwi@schools.gov.sg)
 
 * * *
