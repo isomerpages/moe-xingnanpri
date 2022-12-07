@@ -86,9 +86,13 @@ _"Meaningful learning occurs when students are allowed to confront real problems
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/3E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Jackson Ng Yeow Meng**
 
-[****](mailto:)
+Primary 3E
+
+_"Stay humble and be eager to learn! A cup cannot take in anymore water if it is full of water itself. If a student is full of himself, he will not be able to gain any new knowledge. A person who is humble will attract many people, who are willing to impart new knowledge to him. As a teacher and also a livelong learner, I feel that these two qualities are the most important to guide our learning self."_
+
+[**ng_yeow_meng_jackson@schools.gov.sg**](mailto:ng_yeow_meng_jackson@schools.gov.sg)
 
 * * *
 
