@@ -12,6 +12,190 @@ _"I believe that every child can be taught and nurtured through education."_
 
 [**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
 
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+
+Primary 1A
+
+_"I believe that every child can be taught and nurtured through education."_
+
+[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+
+* * *
+
+
+
 ### P1 Teachers 2022
 
 ***
