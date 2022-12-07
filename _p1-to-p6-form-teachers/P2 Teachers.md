@@ -105,23 +105,23 @@ _"教师，是播撒知识的种子，传递文明火炬的使者"_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2F1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Shankar Ganesh S/O Balakrishna**
 
-Primary 2A
+Primary 2F
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Every child deserves equal treatment and no one should be left behind in the ladder of success. With the correct guidance, every pupil under my care shall grow up to become a successful person with good character."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**shankar_ganesh_balakrishna@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2F2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **NEW TEACHER**
 
-Primary 2A
+Primary 2F
 
-_"I believe that every child can be taught and nurtured through education."_
+_" "_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[** **](mailto:)
 
 * * *
 
