@@ -3,7 +3,6 @@ title: AY 2023 P1 Orientation
 permalink: /parents/p1orientation/
 description: ""
 ---
-
 ### Primary 1 Orientation Details 
 <img src="/images/Parents/Banner.jpg" style="width:6000px;height:240px;margin-left:15px;" align = "Centre">
 
@@ -24,7 +23,6 @@ Parents are encouraged to go through the following materials prior to meeting up
 
 * [Click Here ](/files/Parents/P1%20Orientation/sirkit2023.pdf) for the Start It Right Kit
 
-[Click Here](/files/Parents/P1%20Orientation/p1booklist23.pdf)
 
 **Sale of Textbooks and School Attire**
 
@@ -35,15 +33,16 @@ Parents are encouraged to go through the following materials prior to meeting up
 
 *   Arrangements have been made with our bookshop vendor, HB Book Centre, and uniform vendor, Asencio Pte Ltd to carry out these online purchasing processes.  Just register for an account and select your mode of receipt – Home Delivery Service or Self-collection at school.  Self-collection at school will be strictly based on appointments only.  You may indicate your preferred time and date when you make your orders.  
 
-*   [2023 Primary 1 Booklist](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/4.%20Primary%201%20Booklist.pdf)  
-*   [Instructions for the purchase of textbooks and school attire](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/5.%20Instructions%20for%20Sale%20of%20Textbooks%20and%20School%20Attire.pdf) 
-*   Online buying guides for textbooks and school attire 
+*   [2023 Primary 1 Booklist](/files/Parents/P1%20Orientation/p1booklist23.pdf)
+*   [Instructions for the purchase of textbooks and school attire ](/files/Parents/P1%20Orientation/Instructions%20for%20Sale%20of%20Textbooks%20and%20School%20Attire.pdf)
 
- [6a. Online Buying Guide for Attire.pdf](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/6a.%20Online%20Buying%20Guide%20for%20Attire.pdf)  
+Online buying guides for textbooks and school attire 
+>* [6a. Online Buying Guide for Attire](/files/Parents/P1%20Orientation/Online%20Buying%20Guide%20for%20Attire.pdf)
+>* [6b. Online Buying Guide - Attire for FAS students](/files/Parents/P1%20Orientation/Online%20Buying%20Guide%20-%20Attire%20for%20FAS%20students.pdf)
+>* [7. Online Buying Guide for textbooks](/files/Parents/P1%20Orientation/Online%20Buying%20Guide%20for%20Textbooks%20.pdf)
 
-[6b.Online Buying Guide - Attire for FAS students.pdf](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/6b.Online%20Buying%20Guide%20-%20Attire%20for%20FAS%20students.pdf)  
 
-[7\. Online Buying Guide for Textbooks.pdf](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/7.%20Online%20Buying%20Guide%20for%20Textbooks.pdf)
+
 *   [Bookshop Vendor Website](https://www.huntforbooks.com/)  (Available from 21st November 2022)
 *   [Uniform Vendor Website](https://asencio.com.sg/)
 *   [School Bus Request For](https://go.gov.sg/xnpsbus23)m
