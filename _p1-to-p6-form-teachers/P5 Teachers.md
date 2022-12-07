@@ -35,15 +35,23 @@ _"I believe that every child can learn, regardless of nationalities, learning di
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/5B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/5B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Yuan Quan**
 
-[****](mailto:)
+Primary 5B
+
+_" To be updated soon" _
+
+[**yuan_quan_a@schools.gov.sg**](mailto:yuan_quan_a@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/5B3.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/5B3.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Li Jing **
 
-[****](mailto:)
+Primary 5B
+
+_" 一名优秀的教师，需要具备随时调整自己来适应不同学生需求的能力。用心去关爱他们，用行动去感染他们。那么自己所收获的不仅仅是一个品学兼优的学子，还会拥有他们那颗感恩的心。"_
+
+[**li_jing_a@schools.gov.sg**](mailto:li_jing_a@schools.gov.sg)
 
 * * *
 
