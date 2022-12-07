@@ -58,15 +58,23 @@ _"I believe that every child is like coal. By applying pressure, they can become
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/6C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/6C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Huang Li Juan**
 
-[****](mailto:)
+Primary 6C
+
+_"I believe that children live up to what we believe in them"_
+
+[**siau_li_juan@schools.gov.sg**](mailto:siau_li_juan@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/6D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/6D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Isabel Soo**
 
-[****](mailto:)
+Primary 6D
+
+_"Every child has strengths. Education is the ongoing process to help each and every child discover his/her strengths and put them into good use."_
+
+[**tan_kah_cheng_isabel@schools.gov.sg**](mailto:tan_kah_cheng_isabel@schools.gov.sg)
 
 * * *
 
