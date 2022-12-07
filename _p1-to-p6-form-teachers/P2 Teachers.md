@@ -175,7 +175,7 @@ _“Meaningful learning occurs when students are allowed to confront real proble
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2I2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **QURAISYAHl**
+<img src="/images/Our Staff/02 Teacher/2I2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **QURAISYAH**
 
 Primary 2I
 
@@ -195,7 +195,7 @@ _"I believe that every child can be taught and nurtured through education."_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2J1.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
 
 Primary 2A
 
