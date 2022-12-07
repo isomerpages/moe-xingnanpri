@@ -78,6 +78,8 @@ All administrative task needs to be completed latest by **29 December 2022.**
 **MOE Parents Kit**
 
 Each Parent Kit issue contains bite-sized actionable tips with supporting resources for parents to help them support their child in their education journey.
+<img src="images/Parents/P1%20Orientation/MOE%20Parent%20kit%2023.png" style="width:150px;height:150px;margin-left:15px;" align = "Centre">
+
 
 [https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit)
 
