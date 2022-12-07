@@ -165,33 +165,35 @@ _"There's no definition of normal."_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1I1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Norain Bte Bakadool**
 
-Primary 1A
+Primary 1I
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Hearts on. Minds on. Hands on"_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
-
-* * *
-
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
-
-Primary 1A
-
-_"I believe that every child can be taught and nurtured through education."_
-
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**norain_bakadool@schools.gov.sg**](mailto:norain_bakadool@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1I2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Sylvia Tan Han Yu**
 
-Primary 1A
+Primary 1I
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Climb the mountain not so the world can see you, but so that you can see the world. - David McCullough Jr._
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+_I believe that education is the path for this gracious climb and teachers are the marshals."_
+
+[**sylvia_tan_han_yu@schools.gov.sg**](mailto:sylvia_tan_han_yu@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/1I3.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Kwek Khiok Chai**
+
+Primary 1I
+
+_"Education goes beyond imparting knowledge and skills. Pupils must be imbued with the right values and character so that they can impact society positively."_
+
+[**kwek_khiok_chai@schools.gov.sg**](mailto:kwek_khiok_chai@schools.gov.sg)
 
 * * *
 
