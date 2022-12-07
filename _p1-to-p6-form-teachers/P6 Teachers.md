@@ -18,15 +18,23 @@ And I thought how carefully we'd teach if we were truly wise.”_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/6A2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/6A2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Joseph Joel Ang**
 
-[****](mailto:)
+Primary 6A 
+
+_"Every child is able to learn. Helping pupils to find their learning styles would enable them to become effective learners."_
+
+[**joseph_ang_chay_hee@schools.gov.sg**](mailto:joseph_ang_chay_hee@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/6B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/6B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Jessie Wee Ai-Hwa**
 
-[****](mailto:)
+Primary 6B
+
+_"Caring, Competence and Commitment. I will motivate and inspire my students to learn if I can show them how much I care. Through self-awareness and reflection, I will hone my skills to better engage my students."_
+
+[**wee_ai-hwa_jessie@schools.gov.sg**](mailto:wee_ai-hwa_jessie@schools.gov.sg)
 
 * * *
 
@@ -71,4 +79,3 @@ And I thought how carefully we'd teach if we were truly wise.”_
 [****](mailto:)
 
 * * *
-
