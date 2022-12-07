@@ -39,13 +39,13 @@ _"I believe that every child can learn, regardless of nationalities, learning di
 
 Primary 5B
 
-_" To be updated soon" _
+_"TO BE UPDATED SOON"_
 
 [**yuan_quan_a@schools.gov.sg**](mailto:yuan_quan_a@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/5B3.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Li Jing **
+<img src="/images/Our Staff/02 Teacher/5B3.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Li Jing**
 
 Primary 5B
 
@@ -90,7 +90,7 @@ _I believe that pupils learn best in a non-threatening environment where they ar
 
 Primary 5D
 
-_To be updated soon”_
+_"TO BE UPDATED SOON”_
 
 [**daniel_balhetchet@schools.gov.sg**](mailto:daniel_balhetchet@schools.gov.sg)
 
