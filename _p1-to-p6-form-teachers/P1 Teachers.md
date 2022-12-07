@@ -54,13 +54,13 @@ _"I believe in giving the best to the future generation. Students will be strong
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1C2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Vincent Arokia Dass**
 
-Primary 1A
+Primary 1C
 
-_"I believe that every child can be taught and nurtured through education."_
+_"TO BE UPDATED SOON"_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**vincent\_arokia\_dass\_t@schools.gov.sg**](mailto:vincent_arokia_dass_t@schools.gov.sg)
 
 * * *
 
