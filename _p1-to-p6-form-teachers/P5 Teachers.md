@@ -86,9 +86,13 @@ _I believe that pupils learn best in a non-threatening environment where they ar
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/5D2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/5D2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Daniel Benjamin Balhetchet**
 
-[****](mailto:)
+Primary 5D
+
+_To be updated soon”_
+
+[**daniel_balhetchet@schools.gov.sg**](mailto:daniel_balhetchet@schools.gov.sg)
 
 * * *
 
