@@ -58,3 +58,21 @@ Click on the play button below to take a tour of our school. Use the navigation 
 Parents Gateway is a mobile app developed by MOE to support parents’ involvement in their child’s educational journey. The app enables you to receive information from the school and perform a range of administrative functions, including granting consent for school programmes/activities, booking of Parent-Teacher Meeting slots and declaring travel plans during school terms.  
 [Click here to learn more about PG](/files/Parents/P1%20Orientation/Guide%20to%20PG%20Onboarding.pdf)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Administrative Task**
+
+Please click on the link below to access and complete all the administrative tasks for the 2023 primary registration. All links and instruction to complete the task is listed in the table given. Please be advised on the dates of link availability.
+All administrative task needs to be completed latest by **29 December 2022.**
+
+**Useful Resources / Links**
+
+1.  Developments in Primary School Education ([video](https://youtu.be/9paLbNR2zWg))
+2.  Transition to Primary One
+3.  1.  Transition to Primary One
+
+*   [Transition to Primary One](https://youtu.be/l0EnKuLTHpQ)
+*   [Making the Jump](https://youtu.be/7oGItQKEwmc)
+* [Parent Kit - Preschool to Primary School Transition](/files/Parents/P1%20Orientation/Parent%20Kit%20-%20Preschool%20to%20Primary%20School%20Transition.pdf)
+[FAQ on Transition to P1](/files/Parents/P1%20Orientation/FAQ%20on%20Transition%20to%20P1.pdf)
+
+
