@@ -96,9 +96,15 @@ _To be updated soon”_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/5E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/5E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Gabrielle Ong Suan Woon**
 
-[****](mailto:)
+Primary 5E
+
+_I believe education is not only about teaching the ABCs or the 123s. Rather, it is using subject content to direct children to lifelong learning and character building. Imbibing children with skills and values will prime them for any and every challenge which life throws at them. My hope is for my students to not only be excellent in their academic endeavours, but to also become people of character with a love for others."
+
+_Direct children onto the right path. When they are older, they will not depart from it.”_
+
+[**ong_suan_woon_gabrielle@schools.gov.sg**](mailto:ong_suan_woon_gabrielle@schools.gov.sg)
 
 * * *
 
