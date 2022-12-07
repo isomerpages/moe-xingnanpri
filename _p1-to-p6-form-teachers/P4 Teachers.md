@@ -21,7 +21,7 @@ Primary 4A
 
 _"始终贯彻坚守教岗的信念。我坚信以诚关爱、用心感化，必能牵引学子之心，内化品学，春风化雨。以感恩之心，引领、启发快乐的小天使成为未来闪亮的星星。"_
 
-[**chew_bee_hoon@schools.gov.sg **](mailto:chew_bee_hoon@schools.gov.sg )
+[**chew_bee_hoon@schools.gov.sg**](mailto:chew_bee_hoon@schools.gov.sg)
 
 * * *
 
@@ -69,7 +69,7 @@ _"I believe in nurturing, inspiring and motivating each child with tender care a
 
 Primary 4D
 
-_“To be updated Soon”_
+_“TO BE UPDATED SOON”_
 
 [**noriayati_ishak@schools.gov.sg**](mailto:noriayati_ishak@schools.gov.sg)
 
