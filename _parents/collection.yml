@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - AY 2023 P1 Orientation/Administrative Task.md
       - AY 2023 P1 Orientation/AY 2023 P1 Orientation.md
       - AY 2023 P1 Orientation/.keep
       - Overview.md
