@@ -44,13 +44,13 @@ _"Art teachers mould students to become creative, inquisitive, flexible & tenaci
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Ler Lay Ching**
 
-Primary 1A
+Primary 1C
 
-_"I believe that every child can be taught and nurtured through education."_
+_"I believe in giving the best to the future generation. Students will be strongly motivated if they know that their teachers are teaching from their hearts."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**ler\_lay\_ching@schools.gov.sg**](mailto:ler_lay_ching@schools.gov.sg)
 
 * * *
 
