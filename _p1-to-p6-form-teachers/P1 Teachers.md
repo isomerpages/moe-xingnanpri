@@ -138,7 +138,8 @@ _"Children are capable of more than we think, sometimes even more than they them
 
 Primary 1G
 
-_"All students can learn and succeed, but not on the same day in the same way. As a teacher, I believe in understanding my students' needs, and giving them every possible opportunity that they deserve in order to learn and grow to the best of their potential."_
+_"Pendidikan adalah asas untuk masa depan yang lebih baik. ~~~ Education is the foundation for a better future.”
+"_
 
 [**rosneayu_rosenen@schools.gov.sg**](mailto:rosneayu_rosenen@schools.gov.sg)
 
