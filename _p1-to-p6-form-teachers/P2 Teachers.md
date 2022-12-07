@@ -25,23 +25,23 @@ _"Teachers are like the light in the dark - always guiding and lending a helping
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Hidayah Bte Suhardjono**
 
-Primary 2A
+Primary 2B
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Teaching and learning is always occurring. Children have the ability to empower too."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**nur_hidayah_suhardjono@schools.gov.sg**](mailto:nur_hidayah_suhardjono@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **NEW TEACHER**
 
-Primary 2A
+Primary 2B
 
-_"I believe that every child can be taught and nurtured through education."_
+_" "_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[** **](mailto:)
 
 * * *
 
