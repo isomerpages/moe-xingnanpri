@@ -149,7 +149,7 @@ _"Pendidikan adalah asas untuk masa depan yang lebih baik. ~~~ Education is the 
 
 Primary 1H
 
-_"I believe that all students can and want to learn. We can foster their natural desire to learn by bringing exciting learning experiences into classrooms." _
+_"I believe that all students can and want to learn. We can foster their natural desire to learn by bringing exciting learning experiences into classrooms."_
 
 [**ang_yen_peng@school.gov.sg**](mailto:ang_yen_peng@school.gov.sg)
 
