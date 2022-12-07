@@ -94,13 +94,13 @@ _"Every child is a star in its own light!"_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Rachel Sin Meng Hui**
 
-Primary 1A
+Primary 1E
 
-_"I believe that every child can be taught and nurtured through education."_
+_"孩子们需要一个安全、愉快的学习环境。我会尽力为他们打造这样的学习环境，并以尊重和真诚善待每一颗童心。"_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**sin_meng_hui_rachel@schools.gov.sg**](mailto:sin_meng_hui_rachel@schools.gov.sg)
 
 * * *
 
