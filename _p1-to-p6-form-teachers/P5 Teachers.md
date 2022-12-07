@@ -61,7 +61,7 @@ Primary 5C
 
 _Teaching is not the filling of a pail, but the lighting of a fire. We owe these children the chance to be cared for and to be encouraged to be the best they can be."_
 
-[**hazlyna_usope@schools.gov.sg **](mailto:hazlyna_usope@schools.gov.sg )
+[**hazlyna_usope@schools.gov.sg**](mailto:hazlyna_usope@schools.gov.sg )
 
 * * *
 
