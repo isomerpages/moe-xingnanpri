@@ -34,13 +34,13 @@ _"Children need to be challenged. They need to solve hard problems and develop v
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin**
+<img src="/images/Our Staff/02 Teacher/1B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Noratiqah Binte Talib**
 
-Primary 1A
+Primary 1B
 
-_"I believe that every child can be taught and nurtured through education."_
+_"Art teachers mould students to become creative, inquisitive, flexible & tenacious with an extraordinary spirit of adventure and play."_
 
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+[**noratiqah\_talib@schools.gov.sg**](mailto:noratiqah_talib@schools.gov.sg)
 
 * * *
 
