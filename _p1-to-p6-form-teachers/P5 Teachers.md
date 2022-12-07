@@ -55,9 +55,13 @@ _" 一名优秀的教师，需要具备随时调整自己来适应不同学生�
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/5C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/5C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Hazlyna Bte Usope**
 
-[****](mailto:)
+Primary 5C
+
+_Teaching is not the filling of a pail, but the lighting of a fire. We owe these children the chance to be cared for and to be encouraged to be the best they can be."_
+
+[**hazlyna_usope@schools.gov.sg **](mailto:hazlyna_usope@schools.gov.sg )
 
 * * *
 
