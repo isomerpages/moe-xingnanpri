@@ -11,15 +11,14 @@ We have attached the following for your reference
 
   
 1\. Booklist ( List will be available starting 14th November)
-
-> ### [XN Booklist 2023- P1.pdf  
-> ](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/Files/2023%20Book%20list/XN%20Booklist%202023-%20P1.pdf)[XN Booklist 2023- P2.pdf  
-> ](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/Files/2023%20Book%20list/XN%20Booklist%202023-%20P2.pdf)[XN Booklist 2023- P3.pdf  
-> ](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/Files/2023%20Book%20list/XN%20Booklist%202023-%20P3.pdf)[XN Booklist 2023- P4.pdf  
-> ](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/Files/2023%20Book%20list/XN%20Booklist%202023-%20P4.pdf)[XN Booklist 2023- P5.pdf  
-> ](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/Files/2023%20Book%20list/XN%20Booklist%202023-%20P5.pdf)[XN Booklist 2023- P5 FDN.pdf  
-> ](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/Files/2023%20Book%20list/XN%20Booklist%202023-%20P5%20FDN.pdf)[XN Booklist 2023- P6.pdf  
-> ](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/Files/2023%20Book%20list/XN%20Booklist%202023-%20P6.pdf)[XN Booklist 2023- P6 FDN.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/Files/2023%20Book%20list/XN%20Booklist%202023-%20P6%20FDN.pdf)
+* [Primary 1 Booklist (2023)](/files/Parents/Booklist%202023/XN%20Booklist%202023-%20P1.pdf)
+* [Primary 2 Booklist (2023)](/files/Parents/Booklist%202023/XN%20Booklist%202023-%20P2.pdf)
+* [Primary 3 Booklist (2023)](/files/Parents/Booklist%202023/XN%20Booklist%202023-%20P3.pdf)
+* [Primary 4 Booklist (2023)](/files/Parents/Booklist%202023/XN%20Booklist%202023-%20P4.pdf)
+* [Primary 5 Booklist (2023)](/files/Parents/Booklist%202023/XN%20Booklist%202023-%20P5.pdf)
+* [Primary 5 FDN Booklist (2023)](/files/Parents/Booklist%202023/XN%20Booklist%202023-%20P5%20FDN.pdf)
+* [Primary 6 Booklist (2023)](/files/Parents/Booklist%202023/XN%20Booklist%202023-%20P6.pdf)
+* [Primary 6 FDN Booklist (2023)](/files/Parents/Booklist%202023/XN%20Booklist%202023-%20P6%20FDN.pdf)
 
 2\. Instructions for the purchase of Textbooks and Attire.  
 
