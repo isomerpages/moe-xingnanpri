@@ -2,7 +2,6 @@ collections:
   learn-for-life:
     output: true
     order:
-      - Overview.md
       - Applied Learning Programme.md
       - Learn for Life Programme.md
       - Leaders lead Leaders.md
