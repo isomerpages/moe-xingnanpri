@@ -22,8 +22,7 @@ We have attached the following for your reference
 
 2\. Instructions for the purchase of Textbooks and Attire.  
 
-> [Instructions for Sale of Textbooks and School Attire.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/Files/2023%20Book%20list/5.%20Instructions%20for%20Sale%20of%20Textbooks%20and%20School%20Attire.pdf)
-
+>[Instructions for Sale of Textbooks and School Attire](/files/Parents/P1%20Orientation/Instructions%20for%20Sale%20of%20Textbooks%20and%20School%20Attire.pdf)
   
 3\. Online buying guides provided by the suppliers.  
 
