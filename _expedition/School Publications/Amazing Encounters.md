@@ -19,6 +19,12 @@ The illustrations showcased in this book was done by an eleven-year-old student
 
 Click below to download a copy of the book in:
 
-[English version](/files/Amazing%20Encounters%20Full%20Book.pdf)
 
-Upload the rest of the PDFs here.
+* [Amazing Encounters - English Version](/files/Publication/Amazing%20Ecounters/Amazing%20Encounters%20Full%20Book.pdf)
+
+* [Amazing Encounters - Malay Version](/files/Publication/Amazing%20Ecounters/Amazing%20Encounters%20-%20Malay.pdf)
+
+* [Amazing Encounters - Chinese Version](/files/Publication/Amazing%20Ecounters/Amazing%20Counters%20-%20Chinese.pdf)
+
+* [Amazing Encounters - Tamil Version](/files/Publication/Amazing%20Ecounters/Amazing%20Encounters%20-%20Tamil.pdf)
+
