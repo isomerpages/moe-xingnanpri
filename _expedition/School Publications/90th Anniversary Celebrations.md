@@ -12,4 +12,6 @@ For more information on our 90th Anniversary Celebration, please click the follo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ymh2Az41W2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Click on the image below for a collection of personal stories by our Xingnanians and alumni.
+
 ![](/images/90%20Stories.jpg)
