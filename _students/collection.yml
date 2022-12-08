@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Overview.md
+      - Useful Links and Resources.md
       - E Learning Day.md
       - School Library.md
       - Student Icon.md
