@@ -5,13 +5,4 @@ description: ""
 third_nav_title: School Publications
 ---
 ### School Year Book 
-
-#### 2021 YEARBOOK
-
-Insert digital yearbook here.
-
-[Please click here to download a PDF copy of the 2021 yearbook] Upload PDF here.
-
-#### 2020 YEARBOOK
-
-[Please click here to download a PDF copy of the 2020 yearbook] Upload PDF here.
+<a href="link address"><img src="/images/2021%20Yearbook.png"></a>
