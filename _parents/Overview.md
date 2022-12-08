@@ -9,8 +9,8 @@ description: ""
 
 |  	|  	|
 |---	|---	|
-| [2023 PRIMARY 1 RESOURCE](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/2022-primary-1-resource/) 	|  [P3 & P4 Parents Engagement Slide](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/Parents-Engagement-Session/p3-and-p4-parent-engagement-session/)	|
-| [2022 PRIMARY 2 RESOURCE](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/Parents-Engagement-Session/p2-parent-engagement-session/)  	| [PLEDGE TO PLANT](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/pledge-to-plant/) 	|
+| [2023 PRIMARY 1 RESOURCE](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/p1orientation/) 	|  [2023 Slae of Textbooks and Attire](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/permalink/)	|
+| [2023 PRIMARY 1 Admin Matter](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/AY-2023-P1-Orientation/permalink/)  	| [PLEDGE TO PLANT](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/pledge-to-plant/) 	|
 | [2022 MOE FAS APPLICATION](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/2022-moe-fas-application/) 	| [Health Promotion Board](https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/pe-art-music/) 	|
 
 #### Important Links
