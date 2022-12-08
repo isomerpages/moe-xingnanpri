@@ -2,7 +2,6 @@ collections:
   xingnan:
     output: true
     order:
-      - Overview.md
       - Our School/Our Identity.md
       - Our School/Our Story.md
       - Our School/Our Xingnan Spirit.md
