@@ -27,4 +27,3 @@ Click below to download a copy of the book in:
 * [Amazing Encounters - Chinese Version](/files/Publication/Amazing%20Ecounters/Amazing%20Counters%20-%20Chinese.pdf)
 
 * [Amazing Encounters - Tamil Version](/files/Publication/Amazing%20Ecounters/Amazing%20Encounters%20-%20Tamil.pdf)
-
