@@ -26,11 +26,16 @@ We have attached the following for your reference
   
 3\. Online buying guides provided by the suppliers.  
 
->  [Online Buying Guide for Attire.pdf](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/6a.%20Online%20Buying%20Guide%20for%20Attire.pdf) [Online Buying Guide for Textbooks.pdf](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/7.%20Online%20Buying%20Guide%20for%20Textbooks.pdf)
+>[Online Buying Guide for Attire](/files/Parents/P1%20Orientation/Online%20Buying%20Guide%20for%20Attire.pdf)
+>
+>[Online Buying Guide for Textbooks](/files/Parents/P1%20Orientation/Online%20Buying%20Guide%20for%20Textbooks%20.pdf)
+
+
+
 
 4\. FAS Student Guide  
 
-> [Online Buying Guide - Attire for FAS students.pdf](https://xingnanpri.moe.edu.sg/qql/slot/u224/2020/Parent/2023%20P1%20Orientation/6b.Online%20Buying%20Guide%20-%20Attire%20for%20FAS%20students.pdf)
+>[Online Buying Guide - Attire for FAS students](/files/Parents/P1%20Orientation/Online%20Buying%20Guide%20-%20Attire%20for%20FAS%20students.pdf)
 
   
 
