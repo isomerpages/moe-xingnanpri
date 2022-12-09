@@ -1,4 +1,5 @@
 collections:
   homepage-lower-tab:
     output: true
-    order: []
+    order:
+      - School Calendar.md
