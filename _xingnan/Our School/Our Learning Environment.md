@@ -6,7 +6,7 @@ third_nav_title: Our School
 ---
 ### Our Learning Environment
 
-Insert video here.
+Click on the play button below to take a tour of our school. Use the navigation link in the tour to read and watch more information about our school.
 
-Mobile Device users : [Click Here](https://roundme.com/tour/651486/view/2062694/)
+*   [Xingnan Primary School Virtual Tour](https://roundme.com/tour/651486/view/2062694)
 
