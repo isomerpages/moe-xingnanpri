@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Ban2.gif
+      background: /images/Homepage/Banner.gif
       key_highlights:
         - title: Announcements
           description: ""
@@ -27,7 +27,7 @@ sections:
         we believe that every child is of worth and can learn.
       button: Read More
       url: /xingnan/our-school/our-identity/
-      image: /images/Thumbnail1.gif
+      image: /images/Homepage/Thumbnail1.gif
       alt: Image alt text
   - infopic:
       title: Learn For Life
@@ -36,7 +36,7 @@ sections:
         gracious citizens.
       button: Read More
       url: /learn-for-life/applied-learning-programme/
-      image: /images/info2.png
+      image: /images/Homepage/Thumbnail2.gif
       alt: Image alt text
   - infopic:
       title: Expedition
@@ -44,6 +44,6 @@ sections:
         country and for school.
       button: Read More
       url: /expedition/Achievements/school-awards/
-      image: /images/info3.png
+      image: /images/Homepage/Thumbnail3.gif
       alt: Image alt text
 ---
