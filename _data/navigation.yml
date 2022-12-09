@@ -25,10 +25,12 @@ links:
   - title: Expedition
     url: /expedition/overview/
     sublinks:
-      - title: Overview
-        url: /expedition/overview/
-      - title: Achievements
-        url: /expedition/achievements/overview/
+      - title: School Award
+        url: /expedition/Achievements/school-awards/
+      - title: Academic Achievements
+        url: /expedition/Achievements/academic-achievements/
+      - title: CCA Achievements
+        url: https://staging.d24s03z0ob23eb.amplifyapp.com/expedition/Achievements/cca-achievements/
       - title: Hot in the Press
         url: /expedition/hot-in-the-press/
       - title: Commemorative Events
