@@ -18,6 +18,9 @@ sections:
         - title: Contact Us
           description: ""
           url: /contact-us/overview/
+        - title: Quick Links
+          description: ""
+          url: ""
   - infopic:
       title: Xingnan
       description: A vibrant environment that nurtures minds and builds character as
