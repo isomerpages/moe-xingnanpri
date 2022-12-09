@@ -26,7 +26,7 @@ sections:
       description: A vibrant environment that nurtures minds and builds character as
         we believe that every child is of worth and can learn.
       button: Read More
-      url: /xingnan/overview/
+      url: /xingnan/our-school/our-identity/
       image: /images/Thumbnail1.gif
       alt: Image alt text
   - infopic:
@@ -35,7 +35,7 @@ sections:
         talents and realise their full potential as self-directed learners and
         gracious citizens.
       button: Read More
-      url: /learn-for-life/overview/
+      url: /learn-for-life/applied-learning-programme/
       image: /images/info2.png
       alt: Image alt text
   - infopic:
@@ -43,7 +43,7 @@ sections:
       description: The endeavour, hard work and achievement of every Xingnanian is for
         country and for school.
       button: Read More
-      url: /expedition/overview/
+      url: /expedition/Achievements/school-awards/
       image: /images/info3.png
       alt: Image alt text
 ---
