@@ -2,4 +2,5 @@ collections:
   homepage-lower-tab:
     output: true
     order:
+      - faq.md
       - School Calendar.md
