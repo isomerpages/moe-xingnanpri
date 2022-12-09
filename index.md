@@ -27,7 +27,7 @@ sections:
         we believe that every child is of worth and can learn.
       button: Read More
       url: /xingnan/overview/
-      image: /images/info1.png
+      image: /images/thumb1.gif
       alt: Image alt text
   - infopic:
       title: Learn For Life
