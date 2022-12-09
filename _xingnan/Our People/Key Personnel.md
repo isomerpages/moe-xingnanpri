@@ -7,14 +7,15 @@ third_nav_title: Our People
 ### Key Personnel
 
 #### School Leaders
-
-<img src="/images/Our Staff/01 School Leader/Principal.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Cindy ong**  
+<img src="/images/Our Staff/01 SL/Principal.jpg" style="width:230px;height:230px;margin-left:15px;" align = "right"> **Mrs Cindy ong**  
 Principal  
-  
-_"Children are curious, active and competent learners. They can learn almost anything with the right support and environment. Our focus as educators is to facilitate authentic learning experiences through quality interactions. We want to provide opportunities to nurture their holistic development for lifelong learning."_
+ 
+_"To Be Updated"_
 
-[Charles\_CHAN@schools.gov.sg](mailto:Charles_CHAN@schools.gov.sg)
+[cindy\_chan@schools.gov.sg](mailto:cindy_chan@schools.gov.sg)
+
 * * *
+
 
 <img src="/images/kp2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm S Anitha**  
 Vice-Principal  
@@ -30,15 +31,6 @@ _Teaching and learning is so full of excitement, wonder and joy that I am thrill
 
 * * *
 
-<img src="/images/kp3.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Ong Lay Khim**  
-Vice-Principal  
-  
-
-_Learning is a continual process and can be acquired through multiple pathways. It need not just happen within the classroom, but can also take place at anytime and anywhere. We need to take charge of our own learning as each of us has our own aspirations, needs and capabilities. As a school, we support our pupils’ learning by providing them with a conducive environment and platform for them to discover, enrich and excel. Our teachers play a very important role in mentoring and facilitating the pupils’ learning. They help the pupils to save time in acquiring knowledge and skills, to self-discover, have a deeper level of understanding, and develop their own thinking. To ensure the pupils wield the acquired knowledge and skills with wisdom, perspective and due regard for the well-being of others, our teachers also need to instill in their pupils the civic and ethical understanding. I believe every child should have access to education and opportunities to learn as it is their key to success._
-
-_学习无境界，最怕的只是你是否拥有那个能力和态度。学习不光发生在一所学校的教室,它是可以在任何时间，任何地方及跟任何人有关系。 教师在一个人的学习旅程中扮演着非常重要的角色。他帮学生节省获取知识和技能基础所花费的时间，替他们搭上云阶，让他们能更轻松与知觉的学到更深的一层，开拓思维的重任。教师的另一个重要任务是教学生修身，区分对错，什么应该做，什么不应该做。我深信这是每个孩子都应拥有的教育和学习的机会，是他们立身成事之本。_
-
-[ONG\_Lay\_Khim@schools.gov.sg](mailto:ONG_Lay_Khim@schools.gov.sg)
 
 * * *
 
