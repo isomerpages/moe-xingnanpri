@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Overview.md
+      - School Calendar.md
       - Quick Links.md
       - faq.md
-      - School Calendar.md
-      - Overview.md
