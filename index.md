@@ -21,6 +21,8 @@ sections:
         - title: Quick Links
           description: ""
           url: ""
+      title: Xingnan Primary School
+      subtitle: A self-directed learner, a gracious citizen
   - infopic:
       title: Xingnan
       description: A vibrant environment that nurtures minds and builds character as
