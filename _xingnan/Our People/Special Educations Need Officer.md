@@ -48,33 +48,3 @@ Allied Educator- Teaching and Learning (Chinese Language)
 
 * * *
 
-#### Flexi-Adjunct Teachers
-
-**Mrs Harjit Singh**   
-
-Senior Teacher - Educational Support   
-Mathematics Department
-
-* * *
-
-**Mdm Flora Chew Seok May** 
-
-Mathematics Department
-
-* * *
-
-**Mrs Soong-Ong Buang Eng**   
-
-Science Department
-
-* * *
-
-**Mr Ho Sau Ken**   
-
-Mother Tongue Department
-
-* * *
-
-**Mr Tan Chong Hian** 
-
-Mother Tongue Department
