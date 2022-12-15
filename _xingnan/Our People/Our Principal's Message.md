@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 ---
 ### Our Principal's Message
-
+images/Our%20Staff/01%20SL/Mrs%20Cindy%20Ong%20Formal.png
 Dear Parents / Guardians, ![Mrs Cindy Ong -Full Shot.PNG](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Xingnan/Our%20People/Key%20Personnel/Mrs%20Cindy%20Ong%20-Full%20Shot.PNG)
 
 The primary school years are an important phase of a child’s education. As an alumnus of Xingnan Primary, I am grateful to my former teachers for inspiring me to work hard towards my dream to become an educator. They have helped me to develop my self-confidence, the right values and the zeal to learn in my formative years. Today, my heart is filled with immense gratitude to be given the opportunity to pay it forward by returning to my alma mater to serve as Principal with effect from 15 December 2022. 
