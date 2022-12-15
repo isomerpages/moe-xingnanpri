@@ -26,4 +26,4 @@ X3 LYP seeks to facilitate coherence between **Curricular** and **Co-Curricu
 
 [Curricular](https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/overview/) l [Co-Curricular](https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Co-Curricular/overview/)
 
-<img src="/images/xlp1.png" style="width:80%">
+<img src="/images/xlp1.png" style="width:100%">
