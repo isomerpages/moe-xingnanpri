@@ -17,11 +17,11 @@ third_nav_title: Our People
 | **Mdm Suraya Bte Sulaiman**<br>Adjunct Corporate Support Officer<br><br>[suraya\_sulaiman@schools.gov.sg](mailto:suraya_sulaiman@schools.gov.sg)  	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast5.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
 | **Miss Siti Omairah Bte Mohd Kamal**<br>Administration Executive<br><br>[siti_omairah_mohammad_kamal@schools.gov.sg](mailto:siti_omairah_mohammad_kamal@schools.gov.sg) 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast6.png" style="width:200px;height:200px;margin-left:15px;" align = "right">  	|
 
-#### ICDM Team
+#### Information Communication and Digital Media 
 
 |  	|  	|
 |---	|---	|
-| **Mr Manmeeth Singh**<br>ICT  Manager 	|  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast8.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	|
+| **Mr Manmeeth Singh**<br>ICT  Associate / Manager 	|  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast8.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	|
 | **Mr Khairil Anuar Salim**<br>Desktop Engineer 	|  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast9.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	|
 | **Miss Nabilah Binte Alfian** <br> Desktop Engineer 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast10.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
 | **Mdm N. Punnitha**<br> Media Resource Library Assistant 	|  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast11.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	|
