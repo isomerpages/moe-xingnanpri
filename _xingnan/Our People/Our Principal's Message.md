@@ -6,19 +6,20 @@ third_nav_title: Our People
 ---
 ### Our Principal's Message
 
-Dear Parents / Guardians, 
+Dear Parents / Guardians, ![Mrs Cindy Ong -Full Shot.PNG](https://xingnanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u224/2020/Xingnan/Our%20People/Key%20Personnel/Mrs%20Cindy%20Ong%20-Full%20Shot.PNG)
 
-At Xingnan Primary School, we seek to provide a vibrant environment that nurtures minds and builds character. Our vision is for every Xingnanian to be ‘A Self-Directed Learner, A Gracious Citizen’. Together with this mission and vision, we hope every Xinganian will be well-anchored in our core values of creativity, loyalty, empathy, respect and responsibility.
+The primary school years are an important phase of a child’s education. As an alumnus of Xingnan Primary, I am grateful to my former teachers for inspiring me to work hard towards my dream to become an educator. They have helped me to develop my self-confidence, the right values and the zeal to learn in my formative years. Today, my heart is filled with immense gratitude to be given the opportunity to pay it forward by returning to my alma mater to serve as Principal with effect from 15 December 2022. 
 
- We believe that all children are curious, active and competent learners. They can learn almost anything with the right support and environment. Our focus as educators is to curate quality learning experiences for our children. Even as we strive for academic excellence, we want our Xingnanians to have fun and enjoy their learning.
+  
 
-Throughout their 6 years at Xingnan, our pupils will experience our distinct school-based X3 Learning Years Programme (X3 LYP). X3 stands for the acronyms XCITE, XPLORE and XTEND. The X3 LYP is an approach to learning in 2-year blocks, focusing on providing opportunities for holistic development and lifelong learning.
+In Xingnan, we believe that _every child is of worth and can learn_. We recognise that our students are unique individuals with their own strengths and interests which our school values and seeks to nurture. Our vision is to develop every Xingnanian to become _a self-directed learner and a gracious citizen._ Thus, we are committed to provide _a vibrant environment that nurtures minds and builds character_.  We seek to provide quality learning experiences to help our Xingnanians discover the joy of learning, explore and pursue their interests and passion and develop the right values, dispositions and competencies. They will then be able to play an active role in shaping the world where they can contribute and thrive in the future.   
 
-Our school celebrates our 90th Anniversary in 2022. The theme of our 90th Anniversary is “Appreciate the Past, Celebrate the Present, Embrace the Future. (A.C.E).” To mark this joyous occasion, we have planned a series of meaningful projects and activities.
+  
 
- We invite you to join us in our many exciting projects and activities in the months to come. Let us all continue to have that strong sense of wonder and curiosity of children as we embrace the future with enthusiasm and hope.
-
- We are proud of our rich tradition and many achievements over the years. These achievements have been possible through the hard work and dedication of our teachers and staff.  We are grateful for the strong support given by our stakeholders and partners especially our School Advisory Committee, Alumni, Parent Support Group, parents and families for their commitment and dedication to the school.
+As a school, Xingnan has stood the test of time and grown from strength to strength over the past 90 years, from a little village school to a vibrant one with a conducive learning environment, caring and committed staff and a forward-looking curriculum. _It takes a village to raise a child_. We appreciate the strong support from our School Advisory Committee, Parent Support Group, parents, Alumni and community partners who have walked the journey with us to develop our students holistically. I look forward to forging stronger and meaningful partnerships with you, our stakeholders, to keep our Xingnan torch ablaze in the coming years.
  
- <img src="/images/principalmessage.png" style="width:80%">
+
+Mrs Cindy Ong
+
+Principal | Xingnan Primary School
  
