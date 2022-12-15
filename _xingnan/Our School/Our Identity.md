@@ -30,4 +30,6 @@ To be useful,loyal citizens and to love our Singapore.
 
   
 
-We are proud of Xingnan Primary School and we're proud of our teachers too. We'll hold our heads up high, for country and for school.
+We are proud of Xingnan Primary School and we're proud of our teachers too. 
+
+We'll hold our heads up high, for country and for school.
