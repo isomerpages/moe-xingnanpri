@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Publications
 ---
 ### School Year Book 
-![](/images/2023%20Year%20Book.png)
+
 #### Click on the image below to access the newsletter 
 <a href="https://designrr.page/?id=250767&token=3990580765&type=FP&h=7630"><img src="/images/2023%20Year%20Book1.png" style="width:220px;height:340px;margin-left:15px;" align = "Left"></a>
 
