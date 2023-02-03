@@ -5,14 +5,6 @@ description: ""
 ---
 ### Parents
 
-#### Latest update
-
-|  	|  	|
-|---	|---	|
-| [2023 PRIMARY 1 RESOURCE](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/p1orientation/) 	|  [2023 Slae of Textbooks and Attire](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/permalink/)	|
-| [2023 PRIMARY 1 Admin Matter](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/AY-2023-P1-Orientation/permalink/)  	| [PLEDGE TO PLANT](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/pledge-to-plant/) 	|
-| [2022 MOE FAS APPLICATION](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/2022-moe-fas-application/) 	| [Health Promotion Board](https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/pe-art-music/) 	|
-
 #### Important Links
 
 |  	|
