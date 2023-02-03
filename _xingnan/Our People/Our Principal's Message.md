@@ -23,5 +23,4 @@ As a school, Xingnan has stood the test of time and grown from strength to stren
  
 
 Mrs Cindy Ong
-
-Principal | Xingnan Primary School
+Principal 
