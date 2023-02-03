@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - 2023 Parents Engagement Session.md
       - Overview.md
+      - 2023 Parents Engagement Session.md
       - Sale of Textbooks and School Attire (2023).md
       - AY 2023 P1 Orientation/.keep
       - AY 2023 P1 Orientation/Administrative Task.md
