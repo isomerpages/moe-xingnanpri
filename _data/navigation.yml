@@ -68,13 +68,13 @@ links:
   - title: Students
     url: /students/overview/
     sublinks:
+      - title: "Learning Plans "
+        url: https://sites.google.com/xnps.edu.sg/xnps-learning-plans/home?authuser=2
       - title: Learning Portals
         url: /students/overview/
-      - title: "Term 1 Learning Plans "
-        url: https://sites.google.com/xnps.edu.sg/xnps-learning-plans/home?authuser=2
+      - title: Student Icon
+        url: /students/student-icon/
       - title: School Library
         url: /students/school-library/
       - title: Let's be Safe
         url: /students/lets-be-safe/
-      - title: Student Icon
-        url: /students/student-icon/
