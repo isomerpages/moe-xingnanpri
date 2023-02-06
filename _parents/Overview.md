@@ -11,12 +11,12 @@ description: ""
 |---	|
 | 1. [2023 Parents Engagement Briefing Slides](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/2023parentengagement/)|
 |2. [2023 Sale of Books](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/2023saleofbooks/)|
-|2. [Primary 1 Orientation ](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/p1orientation/)|
-|2. [2023 FAS Application ](https://go.gov.sg/moe-efas)|
-|3. [Big Heart Student Care](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/big-heart-student-care/)|
-| 4. [Application Form ( Leave of Absence)](https://form.gov.sg/#!/60b98572abcc260011dc808c)	|
-| 5. [NEU PC plus application](http://www.imda.gov.sg/neupc) 	|
-| 6. [Parents Gateway](https://pg.moe.edu.sg/) 	|
+|3. [Primary 1 Orientation ](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/p1orientation/)|
+|4. [2023 FAS Application ](https://go.gov.sg/moe-efas)|
+|5. [Big Heart Student Care](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/big-heart-student-care/)|
+| 6. [Application Form ( Leave of Absence)](https://form.gov.sg/#!/60b98572abcc260011dc808c)	|
+| 7. [NEU PC plus application](http://www.imda.gov.sg/neupc) 	|
+| 8. [Parents Gateway](https://pg.moe.edu.sg/) 	|
 
 
 #### Health Matters
