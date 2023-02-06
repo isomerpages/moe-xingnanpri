@@ -3,5 +3,8 @@ title: Counselling and Special Education Service
 permalink: /students/permalink/SCSEN/
 description: ""
 ---
+<img src="/images/Students/SCSCN1.jpg" width="150" height="150">
 
-<img style="width:200%" src="/images/Students/AED%20(SC&SEN)%20Infographic_Page_1.jpg">
+<img src="/images/Students/SCSCN2.jpg" width="150" height="150">
+
+![](/images/Students/SCSCN2.jpg)
