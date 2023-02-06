@@ -16,7 +16,7 @@ description: ""
 |3. [Big Heart Student Care](https://staging.d24s03z0ob23eb.amplifyapp.com//parents/big-heart-student-care/)|
 | 4. [Application Form ( Leave of Absence)](https://form.gov.sg/#!/60b98572abcc260011dc808c)	|
 | 5. [NEU PC plus application](http://www.imda.gov.sg/neupc) 	|
-| 6. [Parents Gateway](https://xingnanpri-moe-edu-sg-admin.cwp.sg/xingnan/our-partners/parents/parents-gateway) 	|
+| 6. [Parents Gateway](https://pg.moe.edu.sg/) 	|
 
 
 #### Health Matters
