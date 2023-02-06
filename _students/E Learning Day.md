@@ -15,9 +15,9 @@ Please watch the video below on how to access Google Classroom and Student learn
 
 <iframe width="636" height="357" src="https://www.youtube.com/embed/KkbS5f9EZPo" title="Google Classroom and SLS Tutorial for Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Learning Platform Username and Login Information 
+#### Learning Platform Login Information 
+###### (Click on the image to access the site)
 
-##### (Click on the image to access the site)
 
 #### Google Classroom
 
@@ -47,6 +47,8 @@ Alex Lee Xiao Ming (T1234567X)’s Login ID will be ALEXL4567X
 
  Example:  
 Login ID example: Alex Lee Xiao Ming (T1234567X)’s Login ID will be XNPS34567X
+
+
 
 #### Student ICON and SLS Login Guide.
 
