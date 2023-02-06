@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - Counselling and Special Education Service.md
-      - Learning Plans.md
       - Useful Links and Resources.md
+      - Learning Plans.md
+      - Counselling and Special Education Service.md
       - E Learning Day.md
       - School Library.md
       - Student Icon.md
