@@ -5,27 +5,15 @@ description: ""
 ---
 ### Parents
 
-#### Important Links
+#### Useful Links
 
 |  	|
 |---	|
-| 1. [Application Form ( Leave of Absence)](https://form.gov.sg/#!/60b98572abcc260011dc808c) 	|
-| 2. [Travel Declaration](https://xingnanpri-moe-edu-sg-admin.cwp.sg/cos/o.x?ptid=11949&c=/qql/campaign&func=view&cid=250#) 	|
+| 1. [2023 Parents Engagement Briefing Slides](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/2023parentengagement/) 	|
+| 2. [Application Form ( Leave of Absence)](https://form.gov.sg/#!/60b98572abcc260011dc808c)	|
 | 3. [NEU PC plus application](http://www.imda.gov.sg/neupc) 	|
 | 4. [Parents Gateway](https://xingnanpri-moe-edu-sg-admin.cwp.sg/xingnan/our-partners/parents/parents-gateway) 	|
-|  	|
 
-#### Useful Links
-
-|  	|  	|
-|---	|---	|
-| 1. [Indicative PSLE score ranges for individual secondary schools](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/PSLE-Related-Information/indicative-psle-score-ranges-for-individual-secondary-schools/) 	| 6.[Health Matters](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/Useful-Links-and-Resources/health-matters/)  	|
-| 2. [2022 Primary 5 & 6 Parent Engagement Session](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/Parents-Engagement-Session/p5-and-p6-parent-engagement-session/) 	|7.   	|
-| 3. [2021 Primary 3 & 4 Parent Engagement Session](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/Parents-Engagement-Session/p3-and-p4-parent-engagement-session/) 	| 8. 	|
-| 4.[Changes to PSLE Scoring and 2021 S1 posting.](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/PSLE-Related-Information/changes-to-psle-scoring-and-s1-posting-from-2021/) |  9. 	|
-| 5. [Past years Parents Briefing Slides](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/parents-briefing-slides/)	| 10. |
-|  	| 11.   	|
-|  	|  	|
 
 #### Health Matters
 
