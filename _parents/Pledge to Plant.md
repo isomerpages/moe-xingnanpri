@@ -13,7 +13,4 @@ Click on the image below to read more about this activity
 
 
 
-Please fill in the form below if you wish to join us in planting a tree. We will contact you for more information/to obtain the photographs of the tree/sapling planting.  
-  
-
-If the form below is not loaded, you can also fill it in at [here](https://form.gov.sg/61a0d6cfc403570012017c9a).
+Please fill in the [form](https://form.gov.sg/61a0d6cfc403570012017c9a) if you wish to join us in planting a tree. We will contact you for more information/to obtain the photographs of the tree/sapling planting.  
