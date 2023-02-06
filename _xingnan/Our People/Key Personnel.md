@@ -91,12 +91,7 @@ _"I believe that every child should know that he or she can learn and therefore 
 
 * * *
 
-<img src="/images/kp9.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Dawn Soo**   
-Year Head (Lower Primary)   
-  
-_"I believe that every child matters and each has potential waiting to be unleashed. With the right environment and guidance, all children can grow to become confident yet humble young people who seek to be the best that they can be."_
 
-[soh\_lay\_kiaw@schools.gov.sg](mailto:soh_lay_kiaw@schools.gov.sg)
 
 * * *
 
