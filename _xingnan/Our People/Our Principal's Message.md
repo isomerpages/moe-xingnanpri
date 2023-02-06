@@ -6,8 +6,7 @@ third_nav_title: Our People
 ---
 ### Our Principal's Message
 
-<img src="/images/Our%20Staff/01%20SL/Mrs%20Cindy%20Ong%20Formal.png" style="width:230px;height:300px;margin-left:15px;" align = "right"> 
-
+<img src="/images/Our%20Staff/01%20SL/SL1.png" style="width:230px;height:300px;margin-left:15px;" align = "right"> 
 
 Dear Parents / Guardians, 
 
