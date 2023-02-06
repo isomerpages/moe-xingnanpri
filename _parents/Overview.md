@@ -23,26 +23,17 @@ description: ""
 
 
 
-*    **[Ministry of Health Singapore](http://www.moh.gov.sg/)** **, [MOHsg Youtube Channel](http://www.youtube.com/user/MOHSingapore)**
+1.     **[Ministry of Health Singapore](http://www.moh.gov.sg/)** **, [MOHsg Youtube Channel](http://www.youtube.com/user/MOHSingapore)**
+2.     **[Health Promotion Board](http://www.hpb.gov.sg/)** **, [HPBsg Youtube Channel](http://www.youtube.com/user/HPBsg)**
+3.     **[Singapore's Official Flu Site](http://www.crisis.gov.sg/flu/)**
+4.     **[World Health Organisation](http://www.who.int/csr/disease/swineflu/en/)**
+5.  **[What You Need to know about Influenza A H1N1](http://www.crisis.gov.sg/NR/rdonlyres/D4985A06-E928-4B4E-9A0B-938EDBC88860/24019/H1N1_what_u_need_to_know.pdf)** **(MICA, MOH)**
+6.  **[Steps in washing your hands](http://www.hpb.gov.sg/infectiousdiseases/article.aspx?id=5652)**
+7.  **[Handwashing Song to sing with your child/ward](http://www.youtube.com/watch?v=zxlQn7KaCNU)**
+8.  **[Healthy Hygiene Habits For Kids](http://dentalassociatesnova.com/healthy-hygiene-habits-for-kids/)**
 
-*    **[Health Promotion Board](http://www.hpb.gov.sg/)** **, [HPBsg Youtube Channel](http://www.youtube.com/user/HPBsg)**
 
-*    **[Singapore's Official Flu Site](http://www.crisis.gov.sg/flu/)**
-
-*    **[World Health Organisation](http://www.who.int/csr/disease/swineflu/en/)**
-
-
-* **[What You Need to know about Influenza A H1N1](http://www.crisis.gov.sg/NR/rdonlyres/D4985A06-E928-4B4E-9A0B-938EDBC88860/24019/H1N1_what_u_need_to_know.pdf)** **(MICA, MOH)**
-
-* **[Steps in washing your hands](http://www.hpb.gov.sg/infectiousdiseases/article.aspx?id=5652)**
-
-* **[Handwashing Song to sing with your child/ward](http://www.youtube.com/watch?v=zxlQn7KaCNU)**
-
-* **[Healthy Hygiene Habits For Kids](http://dentalassociatesnova.com/healthy-hygiene-habits-for-kids/)**
-
-'Practise Good Personal Hygiene, Be Responsible, Lead a Healthy Lifestyle' - HPB
-
-#### Subject Based Banding 2021
+#### Subject Based Banding Slides
 
 1\.  [MOE\_SBB\_ENG.pdf](/files/moesbb_eng.pdf) <Br>
 2.  [MOE\_SBB\_CHI.pdf](/files/moesbb_chi.pdf)<br>
