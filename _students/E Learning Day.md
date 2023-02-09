@@ -3,13 +3,13 @@ title: E Learning Day
 permalink: /students/e-learning-day/
 description: ""
 ---
-### E-Learning Day 
+### E-Learning Portals 
 
-<img src="/images/girl.png" style="width:183px;height:240px;margin-right:20px;" align = "left"> Dear Parents / Guardians,
+<img src="/images/girl.png" style="width:183px;height:240px;margin-right:20px;" align = "left"> Dear Students,
 
-_All Xingnanians_ _will be required to login into their **Google classroom** portal for their daily lesson instruction.  Please refer below for more information on google classroom login details._ _Besides Google Classroom, your child/ward would also need to access the Student Learning Space (SLS) or KooBits portal to complete their lessons. More information on the login details can be found below._ 
+As the school has adapted to blended learning approach in our teaching and learning environment,  Google classroom will be frequently used as a virtual classroom online for teachers to make class announcements, boost class collaboration, and foster peer communication among your classmates. You  will also be able to receive school event publicity announcements through Google Classroom. Besides Google Classroom, your are also required to access the Student Learning Space (SLS) and KooBits portal to complete your assigned lessons. More information on the login details can be found below.
 
-_If you require a password reset or technical assistance, please submit drop an email to: [support@xnps.edu.sg](http://support@xnps.edu.sg%20/) We will get back to you as soonest possible._
+If you require a password reset or technical assistance, please submit drop an email to: [support@xnps.edu.sg](http://support@xnps.edu.sg%20/) We will get back to you as soonest possible.
 
 Please watch the video below on how to access Google Classroom and Student learning space (SLS).
 
