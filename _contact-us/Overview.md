@@ -9,7 +9,7 @@ We would like to hear from you regarding genuine enquiries on the learning of yo
 
   
 
-**General office :** 6791 3679<br>
+**General office :** 6791 3679 / 680 48616<br> 
 **Fax :** 6792 1493<Br>
 **Staff Room :** 6791 0642<br>
 **HOD Room :** 6792 7163
