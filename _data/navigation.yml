@@ -55,6 +55,10 @@ links:
         url: /parents/2023parentengagement/
       - title: Sale of Textbooks and Uniforms
         url: /parents/2023saleofbooks/
+      - title: Counselling Services
+        url: /parents/permalink/counselling/
+      - title: Special Education Services
+        url: /parents/permalink/SES/
       - title: Big Heart Student Care
         url: /parents/big-heart-student-care/
       - title: PSLE-related information
@@ -63,10 +67,6 @@ links:
         url: https://form.gov.sg/632432ba67747a0011d4a0cc
       - title: Pledge to Plant
         url: /parents/pledge-to-plant/
-      - title: Counselling Services
-        url: /parents/permalink/counselling/
-      - title: Special Education Services
-        url: /parents/permalink/SES/
   - title: Students
     url: /students/overview/
     sublinks:
