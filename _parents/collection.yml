@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Special Education Services.md
       - Counselling Services.md
       - Overview.md
       - 2023 Parents Engagement Session.md
