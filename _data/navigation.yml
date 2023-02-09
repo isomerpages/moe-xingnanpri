@@ -63,8 +63,8 @@ links:
         url: https://form.gov.sg/632432ba67747a0011d4a0cc
       - title: Pledge to Plant
         url: /parents/pledge-to-plant/
-      - title: Sexuality Education Programme
-        url: /parents/sexuality-education-programme/
+      - title: Counselling Services
+        url: /parents/permalink/counselling/
   - title: Students
     url: /students/overview/
     sublinks:
@@ -72,8 +72,6 @@ links:
         url: https://sites.google.com/xnps.edu.sg/xnps-learning-plans/home?authuser=2
       - title: eLearning Portals
         url: /students/overview/
-      - title: Counselling & SEN
-        url: https://staging.d24s03z0ob23eb.amplifyapp.com/students/permalink/SCSEN/
       - title: Student Icon
         url: /students/student-icon/
       - title: School Library
