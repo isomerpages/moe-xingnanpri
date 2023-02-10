@@ -8,9 +8,9 @@ third_nav_title: Our People
 
 #### School Leaders
 <img src="/images/Our Staff/01 SL/Principal.jpg" style="width:230px;height:230px;margin-left:15px;" align = "right"> **Mrs Cindy Ong**  
-Principal  
- 
-_"To Be Updated"_
+Principal 
+
+The greatest gift an educator can give his/her students is to arouse and sustain their innate curiosity to learn, make meaning and construct knowledge through play while interacting with others, and their environment.
 
 [cindy\_chan@schools.gov.sg](mailto:cindy_chan@schools.gov.sg)
 
