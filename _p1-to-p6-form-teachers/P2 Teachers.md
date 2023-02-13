@@ -150,13 +150,14 @@ _"I believe every child can learn. It is how we empower them with learning oppor
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2G3.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
+<img src="/images/Our Staff/02 Teacher/2G3.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Kavitha**
 
 Primary 2G
 
-_"TO BE UPDATED SOON"_
+<br>
+<br>
 
-[****](mailto:)
+[**kavitha_kiresnasamy@schools.gov.sg**](mailto:kavitha_kiresnasamy@schools.gov.sg)
 
 * * *
 
