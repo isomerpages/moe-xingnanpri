@@ -40,10 +40,3 @@ Special Educational Needs officer
  [sharifah\_insyeera\_nasar\_ahmad@schools.gov.sg](mailto:sharifah_insyeera_nasar_ahmad@schools.gov.sg)<br><br>
 
 * * *
-<img src="/images/Our%20Staff/03%20EAS%20and%20Others/ae5.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> **Mdm Zhang Jingxuan** 
-
-Allied Educator- Teaching and Learning (Chinese Language)
-
-[zhang\_jing\_xuan@schools.gov.sg](mailto:zhang_jing_xuan@schools.gov.sg)<br><br>
-
-* * *
