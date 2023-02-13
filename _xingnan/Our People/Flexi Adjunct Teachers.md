@@ -42,7 +42,7 @@ Mother Tongue Department
 <br>
 * * *
 <br>
-<img src="images/Our%20Staff/06%20Flexi%20Adjunct/FL5.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right"> 
+<img src="/images/Our%20Staff/06%20Flexi%20Adjunct/FL5.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right"> 
 
 **Mr Tan Chong Hian**<br>Mother Tongue Department
 <br>
