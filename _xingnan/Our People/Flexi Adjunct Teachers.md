@@ -50,3 +50,21 @@ Mother Tongue Department
 <br>
 
 ***
+<br>
+<img src="/images/Our%20Staff/06%20Flexi%20Adjunct/FL6.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right"> 
+
+**MdmKavitha**<br>Mathematics Department
+<br>
+<br>
+<br>
+
+***
+<br>
+<img src="/images/Our%20Staff/06%20Flexi%20Adjunct/FL7.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right"> 
+
+**Mr Lim Chan Kuang**<br>Mother Tongue Department
+<br>
+<br>
+<br>
+
+***
