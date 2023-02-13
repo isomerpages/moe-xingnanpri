@@ -98,14 +98,15 @@ _"Stay humble and be eager to learn! A cup cannot take in anymore water if it is
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
+<img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Suhailah Begum**
 
 
 Primary 3E
 
-_"TO BE UPDATED SOON"_
+<br>
+<br>
 
-[****](mailto:)
+[**suhailah_begum_abdul_rahim@schools.gov.sg**](mailto:suhailah_begum_abdul_rahim@schools.gov.sg)
 
 * * *
 
