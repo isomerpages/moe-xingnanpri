@@ -65,7 +65,7 @@ Primary 2C
 <Br>
 <br>
 
-[**bran_chua_wei_kiat@moe.edu.sg**](mailto:bran_chua_wei_kiat@moe.edu.sg)
+[**bran_chua_wei_kiat@schools.gov.sg**](mailto:bran_chua_wei_kiat@schools.gov.sg)
 
 * * *
 
