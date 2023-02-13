@@ -23,16 +23,7 @@ _"You can teach a pupil a lesson a day but if you can develop his curiosity, he 
 
 [**tay_anling@schools.gov.sg**](mailto:tay_anling@schools.gov.sg)
 
-* * *
 
-<img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
-
-
-Primary 3E
-
-_"TO BE UPDATED SOON"_
-
-[****](mailto:)
 
 * * *
 
