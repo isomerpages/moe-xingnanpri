@@ -35,13 +35,15 @@ _"Teaching and learning is always occurring. Children have the ability to empowe
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
+<img src="/images/Our Staff/02 Teacher/2B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Inshira Bte Md Aini**
 
 Primary 2B
 
-_"TO BE UPDATED SOON"_
+<br>
+<br>
 
-[****](mailto:)
+
+[**inshira_mohd_aini@schools.gov.sg**](mailto:inshira_mohd_aini@schools.gov.sg)
 
 * * *
 
