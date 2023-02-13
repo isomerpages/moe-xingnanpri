@@ -57,13 +57,15 @@ _"Every child is special and has the potential to soar to greater heights."_
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
+<img src="/images/Our%20Staff/02%20Teacher/2C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Bran Chua**
+
 
 Primary 2C
 
-_"TO BE UPDATED SOON"_
+<Br>
+<br>
 
-[****](mailto:)
+[**bran_chua_wei_kiat@moe.edu.sg**](mailto:bran_chua_wei_kiat@moe.edu.sg)
 
 * * *
 
@@ -117,13 +119,14 @@ _"Every child deserves equal treatment and no one should be left behind in the l
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2F2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
+<img src="/images/Our Staff/02 Teacher/2F2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Koh, La Vonda-Charissa**
 
 Primary 2F
 
-_"TO BE UPDATED SOON"_
+<br>
+<br>
 
-[****](mailto:)
+[**koh_poh_len_vonda-charissa@schools.gov.sg**](mailto:koh_poh_len_vonda-charissa@schools.gov.sg)
 
 * * *
 
