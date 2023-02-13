@@ -191,13 +191,14 @@ _“Meaningful learning occurs when students are allowed to confront real proble
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2I2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **TO BE UPDATED SOON**
+<img src="/images/Our Staff/02 Teacher/2I2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Peh Poh Hwa**
 
 Primary 2I
 
-_"TO BE UPDATED SOON"_
+<br>
+<br>
 
-[****](mailto:)
+[**Peh_Poh_Hwa_A@schools.gov.sg**](mailto:Peh_Poh_Hwa_A@schools.gov.sg)
 
 * * *
 
