@@ -1,0 +1,19 @@
+collections:
+  expedition:
+    output: true
+    order:
+      - Achievements/School Awards.md
+      - Achievements/Academic Achievements.md
+      - Achievements/CCA Achievements.md
+      - Achievements/.keep
+      - Hot in the Press.md
+      - Commemorative Events/90th Anniversary Celebrations (2021 to 2022).md
+      - Commemorative Events/85th Anniversary Celebrations.md
+      - Commemorative Events/National Events.md
+      - Commemorative Events/Festival Celebrations.md
+      - Commemorative Events/.keep
+      - School Publications/.keep
+      - School Publications/School Newsletter.md
+      - School Publications/School Year Book.md
+      - School Publications/90th Anniversary Celebrations.md
+      - School Publications/Amazing Encounters.md

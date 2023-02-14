@@ -1,0 +1,21 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Overview.md
+      - 2023 Parents Engagement Session.md
+      - AY 2023 P1 Orientation.md
+      - Sale of Textbooks and School Attire (2023).md
+      - Counselling Services.md
+      - Special Education Services.md
+      - Big Heart Student Care.md
+      - PSLE Related Information/.keep
+      - PSLE Related Information/Changes to PSLE Scoring & S1 Posting from
+        2021.md
+      - PSLE Related Information/Parents Briefing for Sec 1 Posting and PSLE
+        Result Release.md
+      - PSLE Related Information/Indicative PSLE Score Ranges for Individual
+        Secondary Schools.md
+      - 2023 MOS FAS Application.md
+      - Pledge to Plant.md
+      - Sexuality Education Programme in Xingnan Primary School.md

@@ -1,0 +1,7 @@
+collections:
+  students:
+    output: true
+    order:
+      - Useful Links and Resources.md
+      - School Library.md
+      - Student Icon.md

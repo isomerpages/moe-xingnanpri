@@ -1,0 +1,23 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Performing Arts/Brass Band.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Diabolo.md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/International Dance.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/.keep
+      - Clubs and Societies/Chinese Cultural Appreciation Club.md
+      - Clubs and Societies/Environmental Club.md
+      - Clubs and Societies/Scouts.md
+      - Clubs and Societies/Pottery Club.md
+      - Clubs and Societies/Art Club.md
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/.keep
+      - Sports and Games/Badminton.md
+      - Sports and Games/Soccer.md
+      - Sports and Games/Basketball.md
+      - Sports and Games/Volleyball.md
+      - Sports and Games/.keep

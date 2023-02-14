@@ -1,15 +1,80 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/xnlogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Xingnan
+    url: /xingnan/our-school/our-identity/
+    sublinks:
+      - title: Our School
+        url: /xingnan/our-school/our-identity/
+      - title: Our People
+        url: /xingnan/our-people/our-principals-message/
+      - title: Our Partnerships
+        url: /xingnan/our-partnerships/school-advisory-committee/
+  - title: Learn for Life
+    url: /learn-for-life/applied-learning-programme
+    sublinks:
+      - title: "Applied Learning Programme "
+        url: /learn-for-life/applied-learning-programme/
+      - title: Learn for Life Programme
+        url: /learn-for-life/learn-for-life-programme/
+      - title: Leaders lead Leaders
+        url: /learn-for-life/leaders-lead-leaders/
+      - title: "X³ Learning Years Programme "
+        url: /x3-learning-years-programme/overview/
+      - title: Ecostewardship
+        url: /learn-for-life/ecostewardship/
+  - title: Expedition
+    url: /expedition/Achievements/school-awards/
+    sublinks:
+      - title: School Award
+        url: /expedition/Achievements/school-awards/
+      - title: Academic Achievements
+        url: /expedition/Achievements/academic-achievements/
+      - title: CCA Achievements
+        url: https://staging.d24s03z0ob23eb.amplifyapp.com/expedition/Achievements/cca-achievements/
+      - title: Hot in the Press
+        url: /expedition/hot-in-the-press/
+      - title: Commemorative Events
+        url: /expedition/Commemorative-Events/90th-Anniversary-Celebrations/
+      - title: School Publications
+        url: /expedition/School-Publications/school-newsletter/
+  - title: Staff and Teachers
+    url: /staff-and-teachers/overview/
+    sublinks:
+      - title: Links and Resources
+        url: /staff-and-teachers/overview/
+      - title: OYE Award
+        url: /staff-and-teachers/oye-award/
+      - title: President's Award for Teachers
+        url: /staff-and-teachers/presidents-award-for-teachers/
+      - title: 2022 Teaching Awards
+        url: /staff-and-teachers/2022-teaching-awards/
+  - title: Parents
+    url: /parents/overview/
+    sublinks:
+      - title: 2023 Parents Engagement
+        url: /parents/2023parentengagement/
+      - title: Sale of Textbooks and Uniforms
+        url: /parents/2023saleofbooks/
+      - title: Counselling Services
+        url: /parents/permalink/counselling/
+      - title: Special Education Services
+        url: /parents/permalink/SES/
+      - title: Big Heart Student Care
+        url: /parents/big-heart-student-care/
+      - title: PSLE-related information
+        url: /parents/PSLE-Related-Information/changes-to-psle-scoring-and-s1-posting-from-2021/
+      - title: 2023 MOE FAS Application
+        url: https://form.gov.sg/632432ba67747a0011d4a0cc
+      - title: Pledge to Plant
+        url: /parents/pledge-to-plant/
+  - title: Students
+    url: /students/overview/
+    sublinks:
+      - title: Learning Plans
+        url: https://sites.google.com/xnps.edu.sg/xnps-learning-plans/home?authuser=2
+      - title: eLearning Portals
+        url: /students/overview/
+      - title: Student Icon
+        url: /students/student-icon/
+      - title: School Library
+        url: /students/school-library/
