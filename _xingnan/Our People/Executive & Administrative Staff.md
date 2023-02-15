@@ -8,24 +8,101 @@ third_nav_title: Our People
 
 #### Administrative Support Team
 
-|  	|  	|
-|---	|---	|
-| **Mrs Jesslyn Phon**<br>Administration Manager<br><br>[goh\_boon\_kim@schools.gov.sg](mailto:goh_boon_kim@schools.gov.sg) 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast1.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
-| **Mdm Aneza Abdullah**<br>Corporate Support Officer <br><br>[aneza\_abdullah@schools.gov.sg](mailto:aneza_abdullah@schools.gov.sg)	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast2.png" style="width:200px;height:200px;margin-left:15px;" align = "right">  	|
-| **Mdm Zuridah Hussein**<br>Corporate Support Officer<br><br>[zuridah\_hussein@schools.gov.sg](mailto:zuridah_hussein@schools.gov.sg) 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast3.png" style="width:200px;height:200px;margin-left:15px;" align = "right">  	|
-| **Mdm Lim Jenny**<br>Corporate Support Officer<br><br>[lim\_jenny@schools.gov.sg](mailto:lim_jenny@schools.gov.sg) 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast4.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
-| **Mdm Suraya Bte Sulaiman**<br>Adjunct Corporate Support Officer<br><br>[suraya\_sulaiman@schools.gov.sg](mailto:suraya_sulaiman@schools.gov.sg)  	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast5.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
-| **Miss Siti Omairah Bte Mohd Kamal**<br>Administration Executive<br><br>[siti_omairah_mohammad_kamal@schools.gov.sg](mailto:siti_omairah_mohammad_kamal@schools.gov.sg) 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast6.png" style="width:200px;height:200px;margin-left:15px;" align = "right">  	|
+***
+<br>
+ <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast1.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+
+**Mrs Jesslyn Phon**<br>Administration Manager <br>[goh\_boon\_kim@schools.gov.sg](mailto:goh_boon_kim@schools.gov.sg)
+
+ <br>
+ <br>
+ <br>
+
+ ***
+ <br>
+ <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast6.png" style="width:200px;height:200px;margin-left:15px;" align = "right">
+ 
+ **Miss Siti Omairah Bte Mohd Kamal**<br>Administration Executive<br>[siti_omairah_mohammad_kamal@schools.gov.sg](mailto:siti_omairah_mohammad_kamal@schools.gov.sg) 	 
+  <br>
+ <br>
+
+***
+
+ <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast2.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> <br>
+**Mdm Aneza Abdullah**<br>Corporate Support Officer <br>[aneza\_abdullah@schools.gov.sg](mailto:aneza_abdullah@schools.gov.sg)	
+ <br>
+ <br>
+   
+ ***
+ <br>
+<img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast3.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+
+ **Mdm Zuridah Hussein**<br>Corporate Support Officer<br>[zuridah\_hussein@schools.gov.sg](mailto:zuridah_hussein@schools.gov.sg) 
+<br>
+<br>
+<br>
+ 
+ ***
+ <br>
+ <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast4.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+ 
+  **Mdm Lim Jenny**<br>Corporate Support Officer<br>[lim\_jenny@schools.gov.sg](mailto:lim_jenny@schools.gov.sg) 	
+<br>
+<br>
+
+***
+<br>
+<img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast5.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
+
+
+
+**Mdm Suraya Bte Sulaiman**<br>Adjunct Corporate Support Officer<br>[suraya\_sulaiman@schools.gov.sg](mailto:suraya_sulaiman@schools.gov.sg)  	 	
+<br>
+<br>
+  	
 
 #### Information Communication and Digital Media 
 
-|  	|  	|
-|---	|---	|
-| **Mr Manmeeth Singh**<br>ICT  Associate<br>   [manmeeth_singh@schools.gov.sg](mailto:manmeeth_singh@schools.gov.sg) 	|  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast8.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> <br> 	| 	|
-| **Mr Khairil Anuar Salim**<br>Desktop Engineer 	|  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast9.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	|
-| **Miss Nabilah Binte Alfian** <br> Desktop Engineer 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast10.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
-| **Mdm N. Punnitha**<br> Media Resource Library Assistant 	|  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast11.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	|
+***
+<br>
+ <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast8.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> <br> 
+ 
+ **Mr Manmeeth Singh**<br>ICT  Associate<br>   [manmeeth_singh@schools.gov.sg](mailto:manmeeth_singh@schools.gov.sg) 	
+ <br>
+ ***
+ <br>
+ <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast9.png" style="width:200px;height:200px;margin-left:15px;" align = "right">
+ 
+ **Mr Khairil Anuar Salim**<br>Desktop Engineer (NCS)	  	
+<br>
+<br>
+<br>
+ ***
 
+***
+<br>
+ <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast10.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	
+ 
+**Miss Nabilah Binte Alfian** <br> Desktop Engineer (NCS) 	
+
+<br>
+<br>
+<br>
+<br>
+
+ ***
+<br>
+ <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast11.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	
+ 
+**Mdm N. Punnitha** <br> Media Resource Library Assistant
+
+<br>
+<br>
+<br>
+<br>
+
+ 
+ 
 #### Operational Support Team
 
 |  	|  	|
