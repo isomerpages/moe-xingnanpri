@@ -21,7 +21,7 @@ third_nav_title: Our People
 
 |  	|  	|
 |---	|---	|
-| **Mr Manmeeth Singh**<br>ICT  Associate / Manager 	|  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast8.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	|
+| **Mr Manmeeth Singh**<br>ICT  Associate   [manmeeth_singh@schools.gov.sg](mailto:manmeeth_singh@schools.gov.sg) <br> 	|  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast8.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> <br> 	| 	|
 | **Mr Khairil Anuar Salim**<br>Desktop Engineer 	|  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast9.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	|
 | **Miss Nabilah Binte Alfian** <br> Desktop Engineer 	| <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast10.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	|
 | **Mdm N. Punnitha**<br> Media Resource Library Assistant 	|  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast11.png" style="width:200px;height:200px;margin-left:15px;" align = "right">	|
