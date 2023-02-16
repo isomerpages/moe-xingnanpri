@@ -4,6 +4,7 @@ permalink: /parents/2023saleofbooks/
 description: ""
 ---
 
+
 Dear Parents / Guardians, 
 
 For your convenience, we have introduced online purchasing of school textbooks and school attire from 21 November 2022 (9.00 a.m.) to 22 December 2022 (6.00 p.m.). You may purchase directly from the vendors’ websites and select your mode of receipt – Home Delivery Service or Self-Collection at school. Self-collection at school will be strictly based on appointments only. You may indicate your preferred time and date when you make your orders. Please present a copy of the email notification or screenshot of the email to the school security guards for verification.  
