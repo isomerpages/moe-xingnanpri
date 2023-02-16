@@ -131,9 +131,10 @@ third_nav_title: Our People
 
  **Mdm Low Chun Hong**<br>Operations Support Officer <br>[low\_chun\_hong@schools.gov.sg](mailto:low_chun_hong@schools.gov.sg)	 
 <br>
- <br>
+<br>
  
  ***
+ 
 <br>
  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast15.png" style="width:200px;height:200px;margin-left:15px;" align = "right">
  
@@ -149,7 +150,9 @@ third_nav_title: Our People
 <br>
 <br>
 <br>
+
  ***
+ 
 <br>
 <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast17.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
 
@@ -157,7 +160,9 @@ third_nav_title: Our People
 <br>
 <br>
 <br>
+
  ***
+ 
 <br>
 <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast18.png" style="width:200px;height:200px;margin-left:15px;" align = "right">
 
