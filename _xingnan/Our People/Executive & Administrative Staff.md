@@ -16,7 +16,6 @@ third_nav_title: Our People
 
  <br>
  <br>
- <br>
 
  ***
  <br>
@@ -69,6 +68,7 @@ third_nav_title: Our People
  
  **Mr Manmeeth Singh**<br>ICT  Associate<br>   [manmeeth_singh@schools.gov.sg](mailto:manmeeth_singh@schools.gov.sg) 	
  <br>
+ 
  ***
  <br>
  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast9.png" style="width:200px;height:200px;margin-left:15px;" align = "right">
@@ -77,9 +77,9 @@ third_nav_title: Our People
 <br>
 <br>
 <br>
+
  ***
 
-***
 <br>
  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast10.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	
  
