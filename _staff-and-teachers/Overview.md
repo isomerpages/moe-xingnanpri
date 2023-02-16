@@ -24,4 +24,3 @@ description: ""
 
 **4. [Parent Volunteer Request Form](https://goo.gl/forms/0FMptHySCjBxd0kI3)**   
   
-**5. [Learning Difficulties Checklist](https://docs.google.com/a/moe.edu.sg/forms/d/1xSaJo4ayQVKr4okuqFBmsVgWpLf_c6NuyEnu-C-e_P0/viewform)**
