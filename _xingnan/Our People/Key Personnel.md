@@ -72,7 +72,7 @@ _“孩子们需要一个安全、愉快的学习环境。我会尽力为他们�
 
 #####  Student Development Team
 
-<img src="/images/kp7.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Tina Ng**   
+<img src="/images/kp7-1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Tina Ng**   
 Year Head (Upper Primary)  
   
 
@@ -93,7 +93,7 @@ _"I believe that every child should know that he or she can learn and therefore 
 
 
 
-* * *
+
 
 <img src="/images/kp10.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Gena Tee**   
 HOD Character and Citizenship Education (CCE)                                                         
@@ -111,6 +111,27 @@ Assistant Year Head (Lower Primary)
 _"Every child is a star in its own light!"_
 
 [maslinda\_abd\_wahab@schools.gov.sg](mailto:maslinda_abd_wahab@schools.gov.sg)
+<br>
+<br>
+***
+<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Ong Li Jing**
+
+Senior Teacher - Educational Support
+
+_"Every child can learn, and even teach others, to become better. May we be able to guide them and remind them to enjoy and treasure what is important."_
+
+[**ong_lijing@schools.gov.sg**](mailto:ong_lijing@schools.gov.sg)
+
+* * *
+
+* * *
+<img src="/images/Our Staff/02 Teacher/3D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chen Degeng**
+
+Assistant Year Head (Middle Primary)  
+
+_"Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions."_
+
+[**chen_degeng@schools.gov.sg**](mailto:chen_degeng@schools.gov.sg)
 
 * * *
 #####  English Language and Social Studies Department
@@ -119,8 +140,10 @@ _"Every child is a star in its own light!"_
 
 *HOD English Language and Social Studies Department*
 
-_"As a Teacher, I believe in Empathising with my pupils' learning needs prior to Assessing their full potentials Carefully and Honestly so that I can Enjoy my role with a Reflective mind."_
+_"As a Teacher, I believe in Empathising with my pupils' learning needs prior to Assessing their full potentials Carefully and Honestly so that I can Enjoy my role with a Reflective mind." 
+<br>
 
+[mohammad_irwan_md_isa@schools.gov.sg](mailto:mohammad_irwan_md_isa@schools.gov.sg)
 * * *
 
 <img src="/images/kp13.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Millah Bte Rasimin**   
@@ -174,16 +197,6 @@ _"Pupils should develop to be lifetime learners and continue to improve their ta
 
 * * *
 
-<img src="/images/kp18.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Lim Pei Gen**   
-Level Head - Mathematics   
-  
-
-_"I believe that enthusiasm is contagious. As an educator, I need to model interest and be enthusiastic about the topics that I teach so as to best engage pupils in learning. Apart from helping my pupils excel academically, I believe that it is also essential to instill values and cultivate good characters so that pupils will grow up to be responsible individuals with greater capacity to love and empathies."_
-
- [lim\_pei\_gen@schools.gov.sg](mailto:lim_pei_gen@schools.gov.sg)
-
-* * *
-
 <img src="/images/kp19.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Joseph Joel Ang**   
 Senior Teacher - Mathematics   
   
@@ -199,7 +212,9 @@ HOD Science 
   
 
 _"You can teach a pupil a lesson a day but if you can develop his curiosity, he will continue his learning process for as long as he lives."_
+<br>
 
+[tay_anling@schools.gov.sg](mailto:tay_anling@schools.gov.sg) 
 * * *
 
 <img src="/images/kp21.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Sumitha D/O Sudevan**   
@@ -260,15 +275,6 @@ _"我相信认真快乐的老师能营造快乐愉悦的学习环境和气氛，
 
 * * *
 
-<img src="/images/kp27.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Yang Xue Hui**   
-Lead Teacher - Chinese Language   
-  
-_"我始终相信教育根植于爱心。我将用心做教育，用爱做人师。"_
-
-[yang\_xue\_hui@schools.gov.sg](mailto:yang_xue_hui@schools.gov.sg)
-
-* * *
-
 <img src="/images/kp28.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chew Bee Hoon**   
 Senior Teacher - Chinese Language   
   
@@ -299,7 +305,8 @@ _"Teachers are like the light in the dark - always guiding and lending a helping
 
 * * *
 
-<img src="/images/kp31.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Jason Chua Kian Seng** Subject Head - HPE  
+<img src="/images/kp31.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Jason Chua Kian Seng** <br>Covering HOD - Character and Citizenship Education (CCE Student Development) 
+
   
 _"As a physical educator, I believe that holistic education is the approach towards my goal of education, that is, to engage students in learning, to bring out the best in them and help them to be the most that they can be."_
 
@@ -329,4 +336,6 @@ Senior Teacher - Music
 
 <img src="/images/kp34.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Ma Chen**  
 HOD - Information Communication and Digital Media (ICDM)  
-_"和孩子们一同打造他们自己绝无仅有的开启世界之门的华语钥匙。"_
+_"和孩子们一同打造他们自己绝无仅有的开启世界之门的华语钥匙"
+
+[ma_chen@schools.gov.sg](mailto:ma_chen@schools.gov.sg)
