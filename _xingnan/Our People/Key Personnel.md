@@ -72,7 +72,7 @@ _“孩子们需要一个安全、愉快的学习环境。我会尽力为他们�
 
 #####  Student Development Team
 
-<img src="/images/kp7.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Tina Ng**   
+<img src="/images/kp7-1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Tina Ng**   
 Year Head (Upper Primary)  
   
 
