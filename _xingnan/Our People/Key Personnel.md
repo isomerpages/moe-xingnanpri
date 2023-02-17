@@ -254,15 +254,6 @@ _"我相信认真快乐的老师能营造快乐愉悦的学习环境和气氛，
 
 * * *
 
-<img src="/images/kp27.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Yang Xue Hui**   
-Lead Teacher - Chinese Language   
-  
-_"我始终相信教育根植于爱心。我将用心做教育，用爱做人师。"_
-
-[yang\_xue\_hui@schools.gov.sg](mailto:yang_xue_hui@schools.gov.sg)
-
-* * *
-
 <img src="/images/kp28.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chew Bee Hoon**   
 Senior Teacher - Chinese Language   
   
@@ -324,3 +315,5 @@ Senior Teacher - Music
 <img src="/images/kp34.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Ma Chen**  
 HOD - Information Communication and Digital Media (ICDM)  
 _"和孩子们一同打造他们自己绝无仅有的开启世界之门的华语钥匙。"_
+
+[ma_chen@schools.gov.sg](mailto:ma_chen@schools.gov.sg)
