@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Achievements/School Awards.md
-      - Achievements/Academic Achievements.md
+      - Achievements/Students Achievements.md
       - Achievements/CCA Achievements.md
       - Achievements/.keep
       - Hot in the Press.md
