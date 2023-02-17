@@ -176,16 +176,6 @@ _"Pupils should develop to be lifetime learners and continue to improve their ta
 
 * * *
 
-<img src="/images/kp18.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Lim Pei Gen**   
-Level Head - Mathematics   
-  
-
-_"I believe that enthusiasm is contagious. As an educator, I need to model interest and be enthusiastic about the topics that I teach so as to best engage pupils in learning. Apart from helping my pupils excel academically, I believe that it is also essential to instill values and cultivate good characters so that pupils will grow up to be responsible individuals with greater capacity to love and empathies."_
-
- [lim\_pei\_gen@schools.gov.sg](mailto:lim_pei_gen@schools.gov.sg)
-
-* * *
-
 <img src="/images/kp19.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Joseph Joel Ang**   
 Senior Teacher - Mathematics   
   
