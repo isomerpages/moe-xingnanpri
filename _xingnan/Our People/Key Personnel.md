@@ -31,9 +31,6 @@ _Teaching and learning is so full of excitement, wonder and joy that I am thrill
 
 * * *
 
-
-* * *
-
 <img src="/images/kp4.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Chai Koh Ping**
 <br>Vice-Principal (Admin)  
   
@@ -113,6 +110,7 @@ _"Every child is a star in its own light!"_
 [maslinda\_abd\_wahab@schools.gov.sg](mailto:maslinda_abd_wahab@schools.gov.sg)
 <br>
 <br>
+
 ***
 <br>
 <img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right">
@@ -125,9 +123,9 @@ _"Every child can learn, and even teach others, to become better. May we be able
 
 [**ong_lijing@schools.gov.sg**](mailto:ong_lijing@schools.gov.sg)
 
-* * *
 
 * * *
+
 <img src="/images/Our Staff/02 Teacher/3D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chen Degeng**
 
 Assistant Year Head (Middle Primary)  
