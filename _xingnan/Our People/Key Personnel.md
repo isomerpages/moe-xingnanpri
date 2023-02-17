@@ -314,6 +314,6 @@ Senior Teacher - Music
 
 <img src="/images/kp34.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Ma Chen**  
 HOD - Information Communication and Digital Media (ICDM)  
-_"和孩子们一同打造他们自己绝无仅有的开启世界之门的华语钥匙。"_
+_"和孩子们一同打造他们自己绝无仅有的开启世界之门的华语钥匙"
 
 [ma_chen@schools.gov.sg](mailto:ma_chen@schools.gov.sg)
