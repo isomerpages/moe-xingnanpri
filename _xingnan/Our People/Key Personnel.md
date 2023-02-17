@@ -119,8 +119,10 @@ _"Every child is a star in its own light!"_
 
 *HOD English Language and Social Studies Department*
 
-_"As a Teacher, I believe in Empathising with my pupils' learning needs prior to Assessing their full potentials Carefully and Honestly so that I can Enjoy my role with a Reflective mind."_
+_"As a Teacher, I believe in Empathising with my pupils' learning needs prior to Assessing their full potentials Carefully and Honestly so that I can Enjoy my role with a Reflective mind." 
+<br>
 
+[mohammad_irwan_md_isa@schools.gov.sg](mailto:mohammad_irwan_md_isa@schools.gov.sg)
 * * *
 
 <img src="/images/kp13.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Millah Bte Rasimin**   
