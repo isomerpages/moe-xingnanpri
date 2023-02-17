@@ -191,7 +191,9 @@ HOD Science 
   
 
 _"You can teach a pupil a lesson a day but if you can develop his curiosity, he will continue his learning process for as long as he lives."_
+<br>
 
+[tay_anling@schools.gov.sg](mailto:tay_anling@schools.gov.sg) 
 * * *
 
 <img src="/images/kp21.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Sumitha D/O Sudevan**   
