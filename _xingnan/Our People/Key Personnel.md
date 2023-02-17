@@ -114,7 +114,10 @@ _"Every child is a star in its own light!"_
 <br>
 <br>
 ***
-<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Ong Li Jing**
+<br>
+<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right">
+
+**Ms Ong Li Jing**
 
 Senior Teacher - Educational Support
 
