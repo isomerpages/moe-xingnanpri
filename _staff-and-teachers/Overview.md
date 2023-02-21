@@ -15,9 +15,8 @@ description: ""
 | <a href="https://for.edu.sg/#/"><img style="width:95%" src="/images/sat13.png"></a> 	| <a href="https://forms.moe.edu.sg/"><img style="width:45%" src="/images/sat14.png"></a> 	| <a href="https://icon.moe.edu.sg/"><img style="width:45%" src="/images/iconlink.png"></a>  	| <a href="https://forms.moe.edu.sg/"><img style="width:100%" src="/images/gogov.jpg"></a>| <br> 
 |<a href="https://sites.google.com/xnps.edu.sg/xnps-publications/home?pli=1&authuser=1"><img style="width:80%" src="/images/Publication.jpeg">|<a href="https://xnpsict.padlet.org/auth/login"><img style="width:90%" src="/images/sat16.png"></a>|<a href="https://www.koobits.com/"><img style="width:40%" src="/images/sat15.png">||
 
-**1.** **[Staff Travel Declaration](https://docs.google.com/forms/d/e/1FAIpQLSegAMpctqUCaFMDYrvicIj7dCXDshnFYIFpZr2yerelBjpZ2g/viewform)**    
-   \*(Online form is for record keeping, thus NIL return is required.)    
-   \*\*(If you are travelling overseas, please submit a hard copy declaration for approval)  
+**1.** **[Staff Travel Declaration](https://form.gov.sg/63579bf82d94f20011b244e0)**    
+   
 
   
 **2. [Bus Booking Form](https://docs.google.com/forms/d/1qYdbi7NHF5L_oGCV2K5MqR5j0ttNFn9a0O-CJLoCg1E/viewform)**  

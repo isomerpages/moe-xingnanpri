@@ -32,7 +32,7 @@ Minister for National Development & Minister-in-charge of Social Services, Mr De
 * 8 world video: 
  [Youtube Link](https://youtu.be/oOTA7q72deY) 
 
-* [Design thinking - tackle food waste : Staraitstime Link](https://www.straitstimes.com/singapore/community/new-design-thinking-programme-gets-young-students-to-tackle-food-waste-climate-change )
+* [Design thinking - tackle food waste : Staraitstime Link](https://www.straitstimes.com/singapore/community/new-design-thinking-programme-gets-young-students-to-tackle-food-waste-climate-change)
  
 * [Partner for Eco Forum:](https://www.mse.gov.sg/resource-room/category/2022-09-19-media-release-on-partners-for-the-environment-forum-2022) 
  
