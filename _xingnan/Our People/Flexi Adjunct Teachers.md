@@ -11,6 +11,7 @@ Senior Teacher - Educational Support
 Mathematics Department<br>
 <br>
 <br>
+
 ***
 
 <img src="/images/Our%20Staff/06%20Flexi%20Adjunct/FL2.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right"> **Mdm Flora Chew Seok May** <br>
@@ -23,12 +24,13 @@ Mathematics Department
 <br>
 <img src="/images/Our%20Staff/06%20Flexi%20Adjunct/FL6.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right"> 
 
-**MdmKavitha**<br>Mathematics Department
+**Mdm Kavitha**<br>Mathematics Department
 <br>
 <br>
 <br>
 
 * * *
+
 <br>
 <img src="/images/Our%20Staff/06%20Flexi%20Adjunct/FL3.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right"> 
 
@@ -38,7 +40,9 @@ Science Department
 <br>
 <br>
 <br>
+
 * * *
+
 <br>
 <img src="/images/Our%20Staff/06%20Flexi%20Adjunct/FL4.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right"> 
 
@@ -48,7 +52,9 @@ Mother Tongue Department
 <br>
 <br>
 <br>
+
 * * *
+
 <br>
 <img src="/images/Our%20Staff/06%20Flexi%20Adjunct/FL5.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right"> 
 
@@ -60,6 +66,7 @@ Mother Tongue Department
 
 
 ***
+
 <br>
 <img src="/images/Our%20Staff/06%20Flexi%20Adjunct/FL7.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right"> 
 
