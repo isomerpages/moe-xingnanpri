@@ -7,7 +7,7 @@ third_nav_title: Our People
 #### Flexi-Adjunct Teachers
 ***
 <img src="/images/Our%20Staff/06%20Flexi%20Adjunct/FL1.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right"> **Mrs Harjit Singh**<br>
-Senior Teacher - Educational Support  
+Senior Teacher 
 Mathematics Department<br>
 <br>
 <br>
