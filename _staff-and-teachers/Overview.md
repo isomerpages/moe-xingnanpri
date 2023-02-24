@@ -4,12 +4,11 @@ permalink: /staff-and-teachers/overview/
 description: ""
 ---
 ### Staff and Teachers
-
 #### MOE & SCHOOL RELATED LINKS
 
 |  	|  	|  	|  	|
 |---	|---	|---	|---	|
-| <a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><img style="width:99%" src="/images/sat1.png"></a> 	| <a href="https://intranet.moe.gov.sg/"><img style="width:65%" src="/images/sat2.png"></a> 	|  <a href="https://www.hrp.gov.sg/hrp/#/"><img style="width:35%" src="/images/sat3.png"></a>	|  <a href="https://ssoe2.moe.edu.sg/"><img style="width:65%" src="/images/sat4.png"></a>	|
+| <a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><img style="width:99%" src="/images/sat1.png"></a> 	| <a href="https://intranet.moe.gov.sg/"><img style="width:100%" src="/images/sat2.png"></a> 	|  <a href="https://www.hrp.gov.sg/hrp/#/"><img style="width:35%" src="/images/sat3.png"></a>	|  <a href="https://ssoe2.moe.edu.sg/"><img style="width:65%" src="/images/sat4.png"></a>	|
 | <a href="https://schoolcockpit.moe.gov.sg/"><img style="width:99%" src="/images/sat5.png"></a> 	| <a href="https://scmobile.moe.edu.sg/login"><img style="width:60%" src="/images/sat6.png"></a> 	| <a href="https://rbs.avero-tech.com/"><img style="width:40%" src="/images/sat7.png"></a> 	| <a href="https://pg.moe.edu.sg/"><img style="width:45%" src="/images/sat8.png"></a> 	|
 | <a href="https://iexams.seab.gov.sg/"><img style="width:95%" src="/images/sat9.png"></a> 	| <a href="https://opal2.moe.edu.sg/"><img style="width:65%" src="/images/sat10.png"></a>	| <a href="https://sites.google.com/moe.edu.sg/communication-channel-teachers/home?authuser=1"><img style="width:35%" src="/images/sat11.png"></a> 	| <a href="https://vle.learning.moe.edu.sg/login"><img style="width:65%" src="/images/sat12.png"></a> 	|
 | <a href="https://for.edu.sg/#/"><img style="width:95%" src="/images/sat13.png"></a> 	| <a href="https://forms.moe.edu.sg/"><img style="width:45%" src="/images/sat14.png"></a> 	| <a href="https://icon.moe.edu.sg/"><img style="width:45%" src="/images/iconlink.png"></a>  	| <a href="https://forms.moe.edu.sg/"><img style="width:100%" src="/images/gogov.jpg"></a>| <br> 
