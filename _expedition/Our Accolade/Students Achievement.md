@@ -1,9 +1,11 @@
 ---
-title: Students Achievements
+title: Students Achievement
 permalink: /expedition/Achievements/academic-achievements/
 description: ""
-third_nav_title: Achievements
+third_nav_title: Our Accolade
 ---
+
+
 
 ### Academic Achievements
 
