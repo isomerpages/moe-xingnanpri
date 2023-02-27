@@ -3,8 +3,7 @@ title: Hot off the Press
 permalink: /expedition/hot-off-the-press/
 description: ""
 ---
-
-### Hot In The Press
+### Hot Off The Press
 
   
 <img src="/images/hitp7.png" style="width:60%">
