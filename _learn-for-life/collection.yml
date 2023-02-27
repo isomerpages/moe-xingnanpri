@@ -2,7 +2,7 @@ collections:
   learn-for-life:
     output: true
     order:
-      - Applied Learning Programme.md
+      - Applied Learning Programme (ALP).md
       - Learn for Life Programme.md
       - Leaders lead Leaders.md
       - Ecostewardship.md
