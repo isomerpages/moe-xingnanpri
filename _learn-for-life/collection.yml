@@ -2,8 +2,8 @@ collections:
   learn-for-life:
     output: true
     order:
-      - Lead Care Inspire.md
       - Applied Learning Programme.md
       - Learn for Life Programme.md
       - Leaders lead Leaders.md
       - Ecostewardship.md
+      - Lead Care Inspire.md
