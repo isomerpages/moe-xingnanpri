@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Outstanding Youth in Education Award (OYEA).md
       - Overview.md
       - School Calendar.md
+      - Outstanding Youth in Education Award (OYEA).md
       - Quick Links.md
