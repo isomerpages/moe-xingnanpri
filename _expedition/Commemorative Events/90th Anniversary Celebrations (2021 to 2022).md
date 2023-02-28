@@ -23,7 +23,7 @@ Click on the video below to watch our 90th Anniversary Launch, which was broadca
 
 <br>
 
-More celebratory activities were held along the way as we approached our school's 90th anniversary finale. [Click]( https://xingnan90th.wixsite.com/home/initiatives) on the following link to learn more about the initiatives that have been implemented.
+More celebratory activities were held along the way as we approached our school's 90th anniversary finale. [Click]( https://xingnan90th.wixsite.com/home/initiatives) on the following link to learn more about the initiatives that were implemented.
 
 
 
