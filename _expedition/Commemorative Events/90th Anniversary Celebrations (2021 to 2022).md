@@ -17,14 +17,15 @@ The launch kick-started a year-long school project involving pupils, staff and s
 
 <br>
 
-
 Click on the video below to watch our 90th Anniversary Launch, which was broadcast live from our school hall on October 7, 2021, for our students and parents who were unable to attend due to covid 19 restrictions.. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n2BZMrRbyak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 <br>
+
+More celebratory activities were held along the way as we approached our school's 90th anniversary finale. [Click]( https://xingnan90th.wixsite.com/home/initiatives) on the following link to learn more about the initiatives that have been implemented.
+
+
 
 The video below is from our 90th Anniversary Finale, which took place on July 15, 2022, at the Singapore Chinese Cultural Centre. A musical play based on the theme "Appreciate the Past; Celebrate the Present; Embrace the Future" performed by our talented students.
 
