@@ -35,6 +35,17 @@ links:
         url: /expedition/Commemorative-Events/90th-Anniversary-Celebrations/
       - title: School Publications
         url: /expedition/School-Publications/school-newsletter/
+  - title: Staff and Teachers
+    url: /staff-and-teachers/overview/
+    sublinks:
+      - title: "stARS "
+        url: /lead-care-inspire/stARS/
+      - title: President Award for Teachers
+        url: /staff-and-teachers/presidents-award-for-teachers/
+      - title: Teaching Awards
+        url: /staff-and-teachers/2022-teaching-awards/
+      - title: Overview
+        url: /staff-and-teachers/overview/
   - title: Parents
     url: /parents/overview/
     sublinks:
@@ -65,12 +76,3 @@ links:
         url: /students/student-icon/
       - title: School Library
         url: /students/school-library/
-  - title: Staff and Teachers
-    url: /staff-and-teachers/overview/
-    sublinks:
-      - title: "stARS "
-        url: /lead-care-inspire/stARS/
-      - title: President Award for Teachers
-        url: /staff-and-teachers/presidents-award-for-teachers/
-      - title: Teaching Awards
-        url: /staff-and-teachers/2022-teaching-awards/
