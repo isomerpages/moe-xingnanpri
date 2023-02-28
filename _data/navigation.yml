@@ -38,14 +38,14 @@ links:
   - title: Staff and Teachers
     url: /staff-and-teachers/overview/
     sublinks:
+      - title: Overview
+        url: /staff-and-teachers/overview/
       - title: "stARS "
         url: /lead-care-inspire/stARS/
       - title: President Award for Teachers
         url: /staff-and-teachers/presidents-award-for-teachers/
       - title: Teaching Awards
         url: /staff-and-teachers/2022-teaching-awards/
-      - title: Overview
-        url: /staff-and-teachers/overview/
   - title: Parents
     url: /parents/overview/
     sublinks:
