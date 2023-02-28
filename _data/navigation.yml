@@ -66,7 +66,11 @@ links:
       - title: School Library
         url: /students/school-library/
   - title: Staff and Teachers
-    url: /permalink
+    url: /staff-and-teachers/overview/
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: "stARS "
+        url: /lead-care-inspire/stARS/
+      - title: President Award for Teachers
+        url: /staff-and-teachers/presidents-award-for-teachers/
+      - title: Teaching Awards
+        url: /staff-and-teachers/2022-teaching-awards/
