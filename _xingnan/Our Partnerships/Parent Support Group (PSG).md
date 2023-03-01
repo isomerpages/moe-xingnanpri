@@ -7,4 +7,4 @@ third_nav_title: Our Partnerships
 ### Parent Support Group (PSG)
 
 
-<img src="/images/psg.png" style="width:80%">
+<img src="/images/psg.png" style="width:100%">
