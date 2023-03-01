@@ -6,7 +6,9 @@ third_nav_title: Commemorative Events
 ---
 ### 85th Anniversary Celebrations
 
+
 This year, the school celebrates a key milestone of 85 years in educating generations of pupils. From our humble beginning of 10 pupils in the premises of a temple along Upper Jurong Road, we have developed into a well-equipped and modern school of 1400 pupils. Today, we deliver a variety of meaningful learning experiences that support our pupils’ growth, interests and learning needs as we continue in our mission to nurture minds and build character.
+	
 
 The theme – “Celebrating with a Heart” – reflects our acknowledgement of the community’s support and partnership over the years. As we celebrate our anniversary, everyone – pupils, staff and stakeholders – is encouraged to ‘give back’ to the community in meaningful ways. Several initiatives have been implemented since the launch of our anniversary celebrations in September 2016 and more will be completed this year. 
 
