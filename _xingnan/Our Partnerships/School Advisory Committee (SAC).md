@@ -6,7 +6,9 @@ third_nav_title: Our Partnerships
 ---
 ### School Advisory Committee (SAC)
 
+<p align="justify"> 
 The School Advisory Committee promotes closer relationship between members of the local community and the school personnel. It provides opportunities for the local community to take an interest in student welfare and supports the school's efforts in providing a holistic education for our students.
+	</p>
 
 |  	|  	|
 |---	|---	|
