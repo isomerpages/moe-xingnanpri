@@ -5,9 +5,8 @@ description: ""
 ---
 ### Announcements
 
-#### Parents Engagement Slides 
-Dear Parents, 
-Please click on the following [Link](https://www.xingnanpri.moe.edu.sg/parents/2023parentengagement/) to view the P3 - P6 parent engagement slides.
+##### 2023 Monthly Newsletter
+Dear Parents, [Click Here](https://www.xingnanpri.moe.edu.sg/expedition/School-Publications/school-newsletter/) to read our Monthly Newsletter
 
 ***
 
@@ -17,8 +16,9 @@ The 2023 term 1 learning plans can be viewed from the following link. [Read more
 
 ***
 
-##### 2023 Monthly Newsletter
-Dear Parents, [Click Here](https://www.xingnanpri.moe.edu.sg/expedition/School-Publications/school-newsletter/) to read our Monthly Newsletter
+#### Parents Engagement Slides 
+Dear Parents, 
+Please click on the following [Link](https://www.xingnanpri.moe.edu.sg/parents/2023parentengagement/) to view the P3 - P6 parent engagement slides.
 
 ***
 
@@ -32,4 +32,3 @@ Dear Parents,
 Please Click on the link for more information on the purchase of books and attire for the 2023 academic year.. [Read more here.](https://www.xingnanpri.moe.edu.sg/parents/2023saleofbooks/)
 
 ***
-
