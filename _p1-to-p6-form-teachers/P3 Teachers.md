@@ -19,7 +19,7 @@ _"I believe that every child is unique and has something special that he/she can
 
 Primary 3A
 
-_"You can teach a pupil a lesson a day but if you can develop his curiosity, he will continue his learning process for as long as he lives."_
+"You can teach a pupil a lesson a day but if you can develop his curiosity, he will continue his learning process for as long as he lives."
 
 [**tay_anling@schools.gov.sg**](mailto:tay_anling@schools.gov.sg)
 
@@ -31,7 +31,7 @@ _"You can teach a pupil a lesson a day but if you can develop his curiosity, he 
 
 Primary 3B
 
-_"TO BE UPDATED SOON"_
+" Every child can be motivated to learn.  A positive stroke can go a long way to make a positive impact on a pupil's life. "
 
 [**peh_en_mey@schools.gov.sg**](mailto:peh_en_mey@schools.gov.sg)
 
@@ -62,7 +62,7 @@ _"TO BE UPDATED SOON"_
 
 Primary 3C
 
-_"Every child has his or her strength. It is the teachers' duty to discover that strength by developing their potential and nurturing them to be the best that they can be."_
+"Every child has his or her strength. It is the teachers' duty to discover that strength by developing their potential and nurturing them to be the best that they can be."_
 
 [**nur_syahida_paiman@schools.gov.sg**](mailto:nur_syahida_paiman@schools.gov.sg)
 
