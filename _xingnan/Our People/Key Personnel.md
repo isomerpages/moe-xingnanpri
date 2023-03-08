@@ -317,7 +317,7 @@ HOD PE/CCA & AESTHETICS
 * * *
 
 <img src="/images/kp32.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Abdul Wahab Bin Abdul Rahman**   
-Senior Teacher - PE   
+Lead Teacher - PE   
   
 "I believe in being a PE Mentor to every pupil, Build their confidence, Engage them in Learning, Inspire them to Excel and be a Facilitator of knowledge."
 
