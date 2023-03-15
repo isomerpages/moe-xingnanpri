@@ -116,15 +116,6 @@ third_nav_title: Our People
 <br>
 <br>
 
-***
-<br>
-<img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast13.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	
-
- **Mr Rawi Bin Abdullah**<br>Operations Manager<br>[rawi\_abdullah@schools.gov.sg](mailto:rawi_abdullah@schools.gov.sg) 	
- 
- <br>
- <br>
- 
  ***
 <br>
 <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast14.jpg" style="width:200px;height:200px;margin-left:15px;" align = "right"> 	
