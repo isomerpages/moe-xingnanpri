@@ -45,11 +45,11 @@ _"学习是一件快乐的事。我希望做一个快乐的老师，努力让学
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Ong Li Jing**
+<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Ong Lijing**
 
 Primary 4C
 
-_"Every child can learn, and even teach others, to become better. May we be able to guide them and remind them to enjoy and treasure what is important."_
+_"Every child can learn and we can learn together, helping one another to improve continually."_
 
 [**ong_lijing@schools.gov.sg**](mailto:ong_lijing@schools.gov.sg)
 
