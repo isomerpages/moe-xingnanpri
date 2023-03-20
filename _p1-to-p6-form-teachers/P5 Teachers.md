@@ -59,7 +59,7 @@ Primary 5B
 
 Primary 5C
 
-Teaching is not the filling of a pail, but the lighting of a fire. We owe these children the chance to be cared for and to be encouraged to be the best they can be."
+"Teaching is not the filling of a pail, but the lighting of a fire. We owe these children the chance to be cared for and to be encouraged to be the best they can be."
 
 [**hazlyna_usope@schools.gov.sg**](mailto:hazlyna_usope@schools.gov.sg )
 
@@ -80,7 +80,7 @@ Primary 5C
 
 Primary 5D 
 
-I believe that pupils learn best in a non-threatening environment where they are not afraid to make mistakes from which they will learn and become wiser."
+"I believe that pupils learn best in a non-threatening environment where they are not afraid to make mistakes from which they will learn and become wiser."
 
 [**chong_yen_lian_janet@schools.gov.sg**](mailto:chong_yen_lian_janet@schools.gov.sg)
 
@@ -100,7 +100,7 @@ Primary 5D
 
 Primary 5E
 
-I believe education is not only about teaching the ABCs or the 123s. Rather, it is using subject content to direct children to lifelong learning and character building. Imbibing children with skills and values will prime them for any and every challenge which life throws at them. My hope is for my students to not only be excellent in their academic endeavours, but to also become people of character with a love for others."
+"I believe education is not only about teaching the ABCs or the 123s. Rather, it is using subject content to direct children to lifelong learning and character building. Imbibing children with skills and values will prime them for any and every challenge which life throws at them. My hope is for my students to not only be excellent in their academic endeavours, but to also become people of character with a love for others.
 
 Direct children onto the right path. When they are older, they will not depart from it.”
 
@@ -112,7 +112,7 @@ Direct children onto the right path. When they are older, they will not depart f
 
 Primary 5E
 
-I believe that every child has the ability to improve. What matters is, no matter how minute, the child who had performed better today than yesterday is going to do even better tomorrow."
+"I believe that every child has the ability to improve. What matters is, no matter how minute, the child who had performed better today than yesterday is going to do even better tomorrow."
 
 [**wong_chun_chit_benjamin@schools.gov.sg**](mailto:wong_chun_chit_benjamin@schools.gov.sg)
 
