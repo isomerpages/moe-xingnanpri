@@ -39,6 +39,7 @@ _"Teaching and learning is always occurring. Children have the ability to empowe
 
 Primary 2B
 
+_"Students are like flowers. They bloom with proper care, patience and the right conditions. Likewise, with guidance, time and providing the right environment, I hope to see my students blossom into well-rounded individuals."_
 <br>
 <br>
 
