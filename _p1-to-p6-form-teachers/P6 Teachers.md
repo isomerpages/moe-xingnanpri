@@ -39,7 +39,7 @@ _"I will do my utmost best to engage learners and to reach out to any pupil who 
 
 Primary 6B
 
-_"I believe in being a PE Mentor to every pupil, Build their confidence, Engage them in Learning, Inspire them to Excel and be a Facilitator of knowledge."_
+_"Every pupil - a Physically Educated & Engaged Learner."_
 
 [**wahab_rahman@schools.gov.sg**](mailto:wahab_rahman@schools.gov.sg)
 
@@ -89,7 +89,7 @@ _"教育是事业，事业的成功在于奉献； 教育是科学，科学的�
 
 Primary 6E
 
-_"To be updated soon."_
+_"My aim is to bring positivity and high expectations to the pupils in my class. I believe that a good attitude will bring students to a higher altitude in their aspirations. My role is to help them discover their strengths and guide them so that they strive to be better today than yesterday. Communication with parents is the key to a wholesome support for the pupils in my class."_
 
 [**mazidah_othman@schools.gov.sg**](mailto:mazidah_othman@schools.gov.sg)
 
