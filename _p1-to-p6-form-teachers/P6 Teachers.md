@@ -9,10 +9,7 @@ description: ""
 
 Primary 6A
 
-_“I saw tomorrow marching by on little children's feet.
-Within their forms and faces read her prophecy complete,
-I saw tomorrow look at me, from little children's eyes.
-And I thought how carefully we'd teach if we were truly wise.”_
+_“I saw tomorrow marching by on little children's feet. Within their forms and faces read her prophecy complete, I saw tomorrow look at me, from little children's eyes. And I thought how carefully we'd teach if we were truly wise.”_
 
 [**nur_azlindah_azlan@schools.gov.sg**](mailto:nur_azlindah_azlan@schools.gov.sg)
 
