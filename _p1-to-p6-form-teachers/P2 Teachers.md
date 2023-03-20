@@ -134,7 +134,7 @@ Primary 2F
 
 Primary 2G
 
-_"Teaching through the heart isn't hard. With that in mind, being a positive role model to the students towards achieving a healthy mind, heart and body has always been the central belief of my teaching philosophy"_
+_"Teaching through the heart isn't hard. With that in mind, being a positive role model to the students towards achieving a healthy mind, heart and body has always been the central belief of my teaching philosophy."_
 
 [**muhammad_hilmi_mohamad_salim@schools.gov.sg**](mailto:muhammad_hilmi_mohamad_salim@schools.gov.sg)
 
