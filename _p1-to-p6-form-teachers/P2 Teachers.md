@@ -124,6 +124,8 @@ _"Every child deserves equal treatment and no one should be left behind in the l
 
 Primary 2F
 
+_"Every child is precious and to be treasured. Every child is God's gift."_
+
 <br>
 <br>
 
