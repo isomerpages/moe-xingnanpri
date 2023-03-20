@@ -28,7 +28,7 @@ Primary 1A
 
 Primary 1B
 
-"Children need to be challenged. They need to solve hard problems and develop values. I hope to give our children the opportunity to be deeply engaged, and equip them with the processes they need to succeed in the future."
+"Every child should always adopt a "can-do" attitude. Education should broaden their minds and help them become the best people they can be."
 
 [**chia\_tzu\_lin@schools.gov.sg**](mailto:chia_tzu_lin@schools.gov.sg)
 
