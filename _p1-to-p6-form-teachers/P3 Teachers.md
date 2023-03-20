@@ -51,7 +51,6 @@ Primary 3C
 
 _"TO BE UPDATED SOON"_
 
-
 [**constance_toh_kai_ting@schools.gov.sg**](mailto:constance_toh_kai_ting@schools.gov.sg)
 
 * * *
@@ -60,7 +59,7 @@ _"TO BE UPDATED SOON"_
 
 Primary 3C
 
-"Every child has his or her strength. It is the teachers' duty to discover that strength by developing their potential and nurturing them to be the best that they can be."_
+"Every child has his or her strength. It is the teachers' duty to discover that strength by developing their potential and nurturing them to be the best that they can be."
 
 [**nur_syahida_paiman@schools.gov.sg**](mailto:nur_syahida_paiman@schools.gov.sg)
 
@@ -70,7 +69,7 @@ Primary 3C
 
 Primary 3D
 
-_"Learning takes place when curiosity is encouraged."_ 
+"Learning takes place when curiosity is encouraged."
 
 [**khoo_chun_mei@schools.gov.sg**](mailto:khoo_chun_mei@schools.gov.sg)
 
@@ -80,7 +79,7 @@ _"Learning takes place when curiosity is encouraged."_
 
 Primary 3D
 
-_"Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions."_
+"Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions."
 
 [**chen_degeng@schools.gov.sg**](mailto:chen_degeng@schools.gov.sg)
 
@@ -90,7 +89,7 @@ _"Meaningful learning occurs when students are allowed to confront real problems
 
 Primary 3E
 
-_"Stay humble and be eager to learn! A cup cannot take in anymore water if it is full of water itself. If a student is full of himself, he will not be able to gain any new knowledge. A person who is humble will attract many people, who are willing to impart new knowledge to him. As a teacher and also a livelong learner, I feel that these two qualities are the most important to guide our learning self."_
+"Stay humble and be eager to learn! A cup cannot take in anymore water if it is full of water itself. If a student is full of himself, he will not be able to gain any new knowledge. A person who is humble will attract many people, who are willing to impart new knowledge to him. As a teacher and also a livelong learner, I feel that these two qualities are the most important to guide our learning self."
 
 [**ng_yeow_meng_jackson@schools.gov.sg**](mailto:ng_yeow_meng_jackson@schools.gov.sg)
 
@@ -100,7 +99,7 @@ _"Stay humble and be eager to learn! A cup cannot take in anymore water if it is
 
 Primary 3E
 
-_"All children are unique and must have a stimulating educational environment where they can grow mentally, emotionally, and socially. It is my desire to create this type of atmosphere where students can meet their full potential."_
+"All children are unique and must have a stimulating educational environment where they can grow mentally, emotionally, and socially. It is my desire to create this type of atmosphere where students can meet their full potential."
 
 [**suhailah_begum_abdul_rahim@schools.gov.sg**](mailto:suhailah_begum_abdul_rahim@schools.gov.sg)
 
@@ -110,7 +109,7 @@ _"All children are unique and must have a stimulating educational environment wh
 
 Primary 3E
 
-_"Education is not the learning of facts, but the training of the mind to think."_
+"Education is not the learning of facts, but the training of the mind to think."
 
 [**ma_chen@schools.gov.sg**](mailto:ma_chen@schools.gov.sg)
 
@@ -120,7 +119,7 @@ _"Education is not the learning of facts, but the training of the mind to think.
 
 Primary 3F
 
-_"Teaching and learning is a journey with routes and traffic lights – We are guided along the way, we pause to think, stop to reflect and move on again."_
+"Teaching and learning is a journey with routes and traffic lights – We are guided along the way, we pause to think, stop to reflect and move on again."
 
 [**santha_subramaniam@schools.gov.sg**](mailto:santha_subramaniam@schools.gov.sg)
 
@@ -130,7 +129,7 @@ _"Teaching and learning is a journey with routes and traffic lights – We are g
 
 Primary 3F
 
-_"Teaching is not hard work, it's HeartWork. I teach like how I would like to be taught. Putting myself in the shoes of my students allows me to come up with engaging and inspiring lessons."_
+"Teaching is not hard work, it's HeartWork. I teach like how I would like to be taught. Putting myself in the shoes of my students allows me to come up with engaging and inspiring lessons."
 
 [**gan_soon_keat@schools.gov.sg**](mailto:gan_soon_keat@schools.gov.sg)
 
