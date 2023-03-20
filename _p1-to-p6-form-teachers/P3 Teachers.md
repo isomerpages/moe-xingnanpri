@@ -114,7 +114,7 @@ Primary 3E
 
 Primary 3E
 
-_"和孩子们一同打造他们自己绝无仅有的开启世界之门的华语钥匙。"_
+_"Education is not the learning of facts, but the training of the mind to think."_
 
 [**ma_chen@schools.gov.sg**](mailto:ma_chen@schools.gov.sg)
 
