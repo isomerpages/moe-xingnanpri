@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - Enquiry and Feedback Form.md
       - Useful Contacts.md
       - Locate Us.md
