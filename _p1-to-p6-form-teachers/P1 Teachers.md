@@ -191,7 +191,7 @@ I believe that education is the path for this gracious climb and teachers are th
 
 Primary 1I
 
-"Education goes beyond imparting knowledge and skills. Pupils must be imbued with the right values and character so that they can impact society positively."
+"Today's teachers like yesterday's teachers will continue to engage the learners to develop holistically, be a good person and loyal to the country. But the approaches, the tools and technology used will have to evolve and be in sync with the current times in order to engage the learners' curiosity and interest."
 
 [**kwek_khiok_chai@schools.gov.sg**](mailto:kwek_khiok_chai@schools.gov.sg)
 
