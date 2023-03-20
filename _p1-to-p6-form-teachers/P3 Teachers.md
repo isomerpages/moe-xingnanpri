@@ -9,7 +9,7 @@ description: ""
 
 Primary 3A
 
-_"I believe that every child is unique and has something special that he/she can bring to his/her education."_
+"I believe that every child is unique and has something special that he/she can bring to his/her education."
 
 [**salini_ap_baloh@schools.gov.sg**](mailto:salini_ap_baloh@schools.gov.sg)
 
@@ -22,8 +22,6 @@ Primary 3A
 "You can teach a pupil a lesson a day but if you can develop his curiosity, he will continue his learning process for as long as he lives."
 
 [**tay_anling@schools.gov.sg**](mailto:tay_anling@schools.gov.sg)
-
-
 
 * * *
 
@@ -41,7 +39,7 @@ Primary 3B
 
 Primary 3B
 
-_"发光不是太阳的专利，只要用心发掘，每一个孩子都能发光发亮。"_
+"发光不是太阳的专利，只要用心发掘，每一个孩子都能发光发亮。"
 
 [**tii_siew_ping@schools.gov.sg**](mailto:tii_siew_ping@schools.gov.sg)
 
