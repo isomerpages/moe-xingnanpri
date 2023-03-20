@@ -108,7 +108,7 @@ Primary 1E
 
 Primary 1F
 
-"Education is not preparation for life, education is the journey to life itself."
+"To be confident, one needs to be competent. To be competent, one needs to be fearless to continuously seek knowledge and skills with humility."
 
 [**juhariyah_johari@schools.gov.sg**](mailto:juhariyah_johari@schools.gov.sg)
 
