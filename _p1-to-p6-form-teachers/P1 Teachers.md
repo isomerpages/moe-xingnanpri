@@ -159,7 +159,7 @@ Primary 1H
 
 Primary 1H
 
-"There's no definition of normal."
+"It’s what is seen that matters."
 
 [**ong_xiao_hui@schools.gov.sg**](mailto:ong_xiao_hui@schools.gov.sg)
 
