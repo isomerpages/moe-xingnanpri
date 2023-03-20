@@ -203,7 +203,7 @@ Primary 2J
 
  Primary 2J
 
- _"TO BE UPDATED SOON"_
+ "不怕慢，只怕站。坚持、努力才是学习之路的唯一途径"
 
 
 [**lim_jingle@schools.gov.sg**](mailto:lim_jingle@schools.gov.sg)
