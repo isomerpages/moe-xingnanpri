@@ -29,7 +29,7 @@ _"Every child is able to learn. Helping pupils to find their learning styles wou
 
 Primary 6B
 
-_"Caring, Competence and Commitment. I will motivate and inspire my students to learn if I can show them how much I care. Through self-awareness and reflection, I will hone my skills to better engage my students."_
+_"I will do my utmost best to engage learners and to reach out to any pupil who is left behind. I must remember that I teach students, not subjects."_
 
 [**wee_ai-hwa_jessie@schools.gov.sg**](mailto:wee_ai-hwa_jessie@schools.gov.sg)
 
