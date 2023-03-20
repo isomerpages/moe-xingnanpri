@@ -51,7 +51,7 @@ Primary 2B
 
 Primary 2C
 
-_"Every child is special and has the potential to soar to greater heights."_
+_"Teaching is a learning experience. I learn that every child has a story to tell."_
 
 [**jamilah_rahim@schools.gov.sg**](mailto:jamilah_rahim@schools.gov.sg)
 
