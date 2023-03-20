@@ -100,11 +100,9 @@ _"Stay humble and be eager to learn! A cup cannot take in anymore water if it is
 
 <img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Suhailah Begum**
 
-
 Primary 3E
 
-<br>
-<br>
+_"All children are unique and must have a stimulating educational environment where they can grow mentally, emotionally, and socially. It is my desire to create this type of atmosphere where students can meet their full potential."_
 
 [**suhailah_begum_abdul_rahim@schools.gov.sg**](mailto:suhailah_begum_abdul_rahim@schools.gov.sg)
 
