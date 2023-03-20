@@ -78,7 +78,7 @@ Primary 1D
 
 Primary 1D
 
-_"我相信每一位孩子都有自己的天赋，教师需要通过关爱，细心的教学培养孩子的天赋。"_
+"我相信每一位孩子都有自己的天赋，教师需要通过关爱，细心的教学培养孩子的天赋。"
 
 [**wong_shui_zhu@schools.gov.sg**](mailto:wong_shui_zhu@schools.gov.sg)
 
@@ -139,7 +139,7 @@ Primary 1G
 Primary 1G
 
 "Pendidikan adalah asas untuk masa depan yang lebih baik. ~~~ Education is the foundation for a better future."
-"_
+"
 
 [**rosneayu_rosenen@schools.gov.sg**](mailto:rosneayu_rosenen@schools.gov.sg)
 
@@ -169,7 +169,7 @@ Primary 1H
 
 Primary 1I
 
-"Hearts on. Minds on. Hands on"
+"Hearts on. Minds on. Hands on."
 
 [**norain_bakadool@schools.gov.sg**](mailto:norain_bakadool@schools.gov.sg)
 
