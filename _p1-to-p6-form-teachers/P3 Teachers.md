@@ -70,7 +70,7 @@ Primary 3C
 
 Primary 3D
 
-_"TO BE UPDATED SOON"_ 
+_"Learning takes place when curiosity is encouraged."_ 
 
 [**khoo_chun_mei@schools.gov.sg**](mailto:khoo_chun_mei@schools.gov.sg)
 
