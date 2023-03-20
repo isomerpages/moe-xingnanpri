@@ -29,7 +29,7 @@ _"没有不好的孩子，只有不幸的孩子。用心与孩子交流，以身
 
 Primary 5B
 
-_"I believe that every child can learn, regardless of nationalities, learning disabilities, behavioural problems or socio-economic status of the family."_
+_"I believe every child can learn and succeed regardless of their starting point and the time needed."_
 
 [**chau_ai_ling@schools.gov.sg**](mailto:chau_ai_ling@schools.gov.sg)
 
