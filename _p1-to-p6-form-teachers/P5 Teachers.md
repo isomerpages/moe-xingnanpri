@@ -90,7 +90,7 @@ _I believe that pupils learn best in a non-threatening environment where they ar
 
 Primary 5D
 
-_"TO BE UPDATED SOON”_
+_"Learning how to get there is often more important than the outcome. Through failures then we can learn how to pick ourselves up and think differently to solve problems. I believe in equipping the child with a positive mindset to embrace the challenges that lies ahead of them.”_
 
 [**daniel_balhetchet@schools.gov.sg**](mailto:daniel_balhetchet@schools.gov.sg)
 
