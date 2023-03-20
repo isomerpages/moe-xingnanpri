@@ -68,7 +68,7 @@ _"TO BE UPDATED SOON"_
 
 Primary 1D
 
-"Every child has his strength waiting to be discovered."
+"Children must be taught how to think, not what to think."
 
 [**rafizah\_rahman@schools.gov.sg**](mailto:rafizah_rahman@schools.gov.sg)
 
