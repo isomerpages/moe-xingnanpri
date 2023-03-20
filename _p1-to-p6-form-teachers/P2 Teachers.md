@@ -40,9 +40,6 @@ Primary 2B
 Primary 2B
 
 "Students are like flowers. They bloom with proper care, patience and the right conditions. Likewise, with guidance, time and providing the right environment, I hope to see my students blossom into well-rounded individuals."
-<br>
-<br>
-
 
 [**inshira_mohd_aini@schools.gov.sg**](mailto:inshira_mohd_aini@schools.gov.sg)
 
@@ -115,9 +112,6 @@ Primary 2F
 Primary 2F
 
 "Every child is precious and to be treasured. Every child is God's gift."
-
-<br>
-<br>
 
 [**koh_poh_len_vonda-charissa@schools.gov.sg**](mailto:koh_poh_len_vonda-charissa@schools.gov.sg)
 
