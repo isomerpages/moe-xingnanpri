@@ -185,7 +185,7 @@ _"Every student can learn, just not on the same day, or the same way." - George 
 
 Primary 2I
 
-_“Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions.”_
+_“Learning occurs in a fun and engaging environment.”_
 
 [**mok_song_imm@schools.gov.sg**](mailto:mok_song_imm@schools.gov.sg)
 
