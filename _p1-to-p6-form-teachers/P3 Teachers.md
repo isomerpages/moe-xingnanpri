@@ -5,7 +5,7 @@ description: ""
 ---
 ### P3 Teachers (2023)
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Salini A/P Baloh**
+<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Salini A/P Baloh**
 
 Primary 3A
 
@@ -15,7 +15,7 @@ Primary 3A
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3A2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tay An Ling** 
+<img src="/images/Our Staff/02 Teacher/3A2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tay Anling** 
 
 Primary 3A
 
@@ -65,16 +65,6 @@ Primary 3C
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Khoo Chun Mei**
-
-Primary 3D
-
-"Learning takes place when curiosity is encouraged."
-
-[**khoo_chun_mei@schools.gov.sg**](mailto:khoo_chun_mei@schools.gov.sg)
-
-* * *
-
 <img src="/images/Our Staff/02 Teacher/3D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chen Degeng**
 
 Primary 3D
@@ -82,6 +72,16 @@ Primary 3D
 "Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions."
 
 [**chen_degeng@schools.gov.sg**](mailto:chen_degeng@schools.gov.sg)
+
+* * *
+ 
+<img src="/images/Our Staff/02 Teacher/3D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Khoo Chun Mei**
+
+Primary 3D
+
+"Learning takes place when curiosity is encouraged."
+
+[**khoo_chun_mei@schools.gov.sg**](mailto:khoo_chun_mei@schools.gov.sg)
 
 * * *
 
@@ -95,7 +95,7 @@ Primary 3E
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Suhailah Begum**
+<img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Suhailah Begum Bte Abd Rahim**
 
 Primary 3E
 
@@ -105,17 +105,7 @@ Primary 3E
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3E3.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Ma Chen**
-
-Primary 3E
-
-"Education is not the learning of facts, but the training of the mind to think."
-
-[**ma_chen@schools.gov.sg**](mailto:ma_chen@schools.gov.sg)
-
-* * *
-
-<img src="/images/Our Staff/02 Teacher/3F1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Santha Padman**
+<img src="/images/Our Staff/02 Teacher/3F1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Santha Padman**
 
 Primary 3F
 
