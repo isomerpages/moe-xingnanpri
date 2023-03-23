@@ -190,8 +190,7 @@ Primary 2I
 
 Primary 2I
 
-<br>
-<br>
+"I believe every child has the potential to develop and discover his or her unique talent and abilities with the right support and encouragement."
 
 [**Peh_Poh_Hwa_A@schools.gov.sg**](mailto:Peh_Poh_Hwa_A@schools.gov.sg)
 
