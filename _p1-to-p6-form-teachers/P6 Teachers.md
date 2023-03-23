@@ -5,7 +5,7 @@ description: ""
 ---
 ### P6 Teachers (2023)
 
-<img src="/images/Our Staff/02 Teacher/6A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Sofian**
+<img src="/images/Our Staff/02 Teacher/6A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Sofian (Mdm Nur Azlindah)**
 
 Primary 6A
 
@@ -25,17 +25,7 @@ Primary 6A
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/6B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Jessie Wee Ai-Hwa**
-
-Primary 6B
-
-"I will do my utmost best to engage learners and to reach out to any pupil who is left behind. I must remember that I teach students, not subjects."
-
-[**wee_ai-hwa_jessie@schools.gov.sg**](mailto:wee_ai-hwa_jessie@schools.gov.sg)
-
-* * *
-
-<img src="/images/Our Staff/02 Teacher/6B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Abdul Wahab**
+<img src="/images/Our Staff/02 Teacher/6B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Abdul Wahab Bin Abdul Rahman**
 
 Primary 6B
 
@@ -45,7 +35,17 @@ Primary 6B
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/6C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Mirna D/O Ramalengam**
+<img src="/images/Our Staff/02 Teacher/6B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Jessie Wee Ai-Hwa (Mrs Tan)**
+
+Primary 6B
+
+"I will do my utmost best to engage learners and to reach out to any pupil who is left behind. I must remember that I teach students, not subjects."
+
+[**wee_ai-hwa_jessie@schools.gov.sg**](mailto:wee_ai-hwa_jessie@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/6C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Mirna D/O Ramalengam**
 
 Primary 6C
 
@@ -75,7 +75,7 @@ Primary 6D
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/6D2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Sia Chu Kwee**
+<img src="/images/Our Staff/02 Teacher/6D2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Sia Chu Kwee**
 
 Primary 6D
 
