@@ -103,7 +103,7 @@ Assistant Year Head (Lower Primary)
 
 #####  Character and Citizenship Education
 
-<img src="/images/kp10.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Ms Gena Tee**   
+<img src="/images/kp10.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Ms Gena Tee Hui Chen**   
 HOD Character and Citizenship Education (CCE)
 
 "Every child is unique and special in their own way. However, it is important for all of them, regardless of how different they are, to learn a set of values that is beneficial to themselves and society. As educators, we are responsible for every child who passes through us. We must do what we can to help the children be the pride of the society."
@@ -121,7 +121,7 @@ Subject Head - National Education 
 
 * * *   
 
-<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right">**Ms Ong Li Jing**   
+<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right">**Miss Ong Lijing**   
 Senior Teacher - Educational Support
 
 "Every child can learn, and even teach others, to become better. May we be able to guide them and remind them to enjoy and treasure what is important."
@@ -144,7 +144,7 @@ HOD - Information Communication and Digital Media (ICDM)
 
 #####  English Language and Social Studies Department
 
-<img src="/images/kp12.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Mr Mohmmaad Irwan Bin Md Isa**   
+<img src="/images/kp12.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Mr Md Irwan Bin Md Isa**   
 HOD English Language and Social Studies Department
 
 "As a Teacher, I believe in Empathising with my pupils' learning needs prior to Assessing their full potentials Carefully and Honestly so that I can Enjoy my role with a Reflective mind." 
@@ -203,7 +203,7 @@ Senior Teacher - Mathematics 
 * * *
 #### Science Department
 
-<img src="/images/kp20.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tay An Ling**   
+<img src="/images/kp20.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tay Anling**   
 HOD Science
 
 "You can teach a pupil a lesson a day but if you can develop his curiosity, he will continue his learning process for as long as he lives."
