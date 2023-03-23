@@ -15,7 +15,7 @@ Primary 4A
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/4A2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chew Bee Hoon**
+<img src="/images/Our Staff/02 Teacher/4A2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chew Bee Hoon**
 
 Primary 4A
 
@@ -65,16 +65,6 @@ Primary 4C
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/4D1.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Noriayati Ishak**
-
-Primary 4D
-
-“Often we find that the students we want to inspire are the ones who end up inspiring us.”
-
-[**noriayati_ishak@schools.gov.sg**](mailto:noriayati_ishak@schools.gov.sg)
-
-* * *
-
 <img src="/images/Our Staff/02 Teacher/4D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Denise Yap**
 
 Primary 4D
@@ -82,5 +72,15 @@ Primary 4D
 "I believe in developing positive relationship with my students. As pupils spend most of their waking time in school, a strong pupil-teacher relationship will lead to better engagement, allowing effective instructions to take place."
 
 [**denise_yap@schools.gov.sg**](mailto:denise_yap@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/4D1.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Noriayati Ishak**
+
+Primary 4D
+
+“Often we find that the students we want to inspire are the ones who end up inspiring us.”
+
+[**noriayati_ishak@schools.gov.sg**](mailto:noriayati_ishak@schools.gov.sg)
 
 * * *
