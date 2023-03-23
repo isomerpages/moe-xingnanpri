@@ -9,7 +9,7 @@ description: ""
 
 Primary 2A
 
-_"Every child deserves to be acknowledged and every learner deserves to be educated."_
+"Every child deserves to be acknowledged and every learner deserves to be educated."
 
 [**nur_syafawani_amira_kamal@schools.gov.sg**](mailto:nur_syafawani_amira_kamal@schools.gov.sg)
 
@@ -19,7 +19,7 @@ _"Every child deserves to be acknowledged and every learner deserves to be educa
 
 Primary 2A
 
-_"Teachers are like the light in the dark - always guiding and lending a helping hand to encourage and support the pupils. I hope to be the person that the pupils can depend on."_
+"Teachers are like the light in the dark - always guiding and lending a helping hand to encourage and support the pupils. I hope to be the person that the pupils can depend on."
 
 [**chng_yen_teng_sheree@schools.gov.sg**](mailto:chng_yen_teng_sheree@schools.gov.sg)
 
@@ -29,7 +29,7 @@ _"Teachers are like the light in the dark - always guiding and lending a helping
 
 Primary 2B
 
-_"Teaching and learning is always occurring. Children have the ability to empower too."_
+"Teaching and learning is always occurring. Children have the ability to empower too."
 
 [**nur_hidayah_suhardjono@schools.gov.sg**](mailto:nur_hidayah_suhardjono@schools.gov.sg)
 
@@ -39,9 +39,7 @@ _"Teaching and learning is always occurring. Children have the ability to empowe
 
 Primary 2B
 
-<br>
-<br>
-
+"Students are like flowers. They bloom with proper care, patience and the right conditions. Likewise, with guidance, time and providing the right environment, I hope to see my students blossom into well-rounded individuals."
 
 [**inshira_mohd_aini@schools.gov.sg**](mailto:inshira_mohd_aini@schools.gov.sg)
 
@@ -51,7 +49,7 @@ Primary 2B
 
 Primary 2C
 
-_"Every child is special and has the potential to soar to greater heights."_
+"Teaching is a learning experience. I learn that every child has a story to tell."
 
 [**jamilah_rahim@schools.gov.sg**](mailto:jamilah_rahim@schools.gov.sg)
 
@@ -69,13 +67,14 @@ Primary 2C
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Piragatheeswari D/O Sigamani**
+<img src="/images/Our%20Staff/02%20Teacher/2D1.jpeg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Quraishiah Binte Abdullah**
 
 Primary 2D
 
-_"Our children are our future. I believe by nurturing their character and knowledge, they can take ownership of their learning and overcome challenges with optimism."_
+<Br>
+<br>
 
-[**piragatheeswari_sigamani@schools.gov.sg**](mailto:piragatheeswari_sigamani@schools.gov.sg)
+[**nur_quraishiah_abdullah@schools.gov.sg**](mailto:nur_quraishiah@schools.gov.sg)
 
 * * *
 
@@ -83,17 +82,17 @@ _"Our children are our future. I believe by nurturing their character and knowle
 
 Primary 2D
 
-_"教学是种分享，分享我对美术和华文的爱。"_
+"教学是种分享，分享我对美术和华文的爱。"
 
 [**wong_shiyuan@schools.gov.sg**](mailto:wong_shiyuan@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Kamaliah Bte Yusoff**
+<img src="/images/Our Staff/02 Teacher/2E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nurkamaliah Bte Yusoff**
 
 Primary 2E
 
-_"To teach is not to merely deliver facts and knowledge but to help children develop their curiosity, arouse their enthusiasm in the quest for the unknown and to discover the joy of uncovering them."_
+"To teach is not to merely deliver facts and knowledge but to help children develop their curiosity, arouse their enthusiasm in the quest for the unknown and to discover the joy of uncovering them."
 
 [**nurkamaliah_yusoff@schools.gov.sg**](mailto:nurkamaliah_yusoff@schools.gov.sg)
 
@@ -103,7 +102,7 @@ _"To teach is not to merely deliver facts and knowledge but to help children dev
 
 Primary 2E
 
-_"教师，是播撒知识的种子，传递文明火炬的使者"_
+"教师，是播撒知识的种子，传递文明火炬的使者"
 
 [**ho_seow_lee@schools.gov.sg**](mailto:ho_seow_lee@schools.gov.sg)
 
@@ -113,7 +112,7 @@ _"教师，是播撒知识的种子，传递文明火炬的使者"_
 
 Primary 2F
 
-_"Every child deserves equal treatment and no one should be left behind in the ladder of success. With the correct guidance, every pupil under my care shall grow up to become a successful person with good character."_
+"Every child deserves equal treatment and no one should be left behind in the ladder of success. With the correct guidance, every pupil under my care shall grow up to become a successful person with good character."
 
 [**shankar_ganesh_balakrishna@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
 
@@ -123,8 +122,7 @@ _"Every child deserves equal treatment and no one should be left behind in the l
 
 Primary 2F
 
-<br>
-<br>
+"Every child is precious and to be treasured. Every child is God's gift."
 
 [**koh_poh_len_vonda-charissa@schools.gov.sg**](mailto:koh_poh_len_vonda-charissa@schools.gov.sg)
 
@@ -134,7 +132,7 @@ Primary 2F
 
 Primary 2G
 
-_"Teaching through the heart isn't hard. With that in mind, being a positive role model to the students towards achieving a healthy mind, heart and body has always been the central belief of my teaching philosophy"_
+"Teaching through the heart isn't hard. With that in mind, being a positive role model to the students towards achieving a healthy mind, heart and body has always been the central belief of my teaching philosophy."
 
 [**muhammad_hilmi_mohamad_salim@schools.gov.sg**](mailto:muhammad_hilmi_mohamad_salim@schools.gov.sg)
 
@@ -144,7 +142,7 @@ _"Teaching through the heart isn't hard. With that in mind, being a positive rol
 
  Primary 2G.
 
-_"I believe every child can learn. It is how we empower them with learning opportunities and encourage them to try that makes a positive difference to them."_
+"I believe every child can learn. It is how we empower them with learning opportunities and encourage them to try that makes a positive difference to them."
 
 [**sumitha_sudevan@schools.gov.sg**](mailto:sumitha_sudevan@schools.gov.sg)
 
@@ -165,17 +163,17 @@ Primary 2G
 
 Primary 2H
 
-_"The best kind of teacher is one who commands respect and love from her students - and in that way students will naturally want to learn from that teacher."_
+"The best kind of teacher is one who commands respect and love from her students - and in that way students will naturally want to learn from that teacher."
 
 [**nur_millah_rasimin@schools.gov.sg**](mailto:nur_millah_rasimin@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2H2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Athena Choo Jia Yee**
+<img src="/images/Our Staff/02 Teacher/2H2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Athena Choo Jia Yee**
 
 Primary 2H
 
-_"Every student can learn, just not on the same day, or the same way." - George Evans. I believe that children have their own unique talents and abilities. As an educator, we should help them reach their maximum potential, with the right guidance and support."_
+"Every student can learn, just not on the same day, or the same way." - George Evans. I believe that children have their own unique talents and abilities. As an educator, we should help them reach their maximum potential, with the right guidance and support."
 
 [**athena_choo_jia_yee@schools.gov.sg**](mailto:athena_choo_jia_yee@schools.gov.sg)
 
@@ -185,7 +183,7 @@ _"Every student can learn, just not on the same day, or the same way." - George 
 
 Primary 2I
 
-_“Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions.”_
+“Learning occurs in a fun and engaging environment.”
 
 [**mok_song_imm@schools.gov.sg**](mailto:mok_song_imm@schools.gov.sg)
 
@@ -202,11 +200,11 @@ Primary 2I
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2J1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Sulastri Ryanti Bte Sujak**
+<img src="/images/Our Staff/02 Teacher/2J1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Sulastri Ryanti Khan**
 
 Primary 2J
 
-_"Every child deserves a hero – an adult who will never give up on them no matter what, who understands the power of communication and insists that they become the best that they can possibly be to reach their fullest potential. As a teacher, I aim to mould students holistically and not just academically."_
+"Every child deserves a hero – an adult who will never give up on them no matter what, who understands the power of communication and insists that they become the best that they can possibly be to reach their fullest potential. As a teacher, I aim to mould students holistically and not just academically."
 
 [**sulastri_ryanti_sujak@schools.gov.sg**](mailto:sulastri_ryanti_sujak@schools.gov.sg)
 
@@ -216,8 +214,7 @@ _"Every child deserves a hero – an adult who will never give up on them no mat
 
  Primary 2J
 
- _"TO BE UPDATED SOON"_
-
+ "不怕慢，只怕站。坚持、努力才是学习之路的唯一途径"
 
 [**lim_jingle@schools.gov.sg**](mailto:lim_jingle@schools.gov.sg)
 

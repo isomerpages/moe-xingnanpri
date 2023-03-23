@@ -14,7 +14,7 @@ Primary 1A
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Mohmmaad Irwan Bin Md Isa**
+<img src="/images/Our Staff/02 Teacher/1A2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Md Irwan Bin Md Isa**
 
 Primary 1A
 
@@ -24,11 +24,11 @@ Primary 1A
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Chia Tzu Lin**
+<img src="/images/Our Staff/02 Teacher/1B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Chia Tzu Lin (Mrs Low)**
 
 Primary 1B
 
-"Children need to be challenged. They need to solve hard problems and develop values. I hope to give our children the opportunity to be deeply engaged, and equip them with the processes they need to succeed in the future."
+"Every child should always adopt a "can-do" attitude. Education should broaden their minds and help them become the best people they can be."
 
 [**chia\_tzu\_lin@schools.gov.sg**](mailto:chia_tzu_lin@schools.gov.sg)
 
@@ -54,7 +54,7 @@ Primary 1C
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1C2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Vincent Arokia Dass**
+<img src="/images/Our Staff/02 Teacher/1C2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Vincent Arokia Dass S/O T**
 
 Primary 1C
 
@@ -68,7 +68,7 @@ _"TO BE UPDATED SOON"_
 
 Primary 1D
 
-"Every child has his strength waiting to be discovered."
+"Children must be taught how to think, not what to think."
 
 [**rafizah\_rahman@schools.gov.sg**](mailto:rafizah_rahman@schools.gov.sg)
 
@@ -78,7 +78,7 @@ Primary 1D
 
 Primary 1D
 
-_"我相信每一位孩子都有自己的天赋，教师需要通过关爱，细心的教学培养孩子的天赋。"_
+"我相信每一位孩子都有自己的天赋，教师需要通过关爱，细心的教学培养孩子的天赋。"
 
 [**wong_shui_zhu@schools.gov.sg**](mailto:wong_shui_zhu@schools.gov.sg)
 
@@ -108,7 +108,7 @@ Primary 1E
 
 Primary 1F
 
-"Education is not preparation for life, education is the journey to life itself."
+"To be confident, one needs to be competent. To be competent, one needs to be fearless to continuously seek knowledge and skills with humility."
 
 [**juhariyah_johari@schools.gov.sg**](mailto:juhariyah_johari@schools.gov.sg)
 
@@ -139,13 +139,13 @@ Primary 1G
 Primary 1G
 
 "Pendidikan adalah asas untuk masa depan yang lebih baik. ~~~ Education is the foundation for a better future."
-"_
+"
 
 [**rosneayu_rosenen@schools.gov.sg**](mailto:rosneayu_rosenen@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1H1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Delia Ang**
+<img src="/images/Our Staff/02 Teacher/1H1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Delia Ang Yen Peng**
 
 Primary 1H
 
@@ -159,7 +159,7 @@ Primary 1H
 
 Primary 1H
 
-"There's no definition of normal."
+"It’s what is seen that matters."
 
 [**ong_xiao_hui@schools.gov.sg**](mailto:ong_xiao_hui@schools.gov.sg)
 
@@ -169,7 +169,7 @@ Primary 1H
 
 Primary 1I
 
-"Hearts on. Minds on. Hands on"
+"Hearts on. Minds on. Hands on."
 
 [**norain_bakadool@schools.gov.sg**](mailto:norain_bakadool@schools.gov.sg)
 
@@ -191,7 +191,7 @@ I believe that education is the path for this gracious climb and teachers are th
 
 Primary 1I
 
-"Education goes beyond imparting knowledge and skills. Pupils must be imbued with the right values and character so that they can impact society positively."
+"Today's teachers like yesterday's teachers will continue to engage the learners to develop holistically, be a good person and loyal to the country. But the approaches, the tools and technology used will have to evolve and be in sync with the current times in order to engage the learners' curiosity and interest."
 
 [**kwek_khiok_chai@schools.gov.sg**](mailto:kwek_khiok_chai@schools.gov.sg)
 
