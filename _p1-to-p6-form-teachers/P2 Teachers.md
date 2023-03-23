@@ -59,7 +59,7 @@ Primary 2C
 
 Primary 2C
 
-"“Learning goes beyond the classroom. Every learning experience has its own unique journey ; my role as the teacher will be to assist each child in developing their own potential and learning styles. Students should be able to have choices and let their curiosity direct their learning.”
+"Learning goes beyond the classroom. Every learning experience has its own unique journey ; my role as the teacher will be to assist each child in developing their own potential and learning styles. Students should be able to have choices and let their curiosity direct their learning.”
 
 [**bran_chua_wei_kiat@schools.gov.sg**](mailto:bran_chua_wei_kiat@schools.gov.sg)
 
@@ -150,8 +150,7 @@ Primary 2G
 
 Primary 2G
 
-<br>
-<br>
+"As a person,I believe in lifelong education. As an educator,I hope to instill, amongst children, learning by understanding and never by rote memorisation. Learning is social and its good and fun to learn from one another. Never be afraid to fail. Just keep trying!"
 
 [**kavitha_kiresnasamy@schools.gov.sg**](mailto:kavitha_kiresnasamy@schools.gov.sg)
 
