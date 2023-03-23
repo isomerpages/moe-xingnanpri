@@ -19,10 +19,9 @@ Principal
 <img src="/images/kp2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm S Anitha**   
 Vice-Principal  
   
-"When we seek to bring out the best in others, we somehow bring out the best in ourselves!"  
-Quote by William Arthur Ward
+"When we seek to bring out the best in others, we somehow bring out the best in ourselves! ~ William Arthur Ward
 
- "Teaching and learning is so full of excitement, wonder and joy that I am thrilled when one more pupil or colleague feels motivated to take up the challenge to try and learn something new and do their best in that endeavour! My belief is that we are unique individuals and have something special that we can bring to our own learning! It is a great feeling to provide children and peers opportunities to explore various ways to think and be committed to be a lifelong learner seeking knowledge and skills as they grow and serve others. As a school community, we can join hands to nurture our children to be confident individuals and responsible citizens!"
+ Teaching and learning is so full of excitement, wonder and joy that I am thrilled when one more pupil or colleague feels motivated to take up the challenge to try and learn something new and do their best in that endeavour! My belief is that we are unique individuals and have something special that we can bring to our own learning! It is a great feeling to provide children and peers opportunities to explore various ways to think and be committed to be a lifelong learner seeking knowledge and skills as they grow and serve others. As a school community, we can join hands to nurture our children to be confident individuals and responsible citizens!"
 
 [S\_ANITHA@schools.gov.sg](mailto:S_ANITHA@schools.gov.sg)
 
