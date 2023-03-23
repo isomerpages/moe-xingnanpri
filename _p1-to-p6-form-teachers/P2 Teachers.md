@@ -57,11 +57,9 @@ Primary 2C
 
 <img src="/images/Our%20Staff/02%20Teacher/2C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Bran Chua**
 
-
 Primary 2C
 
-<Br>
-<br>
+"“Learning goes beyond the classroom. Every learning experience has its own unique journey ; my role as the teacher will be to assist each child in developing their own potential and learning styles. Students should be able to have choices and let their curiosity direct their learning.”
 
 [**bran_chua_wei_kiat@schools.gov.sg**](mailto:bran_chua_wei_kiat@schools.gov.sg)
 
