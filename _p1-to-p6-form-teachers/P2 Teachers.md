@@ -67,8 +67,7 @@ Primary 2C
 
 * * *
 
-<img src="/images/Our%20Staff/02%20Teacher/2D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Quraishiah Binte Abdullah**
-
+<img src="/images/Our%20Staff/02%20Teacher/2D1.jpeg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Quraishiah Binte Abdullah**
 
 Primary 2D
 
