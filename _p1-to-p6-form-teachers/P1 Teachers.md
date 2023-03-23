@@ -58,7 +58,7 @@ Primary 1C
 
 Primary 1C
 
-_"TO BE UPDATED SOON"_
+"Every child has an untapped potential waiting to be awakened. The key to unlocking that powerful potential lies in stellar guidance, undivided nurturing unwavering dedication."
 
 [**vincent\_arokia\_dass\_t@schools.gov.sg**](mailto:vincent_arokia_dass_t@schools.gov.sg)
 
