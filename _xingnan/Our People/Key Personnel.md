@@ -131,6 +131,17 @@ Senior Teacher - Educational Support
 
 * * *
 
+#### Information Communication and Digital Media & School Library
+
+<img src="/images/kp34.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Ma Chen**  
+HOD - Information Communication and Digital Media (ICDM)  
+
+"Education is not the learning of facts, but the training of the mind to think."
+
+[ma_chen@schools.gov.sg](mailto:ma_chen@schools.gov.sg)
+
+* * *
+
 #####  English Language and Social Studies Department
 
 <img src="/images/kp12.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Mr Mohmmaad Irwan Bin Md Isa**   
@@ -242,7 +253,7 @@ HOD Mother Tongue 
 
 <img src="/images/kp26.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Tan Hui Min**   
 Level Head - Chinese Language   
-Year Head (Lower Primary) - Covering
+Covering Year Head (Lower Primary)
   
 "我相信认真快乐的老师能营造快乐愉悦的学习环境和气氛，让莘莘学子们能拥有一段难忘快乐的学习旅程。"
 
@@ -313,12 +324,3 @@ Senior Teacher - Music
 [gan\_soon\_keat@schools.gov.sg](mailto:gan_soon_keat@schools.gov.sg)
 
 * * *
-
-#### Information Communication and Digital Media & School Library
-
-<img src="/images/kp34.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Ma Chen**  
-HOD - Information Communication and Digital Media (ICDM)  
-
-"Education is not the learning of facts, but the training of the mind to think."
-
-[ma_chen@schools.gov.sg](mailto:ma_chen@schools.gov.sg)
