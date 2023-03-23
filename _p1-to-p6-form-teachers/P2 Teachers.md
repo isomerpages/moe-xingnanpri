@@ -67,6 +67,18 @@ Primary 2C
 
 * * *
 
+<img src="/images/Our%20Staff/02%20Teacher/2D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Quraishiah Binte Abdullah**
+
+
+Primary 2B
+
+<Br>
+<br>
+
+[**nur_quraishiah_abdullah@schools.gov.sg**](mailto:nur_quraishiah@schools.gov.sg)
+
+* * *
+
 <img src="/images/Our Staff/02 Teacher/2D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Wong Shi Yuan**
 
 Primary 2D
@@ -77,7 +89,7 @@ Primary 2D
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Kamaliah Bte Yusoff**
+<img src="/images/Our Staff/02 Teacher/2E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nurkamaliah Bte Yusoff**
 
 Primary 2E
 
@@ -158,7 +170,7 @@ Primary 2H
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2H2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Athena Choo Jia Yee**
+<img src="/images/Our Staff/02 Teacher/2H2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Athena Choo Jia Yee**
 
 Primary 2H
 
@@ -189,7 +201,7 @@ Primary 2I
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2J1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Sulastri Ryanti Bte Sujak**
+<img src="/images/Our Staff/02 Teacher/2J1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Sulastri Ryanti Khan**
 
 Primary 2J
 
