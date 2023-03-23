@@ -14,7 +14,7 @@ Primary 1A
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Mohmmaad Irwan Bin Md Isa**
+<img src="/images/Our Staff/02 Teacher/1A2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Md Irwan Bin Md Isa**
 
 Primary 1A
 
@@ -24,7 +24,7 @@ Primary 1A
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Chia Tzu Lin**
+<img src="/images/Our Staff/02 Teacher/1B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Chia Tzu Lin (Mrs Low)**
 
 Primary 1B
 
@@ -54,7 +54,7 @@ Primary 1C
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1C2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Vincent Arokia Dass**
+<img src="/images/Our Staff/02 Teacher/1C2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Vincent Arokia Dass S/O T**
 
 Primary 1C
 
@@ -145,7 +145,7 @@ Primary 1G
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1H1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Delia Ang**
+<img src="/images/Our Staff/02 Teacher/1H1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Delia Ang Yen Peng**
 
 Primary 1H
 
