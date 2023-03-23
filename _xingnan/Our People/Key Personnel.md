@@ -237,21 +237,22 @@ HOD Mother Tongue 
 
 * * *
 
+<img src="/images/kp26.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Tan Hui Min**   
+Level Head - Chinese Language   
+Year Head (Lower Primary) - Covering
+  
+"我相信认真快乐的老师能营造快乐愉悦的学习环境和气氛，让莘莘学子们能拥有一段难忘快乐的学习旅程。"
+
+[lim\_hui\_min@schools.gov.sg](mailto:lim_hui_min@schools.gov.sg)
+
+* * *
+
 <img src="/images/kp25.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Taufek Bin Siniwi**   
 Subject Head -Malay Language/Tamil Language   
   
 "Every Child Deserves An Opportunity To Learn."
 
 [taufek\_b\_siniwi@schools.gov.sg](mailto:taufek_b_siniwi@schools.gov.sg)
-
-* * *
-
-<img src="/images/kp26.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Tan Hui Min**   
-Level Head - Chinese Language   
-  
-"我相信认真快乐的老师能营造快乐愉悦的学习环境和气氛，让莘莘学子们能拥有一段难忘快乐的学习旅程。"
-
-[lim\_hui\_min@schools.gov.sg](mailto:lim_hui_min@schools.gov.sg)
 
 * * *
 
