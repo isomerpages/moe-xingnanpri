@@ -298,7 +298,8 @@ HOD PE/CCA & AESTHETICS
 
 * * *
 
-<img src="/images/kp31.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Jason Chua Kian Seng** <br>Covering HOD - Character and Citizenship Education (CCE Student Development) 
+<img src="/images/kp31.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Jason Chua Kian Seng** <br>Subject Head - PE
+Covering HOD - Character and Citizenship Education (CCE Student Development) 
 
   
 "As a physical educator, I believe that holistic education is the approach towards my goal of education, that is, to engage students in learning, to bring out the best in them and help them to be the most that they can be."
