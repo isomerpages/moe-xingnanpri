@@ -82,12 +82,12 @@ Year Head (Middle Primary)
 
 * * *
 
-<img src="/images/kp10.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Ms Gena Tee**   
-HOD Character and Citizenship Education (CCE)
+<img src="/images/Our Staff/02 Teacher/3D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chen Degeng**   
+Assistant Year Head (Middle Primary)  
 
-"Every child is unique and special in their own way. However, it is important for all of them, regardless of how different they are, to learn a set of values that is beneficial to themselves and society. As educators, we are responsible for every child who passes through us. We must do what we can to help the children be the pride of the society."
+"Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions."
 
-[tee\_hui\_chen\_gena@schools.gov.sg](mailto:tee_hui_chen_gena@schools.gov.sg)
+[**chen_degeng@schools.gov.sg**](mailto:chen_degeng@schools.gov.sg)
 
 * * *
 
@@ -97,8 +97,29 @@ Assistant Year Head (Lower Primary)
 "Every child is a star in its own light!"
 
 [maslinda\_abd\_wahab@schools.gov.sg](mailto:maslinda_abd_wahab@schools.gov.sg)
-
+<br>
+<br>
 ***
+
+#####  Character and Citizenship Education
+
+<img src="/images/kp10.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Ms Gena Tee**   
+HOD Character and Citizenship Education (CCE)
+
+"Every child is unique and special in their own way. However, it is important for all of them, regardless of how different they are, to learn a set of values that is beneficial to themselves and society. As educators, we are responsible for every child who passes through us. We must do what we can to help the children be the pride of the society."
+
+[tee\_hui\_chen\_gena@schools.gov.sg](mailto:tee_hui_chen_gena@schools.gov.sg)
+
+* * *
+
+<img src="/images/kp16.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Juhariyah Bte Johari**   
+Subject Head - National Education   
+  
+"Education is not preparation for life, education is the journey to life itself."
+
+ [juhariyah\_johari@schools.gov.sg](mailto:juhariyah_johari@schools.gov.sg)
+
+* * *
 <br>
 <img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right">
 
@@ -111,14 +132,6 @@ Senior Teacher - Educational Support
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chen Degeng**   
-Assistant Year Head (Middle Primary)  
-
-"Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions."
-
-[**chen_degeng@schools.gov.sg**](mailto:chen_degeng@schools.gov.sg)
-
-* * *
 #####  English Language and Social Studies Department
 
 <img src="/images/kp12.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Mr Mohmmaad Irwan Bin Md Isa**   
@@ -154,15 +167,6 @@ Senior Teacher-English Language
 "I believe in giving the best to the future generation. Students will be strongly motivated if they know that their teachers are teaching from their hearts."
 
 [ler\_lay\_ching@schools.gov.sg](mailto:ler_lay_ching@schools.gov.sg)
-
-* * *
-
-<img src="/images/kp16.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Juhariyah Bte Johari**   
-Subject Head - National Education   
-  
-"Education is not preparation for life, education is the journey to life itself."
-
- [juhariyah\_johari@schools.gov.sg](mailto:juhariyah_johari@schools.gov.sg)
 
 * * *
 
