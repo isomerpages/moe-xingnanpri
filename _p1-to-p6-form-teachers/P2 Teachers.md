@@ -57,11 +57,9 @@ Primary 2C
 
 <img src="/images/Our%20Staff/02%20Teacher/2C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Bran Chua**
 
-
 Primary 2C
 
-<Br>
-<br>
+"Learning goes beyond the classroom. Every learning experience has its own unique journey ; my role as the teacher will be to assist each child in developing their own potential and learning styles. Students should be able to have choices and let their curiosity direct their learning.”
 
 [**bran_chua_wei_kiat@schools.gov.sg**](mailto:bran_chua_wei_kiat@schools.gov.sg)
 
@@ -71,8 +69,7 @@ Primary 2C
 
 Primary 2D
 
-<Br>
-<br>
+“It takes a big heart to help shape little minds.”
 
 [**nur_quraishiah_abdullah@schools.gov.sg**](mailto:nur_quraishiah@schools.gov.sg)
 
@@ -152,8 +149,7 @@ Primary 2G
 
 Primary 2G
 
-<br>
-<br>
+"As a person,I believe in lifelong education. As an educator,I hope to instill, amongst children, learning by understanding and never by rote memorisation. Learning is social and its good and fun to learn from one another. Never be afraid to fail. Just keep trying!"
 
 [**kavitha_kiresnasamy@schools.gov.sg**](mailto:kavitha_kiresnasamy@schools.gov.sg)
 
@@ -193,8 +189,7 @@ Primary 2I
 
 Primary 2I
 
-<br>
-<br>
+"I believe every child has the potential to develop and discover his or her unique talent and abilities with the right support and encouragement."
 
 [**Peh_Poh_Hwa_A@schools.gov.sg**](mailto:Peh_Poh_Hwa_A@schools.gov.sg)
 

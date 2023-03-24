@@ -49,7 +49,7 @@ Primary 3B
 
 Primary 3C
 
-_"TO BE UPDATED SOON"_
+"I believe that every student is like a gemstone waiting to be discovered. It is my duty as an educator to help them discover their own potential and to shine brightly in their own unique ways."
 
 [**constance_toh_kai_ting@schools.gov.sg**](mailto:constance_toh_kai_ting@schools.gov.sg)
 

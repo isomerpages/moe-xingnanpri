@@ -5,7 +5,7 @@ description: ""
 ---
 ### P5 Teachers (2023)
 
-<img src="/images/Our Staff/02 Teacher/5A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Ng Yin Whee**
+<img src="/images/Our Staff/02 Teacher/5A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Ng Yin Whee**
 
 Primary 5A
 
@@ -86,7 +86,7 @@ Primary 5D
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/5D2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Daniel Benjamin Balhetchet**
+<img src="/images/Our Staff/02 Teacher/5D2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Balhetchet Daniel Benjamin**
 
 Primary 5D
 
@@ -108,7 +108,7 @@ Direct children onto the right path. When they are older, they will not depart f
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/5E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Benjamin Wong**
+<img src="/images/Our Staff/02 Teacher/5E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Benjamin Wong Chun Chit**
 
 Primary 5E
 

@@ -82,12 +82,12 @@ Year Head (Middle Primary)
 
 * * *
 
-<img src="/images/kp10.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Ms Gena Tee**   
-HOD Character and Citizenship Education (CCE)
+<img src="/images/Our Staff/02 Teacher/3D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chen Degeng**   
+Assistant Year Head (Middle Primary)  
 
-"Every child is unique and special in their own way. However, it is important for all of them, regardless of how different they are, to learn a set of values that is beneficial to themselves and society. As educators, we are responsible for every child who passes through us. We must do what we can to help the children be the pride of the society."
+"Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions."
 
-[tee\_hui\_chen\_gena@schools.gov.sg](mailto:tee_hui_chen_gena@schools.gov.sg)
+[**chen_degeng@schools.gov.sg**](mailto:chen_degeng@schools.gov.sg)
 
 * * *
 
@@ -97,31 +97,54 @@ Assistant Year Head (Lower Primary)
 "Every child is a star in its own light!"
 
 [maslinda\_abd\_wahab@schools.gov.sg](mailto:maslinda_abd_wahab@schools.gov.sg)
-
-***
 <br>
-<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<br>
+***
 
-**Ms Ong Li Jing**   
+#####  Character and Citizenship Education
+
+<img src="/images/kp10.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Ms Gena Tee Hui Chen**   
+HOD Character and Citizenship Education (CCE)
+
+"Every child is unique and special in their own way. However, it is important for all of them, regardless of how different they are, to learn a set of values that is beneficial to themselves and society. As educators, we are responsible for every child who passes through us. We must do what we can to help the children be the pride of the society."
+
+[tee\_hui\_chen\_gena@schools.gov.sg](mailto:tee_hui_chen_gena@schools.gov.sg)
+
+* * *
+
+<img src="/images/kp16.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Juhariyah Bte Johari**   
+Subject Head - National Education   
+  
+"Education is not preparation for life, education is the journey to life itself."
+
+ [juhariyah\_johari@schools.gov.sg](mailto:juhariyah_johari@schools.gov.sg)
+
+* * *   
+
+<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right">**Miss Ong Lijing**   
 Senior Teacher - Educational Support
 
 "Every child can learn, and even teach others, to become better. May we be able to guide them and remind them to enjoy and treasure what is important."
 
-[**ong_lijing@schools.gov.sg**](mailto:ong_lijing@schools.gov.sg)
+[ong\_lijing@schools.gov.sg](mailto:ong_lijing@schools.gov.sg)
+
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chen Degeng**   
-Assistant Year Head (Middle Primary)  
+#### Information Communication and Digital Media & School Library
 
-"Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions."
+<img src="/images/kp34.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Ma Chen**  
+HOD - Information Communication and Digital Media (ICDM)  
 
-[**chen_degeng@schools.gov.sg**](mailto:chen_degeng@schools.gov.sg)
+"Education is not the learning of facts, but the training of the mind to think."
+
+[ma_chen@schools.gov.sg](mailto:ma_chen@schools.gov.sg)
 
 * * *
+
 #####  English Language and Social Studies Department
 
-<img src="/images/kp12.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Mr Mohmmaad Irwan Bin Md Isa**   
+<img src="/images/kp12.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Mr Md Irwan Bin Md Isa**   
 HOD English Language and Social Studies Department
 
 "As a Teacher, I believe in Empathising with my pupils' learning needs prior to Assessing their full potentials Carefully and Honestly so that I can Enjoy my role with a Reflective mind." 
@@ -157,15 +180,6 @@ Senior Teacher-English Language
 
 * * *
 
-<img src="/images/kp16.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Juhariyah Bte Johari**   
-Subject Head - National Education   
-  
-"Education is not preparation for life, education is the journey to life itself."
-
- [juhariyah\_johari@schools.gov.sg](mailto:juhariyah_johari@schools.gov.sg)
-
-* * *
-
 ##### Mathematics Department 
 
 <img src="/images/kp17.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Philip Chiu**   
@@ -189,7 +203,7 @@ Senior Teacher - Mathematics 
 * * *
 #### Science Department
 
-<img src="/images/kp20.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tay An Ling**   
+<img src="/images/kp20.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tay Anling**   
 HOD Science
 
 "You can teach a pupil a lesson a day but if you can develop his curiosity, he will continue his learning process for as long as he lives."
@@ -237,21 +251,22 @@ HOD Mother Tongue 
 
 * * *
 
+<img src="/images/kp26.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Tan Hui Min**   
+Level Head - Chinese Language   
+Covering Year Head (Lower Primary)
+  
+"我相信认真快乐的老师能营造快乐愉悦的学习环境和气氛，让莘莘学子们能拥有一段难忘快乐的学习旅程。"
+
+[lim\_hui\_min@schools.gov.sg](mailto:lim_hui_min@schools.gov.sg)
+
+* * *
+
 <img src="/images/kp25.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Taufek Bin Siniwi**   
 Subject Head -Malay Language/Tamil Language   
   
 "Every Child Deserves An Opportunity To Learn."
 
 [taufek\_b\_siniwi@schools.gov.sg](mailto:taufek_b_siniwi@schools.gov.sg)
-
-* * *
-
-<img src="/images/kp26.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Tan Hui Min**   
-Level Head - Chinese Language   
-  
-"我相信认真快乐的老师能营造快乐愉悦的学习环境和气氛，让莘莘学子们能拥有一段难忘快乐的学习旅程。"
-
-[lim\_hui\_min@schools.gov.sg](mailto:lim_hui_min@schools.gov.sg)
 
 * * *
 
@@ -283,7 +298,8 @@ HOD PE/CCA & AESTHETICS
 
 * * *
 
-<img src="/images/kp31.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Jason Chua Kian Seng** <br>Covering HOD - Character and Citizenship Education (CCE Student Development) 
+<img src="/images/kp31.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Jason Chua Kian Seng** <br>Subject Head - PE
+Covering HOD - Character and Citizenship Education (CCE Student Development) 
 
   
 "As a physical educator, I believe that holistic education is the approach towards my goal of education, that is, to engage students in learning, to bring out the best in them and help them to be the most that they can be."
@@ -309,12 +325,3 @@ Senior Teacher - Music
 [gan\_soon\_keat@schools.gov.sg](mailto:gan_soon_keat@schools.gov.sg)
 
 * * *
-
-#### Information Communication and Digital Media & School Library
-
-<img src="/images/kp34.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Ma Chen**  
-HOD - Information Communication and Digital Media (ICDM)  
-
-"Education is not the learning of facts, but the training of the mind to think."
-
-[ma_chen@schools.gov.sg](mailto:ma_chen@schools.gov.sg)

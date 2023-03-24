@@ -21,7 +21,7 @@ third_nav_title: Our People
  <br>
  <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast6.png" style="width:200px;height:200px;margin-left:15px;" align = "right">
  
- **Miss Siti Omairah Bte Mohd Kamal**<br>Administration Executive<br>[siti_omairah_mohammad_kamal@schools.gov.sg](mailto:siti_omairah_mohammad_kamal@schools.gov.sg) 	 
+ **Miss Siti Omairah Bte Mohammad Kamal**<br>Administration Executive<br>[siti_omairah_mohammad_kamal@schools.gov.sg](mailto:siti_omairah_mohammad_kamal@schools.gov.sg) 	 
   <br>
  <br>
 
@@ -176,4 +176,4 @@ third_nav_title: Our People
 <br>
 <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast19.png" style="width:200px;height:200px;margin-left:15px;" align = "right"> 
 
- **Ms Whitney Lee** <br> Photocopy Service
+ **Mdm Whitney Lee** <br> Photocopy Service
