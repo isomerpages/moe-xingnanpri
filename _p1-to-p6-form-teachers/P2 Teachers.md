@@ -69,8 +69,7 @@ Primary 2C
 
 Primary 2D
 
-<Br>
-<br>
+“It takes a big heart to help shape little minds.”
 
 [**nur_quraishiah_abdullah@schools.gov.sg**](mailto:nur_quraishiah@schools.gov.sg)
 
