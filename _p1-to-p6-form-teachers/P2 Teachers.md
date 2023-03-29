@@ -121,7 +121,7 @@ Primary 2F
 
 "Every child is precious and to be treasured. Every child is God's gift."
 
-[**koh_poh_len_vonda-charissa@schools.gov.sg**](mailto:koh_poh_len_vonda-charissa@schools.gov.sg)
+[**lavondakoh@schools.gov.sg**](mailto:lavondakoh@schools.gov.sg)
 
 * * *
 

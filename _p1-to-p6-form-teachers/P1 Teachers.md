@@ -8,7 +8,7 @@ description: ""
 
 Primary 1A
 
-"I believe that every child can be taught and nurtured through education."
+I believe that every child can be taught and nurtured through education.
 
 [**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
 
