@@ -171,7 +171,7 @@ Primary 2H
 
 "Every student can learn, just not on the same day, or the same way." - George Evans. 
 
-I believe that children have their own unique talents and abilities. As an educator, we should help them reach their maximum potential, with the right guidance and support."
+I believe that children have their own unique talents and abilities. As an educator, we should help them reach their maximum potential, with the right guidance and support.
 
 [**athena_choo_jia_yee@schools.gov.sg**](mailto:athena_choo_jia_yee@schools.gov.sg)
 
@@ -181,7 +181,7 @@ I believe that children have their own unique talents and abilities. As an educa
 
 Primary 2I
 
-“Learning occurs in a fun and engaging environment.”
+Learning occurs in a fun and engaging environment.
 
 [**mok_song_imm@schools.gov.sg**](mailto:mok_song_imm@schools.gov.sg)
 
@@ -191,7 +191,7 @@ Primary 2I
 
 Primary 2I
 
-"I believe every child has the potential to develop and discover his or her unique talent and abilities with the right support and encouragement."
+I believe every child has the potential to develop and discover his or her unique talent and abilities with the right support and encouragement.
 
 [**Peh_Poh_Hwa_A@schools.gov.sg**](mailto:Peh_Poh_Hwa_A@schools.gov.sg)
 
@@ -201,7 +201,7 @@ Primary 2I
 
 Primary 2J
 
-"Every child deserves a hero – an adult who will never give up on them no matter what, who understands the power of communication and insists that they become the best that they can possibly be to reach their fullest potential. As a teacher, I aim to mould students holistically and not just academically."
+Every child deserves a hero – an adult who will never give up on them no matter what, who understands the power of communication and insists that they become the best that they can possibly be to reach their fullest potential. As a teacher, I aim to mould students holistically and not just academically.
 
 [**sulastri_ryanti_sujak@schools.gov.sg**](mailto:sulastri_ryanti_sujak@schools.gov.sg)
 
@@ -211,7 +211,7 @@ Primary 2J
 
  Primary 2J
 
- "不怕慢，只怕站。坚持、努力才是学习之路的唯一途径"
+不怕慢，只怕站。坚持、努力才是学习之路的唯一途径。
 
 [**lim_jingle@schools.gov.sg**](mailto:lim_jingle@schools.gov.sg)
 
