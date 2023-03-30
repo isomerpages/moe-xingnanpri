@@ -4,8 +4,6 @@ permalink: /x3-learning-years-programme/Co-Curricular/cca-videos/
 description: ""
 third_nav_title: Co Curricular
 ---
-### XINGNAN CCA AND ENGAGEMENT DAY 2021 NOT DONE WITH FAQ
-
 #### Sports and Games
 
 <iframe width="405" height="226" src="https://www.youtube.com/embed/8JYSkp3heY4" title="Football" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
