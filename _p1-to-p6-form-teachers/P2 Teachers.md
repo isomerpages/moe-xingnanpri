@@ -109,7 +109,7 @@ Primary 2E
 
 Primary 2F
 
-"Every child deserves equal treatment and no one should be left behind in the ladder of success. With the correct guidance, every pupil under my care shall grow up to become a successful person with good character."
+Every child deserves equal treatment and no one should be left behind in the ladder of success. With the correct guidance, every pupil under my care shall grow up to become a successful person with good character.
 
 [**shankar_ganesh_balakrishna@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
 
@@ -119,7 +119,7 @@ Primary 2F
 
 Primary 2F
 
-"Every child is precious and to be treasured. Every child is God's gift."
+Every child is precious and to be treasured. Every child is God's gift.
 
 [**lavondakoh@schools.gov.sg**](mailto:lavondakoh@schools.gov.sg)
 
@@ -129,7 +129,7 @@ Primary 2F
 
 Primary 2G
 
-"Teaching through the heart isn't hard. With that in mind, being a positive role model to the students towards achieving a healthy mind, heart and body has always been the central belief of my teaching philosophy."
+Teaching through the heart isn't hard. With that in mind, being a positive role model to the students towards achieving a healthy mind, heart and body has always been the central belief of my teaching philosophy.
 
 [**muhammad_hilmi_mohamad_salim@schools.gov.sg**](mailto:muhammad_hilmi_mohamad_salim@schools.gov.sg)
 
@@ -137,9 +137,9 @@ Primary 2G
 
 <img src="/images/Our Staff/02 Teacher/2G2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Sumitha D/O Sudevan**
 
- Primary 2G.
+ Primary 2G
 
-"I believe every child can learn. It is how we empower them with learning opportunities and encourage them to try that makes a positive difference to them."
+I believe every child can learn. It is how we empower them with learning opportunities and encourage them to try that makes a positive difference to them.
 
 [**sumitha_sudevan@schools.gov.sg**](mailto:sumitha_sudevan@schools.gov.sg)
 
@@ -149,7 +149,7 @@ Primary 2G
 
 Primary 2G
 
-"As a person,I believe in lifelong education. As an educator,I hope to instill, amongst children, learning by understanding and never by rote memorisation. Learning is social and its good and fun to learn from one another. Never be afraid to fail. Just keep trying!"
+As a person,I believe in lifelong education. As an educator,I hope to instill, amongst children, learning by understanding and never by rote memorisation. Learning is social and its good and fun to learn from one another. Never be afraid to fail. Just keep trying!
 
 [**kavitha_kiresnasamy@schools.gov.sg**](mailto:kavitha_kiresnasamy@schools.gov.sg)
 
@@ -159,7 +159,7 @@ Primary 2G
 
 Primary 2H
 
-"The best kind of teacher is one who commands respect and love from her students - and in that way students will naturally want to learn from that teacher."
+The best kind of teacher is one who commands respect and love from her students - and in that way students will naturally want to learn from that teacher.
 
 [**nur_millah_rasimin@schools.gov.sg**](mailto:nur_millah_rasimin@schools.gov.sg)
 
@@ -169,7 +169,9 @@ Primary 2H
 
 Primary 2H
 
-"Every student can learn, just not on the same day, or the same way." - George Evans. I believe that children have their own unique talents and abilities. As an educator, we should help them reach their maximum potential, with the right guidance and support."
+"Every student can learn, just not on the same day, or the same way." - George Evans. 
+
+I believe that children have their own unique talents and abilities. As an educator, we should help them reach their maximum potential, with the right guidance and support."
 
 [**athena_choo_jia_yee@schools.gov.sg**](mailto:athena_choo_jia_yee@schools.gov.sg)
 
