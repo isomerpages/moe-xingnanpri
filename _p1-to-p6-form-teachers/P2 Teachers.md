@@ -9,7 +9,7 @@ description: ""
 
 Primary 2A
 
-"Every child deserves to be acknowledged and every learner deserves to be educated."
+Every child deserves to be acknowledged and every learner deserves to be educated.
 
 [**nur_syafawani_amira_kamal@schools.gov.sg**](mailto:nur_syafawani_amira_kamal@schools.gov.sg)
 
@@ -19,7 +19,7 @@ Primary 2A
 
 Primary 2A
 
-"Teachers are like the light in the dark - always guiding and lending a helping hand to encourage and support the pupils. I hope to be the person that the pupils can depend on."
+Teachers are like the light in the dark - always guiding and lending a helping hand to encourage and support the pupils. I hope to be the person that the pupils can depend on.
 
 [**chng_yen_teng_sheree@schools.gov.sg**](mailto:chng_yen_teng_sheree@schools.gov.sg)
 
@@ -29,7 +29,7 @@ Primary 2A
 
 Primary 2B
 
-"Teaching and learning is always occurring. Children have the ability to empower too."
+Teaching and learning is always occurring. Children have the ability to empower too.
 
 [**nur_hidayah_suhardjono@schools.gov.sg**](mailto:nur_hidayah_suhardjono@schools.gov.sg)
 
@@ -39,7 +39,7 @@ Primary 2B
 
 Primary 2B
 
-"Students are like flowers. They bloom with proper care, patience and the right conditions. Likewise, with guidance, time and providing the right environment, I hope to see my students blossom into well-rounded individuals."
+Students are like flowers. They bloom with proper care, patience and the right conditions. Likewise, with guidance, time and providing the right environment, I hope to see my students blossom into well-rounded individuals.
 
 [**inshira_mohd_aini@schools.gov.sg**](mailto:inshira_mohd_aini@schools.gov.sg)
 
@@ -49,7 +49,7 @@ Primary 2B
 
 Primary 2C
 
-"Teaching is a learning experience. I learn that every child has a story to tell."
+Teaching is a learning experience. I learn that every child has a story to tell.
 
 [**jamilah_rahim@schools.gov.sg**](mailto:jamilah_rahim@schools.gov.sg)
 
@@ -59,7 +59,7 @@ Primary 2C
 
 Primary 2C
 
-"Learning goes beyond the classroom. Every learning experience has its own unique journey ; my role as the teacher will be to assist each child in developing their own potential and learning styles. Students should be able to have choices and let their curiosity direct their learning.”
+Learning goes beyond the classroom. Every learning experience has its own unique journey; my role as the teacher will be to assist each child in developing their own potential and learning styles. Students should be able to have choices and let their curiosity direct their learning.
 
 [**bran_chua_wei_kiat@schools.gov.sg**](mailto:bran_chua_wei_kiat@schools.gov.sg)
 
@@ -69,7 +69,7 @@ Primary 2C
 
 Primary 2D
 
-“It takes a big heart to help shape little minds.”
+It takes a big heart to help shape little minds.
 
 [**nur_quraishiah_abdullah@schools.gov.sg**](mailto:nur_quraishiah@schools.gov.sg)
 
@@ -79,7 +79,7 @@ Primary 2D
 
 Primary 2D
 
-"教学是种分享，分享我对美术和华文的爱。"
+教学是种分享，分享我对美术和华文的爱。
 
 [**wong_shiyuan@schools.gov.sg**](mailto:wong_shiyuan@schools.gov.sg)
 
@@ -89,7 +89,7 @@ Primary 2D
 
 Primary 2E
 
-"To teach is not to merely deliver facts and knowledge but to help children develop their curiosity, arouse their enthusiasm in the quest for the unknown and to discover the joy of uncovering them."
+To teach is not to merely deliver facts and knowledge but to help children develop their curiosity, arouse their enthusiasm in the quest for the unknown and to discover the joy of uncovering them.
 
 [**nurkamaliah_yusoff@schools.gov.sg**](mailto:nurkamaliah_yusoff@schools.gov.sg)
 
@@ -99,7 +99,7 @@ Primary 2E
 
 Primary 2E
 
-"教师，是播撒知识的种子，传递文明火炬的使者"
+教师，是播撒知识的种子，传递文明火炬的使者。
 
 [**ho_seow_lee@schools.gov.sg**](mailto:ho_seow_lee@schools.gov.sg)
 
