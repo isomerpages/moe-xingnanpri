@@ -7,4 +7,4 @@ third_nav_title: School Publications
 ### School Newsletter
 **2023 Monthy Newsletter**
 
- <img src="/images/Newsletter.gif" style="width:300px;height:300px;margin-left:50px;" align = "right">Welcome to our newsletter page. We are excited to share with you our experience in school through our monthly newsletter.  [Click Here](https://heyzine.com/flip-book/e32cd3c9ed.html) to access our monthly newsletter.
+ <img src="/images/Newsletter.gif" style="width:300px;height:300px;margin-left:50px;" align="right">Welcome to our newsletter page. We are excited to share with you our experience in school through our monthly newsletter.  [Click Here](https://heyzine.com/flip-book/60f2714a94.html#page/1) to access our monthly newsletter.
