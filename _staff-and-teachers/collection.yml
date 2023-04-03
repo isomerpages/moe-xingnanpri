@@ -2,6 +2,7 @@ collections:
   staff-and-teachers:
     output: true
     order:
+      - Staff Awards & Recognition.md
       - Overview.md
       - stARS.md
       - President's Award for Teachers.md
