@@ -31,6 +31,3 @@ X3&nbsp;LYP seeks to facilitate coherence between&nbsp;**Curricular**&nbsp;and&n
 <img src="/images/Learn%20For%20Life/team%20xtend%20-%20infographic.jpg" style="width:100%">
 <br>
 <img src="/images/Learn%20For%20Life/xplore%20poster_sch%20website.jpg" style="width:100%">
-
-
-
