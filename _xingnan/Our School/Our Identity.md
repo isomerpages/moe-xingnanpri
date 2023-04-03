@@ -24,7 +24,7 @@ The school crest was designed by Miss Peng Huijun, a former pupil, in 1988. The 
 .
 <br>
 
- #### Our School Song
+#### Our School Song.
  
 <p align="center"> 
 Once a little village school it was but today an ultra-modern school <br>
