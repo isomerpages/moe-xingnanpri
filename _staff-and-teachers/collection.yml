@@ -2,6 +2,7 @@ collections:
   staff-and-teachers:
     output: true
     order:
+      - 2022 MOE Long Service Award.md
       - 2022 MOE Service Excellence Award (MSEA).md
       - Overview.md
       - stARS.md
