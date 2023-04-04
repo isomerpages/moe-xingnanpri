@@ -4,7 +4,6 @@ permalink: /expedition/Achievements/cca-achievements/
 description: ""
 third_nav_title: Our Accolade
 ---
-
 ### CCA Achievements
 
 #### Basketball
@@ -18,7 +17,9 @@ third_nav_title: Our Accolade
 
 <img src="/images/cca21.png" style="width:60%">
 
-##### 2021 National School Games Volleyball Competition 
+##### 2023 National School Games Volleyball Competition&nbsp;
+![](/images/Expedition/2023%20volleyball.png)
+##### 2021 National School Games Volleyball Competition&nbsp;
 
 ##### Senior Girls Division: 1st
 
