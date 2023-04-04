@@ -2,6 +2,7 @@ collections:
   expedition:
     output: true
     order:
+      - Our Accolade/Staff Achievement.md
       - Our Accolade/School Awards.md
       - Our Accolade/Students Achievement.md
       - Our Accolade/CCA Achievements.md
