@@ -4,9 +4,6 @@ permalink: /expedition/Achievements/academic-achievements/
 description: ""
 third_nav_title: Our Accolade
 ---
-
-
-
-### Academic Achievements
+### Student Achievements
 
 Page under construction.
