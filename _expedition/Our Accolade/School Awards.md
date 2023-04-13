@@ -7,7 +7,9 @@ third_nav_title: Our Accolade
 ### School Awards
 
 **School Green Award - Vanda Miss Joaquim Award (2022)**
-<img src="/images/Expedition/school%20green%20award%202022.JPG" style="width:50%">
+
+<img src="/images/Expedition/school%20green%20award%202022.JPG" style="width:230px;height:330px;margin-left:15px;" align="left"> 
+ 
 <img src="/images/Expedition/school%20green%20award%20--%20vanda%20miss%20joaquim%20(2022).jpeg" style="width:50%">
 
 **Southwest CDC - 3*Star Award (2022)**
