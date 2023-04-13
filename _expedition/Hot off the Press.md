@@ -20,19 +20,13 @@ ____
 
 [](https://www.todayonline.com/singapore/not-all-are-back-class-its-right-timing-reopen-schools-says-ong-ye-kung)
 
-Link to articles:  
-1. [](https://www.straitstimes.com/singapore/education/schools-reopen-with-tight-safety-measures-in-place-prolonged-closure-would-have)[Schools reopen with tight safety measures in place](https://www.straitstimes.com/singapore/education/schools-reopen-with-tight-safety-measures-in-place-prolonged-closure-would-have)&nbsp;&nbsp;  
-2. [](https://sg.style.yahoo.com/moe-review-blend-classroom-digital-074655157.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAMAC9RoA4t3T-vVpIIXoA2va4yzSqFn-rXWwnqw1M_ExaQb1Om2UiWKv1VT6P7cTmVULUUXfrly_GR62ysgEiusUqVQyJCiWuhxfUfESmDpIf_UTq4V4IDC4q98apbY7wLw76RIdMwXnmOM3QG7RxnPCbhkfmSLNV07MScyt3DBz)[MOE reviews blend classroom and digital learning](https://sg.style.yahoo.com/moe-review-blend-classroom-digital-074655157.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAMAC9RoA4t3T-vVpIIXoA2va4yzSqFn-rXWwnqw1M_ExaQb1Om2UiWKv1VT6P7cTmVULUUXfrly_GR62ysgEiusUqVQyJCiWuhxfUfESmDpIf_UTq4V4IDC4q98apbY7wLw76RIdMwXnmOM3QG7RxnPCbhkfmSLNV07MScyt3DBz)&nbsp;  
-3. [Not all are back in class but it’s right timing to reopen schools](https://www.todayonline.com/singapore/not-all-are-back-class-its-right-timing-reopen-schools-says-ong-ye-kung)&nbsp;  
-  
-  
-<img src="/images/hitp2.png" style="width:60%">
 
-[](https://www.straitstimes.com/singapore/telcos-national-day-videos-prove-big-hit-online)
+5. [](https://www.straitstimes.com/singapore/education/schools-reopen-with-tight-safety-measures-in-place-prolonged-closure-would-have)[Schools reopen with tight safety measures in place](https://www.straitstimes.com/singapore/education/schools-reopen-with-tight-safety-measures-in-place-prolonged-closure-would-have)&nbsp;&nbsp;  
+6. [](https://sg.style.yahoo.com/moe-review-blend-classroom-digital-074655157.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAMAC9RoA4t3T-vVpIIXoA2va4yzSqFn-rXWwnqw1M_ExaQb1Om2UiWKv1VT6P7cTmVULUUXfrly_GR62ysgEiusUqVQyJCiWuhxfUfESmDpIf_UTq4V4IDC4q98apbY7wLw76RIdMwXnmOM3QG7RxnPCbhkfmSLNV07MScyt3DBz)[MOE reviews blend classroom and digital learning](https://sg.style.yahoo.com/moe-review-blend-classroom-digital-074655157.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAMAC9RoA4t3T-vVpIIXoA2va4yzSqFn-rXWwnqw1M_ExaQb1Om2UiWKv1VT6P7cTmVULUUXfrly_GR62ysgEiusUqVQyJCiWuhxfUfESmDpIf_UTq4V4IDC4q98apbY7wLw76RIdMwXnmOM3QG7RxnPCbhkfmSLNV07MScyt3DBz)&nbsp;  
+7. [Not all are back in class but it’s right timing to reopen schools](https://www.todayonline.com/singapore/not-all-are-back-class-its-right-timing-reopen-schools-says-ong-ye-kung)&nbsp;
+8. [Telcos National Day Video Proves Big Hit Online](https://www.straitstimes.com/singapore/telcos-national-day-videos-prove-big-hit-online)
 
-Link to the full article:
-
-[https://www.straitstimes.com/singapore/telcos-national-day-videos-prove-big-hit-online](https://www.straitstimes.com/singapore/telcos-national-day-videos-prove-big-hit-online)
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3Ri_aWGiIXw" height="315" width="560"></iframe>
 
 <img src="/images/hitp3.png" style="width:60%">
   
