@@ -32,6 +32,3 @@ description: ""
 
 13.  [A clean way to pick up good habits in schools](https://www.straitstimes.com/singapore/education/a-clean-way-to-pick-up-good-habits-in-schools)
 <img src="/images/hitp6.png" style="width:60%">
-
-
-
