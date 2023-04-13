@@ -21,40 +21,17 @@ description: ""
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3Ri_aWGiIXw" height="315" width="560"></iframe>
 
-
-  
+10. [https://www.straitstimes.com/singapore/having-fun-learning-plane-and-simple](https://www.straitstimes.com/singapore/having-fun-learning-plane-and-simple)
 
 [<img src="/images/hitp3.png" style="width:60%">](https://www.straitstimes.com/singapore/having-fun-learning-plane-and-simple)
 
-Link to the full article:
 
-[https://www.straitstimes.com/singapore/having-fun-learning-plane-and-simple](https://www.straitstimes.com/singapore/having-fun-learning-plane-and-simple)
-
-<img src="/images/hitp4.png" style="width:60%">
-
-  
-
-[](https://www.straitstimes.com/singapore/education/phase-1-sees-eight-schools-fill-up-fast)
-
-Link to the full article:
-
-[https://www.straitstimes.com/singapore/education/phase-1-sees-eight-schools-fill-up-fast](https://www.straitstimes.com/singapore/education/phase-1-sees-eight-schools-fill-up-fast)
-
-  
-
+12. [Primary 1 Registration - Phase 1 sees eight schools fill up fast](https://www.straitstimes.com/singapore/education/phase-1-sees-eight-schools-fill-up-fast)
 <img src="/images/hitp5.png" style="width:60%">
   
 
-[](https://www.straitstimes.com/singapore/education/phase-1-sees-eight-schools-fill-up-fast)
-
-Link to the full article:
-
-[https://www.straitstimes.com/singapore/education/phase-1-sees-eight-schools-fill-up-fast](https://www.straitstimes.com/singapore/education/phase-1-sees-eight-schools-fill-up-fast)
-
+13.  [A clean way to pick up good habits in schools](https://www.straitstimes.com/singapore/education/a-clean-way-to-pick-up-good-habits-in-schools)
 <img src="/images/hitp6.png" style="width:60%">
 
-[](https://www.straitstimes.com/singapore/education/a-clean-way-to-pick-up-good-habits-in-schools)
 
-Link to the full article:
 
-[https://www.straitstimes.com/singapore/education/a-clean-way-to-pick-up-good-habits-in-schools](https://www.straitstimes.com/singapore/education/a-clean-way-to-pick-up-good-habits-in-schools)
