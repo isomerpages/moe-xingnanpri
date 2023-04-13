@@ -113,6 +113,15 @@ All children are unique and must have a stimulating educational environment wher
 [**suhailah_begum_abdul_rahim@schools.gov.sg**](mailto:suhailah_begum_abdul_rahim@schools.gov.sg)
 
 * * *
+<img src="/images/Our Staff/02 Teacher/class3e2.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Miss Kaye Wong Min Qi**
+
+Primary 3E
+
+“If you have the choice between being right and being kind, choose being kind.” - Dr. Wayne W. Dyer In the pursuit of competence and excellence, it is important to always be kind. This starts within the classroom, that transcends to their everyday lives.
+
+[**wong_min_qi@schools.gov.sg**](mailto:wong_min_qi@schools.gov.sg)
+
+* * *
 
 <img src="/images/Our Staff/02 Teacher/3F1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Santha Padman**
 
