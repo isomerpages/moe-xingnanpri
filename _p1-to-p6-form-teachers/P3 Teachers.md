@@ -28,9 +28,9 @@ You can teach a pupil a lesson a day but if you can develop his curiosity, he wi
 
 Primary 3A
 
-You can teach a pupil a lesson a day but if you can develop his curiosity, he will continue his learning process for as long as he lives.
+I believe that every child has his set of strengths. I hope to mould individuals who can navigate through life confidently.
 
-[**tay_anling@schools.gov.sg**](mailto:tay_anling@schools.gov.sg)
+[**clara_choo_jia_en@schools.gov.sg**](mailto:clara_choo_jia_en@schools.gov.sg)
 
 * * *
 
