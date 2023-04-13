@@ -21,10 +21,10 @@ description: ""
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3Ri_aWGiIXw" height="315" width="560"></iframe>
 
-<img src="/images/hitp3.png" style="width:60%">
+
   
 
-[](https://www.straitstimes.com/singapore/having-fun-learning-plane-and-simple)
+[<img src="/images/hitp3.png" style="width:60%">](https://www.straitstimes.com/singapore/having-fun-learning-plane-and-simple)
 
 Link to the full article:
 
