@@ -9,10 +9,10 @@ description: ""
 
 1.  [ R.I.S.E to the Challenge 2 -- Eco Stewardship](https://www.straitstimes.com/singapore/environment/new-edition-of-programme-on-sea-level-rise-to-benefit-over-600000-students-by-2024)&nbsp;  
  
-3.  [Design thinking -- Tackling Food Waste](https://www.straitstimes.com/singapore/environment/new-edition-of-programme-on-sea-level-rise-to-benefit-over-600000-students-by-2024)&nbsp;  
+2.  [Design thinking -- Tackling Food Waste](https://www.straitstimes.com/singapore/environment/new-edition-of-programme-on-sea-level-rise-to-benefit-over-600000-students-by-2024)&nbsp;  
  
-5.  [Partners for Eco Forum -- Ministry of Sustainability and Environment](https://www.straitstimes.com/singapore/building-climate-resilient-spore-national-conversation-involving-individuals-all-sectors-launched)  
-6.  [Cutting of carbon footprint](https://www.straitstimes.com/singapore/environment/keppel-electric-practical-ways-to-cut-their-carbon-footprint-how-the-young-are-learning-to-play-an-active-role-in-climate-action?utm_source=outbrain&amp;utm_medium=dc-outbrain-sponsored&amp;utm_campaign=apx65428_509476&amp;dicbo=v1-7ef2ad8386f6ec2f024b1049b052ef09-009e7629b02eead22e21666f297926b693-ge4tcmbrmm3tqljsmfsdkljugzsdqllbgazdklleg5qtsyldgfrgcnjzmy)
+3.  [Partners for Eco Forum -- Ministry of Sustainability and Environment](https://www.straitstimes.com/singapore/building-climate-resilient-spore-national-conversation-involving-individuals-all-sectors-launched)  
+4.  [Cutting of carbon footprint](https://www.straitstimes.com/singapore/environment/keppel-electric-practical-ways-to-cut-their-carbon-footprint-how-the-young-are-learning-to-play-an-active-role-in-climate-action?utm_source=outbrain&amp;utm_medium=dc-outbrain-sponsored&amp;utm_campaign=apx65428_509476&amp;dicbo=v1-7ef2ad8386f6ec2f024b1049b052ef09-009e7629b02eead22e21666f297926b693-ge4tcmbrmm3tqljsmfsdkljugzsdqllbgazdklleg5qtsyldgfrgcnjzmy)
 ____
 <img src="/images/hitp7.png" style="width:60%">
 
