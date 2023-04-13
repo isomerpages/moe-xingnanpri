@@ -5,23 +5,18 @@ description: ""
 third_nav_title: Our Accolade
 ---
 ### Student Achievements
-#### 2023
+
 West Zone Junior Science Whiz Challenge: Inter-primary School Science Whiz Challenge 2023  
 
+![](/images/Expedition/junior%20science%20whiz%202023.jpeg)
   
 
-**Individual Written Test:**
+**Individual&nbsp;Written Test:**
 
-2nd: Liu Shize 6A
-
-10th: Phan Anh Tu 6B
+* 2nd: Liu Shize 6A <br>
+* 10th: Phan Anh Tu 6B<br>
 
 **Top 10 Team:**
-
-Team members
-
-Liu Shize (6B)
-
-Phan Anh Tu (6B)
-
-Han Nyi Tun (6B)
+* Liu Shize&nbsp;(6B)<br>
+* Phan Anh Tu (6B)<br>
+* Han Nyi Tun (6B)<br>
