@@ -8,8 +8,7 @@ third_nav_title: Our Accolade
 
 West Zone Junior Science Whiz Challenge: Inter-primary School Science Whiz Challenge 2023  
 
-![](/images/Expedition/junior%20science%20whiz%202023.jpeg)
-  
+
 
 **Individual&nbsp;Written Test:**
 
