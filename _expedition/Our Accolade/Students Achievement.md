@@ -16,7 +16,7 @@ West Zone Junior Science Whiz Challenge: Inter-primary School Science Whiz Chall
 <img src="/images/Expedition/science%20whiz%20challenge%20-%20individual.jpeg" style="width:230px;height:330px;margin-left:15px;" align="left"> 
 
 
-<br>
+
 <br>
 <br>
 <br>
@@ -38,8 +38,7 @@ West Zone Junior Science Whiz Challenge: Inter-primary School Science Whiz Chall
 <img src="/images/Expedition/whiz%20challenge.jpeg" style="width:330px;height:230px;margin-left:15px;" align="left"> 
 
 
-<br>
-<br>
+
 <br>
 
 
