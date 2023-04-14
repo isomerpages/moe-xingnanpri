@@ -5,7 +5,7 @@ description: ""
 ---
 ### P3 Teachers (2023)
 
-<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Salini A/P Baloh**
+<img src="/images/Our Staff/02 Teacher/3A1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Ms Salini A/P Baloh**
 
 Primary 3A
 
@@ -15,7 +15,7 @@ I believe that every child is unique and has something special that he/she can b
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3A2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tay Anling** 
+<img src="/images/Our Staff/02 Teacher/3A2.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Tay Anling** 
 
 Primary 3A
 
@@ -24,18 +24,27 @@ You can teach a pupil a lesson a day but if you can develop his curiosity, he wi
 [**tay_anling@schools.gov.sg**](mailto:tay_anling@schools.gov.sg)
 
 * * *
+<img src="/images/Our Staff/02 Teacher/class3a2.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Miss Clara Choo Jia En** 
 
-<img src="/images/Our Staff/02 Teacher/3B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Peh En Mey**
+Primary 3A
+
+I believe that every child has his set of strengths. I hope to mould individuals who can navigate through life confidently.
+
+[**clara_choo_jia_en@schools.gov.sg**](mailto:clara_choo_jia_en@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/3B1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Peh En Mey**
 
 Primary 3B
 
-Every child can be motivated to learn.  A positive stroke can go a long way to make a positive impact on a pupil's life. 
+Every child can be motivated to learn.&nbsp; A positive stroke can go a long way to make a positive impact on a pupil's life. 
 
 [**peh_en_mey@schools.gov.sg**](mailto:peh_en_mey@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tii Siew Ping**
+<img src="/images/Our Staff/02 Teacher/3B2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Tii Siew Ping**
 
 Primary 3B
 
@@ -45,7 +54,7 @@ Primary 3B
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Constance Chia Kai Ting**
+<img src="/images/Our Staff/02 Teacher/3C1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Constance Chia Kai Ting**
 
 Primary 3C
 
@@ -55,7 +64,7 @@ I believe that every student is like a gemstone waiting to be discovered. It is 
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Syahida Bte Paiman**
+<img src="/images/Our Staff/02 Teacher/3C2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Nur Syahida Bte Paiman**
 
 Primary 3C
 
@@ -65,7 +74,7 @@ Every child has his or her strength. It is the teachers' duty to discover that s
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chen Degeng**
+<img src="/images/Our Staff/02 Teacher/3D2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Miss Chen Degeng**
 
 Primary 3D
 
@@ -75,7 +84,7 @@ Meaningful learning occurs when students are allowed to confront real problems, 
 
 * * *
  
-<img src="/images/Our Staff/02 Teacher/3D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Khoo Chun Mei**
+<img src="/images/Our Staff/02 Teacher/3D1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Miss Khoo Chun Mei**
 
 Primary 3D
 
@@ -85,7 +94,7 @@ Learning takes place when curiosity is encouraged.
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Jackson Ng Yeow Meng**
+<img src="/images/Our Staff/02 Teacher/3E1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Jackson Ng Yeow Meng**
 
 Primary 3E
 
@@ -95,7 +104,7 @@ Stay humble and be eager to learn! A cup cannot take in anymore water if it is f
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Suhailah Begum Bte Abd Rahim**
+<img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Miss Suhailah Begum Bte Abd Rahim**
 
 Primary 3E
 
@@ -104,8 +113,17 @@ All children are unique and must have a stimulating educational environment wher
 [**suhailah_begum_abdul_rahim@schools.gov.sg**](mailto:suhailah_begum_abdul_rahim@schools.gov.sg)
 
 * * *
+<img src="/images/Our Staff/02 Teacher/class3e2.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Miss Kaye Wong Min Qi**
 
-<img src="/images/Our Staff/02 Teacher/3F1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Santha Padman**
+Primary 3E
+
+“If you have the choice between being right and being kind, choose being kind.” - Dr. Wayne W. Dyer In the pursuit of competence and excellence, it is important to always be kind. This starts within the classroom, that transcends to their everyday lives.
+
+[**wong_min_qi@schools.gov.sg**](mailto:wong_min_qi@schools.gov.sg)
+
+* * *
+
+<img src="/images/Our Staff/02 Teacher/3F1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Santha Padman**
 
 Primary 3F
 
@@ -115,7 +133,7 @@ Teaching and learning is a journey with routes and traffic lights – We are gui
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3F2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Skye Gan Soon Keat**
+<img src="/images/Our Staff/02 Teacher/3F2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Skye Gan Soon Keat**
 
 Primary 3F
 
