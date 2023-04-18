@@ -5,7 +5,8 @@ description: ""
 ---
 ### Useful Contacts
 
-**General office :** 6791 3679<br>
-**Fax :** 6792 1493<br>
-**Staff Room :** 6791 0642<br>
-**HOD Room :** 6792 7163
+**General office :**&nbsp;6791 3679<br>
+**Fax :**&nbsp;6792 1493<br>
+**Staff Room :**&nbsp;6791 0642<br>
+**HOD Room :**&nbsp;6792 7163<br>
+**Email** : xingnan_ps@moe.edu.sg
