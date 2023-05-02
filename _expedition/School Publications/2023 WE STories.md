@@ -4,6 +4,8 @@ permalink: /expedition/school-publications/westories/
 description: ""
 third_nav_title: School Publications
 ---
+![](/images/Events/westories.JPG)
+
 **2023 WE STories**
 WE Stories Publication is a compilation of stories from all of our secondary schools in the West Zone. It is one small step in helping our parents and students to know our secondary schools better in order to choose one which best suits the students’ passion and interests. 
 
