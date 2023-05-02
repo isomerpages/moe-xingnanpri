@@ -5,7 +5,7 @@ description: ""
 ---
 ### P2 Teachers (2023)
 
-<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Syafawani Amira Binte Kamal**
+<img src="/images/Our Staff/02 Teacher/2A1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Ms Nur Syafawani Amira Binte Kamal**
 
 Primary 2A
 
@@ -15,7 +15,7 @@ Every child deserves to be acknowledged and every learner deserves to be educate
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2A2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Sheree Teoh**
+<img src="/images/Our Staff/02 Teacher/2A2.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Sheree Teoh**
 
 Primary 2A
 
@@ -25,7 +25,7 @@ Teachers are like the light in the dark - always guiding and lending a helping h
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Hidayah Bte Suhardjono**
+<img src="/images/Our Staff/02 Teacher/2B1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Nur Hidayah Bte Suhardjono**
 
 Primary 2B
 
@@ -35,7 +35,7 @@ Teaching and learning is always occurring. Children have the ability to empower 
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Inshira Bte Md Aini**
+<img src="/images/Our Staff/02 Teacher/2B2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Miss Inshira Bte Md Aini**
 
 Primary 2B
 
@@ -45,7 +45,7 @@ Students are like flowers. They bloom with proper care, patience and the right c
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Jamilah Binte Rahim**
+<img src="/images/Our Staff/02 Teacher/2C1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Jamilah Binte Rahim**
 
 Primary 2C
 
@@ -55,7 +55,7 @@ Teaching is a learning experience. I learn that every child has a story to tell.
 
 * * *
 
-<img src="/images/Our%20Staff/02%20Teacher/2C2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Bran Chua**
+<img src="/images/Our%20Staff/02%20Teacher/2C2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Bran Chua**
 
 Primary 2C
 
@@ -65,7 +65,7 @@ Learning goes beyond the classroom. Every learning experience has its own unique
 
 * * *
 
-<img src="/images/Our%20Staff/02%20Teacher/2D1.jpeg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nur Quraishiah Binte Abdullah**
+<img src="/images/Our%20Staff/02%20Teacher/2D1.jpeg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Nur Quraishiah Binte Abdullah**
 
 Primary 2D
 
@@ -75,7 +75,7 @@ It takes a big heart to help shape little minds.
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Wong Shi Yuan**
+<img src="/images/Our Staff/02 Teacher/2D2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Wong Shi Yuan**
 
 Primary 2D
 
@@ -85,7 +85,7 @@ Primary 2D
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Nurkamaliah Bte Yusoff**
+<img src="/images/Our Staff/02 Teacher/2E1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Nurkamaliah Bte Yusoff**
 
 Primary 2E
 
@@ -95,7 +95,7 @@ To teach is not to merely deliver facts and knowledge but to help children devel
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Ho Seow Lee**
+<img src="/images/Our Staff/02 Teacher/2E2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Ho Seow Lee**
 
 Primary 2E
 
@@ -105,7 +105,7 @@ Primary 2E
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2F1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Shankar Ganesh S/O Balakrishna**
+<img src="/images/Our Staff/02 Teacher/2F1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Shankar Ganesh S/O Balakrishna**
 
 Primary 2F
 
@@ -115,7 +115,7 @@ Every child deserves equal treatment and no one should be left behind in the lad
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2F2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Koh, La Vonda-Charissa**
+<img src="/images/Our Staff/02 Teacher/2F2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Ms La Vonda Koh,**
 
 Primary 2F
 
@@ -125,7 +125,7 @@ Every child is precious and to be treasured. Every child is God's gift.
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2G1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Muhammad Hilmi Bin Mohamad Salim**
+<img src="/images/Our Staff/02 Teacher/2G1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Muhammad Hilmi Bin Mohamad Salim**
 
 Primary 2G
 
@@ -135,7 +135,7 @@ Teaching through the heart isn't hard. With that in mind, being a positive role 
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2G2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Sumitha D/O Sudevan**
+<img src="/images/Our Staff/02 Teacher/2G2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Sumitha D/O Sudevan**
 
  Primary 2G
 
@@ -145,7 +145,7 @@ I believe every child can learn. It is how we empower them with learning opportu
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2G3.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Kavitha**
+<img src="/images/Our Staff/02 Teacher/2G3.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Kavitha**
 
 Primary 2G
 
@@ -155,7 +155,7 @@ As a person,I believe in lifelong education. As an educator,I hope to instill, a
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2H1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Millah Bte Rasimin**
+<img src="/images/Our Staff/02 Teacher/2H1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Ms Nur Millah Bte Rasimin**
 
 Primary 2H
 
@@ -165,7 +165,7 @@ The best kind of teacher is one who commands respect and love from her students 
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2H2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Athena Choo Jia Yee**
+<img src="/images/Our Staff/02 Teacher/2H2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Ms Athena Choo Jia Yee**
 
 Primary 2H
 
@@ -177,7 +177,7 @@ I believe that children have their own unique talents and abilities. As an educa
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2I1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Mok Song Imm**
+<img src="/images/Our Staff/02 Teacher/2I1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Mok Song Imm**
 
 Primary 2I
 
@@ -187,7 +187,7 @@ Learning occurs in a fun and engaging environment.
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2I2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Peh Poh Hwa**
+<img src="/images/Our Staff/02 Teacher/2I2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Peh Poh Hwa**
 
 Primary 2I
 
@@ -197,7 +197,7 @@ I believe every child has the potential to develop and discover his or her uniqu
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2J1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Sulastri Ryanti Khan**
+<img src="/images/Our Staff/02 Teacher/2J1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Sulastri Ryanti Khan**
 
 Primary 2J
 
@@ -207,7 +207,7 @@ Every child deserves a hero – an adult who will never give up on them no matte
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/2J2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Lim Jingle**
+<img src="/images/Our Staff/02 Teacher/2J2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Miss Lim Jingle**
 
  Primary 2J
 
