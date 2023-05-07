@@ -94,16 +94,6 @@ Learning takes place when curiosity is encouraged.
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3E1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Jackson Ng Yeow Meng**
-
-Primary 3E
-
-Stay humble and be eager to learn! A cup cannot take in anymore water if it is full of water itself. If a student is full of himself, he will not be able to gain any new knowledge. A person who is humble will attract many people, who are willing to impart new knowledge to him. As a teacher and also a livelong learner, I feel that these two qualities are the most important to guide our learning self.
-
-[**ng_yeow_meng_jackson@schools.gov.sg**](mailto:ng_yeow_meng_jackson@schools.gov.sg)
-
-* * *
-
 <img src="/images/Our Staff/02 Teacher/3E2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Miss Suhailah Begum Bte Abd Rahim**
 
 Primary 3E
