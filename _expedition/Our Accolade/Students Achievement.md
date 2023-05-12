@@ -5,7 +5,15 @@ description: ""
 third_nav_title: Our Accolade
 ---
 ### Student Achievements
+***
+<br>
+<img src="/images/Expedition/raffles%20scholarship%202023.jpg" style="width300px;height:350px;margin-left:15px;" align="left"> 
 
+Congratulations to Jenson Zhang Zhirong and Victoria Minlatt for being awarded the Raffles Scholarship 2023!
+
+<br>
+
+***
 West Zone Junior Science Whiz Challenge: Inter-primary School Science Whiz Challenge 2023  
 
 
