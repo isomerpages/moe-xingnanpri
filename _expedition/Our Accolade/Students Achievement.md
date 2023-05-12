@@ -7,7 +7,7 @@ third_nav_title: Our Accolade
 ### Student Achievements
 ***
 <br>
-<img src="/images/Expedition/raffles%20scholarship%202023.jpg" style="width:300px;height:300px;margin-left:15px;" align="top"> 
+<img src="/images/Expedition/raffles%20scholarship%202023.jpg" style="width:400px;height:300px;margin-left:15px;" align="/"> 
 
 Congratulations to Jenson Zhang Zhirong and Victoria Minlatt for being awarded the Raffles Scholarship 2023!
 
