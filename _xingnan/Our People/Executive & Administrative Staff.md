@@ -105,6 +105,15 @@ third_nav_title: Our People
 <br>
 
  ***
+ <br>
+<img src="/images/Our%20Staff/03%20EAS%20and%20Others/operationmanager2.png" style="width:200px;height:200px;margin-left:15px;" align="right"> 	
+
+**Mr Abdul Halim Bin Abdul Sani** <br>Operations Manager<br>[Abdul_Halim_Abdul_Salim@schools.gov.sg](mailto:Abdul_Halim_Abdul_Salim@schools.gov.sg) 
+
+<br>
+<br>
+
+ ***
 <br>
 <img src="/images/Our%20Staff/03%20EAS%20and%20Others/ast14.jpg" style="width:200px;height:200px;margin-left:15px;" align="right"> 	
 
