@@ -7,7 +7,7 @@ third_nav_title: Our People
 ### Key Personnel
 
 #### School Leaders
-<img src="/images/Our Staff/01 SL/Principal.jpg" style="width:230px;height:230px;margin-left:15px;" align = "right"> **Mrs Cindy Ong**   
+<img src="/images/Our Staff/01 SL/Principal.jpg" style="width:230px;height:230px;margin-left:15px;" align="right"> **Mrs Cindy Ong**   
 Principal 
 
 "The greatest gift an educator can give his/her students is to arouse and sustain their innate curiosity to learn, make meaning and construct knowledge through play while interacting with others, and their environment."
@@ -16,7 +16,7 @@ Principal
 
 * * *
 
-<img src="/images/kp2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm S Anitha**   
+<img src="/images/kp2.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm S Anitha**   
 Vice-Principal  
   
 "When we seek to bring out the best in others, we somehow bring out the best in ourselves! ~ William Arthur Ward
@@ -27,22 +27,11 @@ Vice-Principal
 
 * * *
 
-<img src="/images/kp4.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Chai Koh Ping**   
-Vice-Principal (Admin)  
-  
-“It does not matter how slowly you go as long as you do not stop” ~ Confucius_
-
-"As you begin to take action towards achieving your goals, you must realize that not every action will be perfect.  What matters is to learn from what went wrong and do it better the next time. If you keep pushing towards your goal, one day, you will achieve it."
- 
- [CHAI\_Koh\_Ping@schools.gov.sg](mailto:CHAI_Koh_Ping@schools.gov.sg) 
-
-* * *
-
 #####  School Staff Developer 
 
-<img src="/images/kp5.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/kp5.jpg" style="width:240px;height:240px;margin-left:15px;" align="right">
 
-**Mr Kwek Khiok Chai**   
+**Mr Kwek Khiok Chai**&nbsp;  
 
 "Today's teachers like yesterday's teachers will continue to engage the learners to develop holistically, be a good person and loyal to the country. But the approaches, the tools and technology used will have to evolve and be in sync with the current times in order to engage the learners' curiosity and interest."
 
@@ -52,8 +41,8 @@ Vice-Principal (Admin)
 
 #####  Partnership and Engagement
 
-<img src="/images/kp6.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Rachel Sin Meng Hui**
-<br>Subject Head - Partnership & Engagement   
+<img src="/images/kp6.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Rachel Sin Meng Hui**
+<br>Subject Head - Partnership &amp; Engagement&nbsp;  
   
 
 “孩子们需要一个安全、愉快的学习环境。我会尽力为他们打造这样的学习环境，并以尊重和真诚善待每一颗童心。”
@@ -64,7 +53,7 @@ Vice-Principal (Admin)
 
 #####  Student Development Team
 
-<img src="/images/kp7-1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Tina Ng**   
+<img src="/images/kp7-1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Tina Ng**   
 Year Head (Upper Primary)  
   
 "Our children are our treasured future and will remain the focus of all our efforts. I believe that if we bring out the best in a child, his or her presence will make a positive difference to the community."
@@ -73,7 +62,7 @@ Year Head (Upper Primary)
 
 * * *
 
-<img src="/images/kp8.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Bryan Chang**   
+<img src="/images/kp8.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Bryan Chang**   
 Year Head (Middle Primary)  
   
 "I believe that every child should know that he or she can learn and therefore it is the trust and the sincerity that we have to build up to reach out to the child."
@@ -82,7 +71,7 @@ Year Head (Middle Primary)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/3D2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chen Degeng**   
+<img src="/images/Our Staff/02 Teacher/3D2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Miss Chen Degeng**   
 Assistant Year Head (Middle Primary)  
 
 "Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions."
@@ -91,7 +80,7 @@ Assistant Year Head (Middle Primary)
 
 * * *
 
-<img src="/images/kp11.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Maslinda Bte Abd Wahab**  
+<img src="/images/kp11.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Maslinda Bte Abd Wahab**  
 Assistant Year Head (Lower Primary)  
   
 "Every child is a star in its own light!"
@@ -103,7 +92,7 @@ Assistant Year Head (Lower Primary)
 
 #####  Character and Citizenship Education
 
-<img src="/images/kp10.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Ms Gena Tee Hui Chen**   
+<img src="/images/kp10.jpg" style="width:240px;height:240px;margin-left:15px;" align="right">**Ms Gena Tee Hui Chen**&nbsp;  
 HOD Character and Citizenship Education (CCE)
 
 "Every child is unique and special in their own way. However, it is important for all of them, regardless of how different they are, to learn a set of values that is beneficial to themselves and society. As educators, we are responsible for every child who passes through us. We must do what we can to help the children be the pride of the society."
@@ -112,16 +101,16 @@ HOD Character and Citizenship Education (CCE)
 
 * * *
 
-<img src="/images/kp16.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Juhariyah Bte Johari**   
-Subject Head - National Education   
+<img src="/images/kp16.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Juhariyah Bte Johari**&nbsp;  
+Subject Head - National Education&nbsp;  
   
 "Education is not preparation for life, education is the journey to life itself."
 
- [juhariyah\_johari@schools.gov.sg](mailto:juhariyah_johari@schools.gov.sg)
+&nbsp;[juhariyah\_johari@schools.gov.sg](mailto:juhariyah_johari@schools.gov.sg)
 
 * * *   
 
-<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right">**Miss Ong Lijing**   
+<img src="/images/Our Staff/02 Teacher/4C1.png" style="width:240px;height:240px;margin-left:15px;" align="right">**Miss Ong Lijing**   
 Senior Teacher - Educational Support
 
 "Every child can learn, and even teach others, to become better. May we be able to guide them and remind them to enjoy and treasure what is important."
@@ -131,9 +120,9 @@ Senior Teacher - Educational Support
 
 * * *
 
-#### Information Communication and Digital Media & School Library
+#### Information Communication and Digital Media &amp; School Library
 
-<img src="/images/kp34.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Ma Chen**  
+<img src="/images/kp34.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Ma Chen**  
 HOD - Information Communication and Digital Media (ICDM)  
 
 "Education is not the learning of facts, but the training of the mind to think."
@@ -144,7 +133,7 @@ HOD - Information Communication and Digital Media (ICDM)
 
 #####  English Language and Social Studies Department
 
-<img src="/images/kp12.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right">**Mr Md Irwan Bin Md Isa**   
+<img src="/images/kp12.jpg" style="width:240px;height:240px;margin-left:15px;" align="right">**Mr Md Irwan Bin Md Isa**   
 HOD English Language and Social Studies Department
 
 "As a Teacher, I believe in Empathising with my pupils' learning needs prior to Assessing their full potentials Carefully and Honestly so that I can Enjoy my role with a Reflective mind." 
@@ -153,7 +142,7 @@ HOD English Language and Social Studies Department
 
 * * *
 
-<img src="/images/kp13.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Nur Millah Bte Rasimin**   
+<img src="/images/kp13.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Ms Nur Millah Bte Rasimin**&nbsp;  
 Level Head - English Language  
 
 "The best kind of teacher is one who commands respect and love from her students - and in that way students will naturally want to learn from that teacher."
@@ -162,8 +151,8 @@ Level Head - English Language
 
 * * *
 
-<img src="/images/kp14.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Mok Song Imm**   
-Lead Teacher - English Language   
+<img src="/images/kp14.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Mok Song Imm**&nbsp;  
+Lead Teacher - English Language&nbsp;  
   
 "I believe that the best learning occurs in a fun and engaging environment."
 
@@ -171,7 +160,7 @@ Lead Teacher - English Language 
 
 * * *
 
-<img src="/images/kp15.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Ler Lay Ching**  
+<img src="/images/kp15.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Ler Lay Ching**  
 Senior Teacher-English Language  
   
 "I believe in giving the best to the future generation. Students will be strongly motivated if they know that their teachers are teaching from their hearts."
@@ -180,10 +169,10 @@ Senior Teacher-English Language
 
 * * *
 
-##### Mathematics Department 
+##### Mathematics Department&nbsp;
 
-<img src="/images/kp17.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Philip Chiu**   
-HOD Mathematics 
+<img src="/images/kp17.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Philip Chiu**   
+HOD Mathematics&nbsp;
 
   
 
@@ -193,8 +182,8 @@ HOD Mathematics 
 
 * * *
 
-<img src="/images/kp19.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Joseph Joel Ang**   
-Senior Teacher - Mathematics   
+<img src="/images/kp19.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Joseph Joel Ang**&nbsp;  
+Senior Teacher - Mathematics&nbsp;  
   
 "Every child is able to learn. Helping pupils to find their learning styles would enable them to become effective learners."
 
@@ -203,7 +192,7 @@ Senior Teacher - Mathematics 
 * * *
 #### Science Department
 
-<img src="/images/kp20.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tay Anling**   
+<img src="/images/kp20.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Tay Anling**&nbsp;  
 HOD Science
 
 "You can teach a pupil a lesson a day but if you can develop his curiosity, he will continue his learning process for as long as he lives."
@@ -213,7 +202,7 @@ HOD Science
 
 * * *
 
-<img src="/images/kp21.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Sumitha D/O Sudevan**   
+<img src="/images/kp21.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Sumitha D/O Sudevan**&nbsp;  
 Level Head - Science  
   
 "I believe that every child deserves an opportunity to learn and excel to the best of his abilities, under the guidance of a caring and disciplined teacher"
@@ -222,8 +211,8 @@ Level Head - Science
 
 * * *
 
-<img src="/images/kp22.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Huang Li Juan**   
-Senior Teacher - Science   
+<img src="/images/kp22.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Huang Li Juan**&nbsp;  
+Senior Teacher - Science&nbsp;  
   
 "I believe that children live up to what we believe in them."
 
@@ -231,8 +220,8 @@ Senior Teacher - Science 
 
 * * *
 
-<img src="/images/kp23.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Janet See**   
-Senior Teacher - Science   
+<img src="/images/kp23.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Janet See**&nbsp;  
+Senior Teacher - Science&nbsp;  
 
 "I believe that pupils learn best in a non-threatening environment where they are not afraid to make mistakes from which they will learn and become wiser."
 
@@ -240,10 +229,10 @@ Senior Teacher - Science 
 
 * * *
 
-#### Mother Tongue Department 
+#### Mother Tongue Department&nbsp;
 
-<img src="/images/kp24.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Li Jing**   
-HOD Mother Tongue   
+<img src="/images/kp24.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Li Jing**&nbsp;  
+HOD Mother Tongue&nbsp;  
   
 " 一名优秀的教师，需要具备随时调整自己来适应不同学生需求的能力。用心去关爱他们，用行动去感染他们。那么自己所收获的不仅仅是一个品学兼优的学子，还会拥有他们那颗感恩的心。"
 
@@ -251,7 +240,7 @@ HOD Mother Tongue 
 
 * * *
 
-<img src="/images/kp26.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Tan Hui Min**   
+<img src="/images/kp26.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Tan Hui Min**&nbsp;  
 Level Head - Chinese Language   
 Covering Year Head (Lower Primary)
   
@@ -261,8 +250,8 @@ Covering Year Head (Lower Primary)
 
 * * *
 
-<img src="/images/kp25.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Taufek Bin Siniwi**   
-Subject Head -Malay Language/Tamil Language   
+<img src="/images/kp25.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Taufek Bin Siniwi**&nbsp;  
+Subject Head -Malay Language/Tamil Language&nbsp;  
   
 "Every Child Deserves An Opportunity To Learn."
 
@@ -270,8 +259,8 @@ Subject Head -Malay Language/Tamil Language 
 
 * * *
 
-<img src="/images/kp28.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Chew Bee Hoon**   
-Senior Teacher - Chinese Language   
+<img src="/images/kp28.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Miss Chew Bee Hoon**&nbsp;  
+Senior Teacher - Chinese Language&nbsp;  
 
 "始终贯彻坚守教岗的信念。我坚信以诚关爱、用心感化，必能牵引学子之心，内化品学，春风化雨。以感恩之心，引领、启发快乐的小天使成为未来闪亮的星星。"
 
@@ -279,8 +268,8 @@ Senior Teacher - Chinese Language 
 
 * * *
 
-<img src="/images/kp29.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Tuminah Bte Mohd Bakir**   
-Senior Teacher - Malay Language   
+<img src="/images/kp29.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Tuminah Bte Mohd Bakir**&nbsp;  
+Senior Teacher - Malay Language&nbsp;  
   
 "I believe in nurturing, inspiring and motivating each child with tender care and sincerity."
 
@@ -289,8 +278,8 @@ Senior Teacher - Malay Language 
 * * *
 #### Physical Education, Art and Music (PAM) Department
 
-<img src="/images/kp30.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mrs Sheree Teoh**   
-HOD PE/CCA & AESTHETICS  
+<img src="/images/kp30.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Sheree Teoh**&nbsp;  
+HOD PE/CCA &amp; AESTHETICS  
   
 "Teachers are like the light in the dark - always guiding and lending a helping hand to encourage and support the pupils. I hope to be the person that the pupils can depend on."
 
@@ -298,7 +287,7 @@ HOD PE/CCA & AESTHETICS
 
 * * *
 
-<img src="/images/kp31.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Jason Chua Kian Seng** <br>Subject Head - PE
+<img src="/images/kp31.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Jason Chua Kian Seng**&nbsp;<br>Subject Head - PE
 Covering HOD - Character and Citizenship Education (CCE Student Development) 
 
   
@@ -308,8 +297,8 @@ Covering HOD - Character and Citizenship Education (CCE Student Development)
 
 * * *
 
-<img src="/images/kp32.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Abdul Wahab Bin Abdul Rahman**   
-Lead Teacher - PE   
+<img src="/images/kp32.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Abdul Wahab&nbsp;Bin Abdul Rahman**&nbsp;  
+Lead Teacher - PE&nbsp;  
   
 "I believe in being a PE Mentor to every pupil, Build their confidence, Engage them in Learning, Inspire them to Excel and be a Facilitator of knowledge."
 
@@ -317,7 +306,7 @@ Lead Teacher - PE 
 
 * * *
 
-<img src="/images/kp33.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Skye Gan Soon Keat**   
+<img src="/images/kp33.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Skye Gan Soon Keat**&nbsp;  
 Senior Teacher - Music  
   
 "Teaching is not hard work, it's HeartWork. I teach like how I would like to be taught. Putting myself in the shoes of my students allows me to come up with engaging and inspiring lessons."
