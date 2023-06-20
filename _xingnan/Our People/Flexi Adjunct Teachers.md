@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Our People
 ---
 #### Flexi-Adjunct Teachers
-
-
-
 ***
 
 <img src="/images/Our%20Staff/06%20Flexi%20Adjunct/FL2.jpg" style="width:180px;height:180px;margin-left:15px;" align="right"> **Mdm Flora Chew Seok May**&nbsp;<br>
