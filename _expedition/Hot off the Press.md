@@ -7,7 +7,13 @@ description: ""
 
  
 
-1.  [ R.I.S.E to the Challenge 2 -- Eco Stewardship](https://www.straitstimes.com/singapore/environment/new-edition-of-programme-on-sea-level-rise-to-benefit-over-600000-students-by-2024)&nbsp;  
+1. Xingnan Primary School has participated in Bioblitz for Schools in collaboration with Nparks Biodiversity Week for Schools to commemorate International Day for Biological Diversity (IDB). Please watch the video below to see our Primary 3 students in action. Xingnan Primary School is featured from 0:27 to 0:56s.  
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fVgkufQ9wfI" height="250" width="400"></iframe>
+
+
+
+3.    [ R.I.S.E to the Challenge 2 -- Eco Stewardship](https://www.straitstimes.com/singapore/environment/new-edition-of-programme-on-sea-level-rise-to-benefit-over-600000-students-by-2024)&nbsp;  
  
 2.  [Design thinking -- Tackling Food Waste](https://www.straitstimes.com/singapore/environment/new-edition-of-programme-on-sea-level-rise-to-benefit-over-600000-students-by-2024)&nbsp;  
  
