@@ -30,7 +30,7 @@ If you require a password reset or technical assistance, please fill in the
 
 <iframe width="636" height="357" src="https://www.youtube.com/embed/KkbS5f9EZPo" title="Google Classroom and SLS Tutorial for Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-#### Learning Platform Login Information 
+### Learning Platform Login Information 
 
 
 
