@@ -8,8 +8,7 @@ Welcome to our Awesome Links and Resources page! We've gathered all the useful l
 Scroll down to read more on how to access these valuable resources.
 
 Should you encounter any challenges with your password or require technical support, please fill in the 
-[form](https://form.gov.sg/62ddf9fb7eb7140012ad0588)
- or email us at:&nbsp;[support@xnps.edu.sg](http://support@xnps.edu.sg%20/)&nbsp;We will get back to you as soonest possible.    
+[form](https://form.gov.sg/62ddf9fb7eb7140012ad0588) or email us at:&nbsp;[support@xnps.edu.sg](http://support@xnps.edu.sg%20/). We will get back to you as soonest possible.    
  
  Remember to come back often as we keep adding new stuff to help you on your learning journey. 
  
