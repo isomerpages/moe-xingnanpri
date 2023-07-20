@@ -59,6 +59,3 @@ Alex Lee Xiao Ming (T1234567X)’s Login ID will be&nbsp;ALEXL4567X
 
  Example:  
 Login ID example: Alex Lee Xiao Ming (T1234567X)’s Login ID will be&nbsp;XNPS34567X
-
-
-
