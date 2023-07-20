@@ -5,13 +5,16 @@ description: ""
 ---
 <img src="/images/girl.png" style="width:183px;height:240px;margin-right:20px;" align="left">Dear Xingnanian,  &nbsp; 
 
-Welcome to our Awesome Links and Resources page! We've gathered all the useful links to help you with your schoolwork and make learning super fun! More information on the login details can be found below.
+Welcome to our Awesome Links and Resources page! We've gathered all the useful links to help you with your schoolwork and make learning super fun! 
+Scroll down to read more on how to access these valuable resources. 
 
-If you require a password reset or technical assistance, please fill in the 
+Should you encounter any challenges with your password or require technical support, please fill in the 
 [form](https://form.gov.sg/62ddf9fb7eb7140012ad0588)
  or email us at:&nbsp;[support@xnps.edu.sg](http://support@xnps.edu.sg%20/)&nbsp;We will get back to you as soonest possible.
  
- Remember to come back often as we keep adding new stuff to help you on your learning journey. Have fun exploring and happy learning!
+Remember to come back often as we keep adding new stuff to help you on your learning journey. 
+ 
+ Have fun exploring and happy learning!
 
 
 #### Quick Links
