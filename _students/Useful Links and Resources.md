@@ -12,7 +12,7 @@ Should you encounter any challenges with your password or require technical supp
  
  Remember to come back often as we keep adding new stuff to help you on your learning journey. 
  
- Have fun exploring and happy learning!
+ Have fun exploring and happy learning!!
 
 
 #### Quick Links
