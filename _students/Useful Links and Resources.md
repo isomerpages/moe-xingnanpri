@@ -23,10 +23,6 @@ Should you encounter any challenges with your password or require technical supp
 | <figure><a href="https://nearpod.com/"><img style="width:45%" src="/images/ul7.png"></a><b>Nearpod</b></figure> | <figure><a href="https://web.seesaw.me/"><img style="width:75%" src="/images/ul8.png"></a><b>Seesaw</b></figure> |  <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/students/school-library/"><img style="width:25%" src="/images/ul9.png"></a><b>Xingnan School Library</b></figure> |
 | <figure><a href="https://www.ezhishi.net/Contents/"><img style="width:50%" src="/images/ul10.png"></a><b>eZhishi</b></figure>|||
 
-	
-
-
-
 #### Step-By-Step video 
 (Access Google Classroom and Student learning space (SLS))
 
