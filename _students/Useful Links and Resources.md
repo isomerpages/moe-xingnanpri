@@ -13,20 +13,20 @@ Should you encounter any challenges with your password or require technical supp
  Remember to come back often as we keep adding new stuff to help you on your learning journey. 
  
  Have fun exploring and happy learning!
-
+#### Quick Links
 
 |  	|  	|  	|  	|
 |---	|---	|---	|---	|
 | <figure><a href="https://vle.learning.moe.edu.sg/login"><img style="width:50%" src="/images/ul1.png"></a><b>Student Learning Space</b></figure>  	|<figure><a href="https://workspace.google.com/dashboard"><img style="width:60%" src="/images/ul2.png"></a><b>Google Classroom </b></figure> 	| <figure><a href="https://member.koobits.com/"><img style="width:60%" src="/images/ul3.png"></a><b>Koobits</b></figure>	|  	|
-| <figure><a href="https://xingnan.of-stars.com/"><img style="width:50%" src="/images/ul4.png"></a><b>English Listening Comprehension Online</b></figure>  	| <figure><a href="https://www.mtl.moe.edu.sg/"><img style="width:70%" src="/images/ul6.png"></a><b>MOE Mother Tongue Language</b></figure>| <figure><a href="https://nearpod.com/"><img style="width:45%" src="/images/ul7.png"></a><b>Nearpod</b></figure> 	| <a href="https://pg.moe.edu.sg/"><img style="width:45%" src="/images/sat8.png"></a> 	|
-| <a href="https://iexams.seab.gov.sg/"><img style="width:95%" src="/images/sat9.png"></a> 	| <a href="https://opal2.moe.edu.sg/"><img style="width:65%" src="/images/sat10.png"></a>	| <a href="https://sites.google.com/moe.edu.sg/communication-channel-teachers/home?authuser=1"><img style="width:35%" src="/images/sat11.png"></a> 	| <a href="https://vle.learning.moe.edu.sg/login"><img style="width:65%" src="/images/sat12.png"></a> 	|
-| <a href="https://for.edu.sg/#/"><img style="width:95%" src="/images/sat13.png"></a> 	| <a href="https://forms.moe.edu.sg/"><img style="width:45%" src="/images/sat14.png"></a> 	| <a href="https://icon.moe.edu.sg/"><img style="width:45%" src="/images/iconlink.png"></a>  	| <a href="https://forms.moe.edu.sg/"><img style="width:100%" src="/images/gogov.jpg"></a>| <br> 
-|<a href="https://sites.google.com/xnps.edu.sg/xnps-publications/home?pli=1&amp;authuser=1"><img style="width:80%" src="/images/Publication.jpeg">|</a><a href="https://xnpsict.padlet.org/auth/login"><img style="width:90%" src="/images/sat16.png"></a>|<a href="https://www.koobits.com/"><img style="width:40%" src="/images/sat15.png">||
+| <figure><a href="https://xingnan.of-stars.com/"><img style="width:50%" src="/images/ul4.png"></a><b>English Listening Comprehension Online</b></figure>  	| <figure><a href="https://www.mtl.moe.edu.sg/"><img style="width:70%" src="/images/ul6.png"></a><b>MOE Mother Tongue Language</b></figure>| <figure><a href="https://nearpod.com/"><img style="width:45%" src="/images/ul7.png"></a><b>Nearpod</b></figure> 	| 	|
+| <figure><a href="https://web.seesaw.me/"><img style="width:75%" src="/images/ul8.png"></a><b>Seesaw</b></figure> 	| <figure><a href="https://www.ezhishi.net/Contents/"><img style="width:50%" src="/images/ul10.png"></a><b>eZhishi</b></figure>	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/students/school-library/"><img style="width:50%" src="/images/ul9.png"></a><b> School Library</b></figure> 	|  	|
+|  	| | <br> 
+|||||
 
 #### Quick Links
 |  |  |  |
 |--- |--- |--- |
-|</a><figure><a href="https://www.koobits.com/"></a><a href="https://vle.learning.moe.edu.sg/login"><img style="width:50%" src="/images/ul1.png"></a><b>Student Learning Space</b></figure>  | <figure><a href="https://workspace.google.com/dashboard"><img style="width:60%" src="/images/ul2.png"></a><b>Google Classroom </b></figure> | <figure><a href="https://member.koobits.com/"><img style="width:60%" src="/images/ul3.png"></a><b>Koobits</b></figure> |
+|<figure><a href="https://www.koobits.com/"></a><a href="https://vle.learning.moe.edu.sg/login"><img style="width:50%" src="/images/ul1.png"></a><b>Student Learning Space</b></figure>  | <figure><a href="https://workspace.google.com/dashboard"><img style="width:60%" src="/images/ul2.png"></a><b>Google Classroom </b></figure> | <figure><a href="https://member.koobits.com/"><img style="width:60%" src="/images/ul3.png"></a><b>Koobits</b></figure> |
 | <figure><a href="https://xingnan.of-stars.com/"><img style="width:50%" src="/images/ul4.png"></a><b>English Listening Comprehension Online</b></figure> | <figure><a href="https://xingnanprimary.typingclub.com/"><img style="width:60%" src="/images/ul5.png"></a><b>Typing Club</b></figure> | <figure><a href="https://www.mtl.moe.edu.sg/"><img style="width:70%" src="/images/ul6.png"></a><b>MOE Mother Tongue Language</b></figure> |
 | <figure><a href="https://nearpod.com/"><img style="width:45%" src="/images/ul7.png"></a><b>Nearpod</b></figure> | <figure><a href="https://web.seesaw.me/"><img style="width:75%" src="/images/ul8.png"></a><b>Seesaw</b></figure> |  <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/students/school-library/"><img style="width:25%" src="/images/ul9.png"></a><b>Xingnan School Library</b></figure> |
 | <figure><a href="https://www.ezhishi.net/Contents/"><img style="width:50%" src="/images/ul10.png"></a><b>eZhishi</b></figure>|||
