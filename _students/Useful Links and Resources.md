@@ -43,7 +43,7 @@ Student Name:&nbsp;Alex Lee Xiao Ming_&nbsp;
 
 Username: alex_lee_xiao-ming@students.edu.sg
 
-_More details on Student ICON can be found at :&nbsp;[XNPS Student ICON](https://xingnanpri.moe.edu.sg/homepage-icon/students/student-icon)_
+_More details on Student ICON can be found at :&nbsp;[XNPS Student ICON](https://www.xingnanpri.moe.edu.sg/students/student-icon/)_
 
 #### Student Learning Space (SLS)
 
