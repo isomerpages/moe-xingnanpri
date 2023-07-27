@@ -7,14 +7,13 @@ description: ""
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
-**Service Requirements**
+**Service Requirements**<br>
 
-1.&nbsp;[Call for Proposal\][\[AK(1\]](#_msocom_1)&nbsp;<br>
+1.[Call for Proposal\][\[AK(1\]](#_msocom_1)&nbsp;<br>
 2.[Agreement for Appointment of School Bus Operator\][\[AK(2\]](#_msocom_2)&nbsp;
 
 **Application Procedure**
-
-1\. Complete the \[Call for Proposal - Annex A\][\[AK(3\]](#_msocom_3)&nbsp;<br>
+<br>1\. Complete the \[Call for Proposal - Annex A\][\[AK(3\]](#_msocom_3)&nbsp;<br>
 2\. Submit the completed Call for Proposal – Annex A by closing date, 10 May 2023[\[SYS(4\]](#_msocom_4)&nbsp;, to the School’s General Office.
 
 * **Address:**  Xingnan Primary School, 5 Jurong West Street 91, Singapore 649036
