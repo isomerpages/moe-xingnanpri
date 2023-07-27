@@ -13,8 +13,8 @@ To apply, please refer to the Service Requirements and the Application Procedure
 2. [Agreement for Appointment of School Bus Operator.pdf](/files/School%20Bus%20Advertisement/attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator%20(version%20june%202023).pdf)
 
 **Application Procedure**
-<br>1\. Complete the \[Call for Proposal - Annex A\][\[AK(3\]](#_msocom_3)&nbsp;<br>
-2\. Submit the completed Call for Proposal – Annex A by closing date, 10 May 2023[\[SYS(4\]](#_msocom_4)&nbsp;, to the School’s General Office.
+<br>1\. Complete the &nbsp;[Call for Proposal - Annex A](/files/School%20Bus%20Advertisement/attachment%202%20call%20for%20proposal%20-%20annex%20a%20(version%20june%202023).pdf)<br>
+2\. Submit the completed Call for Proposal – Annex A by closing date, 10 May 2023, to the School’s General Office.
 
 * **Address:**  Xingnan Primary School, 5 Jurong West Street 91, Singapore 649036
 
