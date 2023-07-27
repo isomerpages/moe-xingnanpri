@@ -14,7 +14,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Application Procedure**
 <br>1\. Complete the &nbsp;[Call for Proposal - Annex A](/files/School%20Bus%20Advertisement/attachment%202%20call%20for%20proposal%20-%20annex%20a%20(version%20june%202023).pdf)<br>
-2\. Submit the completed Call for Proposal – Annex A by closing date, 10 May 2023, to the School’s General Office.
+2\. Submit the completed Call for Proposal - Annex A in a sealed envelope by closing date, 11 Aug 2023, to the School’s General Office.
 
 * **Address:**  Xingnan Primary School, 5 Jurong West Street 91, Singapore 649036
 
@@ -22,7 +22,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 * **Email:** goh_boon_kim@schools.gov.sg
 
-* **Contact Person:**  Mdm Jesslyn
+* **Contact Person:**  Mrs Jesslyn Phon
 
 **How to get there?**
 
