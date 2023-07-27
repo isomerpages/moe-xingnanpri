@@ -32,13 +32,3 @@ To apply, please refer to the Service Requirements and the Application Procedure
 \* Bus number: 900 - 3 minutes walking distance[\[AK(5\]](#_msocom_5)&nbsp;
 
 * * *
-
-&nbsp;[\[AK(1\]](#_msoanchor_1)School to upload PDF here
-
-&nbsp;[\[AK(2\]](#_msoanchor_2)School to upload PDF here
-
-&nbsp;[\[AK(3\]](#_msoanchor_3)School to upload PDF here
-
-&nbsp;[\[SYS(4\]](#_msoanchor_4)School to update Closing Date
-
-&nbsp;[\[AK(5\]](#_msoanchor_5)School to update details
