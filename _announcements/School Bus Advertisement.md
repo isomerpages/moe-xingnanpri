@@ -22,7 +22,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 * **Email:** goh_boon_kim@schools.gov.sg
 
-*** Contact Person:** Mdm Jesslyn
+* **Contact Person:**  Mdm Jesslyn
 
 **How to get there?**
 
