@@ -9,8 +9,8 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Service Requirements**<br>
 
-1.[Call for Proposal\][\[AK(1\]](#_msocom_1)&nbsp;<br>
-2.[Agreement for Appointment of School Bus Operator\][\[AK(2\]](#_msocom_2)&nbsp;
+1. [Call For Proposal.pdf ](/files/School%20Bus%20Advertisement/attachment%201%20call%20for%20proposals%20by%20school%20(version%20june%202023).pdf)
+2. [Agreement for Appointment of School Bus Operator.pdf](/files/School%20Bus%20Advertisement/attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator%20(version%20june%202023).pdf)
 
 **Application Procedure**
 <br>1\. Complete the \[Call for Proposal - Annex A\][\[AK(3\]](#_msocom_3)&nbsp;<br>
