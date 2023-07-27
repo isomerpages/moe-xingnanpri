@@ -1,6 +1,6 @@
 ---
 title: Outstanding Youth in Education Award (OYEA)
-permalink: /announcements/permalink/
+permalink: /announcements/permalink/oyea/
 description: ""
 ---
 ### AST | Outstanding Youth in Education Award (OYEA)
@@ -9,7 +9,7 @@ The OYEA is a national award that recognises and honours the achievements of you
 
 
 
-Outstanding Youth in Education Award 2023 Will be updated soon 
+Outstanding Youth in Education Award 2023 Will be updated soon.
 
 
 For more info: [https://academyofsingaporeteachers.moe.edu.sg/professional-recognition/outstanding-youth-in-education-award](https://academyofsingaporeteachers.moe.edu.sg/professional-recognition/outstanding-youth-in-education-award)
