@@ -4,7 +4,7 @@ permalink: /p1-to-p6-form-teachers/p1/
 description: ""
 ---
 ### P1 Teachers (2023)
-<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Chow Kar Yin** 
+<img src="/images/Our Staff/02 Teacher/1A1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Ms Chow Kar Yin** 
 
 Primary 1A
 
@@ -14,7 +14,7 @@ I believe that every child can be taught and nurtured through education.
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1A2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Md Irwan Bin Md Isa**
+<img src="/images/Our Staff/02 Teacher/1A2.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Md Irwan Bin Md Isa**
 
 Primary 1A
 
@@ -24,7 +24,7 @@ As a Teacher, I believe in Empathising with my pupils' learning needs prior to A
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1B1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Chia Tzu Lin (Mrs Low)**
+<img src="/images/Our Staff/02 Teacher/1B1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Chia Tzu Lin (Mrs Low)**
 
 Primary 1B
 
@@ -34,17 +34,17 @@ Every child should always adopt a "can-do" attitude. Education should broaden th
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1B2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Noratiqah Binte Talib**
+<img src="/images/Our Staff/02 Teacher/1B2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Noratiqah Binte Talib**
 
 Primary 1B
 
-Art teachers mould students to become creative, inquisitive, flexible & tenacious with an extraordinary spirit of adventure and play.
+Art teachers mould students to become creative, inquisitive, flexible &amp; tenacious with an extraordinary spirit of adventure and play.
 
 [**noratiqah\_talib@schools.gov.sg**](mailto:noratiqah_talib@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1C1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Ler Lay Ching**
+<img src="/images/Our Staff/02 Teacher/1C1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Ler Lay Ching**
 
 Primary 1C
 
@@ -54,7 +54,7 @@ I believe in giving the best to the future generation. Students will be strongly
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1C2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Vincent Arokia Dass S/O T**
+<img src="/images/Our Staff/02 Teacher/1C2.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Vincent Arokia Dass S/O T**
 
 Primary 1C
 
@@ -64,7 +64,7 @@ Every child has an untapped potential waiting to be awakened. The key to unlocki
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1D1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Rafizah Bte Rahman**
+<img src="/images/Our Staff/02 Teacher/1D1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Rafizah Bte Rahman**
 
 Primary 1D
 
@@ -74,7 +74,7 @@ Children must be taught how to think, not what to think.
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1D2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Wong Shui Zhu**
+<img src="/images/Our Staff/02 Teacher/1D2.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Wong Shui Zhu**
 
 Primary 1D
 
@@ -84,7 +84,7 @@ Primary 1D
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1E1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Maslinda Bte Abd Wahab**
+<img src="/images/Our Staff/02 Teacher/1E1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Maslinda Bte Abd Wahab**
 
 Primary 1E
 
@@ -94,7 +94,7 @@ Every child is a star in its own light!
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1E2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Rachel Sin Meng Hui**
+<img src="/images/Our Staff/02 Teacher/1E2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Rachel Sin Meng Hui**
 
 Primary 1E
 
@@ -104,7 +104,7 @@ Primary 1E
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1F1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Juhariyah Bte Johari**
+<img src="/images/Our Staff/02 Teacher/1F1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Juhariyah Bte Johari**
 
 Primary 1F
 
@@ -114,7 +114,7 @@ To be confident, one needs to be competent. To be competent, one needs to be fea
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1F2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Philip Chiu**
+<img src="/images/Our Staff/02 Teacher/1F2.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Philip Chiu**
 
 Primary 1F
 
@@ -124,7 +124,7 @@ Pupils should develop to be lifetime learners and continue to improve their tale
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1G1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Pierre E**
+<img src="/images/Our Staff/02 Teacher/1G1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Pierre E**
 
 Primary 1G
 
@@ -134,7 +134,7 @@ Children are capable of more than we think, sometimes even more than they themse
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1G2.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Ms Rosneayu Binte Rosenen**
+<img src="/images/Our Staff/02 Teacher/1G2.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Ms Rosneayu Binte Rosenen**
 
 Primary 1G
 
@@ -147,7 +147,7 @@ Pendidikan adalah asas untuk masa depan yang lebih baik.
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1H1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Delia Ang Yen Peng**
+<img src="/images/Our Staff/02 Teacher/1H1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Delia Ang Yen Peng**
 
 Primary 1H
 
@@ -155,19 +155,10 @@ I believe that all students can and want to learn. We can foster their natural d
 
 [**ang_yen_peng@school.gov.sg**](mailto:ang_yen_peng@school.gov.sg)
 
-* * *
-
-<img src="/images/Our Staff/02 Teacher/1H2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Ong Xiao Hui**
-
-Primary 1H
-
-It’s what is seen that matters.
-
-[**ong_xiao_hui@schools.gov.sg**](mailto:ong_xiao_hui@schools.gov.sg)
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1I1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mdm Norain Bte Bakadool**
+<img src="/images/Our Staff/02 Teacher/1I1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mdm Norain Bte Bakadool**
 
 Primary 1I
 
@@ -177,7 +168,7 @@ Hearts on. Minds on. Hands on.
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1I2.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Miss Sylvia Tan Han Yu**
+<img src="/images/Our Staff/02 Teacher/1I2.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Miss Sylvia Tan Han Yu**
 
 Primary 1I
 
@@ -189,7 +180,7 @@ I believe that education is the path for this gracious climb and teachers are th
 
 * * *
 
-<img src="/images/Our Staff/02 Teacher/1I3.jpg" style="width:240px;height:240px;margin-left:15px;" align = "right"> **Mr Kwek Khiok Chai**
+<img src="/images/Our Staff/02 Teacher/1I3.jpg" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mr Kwek Khiok Chai**
 
 Primary 1I
 
