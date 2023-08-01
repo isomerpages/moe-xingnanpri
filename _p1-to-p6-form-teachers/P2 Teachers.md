@@ -195,15 +195,7 @@ I believe every child has the potential to develop and discover his or her uniqu
 
 [**Peh_Poh_Hwa_A@schools.gov.sg**](mailto:Peh_Poh_Hwa_A@schools.gov.sg)
 
-* * *
 
-<img src="/images/Our Staff/02 Teacher/2J1.png" style="width:240px;height:240px;margin-left:15px;" align="right"> **Mrs Sulastri Ryanti Khan**
-
-Primary 2J
-
-Every child deserves a hero – an adult who will never give up on them no matter what, who understands the power of communication and insists that they become the best that they can possibly be to reach their fullest potential. As a teacher, I aim to mould students holistically and not just academically.
-
-[**sulastri_ryanti_sujak@schools.gov.sg**](mailto:sulastri_ryanti_sujak@schools.gov.sg)
 
 * * *
 
