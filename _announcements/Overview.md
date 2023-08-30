@@ -5,6 +5,11 @@ description: ""
 ---
 ### Announcements
 
+##### 2023 ECHA
+
+Dear Parents, The 2023 Edusave Character Award is open for nomination.<br>Please  [Click Here](https://www.xingnanpri.moe.edu.sg/parents/permalink/) to read more and sumbit your nomination
+
+Thank you.
 ##### 2023 Teachers' Day Homecoming Notice
 
 Dear alumni, our alma mater is a designated polling venue for the presidential election. <br>We are unable to host any alumni who are visiting Xingnan on the eve of election (31 Aug). 
@@ -17,7 +22,7 @@ Dear Parents, [Click Here](https://www.xingnanpri.moe.edu.sg/expedition/School-P
 
 #### Learning Plans 
 Dear Parents,
-The 2023 term 1 learning plans can be viewed from the following link. [Read more here.](https://sites.google.com/xnps.edu.sg/xnps-learning-plans/home?authuser=2)
+The 2023 Learning Plans can be viewed from the following link. [Read more here.](https://sites.google.com/xnps.edu.sg/xnps-learning-plans/home?authuser=2)
 
 ***
 
