@@ -9,16 +9,16 @@ links:
         url: /xingnan/our-people/our-principals-message/
       - title: Our Partnerships
         url: /xingnan/our-partnerships/school-advisory-committee/
-  - title: "Learn for Life "
+  - title: Learn for Life
     url: /learn-for-life/applied-learning-programme
     sublinks:
-      - title: "Applied Learning Programme "
+      - title: Applied Learning Programme
         url: /learn-for-life/applied-learning-programme/
       - title: Learn for Life Programme
         url: /learn-for-life/learn-for-life-programme/
-      - title: "Leaders lead Leaders "
+      - title: Leaders lead Leaders
         url: /learn-for-life/leaders-lead-leaders/
-      - title: "X³ Learning Years Programme "
+      - title: X³ Learning Years Programme
         url: /x3-learning-years-programme/overview/
       - title: Ecostewardship
         url: /learn-for-life/ecostewardship/
@@ -38,9 +38,9 @@ links:
   - title: Staff and Teachers
     url: /staff-and-teachers/overview/
     sublinks:
-      - title: "Useful Links "
+      - title: Useful Links
         url: /staff-and-teachers/overview/
-      - title: "stARS "
+      - title: stARS
         url: /lead-care-inspire/stARS/
       - title: President Award for Teachers
         url: /staff-and-teachers/presidents-award-for-teachers/
@@ -65,6 +65,8 @@ links:
         url: https://form.gov.sg/632432ba67747a0011d4a0cc
       - title: Pledge to Plant
         url: /parents/pledge-to-plant/
+      - title: School Bus
+        url: /parents/schoolbus/
   - title: Students
     url: /students/overview/
     sublinks:
