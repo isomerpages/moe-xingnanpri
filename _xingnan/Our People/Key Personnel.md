@@ -4,7 +4,6 @@ permalink: /xingnan/Our-People/key-personnel/
 description: ""
 third_nav_title: Our People
 ---
-
 ### Key Personnel
 
 #### School Leaders
@@ -196,9 +195,11 @@ Pupils should develop to be lifetime learners and continue to improve their tale
 * * *
 
 **Mrs Kwek Ai Ling** <br>
-[**chau_ai_ling@schools.gov.sg**](mailto:chau_ai_ling@schools.gov.sg)
+
 
 I believe every child can learn and succeed regardless of their starting point and the time needed.
+
+[**chau_ai_ling@schools.gov.sg**](mailto:chau_ai_ling@schools.gov.sg)
 
 * * *
 
@@ -332,4 +333,3 @@ Teaching is not hard work, it's HeartWork. I teach like how I would like to be t
 [gan\_soon\_keat@schools.gov.sg](mailto:gan_soon_keat@schools.gov.sg)
 
 * * *
-
