@@ -2,7 +2,6 @@ collections:
   p1-to-p6-form-teachers:
     output: true
     order:
-      - test.md
       - P1 Teachers.md
       - P2 Teachers.md
       - P3 Teachers.md
