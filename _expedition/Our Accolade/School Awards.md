@@ -6,18 +6,34 @@ third_nav_title: Our Accolade
 ---
 ### School Awards
 
-**School Green Award - Vanda Miss Joaquim Award (2022)**
+##### (2022)
+<table width="532" style="height: 220px; border-color: black; background-color: white;">
+<tbody>
+<tr style="height: 84px;">
+<td style="width: 265.6px; height: 84px;">&nbsp;<strong>School Green Award - Vanda Miss Joaquim Award</strong></td>
+<td style="width: 265.6px; height: 84px;">
+<img src="/images/Expedition/school%20green%20award%202022.JPG" style="width:200px;height:300px;margin-left:15px;" align="left">
+<img src="/images/Expedition/school%20green%20award%20--%20vanda%20miss%20joaquim%20(2022).jpeg" style="width:200px;height:300px;margin-left:15px;" align="left">
+</td>
+</tr>
+<tr style="height: 44.7px;">
+<td style="width: 265.6px; height: 44.7px;">&nbsp;<strong>Southwest CDC - 3*Star Award</strong></td>
+<td style="width: 265.6px; height: 44.7px;">
+<img src="/images/Expedition/southwest%20cdc%203%20star%20award.jpeg" style="width:200px;height:300px;margin-left:15px;" align="left">
+</td>
+</tr>
+</tbody>
+</table>
 
-<img src="/images/Expedition/school%20green%20award%202022.JPG" style="width:230px;height:330px;margin-left:15px;" align="left"> 
- 
-<img src="/images/Expedition/school%20green%20award%20--%20vanda%20miss%20joaquim%20(2022).jpeg" style="width:50%">
-
-**Southwest CDC - 3*Star Award (2022)**
-<img src="/images/Expedition/southwest%20cdc%203%20star%20award.jpeg" style="width:50%">
-
-**Community in Bloom -- Silver (2021)**
-
-<img src="/images/Expedition/community%20bloom%20award%202021.jpg" style="width:30%">
-
-
-<img src="/images/Expedition/award2.png" style="width:100%">
+##### (2021)
+<table width="532" style="height: 220px; border-color: black; background-color: white;">
+<tbody>
+<tr style="height: 84px;">
+<td style="width: 265.6px; height: 84px;">&nbsp;<strong>Community in Bloom - Silver</strong></td>
+<td style="width: 265.6px; height: 84px;">
+<img src="/images/Expedition/community%20bloom%20award%202021.jpg" style="width:200px;height:300px;margin-left:15px;" align="left">
+	<img src="/images/Expedition/award2.png" style="width:200px;height:300px;margin-left:15px;" align="left">
+</td>
+</tr>
+</tbody>
+</table>
