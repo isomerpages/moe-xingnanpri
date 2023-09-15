@@ -4,10 +4,8 @@ permalink: /expedition/Achievements/school-awards/
 description: ""
 third_nav_title: Our Accolade
 ---
-### School Awards
+### (2022)
 
-
-##### (2022)
 <table width="800" style="height: 220px; border-color: black; background-color: white;">
 <tbody>
 <tr style="height: 84px;">
@@ -26,7 +24,7 @@ third_nav_title: Our Accolade
 </tbody>
 </table>
 
-##### (2021)
+### (2021)
 <table width="800" style="height: 220px; border-color: black; background-color: white;">
 <tbody>
 <tr style="height: 84px;">
