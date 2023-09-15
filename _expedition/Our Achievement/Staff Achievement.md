@@ -2,7 +2,7 @@
 title: Staff Achievement
 permalink: /expedition/our-accolade/permalink/
 description: ""
-third_nav_title: Our Accolade
+third_nav_title: Our Achievement
 ---
 ![](/images/Expedition/slide11.jpg)
 
