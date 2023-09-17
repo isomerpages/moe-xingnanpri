@@ -9,11 +9,11 @@ third_nav_title: Our People
 #### School Leaders
 * * *
 **Mrs Cindy Ong** <br> 
-Principal <br>
+Principal
 
 The greatest gift an educator can give his/her students is to arouse and sustain their innate curiosity to learn, make meaning and construct knowledge through play while interacting with others, and their environment.
 
-<br> [cindy\_chan@schools.gov.sg](mailto:cindy_chan@schools.gov.sg) <br>
+[cindy\_chan@schools.gov.sg](mailto:cindy_chan@schools.gov.sg) <br>
 
 * * *
 
@@ -24,7 +24,7 @@ Vice-Principal
 
 Teaching and learning is so full of excitement, wonder and joy that I am thrilled when one more pupil or colleague feels motivated to take up the challenge to try and learn something new and do their best in that endeavour! My belief is that we are unique individuals and have something special that we can bring to our own learning! It is a great feeling to provide children and peers opportunities to explore various ways to think and be committed to be a lifelong learner seeking knowledge and skills as they grow and serve others. As a school community, we can join hands to nurture our children to be confident individuals and responsible citizens!
 
-[S\_ANITHA@schools.gov.sg](mailto:S_ANITHA@schools.gov.sg)
+[s\_anitha@schools.gov.sg](mailto:S_ANITHA@schools.gov.sg)
 
 * * *
 
@@ -116,7 +116,7 @@ Education is not preparation for life, education is the journey to life itself.
 
 * * *
 
-**Mdm Nursasterawati Bte Md Yatim** <br>
+**Mdm Nursasterawati Bte Md Yatim**
 <br>Subject Head - Student Well-being  
 
 I believe that learning should be engaging, enjoyable and a meaningful lifelong experience.
@@ -128,7 +128,7 @@ I believe that learning should be engaging, enjoyable and a meaningful lifelong 
 **Miss Ong Lijing**   
 Senior Teacher - Educational Support
 
-"Every child can learn, and even teach others, to become better. May we be able to guide them and remind them to enjoy and treasure what is important."
+Every child can learn, and even teach others, to become better. May we be able to guide them and remind them to enjoy and treasure what is important.
 
 [ong\_lijing@schools.gov.sg](mailto:ong_lijing@schools.gov.sg)
 
@@ -199,7 +199,7 @@ Level Head (Mathematics)
 
 I believe every child can learn and succeed regardless of their starting point and the time needed.
 
-[**chau_ai_ling@schools.gov.sg**](mailto:chau_ai_ling@schools.gov.sg)
+[chau_ai_ling@schools.gov.sg](mailto:chau_ai_ling@schools.gov.sg)
 
 * * *
 
