@@ -332,4 +332,3 @@ Teaching is not hard work, it's HeartWork. I teach like how I would like to be t
 
 [gan\_soon\_keat@schools.gov.sg](mailto:gan_soon_keat@schools.gov.sg)
 
-* * *
