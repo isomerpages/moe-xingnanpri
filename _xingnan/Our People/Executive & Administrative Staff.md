@@ -12,7 +12,6 @@ third_nav_title: Our People
  
 ***
 
-
 **Mdm Aneza Abdullah**<br>Corporate Support Officer <br>[aneza\_abdullah@schools.gov.sg](mailto:aneza_abdullah@schools.gov.sg)	
  <br>
  
@@ -44,14 +43,12 @@ third_nav_title: Our People
  **Mr Khairil Anuar Salim**<br>Desktop Engineer (NCS)	  	
 <br>
 
- ***
-  ***
+***
  
  **Mr R. Anburajan**<br>Desktop Engineer (NCS)	  	
 <br>
 
  ***
-
 
  **Mdm N. Punnitha** <br> Media Resource Library Assistant
 <br>
@@ -80,7 +77,7 @@ third_nav_title: Our People
 
 * ***
 
-*Mdm Chan Mooi**<br>Operations Support Officer  	
+**Mdm Chan Mooi**<br>Operations Support Officer  	
  <br>
  
   *** 
