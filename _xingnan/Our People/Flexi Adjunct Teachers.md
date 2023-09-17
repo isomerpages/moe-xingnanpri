@@ -32,5 +32,3 @@ third_nav_title: Our People
 * * *
 
 **Mr Lim Chan Kuang**<br>
-
-***
