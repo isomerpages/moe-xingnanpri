@@ -18,12 +18,7 @@ third_nav_title: Our People
 * * *
 
 **Mrs Soong-Ong Buang Eng**<br>
-[**chew_seok_may@schools.gov.sg**](mailto:chew_Seok_May@schools.gov.sg)
-
-* * *
-
-**Mr Ho Sau Ken**<br>
-[**chew_seok_may@schools.gov.sg**](mailto:chew_Seok_May@schools.gov.sg)
+[**soong-ong_buang_eng@schools.gov.sg**](mailto:soong-ong_buang_eng@schools.gov.sg)
 
 * * *
 
@@ -32,7 +27,10 @@ third_nav_title: Our People
 
 ***
 
+**Mr Ho Sau Ken**<br>
+
+* * *
+
 **Mr Lim Chan Kuang**<br>
-[**chew_seok_may@schools.gov.sg**](mailto:chew_Seok_May@schools.gov.sg)
 
 ***
