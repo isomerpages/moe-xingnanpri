@@ -7,34 +7,28 @@ third_nav_title: Our People
 #### Adjunct Teachers
 ***
 
-**Mdm Flora Chew Seok May**&nbsp;<br>
-
-
-***
-
-**Mdm Kavitha**
-<br>
-
-* * *
-
-**Mrs Soong-Ong Buang Eng**
-<br>
-
-* * *
-
-**Mr Ho Sau Ken**
-<br>
-
-* * *
-
-**Mr Tan Chong Hian**
-<br>
+**Mdm Flora Chew Seok May**&nbsp;
+[**chew_seok_may@schools.gov.sg**](mailto:chew_Seok_May@schools.gov.sg)
 
 ***
 
-**Mr Lim Chan Kuang**
-<br>
+**Mdm Kavitha Kiresnasamy**<br>
+[**kavitha_kiresnasamy@schools.gov.sg**](mailto:Kavitha_Kiresnasamy@schools.gov.sg)
+
+* * *
+
+**Mrs Soong-Ong Buang Eng**<br>
+[**soong-ong_buang_eng@schools.gov.sg**](mailto:soong-ong_buang_eng@schools.gov.sg)
+
+* * *
+
+**Mr Tan Chong Hian**<br>
+[**tan_chong_hian@schools.gov.sg**](mailto:tan_chong_hian@schools.gov.sg)
 
 ***
 
+**Mr Ho Sau Ken**<br>
 
+* * *
+
+**Mr Lim Chan Kuang**<br>

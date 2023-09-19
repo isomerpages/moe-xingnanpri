@@ -7,15 +7,13 @@ description: ""
 
 Primary 1A
 
-**Ms Chow Kar Yin** <br>  
-[**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
+**Ms Chow Kar Yin** <br>  [**chow\_kar\_yin@schools.gov.sg**](mailto:chow_kar_yin@schools.gov.sg)
 
 I believe that every child can be taught and nurtured through education.
 
 * * *
 
-**Mr Md Irwan Bin Md Isa** <br>  
-[**mohammad_irwan_md_isa@schools.gov.sg**](mailto:mohammad_irwan_md_isa@schools.gov.sg)
+**Mr Md Irwan Bin Md Isa** <br>  [**mohammad_irwan_md_isa@schools.gov.sg**](mailto:mohammad_irwan_md_isa@schools.gov.sg)
 
 As a Teacher, I believe in Empathising with my pupils' learning needs prior to Assessing their full potentials Carefully and Honestly so that I can Enjoy my role with a Reflective mind.
 
@@ -159,4 +157,3 @@ Today's teachers like yesterday's teachers will continue to engage the learners 
 I believe that education is the path for this gracious climb and teachers are the marshals.
 
 * * *
-

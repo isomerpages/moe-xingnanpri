@@ -87,10 +87,10 @@ To teach is not to merely deliver facts and knowledge but to help children devel
 
 Primary 2F
 
-**Ms La Vonda Koh,** <br>
+**Ms La Vonda Koh** <br>
 [**lavondakoh@schools.gov.sg**](mailto:lavondakoh@schools.gov.sg)
 
-Every child is precious and to be treasured. Every child is God's gift.
+Every child is precious and to be treasured.
 
 * * *
 
