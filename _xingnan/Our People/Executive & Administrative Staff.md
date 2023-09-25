@@ -62,7 +62,7 @@ third_nav_title: Our People
 
  ***
 
-**Mr Abdul Halim Bin Abdul Sani** <br>Operations Manager<br>[Abdul_Halim_Abdul_Salim@schools.gov.sg](mailto:Abdul_Halim_Abdul_Salim@schools.gov.sg) 
+**Mr Abdul Halim Bin Abdul Sani** <br>Operations Manager<br>[Abdul_Halim_Abdul_Sani@schools.gov.sg](mailto:Abdul_Halim_Abdul_Sani@schools.gov.sg) 
 <br>
 
  ***
