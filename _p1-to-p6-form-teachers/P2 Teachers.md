@@ -39,10 +39,10 @@ Teaching and learning is always occurring. Children have the ability to empower 
 
 Primary 2C
 
-**Mr Bran Chua** <br>
-[**bran_chua_wei_kiat@schools.gov.sg**](mailto:bran_chua_wei_kiat@schools.gov.sg)
+**Mdm Renee Kwan Pui Leng** <br>
+[**kwan_pui_leng@@schools.gov.sg**](mailto:kwan_pui_leng@@schools.gov.sg)
 
-Learning goes beyond the classroom. Every learning experience has its own unique journey; my role as the teacher will be to assist each child in developing their own potential and learning styles. Students should be able to have choices and let their curiosity direct their learning.
+"     "
 
 * * *
 
