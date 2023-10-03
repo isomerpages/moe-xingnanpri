@@ -39,8 +39,8 @@ Teaching and learning is always occurring. Children have the ability to empower 
 
 Primary 2C
 
-**Mdm Renee Kwan Pui Leng** <br>
-[**kwan_pui_leng@@schools.gov.sg**](mailto:kwan_pui_leng@@schools.gov.sg)
+**Mr Lin Yuan Xiao** <br>
+[**lin_yuan_xiao@schools.gov.sg**](mailto:lin_yuan_xiao@schools.gov.sg)
 
 "     "
 
