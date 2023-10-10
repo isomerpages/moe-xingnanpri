@@ -2,7 +2,7 @@
 title: Academic Achievements
 permalink: /expedition/achievements/academicachievements/
 description: ""
-third_nav_title: Our Achievement
+third_nav_title: Our Achievements
 ---
 ### Academic Achievements  2023
 

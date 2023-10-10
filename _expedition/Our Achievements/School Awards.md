@@ -2,7 +2,7 @@
 title: School Awards
 permalink: /expedition/Achievements/school-awards/
 description: ""
-third_nav_title: Our Achievement
+third_nav_title: Our Achievements
 ---
 ### 2022
 

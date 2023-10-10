@@ -2,7 +2,7 @@
 title: CCA Achievements
 permalink: /expedition/Achievements/cca-achievements/
 description: ""
-third_nav_title: Our Achievement
+third_nav_title: Our Achievements
 ---
 ### CCA Achievements
 
