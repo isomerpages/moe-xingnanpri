@@ -4,7 +4,7 @@ permalink: /expedition/Achievements/academic-achievements/
 description: ""
 third_nav_title: Our Achievement
 ---
-### Student Achivement  2023
+### Academic Achievements  2023
 
 <table width="800" style="height: 220px; border-color: black; background-color: white;">
 <tbody>
