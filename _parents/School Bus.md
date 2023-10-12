@@ -250,6 +250,8 @@ Bus fares applicable from **1 January 2024 to 31 Dec 2025:**
 
 Should you have any questions or require further information, please do not hesitate to reach out to us.
 
+Please click on the following [link](https://form.gov.sg/616778ce812f4c00144f8f29) to register your child for the 2024 slot 
+
 Thank you for your continued trust and partnership in ensuring safe and convenient transportation for our students.
 
 Warm regards,
