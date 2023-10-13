@@ -24,3 +24,4 @@ To get started, please click on the following link to explore the contents of th
   height:60.95pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
   line-height:normal">Essential information on P1 orientation day and how to make a seamless start to your child's academic journey.</p></td></tr></tbody></table>
 We look forward to the 2024 Primary 1 cohort's arrival, and we are excited to embark on this educational journey together. If you have any immediate questions or concerns, please don't hesitate to reach out to our team.
+
