@@ -18,7 +18,7 @@ To get started, please click on the following link to explore the contents of th
   height:65.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
   line-height:normal">Administrative Matter<a href="https://designrr.page/?id=245411&amp;token=2475520815&amp;type=FP&amp;h=4848"><img src="/images/Parents/admin2.png" style="width:400px;height:200px;margin-left:15px;" align="Centre"></a></p></td><td width="325" valign="top" style="width:243.5pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:65.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal">P1 Orientation Matter<a href="https://designrr.page/?id=245411&amp;token=2475520815&amp;type=FP&amp;h=4848"><img src="/images/Pledge%20to%20Plant.jpg" style="width:400px;height:200px;margin-left:15px;" align="Centre"></a></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:60.95pt"><td width="325" valign="top" style="width:243.5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  line-height:normal">P1 Orientation Matter<a href="https://designrr.page/?id=245411&amp;token=2475520815&amp;type=FP&amp;h=4848"><img src="/images/Parents/student%20matter.png" style="width:400px;height:200px;margin-left:15px;" align="Centre"></a></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:60.95pt"><td width="325" valign="top" style="width:243.5pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:60.95pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
   line-height:normal">Administrative information for 2024 Primary 1 registration</p></td><td width="325" valign="top" style="width:243.5pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:60.95pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
