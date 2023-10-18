@@ -2,4 +2,5 @@ collections:
   removed-pages:
     output: true
     order:
+      - President's Award for Teachers.md
       - stARS.md
