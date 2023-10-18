@@ -3,7 +3,7 @@ title: Academic Year 2024 Primary 1
 permalink: /parents/2024p1/
 description: ""
 ---
-Dear Primary 1 Parents of 2023 Academic year,
+Dear Primary 1 Parents of 2024 Academic year,
 
 We are excited to welcome you and your child to an exciting new chapter in their educational journey at Xingnan Primary School. As we prepare for the 2024 Primary 1 cohort, we want to keep you informed and engaged throughout this important phase of your child's education.
 
