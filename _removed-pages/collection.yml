@@ -1,4 +1,5 @@
 collections:
   removed-pages:
     output: true
-    order: []
+    order:
+      - stARS.md
