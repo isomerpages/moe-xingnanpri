@@ -2,6 +2,7 @@ collections:
   staff-and-teachers:
     output: true
     order:
+      - 2020 Teaching Awards.md
       - Overview.md
       - 2023 Teaching Awards.md
       - 2022 Teaching Awards.md
