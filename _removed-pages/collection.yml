@@ -1,0 +1,4 @@
+collections:
+  removed-pages:
+    output: true
+    order: []
