@@ -215,7 +215,7 @@ description: ""
   normal;mso-list:l0 level1 lfo1"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-fareast-font-family:
   &quot;Century Gothic&quot;;mso-bidi-font-family:&quot;Century Gothic&quot;;color:black;
   mso-themecolor:text1;mso-ansi-language:EN-SG"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"></span><span class="MsoHyperlink"><a href="https://go.gov.sg/moe-efas"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">Hard Copy FAS</span></a></span></b></p><span lang="EN-SG" style="font-size:9.0pt;font-family:
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"></span><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024%20moe%20fas%20application%20form.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">Hard Copy FAS</span></a></span></b></p><span lang="EN-SG" style="font-size:9.0pt;font-family:
   &quot;Century Gothic&quot;,sans-serif;color:black;mso-themecolor:text1;mso-ansi-language:
   EN-SG"></span><p></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -277,3 +277,5 @@ description: ""
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr></tbody></table>
+	
+	[FAS Form](/files/Parents/P1%202024/2024%20moe%20fas%20application%20form.pdf)
