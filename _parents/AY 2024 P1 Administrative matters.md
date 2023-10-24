@@ -201,7 +201,7 @@ description: ""
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">c) Family with more than 5 unmarried children not in GGAS</span></p><p class="MsoNormal" style="margin-bottom:-1.5cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">d) Family with more than 3 grandparents in the household</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please click to download the MOE FAS Pamphlet<b></b></span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024moefasapplicationform.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">Please click to download the MOE FAS Pamphlet</span></a></span></span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoListParagraph" style="margin-top:0cm;margin-right:0cm;margin-bottom:
