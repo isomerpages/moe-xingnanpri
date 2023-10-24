@@ -172,10 +172,10 @@ description: ""
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">6</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">School Bus</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;background:
   white"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">Please visit the school Bus page for more information and register your interest.</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;background:
+  mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">Please visit the school Bus page for more information and register your interest.</span></p><p class="MsoNormal" style="margin-bottom:-1cm;line-height:normal;background:
   white"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -191,8 +191,8 @@ description: ""
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">7</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">MOE-FAS</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">MOE-FAS</span></b></p><p class="MsoNormal" style="margin-bottom:-1.5cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">(1)Please Click on the link given to apply for the 2024 MOE FAS application</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">(2)For the scenarios listed below, please complete the hardcopy application form and submit to school’s General Office together with all supporting documents for the scenarios listed below:</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
