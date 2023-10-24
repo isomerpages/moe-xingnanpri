@@ -1,10 +1,11 @@
 ---
-title: 2021 Teaching Awards
-permalink: /staff-and-teachers/permalink/
+title: stARS
+permalink: /lead-care-inspire/stARS/
 description: ""
 ---
-### Associate of Academy of Singapore Teachers (AST) Award 2021
+### stARS
 
+#### Staff Appreciation and Recognition
 
 ##### 2021 Awards - MOE Service Excellence Award (Silver)
 
@@ -49,3 +50,77 @@ description: ""
 ##### Singapore PE Association (SPEA) Outstanding Teacher-Coach Award 2021
 
 <img src="/images/stars10.png" style="width:200px;height:200px;margin-left:15px;" align="right"> **Mr Jason Chua Kian Seng** <br><br><br><br><br><br>
+
+* * *
+
+#### 2020 Awards
+
+##### National Day Awards
+
+##### The Public Administration Medal, 2020 (Bronze)
+
+*   &nbsp;**Mdm S Anitha (Vice-Principal)**&nbsp;  
+    
+
+##### The commendation Medal, 2020
+
+*   **Mr Abdul Wahab B Abdul Rahman**
+
+
+##### MOE Service Excellence Award (Silver)
+
+*   **Chau Ailing**
+
+*   **Chong Yen Lian Janet**
+
+*   **Nur Azlindah Azlan**
+
+*   **Wong Shi Yuan**
+
+##### Associate of Academy of Singapore Teachers (AST) Award 2020 as&nbsp;Facilitator of Network Learning Communities (NLCs)
+
+
+*   **Mr Abdul Wahab B Abdul Rahman**
+
+
+
+##### Certificate of Appreciation as a member of the Academy of Singapore Teachers (AST) Chinese Language Core Team from 2015 to 2020
+
+
+
+*   **Yang Xuehui**
+
+  
+
+#### 2019 Awards  
+
+##### MOE Service Excellence Award (Gold)
+
+*   **Mr Abdul Wahab B Abdul Rahman**
+
+  
+##### MOE Service Excellence Award (Silver)
+
+*   **Miss A Sumathi**
+
+*   **Mdm Delia Ang Yen Peng**
+
+*   **Mdm Yang Nian**
+
+
+##### Distinguished Chinese Language Teachers Awards 2019 
+
+*   **Miss Lim Hui Min**
+
+
+##### Associate of Academy of Singapore Teachers (AST) Award 2019
+ 
+
+*   **Mr Abdul Wahab B Abdul Rahman**
+
+  
+
+##### Singapore Youth Award 2019 
+ 
+
+*   **Miss Francesca Phoebe Wah Li Ting**
