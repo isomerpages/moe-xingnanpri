@@ -228,9 +228,9 @@ description: ""
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">School Uniform</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please Check this section later, Details of school Unifrom will be made available here once all the information is confirmed.</span></b></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">School Uniform</span></b></p><p class="MsoNormal" style="margin-bottom:-1.8cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please Check this section later, Details of school Unifrom will be made available here once all the information is confirmed.</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
