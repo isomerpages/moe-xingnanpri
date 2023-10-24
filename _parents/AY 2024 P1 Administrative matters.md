@@ -237,7 +237,7 @@ If you require additional information, please do not hesitate to contact the sch
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;<a href=""><span lang="EN-SG" style="mso-ansi-language:EN-SG">Link will be made available soon</span></a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
@@ -254,7 +254,7 @@ If you require additional information, please do not hesitate to contact the sch
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;<span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"><a href=""><span lang="EN-SG" style="mso-ansi-language:EN-SG">Link will be made available soon</span></a></span></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
