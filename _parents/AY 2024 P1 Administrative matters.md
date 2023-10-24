@@ -3,8 +3,11 @@ title: AY 2024 P1 Administrative matters
 permalink: /parents/2024p1admin/
 description: ""
 ---
-![](/images/working.gif)
-"We are in the process of updating this page with the 2024 Administrative details . Please revisit soon for the latest updates."
+Dear Parents/Guardians,
+
+Kindly review the table below to complete the necessary administrative tasks for your child's/ward's administrative matters. Please note that all tasks labeled as "Required" in the remarks column must be submitted.
+
+If you require additional information, please do not hesitate to contact the school administrative office.
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
@@ -101,10 +104,10 @@ description: ""
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">(1) </span><span class="MsoHyperlink"><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" target="_blank"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">MOE eGIRO page</span></a></span><span class="MsoHyperlink"><span style="font-size:9.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"> </span><span class="MsoHyperlink"><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" target="_blank"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">(1)MOE eGIRO page</span></a></span><span class="MsoHyperlink"><span style="font-size:9.0pt;
   font-family:&quot;Century Gothic&quot;,sans-serif"></span></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">(2) </span><span class="MsoHyperlink"><a href="https://www.moe.gov.sg/-/media/files/financial-matters/fees/egiro/egiro_user_guide.pdf" target="_blank"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">user guide</span></a></span><span class="MsoHyperlink"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-bidi-font-family:
+  mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"> </span><span class="MsoHyperlink"><a href="https://www.moe.gov.sg/-/media/files/financial-matters/fees/egiro/egiro_user_guide.pdf" target="_blank"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">(2) user guide</span></a></span><span class="MsoHyperlink"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-bidi-font-family:
   Calibri;color:#21873A;mso-ansi-language:EN-SG"></span></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -208,14 +211,14 @@ description: ""
   0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
   normal;mso-list:l0 level1 lfo1"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-fareast-font-family:
   &quot;Century Gothic&quot;;mso-bidi-font-family:&quot;Century Gothic&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span class="MsoHyperlink"><a href="https://go.gov.sg/moe-efas"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">MOE e-FAS</span></a></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  mso-themecolor:text1;mso-ansi-language:EN-SG"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span class="MsoHyperlink"><a href="https://go.gov.sg/moe-efas"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">(1) MOE e-FAS</span></a></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoListParagraph" style="margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
   normal;mso-list:l0 level1 lfo1"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-fareast-font-family:
   &quot;Century Gothic&quot;;mso-bidi-font-family:&quot;Century Gothic&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-SG"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"></span><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024moefasapplicationform.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">MOE FAS Application Form</span></a></span></p><span lang="EN-SG" style="font-size:9.0pt;font-family:
+  mso-themecolor:text1;mso-ansi-language:EN-SG"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"></span><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024moefasapplicationform.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">(2) MOE FAS Application Form</span></a></span></p><span lang="EN-SG" style="font-size:9.0pt;font-family:
   &quot;Century Gothic&quot;,sans-serif;color:black;mso-themecolor:text1;mso-ansi-language:
   EN-SG"></span><p></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
