@@ -206,9 +206,9 @@ description: ""
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoListParagraph" style="margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
-  normal;mso-list:l0 level1 lfo1"><span class="MsoHyperlink"><span style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:
-  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  text-decoration:none;text-underline:none"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span></span><span class="MsoHyperlink"><a href="https://go.gov.sg/moe-efas"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">MOE e-FAS</span></a></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  normal;mso-list:l0 level1 lfo1"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Century Gothic&quot;;mso-bidi-font-family:&quot;Century Gothic&quot;;color:black;
+  mso-themecolor:text1;mso-ansi-language:EN-SG"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span class="MsoHyperlink"><a href="https://go.gov.sg/moe-efas"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">MOE e-FAS</span></a></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoListParagraph" style="margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
@@ -277,3 +277,4 @@ description: ""
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr></tbody></table>
+	
