@@ -3,13 +3,8 @@ title: AY 2024 P1 Administrative matters
 permalink: /parents/2024p1admin/
 description: ""
 ---
-### Administrative Matters
-
-Dear Parents/Guardians,<br>
-Kindly review the table below to complete the necessary administrative tasks for your child's/ward's administrative matters. Please note that all tasks labeled as "Required" in the remarks column must be submitted.<br>
-If you require additional information, please do not hesitate to contact the school administrative office.<br>
-
-
+![](/images/working.gif)
+"We are in the process of updating this page with the 2024 Administrative details . Please revisit soon for the latest updates."
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
@@ -206,7 +201,7 @@ If you require additional information, please do not hesitate to contact the sch
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">c) Family with more than 5 unmarried children not in GGAS</span></p><p class="MsoNormal" style="margin-bottom:-1.5cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">d) Family with more than 3 grandparents in the household</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024moefasapplicationform.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">Please click to download the MOE FAS Pamphlet</span></a></span></span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024moefasapplicationform.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">Please click to download the MOE FAS Pamphlet,<br><br></span></a></span></span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoListParagraph" style="margin-top:0cm;margin-right:0cm;margin-bottom:
@@ -283,3 +278,4 @@ If you require additional information, please do not hesitate to contact the sch
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr></tbody></table>
 
+[FAS](/files/Parents/P1%202024/2024moefasapplicationform.pdf)
