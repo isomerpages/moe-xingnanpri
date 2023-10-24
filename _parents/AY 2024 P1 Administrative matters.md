@@ -3,8 +3,13 @@ title: AY 2024 P1 Administrative matters
 permalink: /parents/2024p1admin/
 description: ""
 ---
-![](/images/working.gif)
-"We are in the process of updating this page with the 2024 Administrative details . Please revisit soon for the latest updates."
+### Administrative Matters
+
+Dear Parents/Guardians,<br>
+Kindly review the table below to complete the necessary administrative tasks for your child's/ward's administrative matters. Please note that all tasks labeled as "Required" in the remarks column must be submitted.<br>
+If you require additional information, please do not hesitate to contact the school administrative office.<br>
+
+
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
@@ -278,4 +283,3 @@ description: ""
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr></tbody></table>
 
-[FAS](/files/Parents/P1%202024/2024moefasapplicationform.pdf)
