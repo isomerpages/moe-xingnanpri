@@ -281,4 +281,3 @@ If you require additional information, please do not hesitate to contact the sch
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr></tbody></table>
 	
-	[Sample Giro SMS](/files/Parents/P1%202024/egiro%20text%202024.png)
