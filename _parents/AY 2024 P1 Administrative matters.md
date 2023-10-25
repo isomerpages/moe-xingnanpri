@@ -98,7 +98,7 @@ If you require additional information, please do not hesitate to contact the sch
   mso-bidi-font-family:Calibri;color:black;mso-ansi-language:EN-SG">for the steps to sign up.</span><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   mso-bidi-font-family:Calibri;color:#222222"></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;background:
   white"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">Please email me a screenshot of SMS notification upon successful submission of the e-GIRO application. See example below:<br><img src="/images/Parents/P1%20Orientation/egiro%20text%202024.png" style="width:300px;height:100px;margin-left:15px;" align="left"></span><span style="font-size:9.0pt;
+  mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">Please email me a screenshot of SMS notification upon successful submission of the e-GIRO application. See example below:<br><br><img src="/images/Parents/P1%20Orientation/egiro%20text%202024.png" style="width:300px;height:100px;margin-left:15px;" align="left"></span><span style="font-size:9.0pt;
   font-family:&quot;Century Gothic&quot;,sans-serif;mso-bidi-font-family:Calibri;
   color:#222222"></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
