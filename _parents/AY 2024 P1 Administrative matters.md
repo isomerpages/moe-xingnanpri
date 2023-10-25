@@ -67,7 +67,7 @@ If you require additional information, please do not hesitate to contact the sch
   mso-ansi-language:EN-SG;mso-bidi-font-weight:bold"><span style="mso-list:
   Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:9.0pt;
   font-family:&quot;Century Gothic&quot;,sans-serif;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-SG">Medical Details<b></b></span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  mso-ansi-language:EN-SG">Medical Details<b></b><br><img src="/images/visitor.png" style="width:100px;height:100px;margin-left:15px;" align="left"> <br></span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"><a href="https://go.gov.sg/xnpsdataform2024">XNPS Admin Matters</a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
