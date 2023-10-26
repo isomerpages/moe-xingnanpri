@@ -83,7 +83,7 @@ If you require additional information, please do not hesitate to contact the sch
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">E-Giro</span></b></p><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal;background:
   white"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">Sign up for GIRO arrangement with MOE for payment of school fees and charges or disbursement of award or subsidiary via online at (1)&nbsp;</span><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">Sign up for GIRO arrangement with MOE for payment of school fees and charges or disbursement of award or subsidy  via online at (1)&nbsp;</span><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   mso-bidi-font-family:Calibri;color:black;mso-color-alt:windowtext;mso-ansi-language:
   EN-SG">MOE eGIRO page</span><span lang="EN-SG" style="font-size:9.0pt;
   font-family:&quot;Century Gothic&quot;,sans-serif;mso-bidi-font-family:Calibri;
@@ -120,7 +120,7 @@ If you require additional information, please do not hesitate to contact the sch
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Edusave</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-bidi-font-family:
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Edusave (for Singaporeans only)</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-bidi-font-family:
   Calibri;color:#222222;background:white">Apply to use Edusave funds for payment of school fees by MOE and/or enrichment programmes charges incurred by the child/ward in a government or Government-aided school and billed by the school.</span><b><span lang="EN-SG" style="font-size:9.0pt;font-family:
   &quot;Century Gothic&quot;,sans-serif;color:black;mso-themecolor:text1;mso-ansi-language:
   EN-SG"></span></b></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
