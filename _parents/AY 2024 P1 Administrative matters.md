@@ -30,7 +30,7 @@ If you require additional information, please do not hesitate to contact the sch
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Admin Matters</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please click on the following link to provide details of your child’s.</span></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0cm;margin-right:0cm;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please click on the link to provide the following details of your child’s.</span></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
   line-height:normal;mso-list:l1 level1 lfo2"><span lang="EN-SG" style="font-size:9.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
