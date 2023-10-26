@@ -169,10 +169,28 @@ If you require additional information, please do not hesitate to contact the sch
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Required</span></p></td></tr><tr style="mso-yfti-irow:6;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Required</span></p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">6</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Parent Gateway Setup (PG) </span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Parents Gateway (PG) is a one-stop mobile app for parents and schools to better support their children’s educational journey through improved communications.<br><br>It allows parents to receive updates on school programmes and activities. It also allows parents to perform administrative functions such as providing consent for their children to participate in school activities, as well as declaration of travel plans.<br><br>
+PG is available on IOS and Android. Open the Apple App Store or Google Play Store app on your mobile phone to download.</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en&amp;gl=US&amp;pli=1">Click to Download from Google Play </a><br><br><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708">Click to Download from Apple Store</a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Required</span></p></td></tr><tr style="mso-yfti-irow:6;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">7</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
@@ -302,22 +320,4 @@ If you require additional information, please do not hesitate to contact the sch
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr>
-	<tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">7</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Parent Gateway Setup (PG) </span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Parents Gateway (PG) is a one-stop mobile app for parents and schools to better support their children’s educational journey through improved communications.<br><br>It allows parents to receive updates on school programmes and activities. It also allows parents to perform administrative functions such as providing consent for their children to participate in school activities, as well as declaration of travel plans.<br><br>
-PG is available on IOS and Android. Open the Apple App Store or Google Play Store app on your mobile phone to download.</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en&amp;gl=US&amp;pli=1">Click to Download from Google Play </a><br><br><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708">Click to Download from Apple Store</a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Required</span></p></td></tr></tbody></table>
+	</tbody></table>
