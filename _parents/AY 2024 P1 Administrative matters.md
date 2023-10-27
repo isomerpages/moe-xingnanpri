@@ -316,7 +316,7 @@ As a parents, you can enjoy greater convenience in managing your child’s allow
 </span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-1.3cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><a href="www.posb.com.sg/xingnanpri">POSB Smart Buddy Registration</a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -336,7 +336,7 @@ Ms Siti / Ms Vivian Chua @ +65 97729974<br>
 </span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-1.3cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><a href="https://bigheartstudentcare.com/interest/i">Student Care @ Xingnan</a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
