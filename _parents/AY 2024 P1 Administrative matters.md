@@ -30,7 +30,7 @@ If you require additional information, please do not hesitate to contact the sch
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Admin Matters</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please click on the following link to provide details of your child’s.</span></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0cm;margin-right:0cm;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please click on the link to provide the following details of your child’s.</span></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
   line-height:normal;mso-list:l1 level1 lfo2"><span lang="EN-SG" style="font-size:9.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
@@ -83,7 +83,7 @@ If you require additional information, please do not hesitate to contact the sch
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">E-Giro</span></b></p><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal;background:
   white"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">Sign up for GIRO arrangement with MOE for payment of school fees and charges or disbursement of award or subsidiary via online at (1)&nbsp;</span><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">Sign up for GIRO arrangement with MOE for payment of school fees and charges or disbursement of award or subsidy  via online at (1)&nbsp;</span><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   mso-bidi-font-family:Calibri;color:black;mso-color-alt:windowtext;mso-ansi-language:
   EN-SG">MOE eGIRO page</span><span lang="EN-SG" style="font-size:9.0pt;
   font-family:&quot;Century Gothic&quot;,sans-serif;mso-bidi-font-family:Calibri;
@@ -120,7 +120,7 @@ If you require additional information, please do not hesitate to contact the sch
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Edusave</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-bidi-font-family:
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Edusave (for Singaporeans only)</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-bidi-font-family:
   Calibri;color:#222222;background:white">Apply to use Edusave funds for payment of school fees by MOE and/or enrichment programmes charges incurred by the child/ward in a government or Government-aided school and billed by the school.</span><b><span lang="EN-SG" style="font-size:9.0pt;font-family:
   &quot;Century Gothic&quot;,sans-serif;color:black;mso-themecolor:text1;mso-ansi-language:
   EN-SG"></span></b></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
@@ -140,13 +140,17 @@ If you require additional information, please do not hesitate to contact the sch
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">SDP</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;background:
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Student Details Portal (SDP)</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;background:
   white"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">Please Fill on and submit the form. This form will give the Ministry of Education the necessary information to provide educational services for your child/ward in our schools.<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  mso-bidi-font-family:Calibri;color:#222222;mso-ansi-language:EN-SG">Both parents must login separately to the portal using his/her own Singpass account to submit particulars of himself/herself.
+<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><a href="https://pg.moe.edu.sg/forms/sdf">SDP Form</a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.6cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><a href="https://pg.moe.edu.sg/forms/sdf">SDP Form<br></a></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:7.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">*Form is accessible from 27 Nov, 10 am to 29 Dec</span><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;color:black;mso-themecolor:text1;
+  mso-ansi-language:EN-SG"></span>
+</p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
@@ -157,8 +161,9 @@ If you require additional information, please do not hesitate to contact the sch
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Online Dental Consent Form</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">The Health Promotion Board (HPB) provides dental screening and basic dental treatment for student in schools. Please click on the link to give your consent to provide these services for your child/ward/</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"> Dental Consent Form</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">The Health Promotion Board (HPB) provides dental screening and basic dental treatment for student in schools. Please click on the link to give your consent to provide these services for your child/ward.<br><br>
+</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
@@ -169,10 +174,28 @@ If you require additional information, please do not hesitate to contact the sch
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Required</span></p></td></tr><tr style="mso-yfti-irow:6;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Required</span></p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">6</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Parent Gateway Setup (PG) </span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Parents Gateway (PG) is a one-stop mobile app for parents and schools to better support their children’s educational journey through improved communications.<br><br>It allows parents to receive updates on school programmes and activities. It also allows parents to perform administrative functions such as providing consent for their children to participate in school activities, as well as declaration of travel plans.<br><br>
+PG is available on IOS and Android. Open the Apple App Store or Google Play Store app on your mobile phone to download.</span></p><p class="MsoNormal" style="margin-bottom:-1cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.095pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en&amp;gl=US&amp;pli=1">Click to Download from Google Play </a><br><br><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708">Click to Download from Apple Store</a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Required</span></p></td></tr><tr style="mso-yfti-irow:6;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">7</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
@@ -191,34 +214,34 @@ If you require additional information, please do not hesitate to contact the sch
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr><tr style="mso-yfti-irow:7;height:27.9pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">7</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">8</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">MOE-FAS</span></b></p><p class="MsoNormal" style="margin-bottom:-1.5cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">(1)Please Click on the link given to apply for the 2024 MOE FAS application</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">(2)For the scenarios listed below, please complete the hardcopy application form and submit to school’s General Office together with all supporting documents for the scenarios listed below:</span></p><p class="MsoNormal" style="margin-bottom:-0.8cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">(2)Please complete the hardcopy application form and submit to school’s General Office together with all supporting documents for the scenarios listed below:</span></p><p class="MsoNormal" style="margin-bottom:-0.8cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">a) Families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)</span></p><p class="MsoNormal" style="margin-bottom:-0.8cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">b) Family with more than 6 children in GGAS</span></p><p class="MsoNormal" style="margin-bottom:-0.8cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">c) Family with more than 5 unmarried children not in GGAS</span></p><p class="MsoNormal" style="margin-bottom:-1.5cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">d) Family with more than 3 grandparents in the household</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024moefasapplicationform.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">Please click to download the MOE FAS Pamphlet,<br><br></span></a></span></span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024moefasapplicationform.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">Click on the Pamphlet for more information on MOE FAS.,<br><br></span></a></span></span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoListParagraph" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoListParagraph" style="margin-top:0.2cm;margin-right:0cm;margin-bottom:
+  0cm;margin-left:10.0pt;mso-add-space:auto;text-indent:-18pt;line-height:
   normal;mso-list:l0 level1 lfo1"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-fareast-font-family:
   &quot;Century Gothic&quot;;mso-bidi-font-family:&quot;Century Gothic&quot;;color:black;
   mso-themecolor:text1;mso-ansi-language:EN-SG"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span class="MsoHyperlink"><a href="https://go.gov.sg/moe-efas"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">(1) MOE e-FAS</span></a></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoListParagraph" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
+  0cm;margin-left:10.0pt;mso-add-space:auto;text-indent:-18pt;line-height:
   normal;mso-list:l0 level1 lfo1"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-fareast-font-family:
   &quot;Century Gothic&quot;;mso-bidi-font-family:&quot;Century Gothic&quot;;color:black;
   mso-themecolor:text1;mso-ansi-language:EN-SG"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"></span><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024moefasapplicationform.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">(2) MOE FAS  Form</span></a></span></p><span lang="EN-SG" style="font-size:9.0pt;font-family:
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"></span><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024moefasapplicationform.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">(2) MOE FAS Form</span></a></span></p><span lang="EN-SG" style="font-size:9.0pt;font-family:
   &quot;Century Gothic&quot;,sans-serif;color:black;mso-themecolor:text1;mso-ansi-language:
   EN-SG"></span><p></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -232,12 +255,12 @@ If you require additional information, please do not hesitate to contact the sch
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">School Uniform</span></b></p><p class="MsoNormal" style="margin-bottom:-1.8cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please Check this section later, Details of school Unifrom will be made available here once all the information is confirmed.</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0.5cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please check this section later, details of school unifrom will be made available here once all the information is confirmed.</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;<a href=""><span lang="EN-SG" style="mso-ansi-language:EN-SG">Link will be made available soon</span></a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;<a href=""><span lang="EN-SG" style="mso-ansi-language:EN-SG">The information will be made available soon.</span></a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
@@ -249,12 +272,12 @@ If you require additional information, please do not hesitate to contact the sch
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">School Textbooks</span></b></p><p class="MsoNormal" style="margin-bottom:-1.8cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please Check this section later, Details of school textbook will be made available here once all the information is confirmed.</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0.5cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please check this section later, details of school textbook will be made available here once all the information is confirmed.</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;<span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"><a href=""><span lang="EN-SG" style="mso-ansi-language:EN-SG">Link will be made available soon</span></a></span></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;<span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"><a href=""><span lang="EN-SG" style="mso-ansi-language:EN-SG">The information will be made available soon.</span></a></span></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
@@ -266,18 +289,56 @@ If you require additional information, please do not hesitate to contact the sch
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Parent Support Group (PSG)</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please fill in the form to register as our schools parent support member. For more information, Please contact :</span></p><p class="MsoNormal" style="margin-bottom:-1.7cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please fill in the form to register as our school parent support member. For more information, Please contact :</span></p><p class="MsoNormal" style="margin-bottom:-1.7cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:-1cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   mso-ansi-language:EN-SG">Mao Xihui (XNPSG Chairperson)</span></p><p class="MsoNormal" style="margin-bottom:-1cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><a href="mailto:xihui2508@gmail.com"><span style="letter-spacing:.1pt">xihui2508@gmail.com</span></a> <br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="margin-bottom:-1cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Mdm Everlyn Tan (XNPSG Vice Chairperson)</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"><a href="mailto:everlyn9390@gmail.com"><span style="letter-spacing:.1pt">everlyn9390@gmail.com</span></a><span style="color:black;mso-themecolor:text1;letter-spacing:.1pt"><br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Mdm Everlyn Tan (XNPSG Vice Chairperson)</span></p><p class="MsoNormal" style="margin-bottom:-1.2cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"><a href="mailto:everlyn9390@gmail.com"><span style="letter-spacing:.1pt">everlyn9390@gmail.com</span></a><span style="color:black;mso-themecolor:text1;letter-spacing:.1pt"><br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  mso-border-alt:solid windowtext .5pt;padding: 0cm 5.4pt -cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-1.5cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><a href="https://forms.moe.edu.sg/forms/eQkZ0J">Parent Support Group</a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .0pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr>
+	<tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">12</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">POSB Smart Buddy </span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">You child can now go cash free in school with POSB Smart Buddy, tap to pay at the school canteen or bookshop. <br>
+As a parents, you can enjoy greater convenience in managing your child’s allowance and daily expenses.<br><br>
+</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-1.3cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><a href="www.posb.com.sg/xingnanpri">POSB Smart Buddy Registration</a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr></tbody></table>
-	
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr>
+	<tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">13</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Student Care Centre @ Xingnan </span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Big Heart Student Care @ Xingnan caters to the after school care needs of students from Xingnan Primary School.<br><br>Interested applicants may submit your interest online via the link:<br><br>Contact Person:
+Ms Siti / Ms Vivian Chua @ +65 97729974<br>
+<a href="xingnan@shgstudentcare.com.sg"><span style="letter-spacing:.1pt">Email: xingnan@shgstudentcare.com.sg</span></a><br><br>
+</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-1.3cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><a href="https://bigheartstudentcare.com/interest/i">Student Care @ Xingnan</a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr>	</tbody></table>
