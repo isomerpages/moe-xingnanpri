@@ -230,18 +230,18 @@ PG is available on IOS and Android. Open the Apple App Store or Google Play Stor
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024moefasapplicationform.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">Click on the Pamphlet for more information on MOE FAS.,<br><br></span></a></span></span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoListParagraph" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoListParagraph" style="margin-top:0.2cm;margin-right:0cm;margin-bottom:
+  0cm;margin-left:10.0pt;mso-add-space:auto;text-indent:-18pt;line-height:
   normal;mso-list:l0 level1 lfo1"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-fareast-font-family:
   &quot;Century Gothic&quot;;mso-bidi-font-family:&quot;Century Gothic&quot;;color:black;
   mso-themecolor:text1;mso-ansi-language:EN-SG"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span class="MsoHyperlink"><a href="https://go.gov.sg/moe-efas"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">(1) MOE e-FAS</span></a></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoListParagraph" style="margin-top:0cm;margin-right:0cm;margin-bottom:
-  0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
+  0cm;margin-left:10.0pt;mso-add-space:auto;text-indent:-18pt;line-height:
   normal;mso-list:l0 level1 lfo1"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;mso-fareast-font-family:
   &quot;Century Gothic&quot;;mso-bidi-font-family:&quot;Century Gothic&quot;;color:black;
   mso-themecolor:text1;mso-ansi-language:EN-SG"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"></span><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024moefasapplicationform.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">(2) MOE FAS  Form</span></a></span></p><span lang="EN-SG" style="font-size:9.0pt;font-family:
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG"></span><span class="MsoHyperlink"><a href="/files/Parents/P1%202024/2024moefasapplicationform.pdf"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif">(2) MOE FAS Form</span></a></span></p><span lang="EN-SG" style="font-size:9.0pt;font-family:
   &quot;Century Gothic&quot;,sans-serif;color:black;mso-themecolor:text1;mso-ansi-language:
   EN-SG"></span><p></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
