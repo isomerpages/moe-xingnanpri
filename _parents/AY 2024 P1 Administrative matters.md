@@ -195,7 +195,7 @@ PG is available on IOS and Android. Open the Apple App Store or Google Play Stor
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Required</span></p></td></tr><tr style="mso-yfti-irow:8;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">9</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">7</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
@@ -212,7 +212,7 @@ PG is available on IOS and Android. Open the Apple App Store or Google Play Stor
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Required</span></p></td></tr><tr style="mso-yfti-irow:9;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">10</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">8</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
@@ -229,7 +229,7 @@ PG is available on IOS and Android. Open the Apple App Store or Google Play Stor
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Required</span></p></td></tr><tr style="mso-yfti-irow:6;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">7</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">9</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
@@ -248,7 +248,7 @@ PG is available on IOS and Android. Open the Apple App Store or Google Play Stor
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr><tr style="mso-yfti-irow:7;height:27.9pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">8</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">10</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.9pt"><p class="MsoNormal" style="margin-bottom:-0.5cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
