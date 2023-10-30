@@ -256,15 +256,15 @@ PG is available on IOS and Android. Open the Apple App Store or Google Play Stor
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">School Uniform</span></b></p><p class="MsoNormal" style="margin-bottom:-1.8cm;line-height:normal"><b><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0.5cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please check this section later, details of school unifrom will be made available here once all the information is confirmed.</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Please click on the following link to access the school uniform vendors website. Sale of school Uniform will start from the 17th November 2023.</span></p></td><td width="225" style="width:169.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;<a href=""><span lang="EN-SG" style="mso-ansi-language:EN-SG">The information will be made available soon.</span></a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;<a href="https://asencio.com.sg/"><span lang="EN-SG" style="mso-ansi-language:EN-SG">https://asencio.com.sg/</span></a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Optional</span></p></td></tr><tr style="mso-yfti-irow:9;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">Required</span></p></td></tr><tr style="mso-yfti-irow:9;height:26.95pt"><td width="37" style="width:28.05pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">10</span></p></td><td width="580" style="width:434.85pt;border-top:none;border-left:none;
