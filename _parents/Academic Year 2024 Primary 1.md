@@ -7,7 +7,7 @@ Dear Parents of Academic year 2024 Primary 1,
 
 We are excited to welcome you and your child to an exciting new chapter in their educational journey at Xingnan Primary School. As we prepare for the 2024 Primary 1 cohort, we want to keep you informed and engaged throughout this important phase of your child's education.
 
-This webpage will serve as a central hub for all **administrative** and **Orientation** matters concerning the 2024 Primary 1 cohort. We will provide regular updates, resources, and information to ensure that you are well-prepared for the upcoming academic year.
+This webpage will serve as a central hub for all **administrative** and **orientation** matters concerning the 2024 Primary 1 cohort. We will provide regular updates, resources, and information to ensure that you are well-prepared for the upcoming academic year.
 
 To get started, please click on the following link to explore the contents of this page, which will be instrumental in preparing your child for Primary 1.
 
