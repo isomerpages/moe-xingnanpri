@@ -203,13 +203,12 @@ Each Parent Kit issue contains bite-sized actionable tips with supporting resour
 [https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit)
 
 
-&nbsp;
 
 **Schoolbag.edu.sg**
 
 Through articles and multimedia content, Schoolbag provide parents and general public with information and insights related to education, tips for parent involvement and features on school programmes.
 
-School Bag QR Code
+<img align="Centre" style="width:200px;height:200px;margin-left:15px;" src="/files/Parents/P1%202024/schoolbag.png">
 
 [www.schoolbag.edu.sg](http://www.schoolbag.edu.sg)
 
