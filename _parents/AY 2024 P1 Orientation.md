@@ -191,8 +191,8 @@ description: ""
 
 * [Transition to Primary One](https://youtu.be/l0EnKuLTHpQ)
 * [Making the Jump](https://youtu.be/7oGItQKEwmc)
-* Transition from Preschool to Primary School (watsapp you)
-* FAQs on Transition to Primary 1 (watsapp you)
+*  [Transition from Preschool to Primary School](/files/Parents/P1%202024/transition%20from%20preschool%20to%20primary%20school%20.pdf)
+*  [FAQs on Transition to Primary 1](/files/Parents/P1%202024/faqs%20on%20transition%20to%20primary%201%20.pdf)
 
 **MOE Parents Kit**
 
