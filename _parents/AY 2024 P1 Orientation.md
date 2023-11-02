@@ -198,9 +198,10 @@ description: ""
 
 Each Parent Kit issue contains bite-sized actionable tips with supporting resources for parents to help them support their child in their education journey.
 
-Parent Kit QR Code
+<img align="Centre" style="width:200px;height:200px;margin-left:15px;" src="/files/Parents/P1%202024/moe%20parent%20kit.png">
 
 [https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit)
+
 
 &nbsp;
 
