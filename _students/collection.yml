@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Teachers Award 2024.md
+      - Teaching Award Nominations 2024.md
       - Useful Links and Resources.md
       - School Library.md
       - Student Icon.md
