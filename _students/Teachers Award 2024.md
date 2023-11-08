@@ -21,6 +21,7 @@ Nominate a teacher who has made a big impact on your school journey. Let's make 
    
 
 ##### President’s Award for Teachers (PAT) 2024
+<img src="/images/Students/pat%202024.png" style="width:70%">
 
 Who to nominate?
 
@@ -49,4 +50,3 @@ Who to nominate?
 * Help students to develop positive attitude towards learning.
 * Guide students to do their best in their studies.
 * Use interesting and effective methods to teach students
-
