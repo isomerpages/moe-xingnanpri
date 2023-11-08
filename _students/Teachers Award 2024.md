@@ -33,6 +33,7 @@ Who to nominate?
    
 
 ##### Outstanding Youth in Education Award (OYEA) 2024
+<img src="/images/Students/oyea%202024.png" style="width:70%">
 
 Who to nominate?
 * Teachers below the age of 35.
@@ -43,7 +44,8 @@ Who to nominate?
    
 
 ##### Caring Teacher Award (CTA) 2024
- 
+ <img src="/images/Students/cta%202024.png" style="width:70%">
+
 Who to nominate?
 
 * Teachers with good character, honest and sincere when working with students and teachers.
