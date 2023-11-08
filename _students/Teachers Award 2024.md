@@ -21,7 +21,8 @@ Nominate a teacher who has made a big impact on your school journey. Let's make 
    
 
 ##### President’s Award for Teachers (PAT) 2024
-<img src="/images/Students/pat%202024.png" style="width:30%">
+<img src="/images/Students/pat%202024.png" style="width:30%"><br>
+[Click Here to nominate for President’s Award for Teachers (PAT) 2024](https://form.gov.sg/650a5bfd07ce8a0011c0133c)
 
 Who to nominate?
 
@@ -30,10 +31,11 @@ Who to nominate?
 * Good role models for students and fellow teachers.
 * Always learning to be better teachers.
 
-   
+   ***
 
 ##### Outstanding Youth in Education Award (OYEA) 2024
-<img src="/images/Students/oyea%202024.png" style="width:30%">
+<img src="/images/Students/oyea%202024.png" style="width:30%"><br>
+[Click Here to nominate for Outstanding Youth in Education Award (OYEA) 2024](https://form.gov.sg/650a8bfa356d470012265669)
 
 Who to nominate?
 * Teachers below the age of 35.
@@ -41,10 +43,11 @@ Who to nominate?
 * Inspires and nurtures the students they teach.
 * Full of enthusiasm and energy in teaching.   
 
-   
+   ***
 
 ##### Caring Teacher Award (CTA) 2024
- <img src="/images/Students/cta%202024.png" style="width:30%">
+ <img src="/images/Students/cta%202024.png" style="width:30%"><br>
+[Click Here to nominate for Caring Teacher Award (CTA) 2024](https://www.cta.nie.edu.sg/nominate)
 
 Who to nominate?
 
