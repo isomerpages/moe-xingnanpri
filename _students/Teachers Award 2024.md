@@ -21,7 +21,7 @@ Nominate a teacher who has made a big impact on your school journey. Let's make 
    
 
 ##### President’s Award for Teachers (PAT) 2024
-<img src="/images/Students/pat%202024.png" style="width:70%">
+<img src="/images/Students/pat%202024.png" style="width:30%">
 
 Who to nominate?
 
@@ -33,7 +33,7 @@ Who to nominate?
    
 
 ##### Outstanding Youth in Education Award (OYEA) 2024
-<img src="/images/Students/oyea%202024.png" style="width:70%">
+<img src="/images/Students/oyea%202024.png" style="width:30%">
 
 Who to nominate?
 * Teachers below the age of 35.
@@ -44,7 +44,7 @@ Who to nominate?
    
 
 ##### Caring Teacher Award (CTA) 2024
- <img src="/images/Students/cta%202024.png" style="width:70%">
+ <img src="/images/Students/cta%202024.png" style="width:30%">
 
 Who to nominate?
 
