@@ -126,48 +126,26 @@ variant: markdown
 
 ##### 2021 Awards - MOE Service Excellence Award (Silver)
 
-<img src="/images/stars1.png" style="width:200px;height:200px;margin-left:15px;" align="right"> **Ms Athena Choo Jia Yee** <br><br><br><br><br><br>
-
-* * *
-
-<img src="/images/stars2.png" style="width:200px;height:200px;margin-left:15px;" align="right"> **Mrs Huang Li Juan** <br><br><br><br><br><br>
-
-* * *
-
-<img src="/images/stars3.png" style="width:200px;height:200px;margin-left:15px;" align="right"> **Mrs Jessie Tan Wee-Ai Hwa** <br><br><br><br><br><br>
-
-* * *
-
-<img src="/images/stars4.png" style="width:200px;height:200px;margin-left:15px;" align="right"> **Mdm Juhariyah Bte Johari** <br><br><br><br><br><br>
-
-* * *
-
-<img src="/images/stars5.png" style="width:200px;height:200px;margin-left:15px;" align="right"> **Mdm Logeshwaran Mirna** <br><br><br><br><br><br>
-
-* * *
-
-<img src="/images/stars6.png" style="width:200px;height:200px;margin-left:15px;" align="right"> **Mdm NurKamaliah Bte Yusoff** <br><br><br><br><br><br>
-
-* * *
-
-<img src="/images/stars7.png" style="width:200px;height:200px;margin-left:15px;" align="right"> **Miss Ong Li Jing** <br><br><br><br><br><br>
-
-* * *
-
-<img src="/images/stars8.png" style="width:200px;height:200px;margin-left:15px;" align="right"> **Mdm Sia Chu Kwee** <br><br><br><br><br><br>
-
-* * *
+* Ms Athena Choo Jia Yee
+* Mrs Huang Li Juan 
+* Mrs Jessie Tan Wee-Ai Hwa 
+* Mdm Juhariyah Bte Johari
+* Mdm Logeshwaran Mirna
+* Mdm NurKamaliah Bte Yusoff
+* Miss Ong Li Jing
+* Mdm Sia Chu Kwee
 
 ##### Associate of Academy of Singapore Teachers (AST) Award 2021 as&nbsp;Facilitator of Network Learning Communities (NLCs)
 
-<img src="/images/stars9.png" style="width:200px;height:200px;margin-left:15px;" align="right"> **Abdul Wahab B Abdul Rahman** <br><br><br><br><br><br>
+* Abdul Wahab B Abdul Rahman
 
-* * *
 
 ##### Singapore PE Association (SPEA) Outstanding Teacher-Coach Award 2021
 
-<img src="/images/stars10.png" style="width:200px;height:200px;margin-left:15px;" align="right"> **Mr Jason Chua Kian Seng** <br><br><br><br><br><br>
+* Mr Jason Chua Kian Seng
 
+
+## 2020
 ##### The Public Administration Medal, 2020 (Bronze)
 
 *   &nbsp;**Mdm S Anitha (Vice-Principal)**&nbsp;  
@@ -201,3 +179,34 @@ variant: markdown
 
 *   **Yang Xuehui**
 
+
+## 2019
+#### MOE Service Excellence Award (MSEA)
+
+##### **Gold Award**
+
+*   **Mr Abdul Wahab B Abdul Rahman**
+
+  
+##### **Silver Award**
+
+*   **Miss A Sumathi**
+
+*   **Mdm Delia Ang Yen Peng**
+
+*   **Mdm Yang Nian**
+
+#### Distinguished Chinese Language Teachers Awards
+
+*   **Miss Lim Hui Min**
+
+
+#### Associate of Academy of Singapore Teachers (AST) Award
+ 
+
+*   **Mr Abdul Wahab B Abdul Rahman**
+
+  
+#### Singapore Youth Award
+ 
+*   **Miss Francesca Phoebe Wah Li Ting**
