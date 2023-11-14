@@ -2,7 +2,6 @@ collections:
   expedition:
     output: true
     order:
-      - 2023 Teaching Awards.md
       - Our Achievements/.keep
       - Our Achievements/School Awards.md
       - Our Achievements/Staff Achievements.md
