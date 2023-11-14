@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Overview.md
-      - 2020 Teaching Awards.md
       - 2019 Teaching Awards.md
