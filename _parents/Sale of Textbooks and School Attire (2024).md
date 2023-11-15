@@ -10,7 +10,7 @@ We are delighted to welcome you to the upcoming 2024 school year! As we prepare 
 
 
 
-
+Kindly access the online purchasing guide for [school book](/files/Parents/Booklist%202024/Online_Buying_Guide_for_Textbooks.pdf) and [attire](/files/Parents/Booklist%202024/Online_Buying_Guide_for_School_Attire.pdf)  by clicking on the provided links. To read the guide for FAS Student attire, please [click here](/files/Parents/Booklist%202024/Online_Buying_Guide_for_School_Attire_FAS_2024___0112023.pdf).
 	
         
 ***
@@ -34,6 +34,8 @@ Bookshop (HB Book Centre) - [www.ihuntforbooks.com](http://www.ihuntforbooks.com
 <br>Online start date – 20 November 2023, 9 a.m.
 <br>Online last day of order – 21 December 2023, 6 p.m.
 <br>Please order early to provide sufficient time for vendors to make delivery.
+
+
 
 ***
 
