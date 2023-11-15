@@ -156,5 +156,13 @@ We are delighted to welcome you to the upcoming 2024 school year! As we prepare 
   punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">Books<span style="letter-spacing:
   -.35pt"> </span>with<span style="letter-spacing:-.3pt"> </span>written<span style="letter-spacing:-.4pt"> </span>name<span style="letter-spacing:-.3pt"> </span>will<span style="letter-spacing:-.35pt"> </span>not<span style="letter-spacing:-.3pt"> </span>be<span style="letter-spacing:-.4pt"> </span>accepted Attire after wash will not be accepted</span></p></td></tr></tbody></table>
 	
+	[2024 Booklist - Primary 1](/files/Parents/Booklist%202024/XNPS_Booklist_P1__2024.pdf)
+	[2024 Booklist - Primary 2](/files/Parents/Booklist%202024/XNPS_Booklist_P2__2024.pdf)
+	[2024 Booklist - Primary 3](/files/Parents/Booklist%202024/XNPS_Booklist_P3__2024.pdf)
+	[2024 Booklist - Primary 4](/files/Parents/Booklist%202024/XNPS_Booklist_P4__2024.pdf)
+	[2024 Booklist - Primary 5](/files/Parents/Booklist%202024/XNPS_Booklist_P5__2024.pdf)
+	[2024 Booklist - Primary 5 FDN](/files/Parents/Booklist%202024/XNPS_Booklist_P5_FDN__2024.pdf)
+	[2024 Booklist - Primary 6](/files/Parents/Booklist%202024/XNPS_Booklist_P6__2024.pdf)
+	[2024 Booklist - Primary 6 FDN](/files/Parents/Booklist%202024/XNPS_Booklist_P6_FDN__2024.pdf)
 	
 	
