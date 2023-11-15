@@ -23,12 +23,15 @@ We are delighted to welcome you to the upcoming 2024 school year! As we prepare 
   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 0cm 0cm 0cm;height:28.6pt" valign="top" colspan="2" width="461"><p style="margin-top:5.85pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:5.5pt;margin-bottom:.0001pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">A<span style="letter-spacing:-.3pt"> </span>copy<span style="letter-spacing:-.4pt"> </span>of<span style="letter-spacing:-.15pt"> </span>booklist<span style="letter-spacing:
-  -.3pt"> </span>is<span style="letter-spacing:-.2pt"> </span>also<span style="letter-spacing:-.25pt"> </span>available<span style="letter-spacing:
-  -.25pt"> </span>in<span style="letter-spacing:-.25pt"> </span>school<span style="letter-spacing:-.25pt"> </span><span style="letter-spacing:-.1pt">website:</span></span></p><p style="margin-top:6.05pt;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;punctuation-wrap:
-  simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:11.0pt;
-  color:blue;letter-spacing:-.1pt">Create a link</span></p></td></tr><tr style="mso-yfti-irow:1;height:54.95pt"><td style="width:120.3pt;border:solid black 1.0pt;
+  mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">	[2024 Booklist - Primary 1](/files/Parents/Booklist%202024/XNPS_Booklist_P1__2024.pdf)
+	[2024 Booklist - Primary 2](/files/Parents/Booklist%202024/XNPS_Booklist_P2__2024.pdf)
+	[2024 Booklist - Primary 3](/files/Parents/Booklist%202024/XNPS_Booklist_P3__2024.pdf)
+	[2024 Booklist - Primary 4](/files/Parents/Booklist%202024/XNPS_Booklist_P4__2024.pdf)
+	[2024 Booklist - Primary 5](/files/Parents/Booklist%202024/XNPS_Booklist_P5__2024.pdf)
+	[2024 Booklist - Primary 5 FDN](/files/Parents/Booklist%202024/XNPS_Booklist_P5_FDN__2024.pdf)
+	[2024 Booklist - Primary 6](/files/Parents/Booklist%202024/XNPS_Booklist_P6__2024.pdf)
+	[2024 Booklist - Primary 6 FDN](/files/Parents/Booklist%202024/XNPS_Booklist_P6_FDN__2024.pdf)
+	</span></p></td></tr><tr style="mso-yfti-irow:1;height:54.95pt"><td style="width:120.3pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 0cm 0cm 0cm;height:54.95pt" valign="top" width="160"><p style="margin-top:5.6pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:5.65pt;margin-bottom:.0001pt;punctuation-wrap:simple;
@@ -156,13 +159,5 @@ We are delighted to welcome you to the upcoming 2024 school year! As we prepare 
   punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">Books<span style="letter-spacing:
   -.35pt"> </span>with<span style="letter-spacing:-.3pt"> </span>written<span style="letter-spacing:-.4pt"> </span>name<span style="letter-spacing:-.3pt"> </span>will<span style="letter-spacing:-.35pt"> </span>not<span style="letter-spacing:-.3pt"> </span>be<span style="letter-spacing:-.4pt"> </span>accepted Attire after wash will not be accepted</span></p></td></tr></tbody></table>
 	
-	[2024 Booklist - Primary 1](/files/Parents/Booklist%202024/XNPS_Booklist_P1__2024.pdf)
-	[2024 Booklist - Primary 2](/files/Parents/Booklist%202024/XNPS_Booklist_P2__2024.pdf)
-	[2024 Booklist - Primary 3](/files/Parents/Booklist%202024/XNPS_Booklist_P3__2024.pdf)
-	[2024 Booklist - Primary 4](/files/Parents/Booklist%202024/XNPS_Booklist_P4__2024.pdf)
-	[2024 Booklist - Primary 5](/files/Parents/Booklist%202024/XNPS_Booklist_P5__2024.pdf)
-	[2024 Booklist - Primary 5 FDN](/files/Parents/Booklist%202024/XNPS_Booklist_P5_FDN__2024.pdf)
-	[2024 Booklist - Primary 6](/files/Parents/Booklist%202024/XNPS_Booklist_P6__2024.pdf)
-	[2024 Booklist - Primary 6 FDN](/files/Parents/Booklist%202024/XNPS_Booklist_P6_FDN__2024.pdf)
-	
+
 	
