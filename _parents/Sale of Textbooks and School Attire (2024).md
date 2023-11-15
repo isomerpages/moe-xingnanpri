@@ -9,7 +9,14 @@ Dear Parents and Guardians,
 We are delighted to welcome you to the upcoming 2024 school year! As we prepare for another exciting academic term, we understand the importance of providing you with all the necessary information to ensure a smooth start. Below, you will find the booklist and uniform details for the 2024 school year.
 
   
-
+[Primary 1 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P1__2024.pdf)<br>
+[Primary 2 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P2__2024.pdf)<br>
+[Primary 3 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P3__2024.pdf)<br>
+[Primary 4 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P4__2024.pdf)<br>
+[Primary 5 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P5__2024.pdf)<br>
+[Primary 5 FDN  Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P5_FDN__2024.pdf)<br>
+[Primary 6 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P6__2024.pdf)<br>
+[Primary 6 FDN  Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P6_FDN__2024.pdf)<br>
         
 <table style="margin-left:5.75pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.65pt"><td style="width:114.1pt;border:solid black 1.0pt;
