@@ -4,15 +4,10 @@ permalink: /parents/2023saleofbooks/
 description: ""
 variant: markdown
 ---
-![](/images/working.gif)
-
-###### “We are in the process of updating this page with the 2024 Booklist and School Attire information. Please revisit soon for the latest updates.”
-
 Dear Parents and Guardians,
 
-We are delighted to welcome you to the upcoming 2024 school year! As we prepare for another exciting academic term, we understand the importance of providing you with all the necessary information to ensure a smooth start. Below, you will find the booklist and uniform details for the upcoming school year.
+We are delighted to welcome you to the upcoming 2024 school year! As we prepare for another exciting academic term, we understand the importance of providing you with all the necessary information to ensure a smooth start. Below, you will find the booklist and uniform details for the 2024 school year.
 
-    
   
 
 <table style="margin-left:5.75pt;border-collapse:collapse;mso-table-layout-alt:fixed;
