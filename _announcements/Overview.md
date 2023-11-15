@@ -22,7 +22,15 @@ SPF, CNB, NCPC and NCADA have jointly provided an advisory (in the form of infog
 
 As the year-end holidays are approaching, please refer to the attachment to alert your child/ward to dangers of common crimes such as online scams, underaged smoking/vaping and to protect themselves from becoming victims of crime.
 
+[Click here to read more](/files/Announcement%20Page/Attachment_3___Joint_School_Primary_Infographic.pdf)
 
+***
+
+##### Sporty Playdate for Families by SportSG in the December School Holidays
+
+Are you looking for something fun and meaningful for your child/ward to participate during the December school holidays? Are you looking for some sporty activities to bond with your family? You may refer to the poster below and scan the QR code for more information! Have a fun and enjoyable holidays with your loved ones!
+
+[Click here to read more](https://www.activesgcircle.gov.sg/activeparents/sportyplaydate2023)
 
 ##### 2023 Monthly Newsletter
 Dear Parents, [Click Here](https://www.xingnanpri.moe.edu.sg/expedition/School-Publications/school-newsletter/) to read our Monthly Newsletter
