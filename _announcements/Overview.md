@@ -2,6 +2,7 @@
 title: Overview
 permalink: /announcements/overview/
 description: ""
+variant: markdown
 ---
 ### Announcements
 
@@ -15,12 +16,12 @@ Thank you.
 
 ***
 
-##### 2023 Edusave Character Award (ECHA)
+#####  School Safety Advisories: A Joint Effort by SPF, CNB, NCPC, NCADA, HPB, and HSA for a Secure Year-End Holiday Season
 
-Dear Parents, The 2023 Edusave Character Award is open for nomination.<br>Please  [Click Here](https://www.xingnanpri.moe.edu.sg/parents/permalink/) to read more and sumbit your nomination
+SPF, CNB, NCPC and NCADA have jointly provided an advisory (in the form of infographics) to assist schools in the provision of reminders to students, particularly on crime-related issues. HPB and HSA have also jointly provided an advisory and Electronic Direct Mail (EDM) material, to remind students and parents of the harms and illegality of vaping.
 
+As the year-end holidays are approaching, please refer to the attachment to alert your child/ward to dangers of common crimes such as online scams, underaged smoking/vaping and to protect themselves from becoming victims of crime.
 
-Thank you.
 
 
 ##### 2023 Monthly Newsletter
