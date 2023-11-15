@@ -11,6 +11,8 @@ We are delighted to welcome you to the upcoming 2024 school year! As we prepare 
 Kindly click on the link below to download the booklist by level. 
 
 
+	
+
 * [Primary 1 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P1__2024.pdf)<br>
 * [Primary 2 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P2__2024.pdf)<br>
 * [Primary 3 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P3__2024.pdf)<br>
@@ -130,9 +132,9 @@ Kindly click on the link below to download the booklist by level.
   0cm;margin-left:5.25pt;margin-bottom:.0001pt;punctuation-wrap:simple;
   mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">Click on <span style="color:blue">Online Purchase </span><span style="color:black">and select Xingnan<span style="letter-spacing:-.4pt"> </span>Primary<span style="letter-spacing:-.7pt"> </span>FAS<span style="letter-spacing:-.35pt"> </span>Uniform<span style="letter-spacing:-.25pt"> </span>icon<span style="letter-spacing:-.3pt"> </span>in the <a href="http://www.asencio.com.sg/"><span style="color:blue">website</span></a></span><span style="color:blue"></span></span></p><p style="margin-top:.55pt;punctuation-wrap:simple;
   mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:9.5pt">&nbsp;</span></b></p><p style="margin-left:26.7pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="mso-no-proof:yes">FASIMAGE</span><span style="font-size:10.0pt"></span></p><p style="margin-top:6.1pt;margin-right:145.8pt;
+  mso-line-break-override:restrictions" class="TableParagraph"><span style="mso-no-proof:yes"><a href="https://asencio.com.sg/"><img src="/images/Parents/Booklist%20Page%202024/FAS__Image.png" style="width:150px;height:180px;margin-left:15px;" align="Centre"></a></span><a href="https://asencio.com.sg/"><span style="font-size:10.0pt"></span></a></p><p style="margin-top:6.1pt;margin-right:145.8pt;
   margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:198%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:38.1pt"><td style="width:114.1pt;border:solid black 1.0pt;
+  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><a href="https://asencio.com.sg/"><span style="font-size:10.0pt;line-height:198%">&nbsp;</span></a></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:38.1pt"><td style="width:114.1pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 0cm 0cm 0cm;height:38.1pt" valign="top" width="152"><p style="margin-top:6.15pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:26.85pt;margin-bottom:.0001pt;text-indent:-19.6pt;line-height:
