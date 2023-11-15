@@ -2,5 +2,4 @@ collections:
   staff-and-teachers:
     output: true
     order:
-      - Staff Awards & Recognition.md
       - Overview.md
