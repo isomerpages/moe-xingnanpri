@@ -2,6 +2,7 @@
 title: AY 2024 P1 Administrative matters
 permalink: /parents/2024p1admin/
 description: ""
+variant: markdown
 ---
 Dear Parents/Guardians,
 
@@ -205,7 +206,7 @@ PG is available on IOS and Android. Open the Apple App Store or Google Play Stor
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;<a href="https://asencio.com.sg/"><span lang="EN-SG" style="mso-ansi-language:EN-SG">https://asencio.com.sg/</span></a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;<a href="https://asencio.com.sg/"><span lang="EN-SG" style="mso-ansi-language:EN-SG">https://asencio.com.sg/</span><br><br><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"> </span><span class="MsoHyperlink"></span></a><a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" target="_blank"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"> School Book and Attire Information</span></a></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
@@ -222,7 +223,7 @@ PG is available on IOS and Android. Open the Apple App Store or Google Play Stor
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;<span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"><a href="https://www.ihuntforbooks.com/"><span lang="EN-SG" style="mso-ansi-language:EN-SG">https://www.ihuntforbooks.com/</span></a></span></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
+  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG">&nbsp;<span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"><a href="https://www.ihuntforbooks.com/"><span lang="EN-SG" style="mso-ansi-language:EN-SG">https://www.ihuntforbooks.com/</span><br><br><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"> </span><span class="MsoHyperlink"></span></a><a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" target="_blank"><span style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif"> School Book and Attire Information</span></a></span></span></p></td><td width="117" style="width:87.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-SG" style="font-size:9.0pt;font-family:&quot;Century Gothic&quot;,sans-serif;
