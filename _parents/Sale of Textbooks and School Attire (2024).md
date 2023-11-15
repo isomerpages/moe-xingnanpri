@@ -8,11 +8,14 @@ Dear Parents and Guardians,
 
 We are delighted to welcome you to the upcoming 2024 school year! As we prepare for another exciting academic term, we understand the importance of providing you with all the necessary information to ensure a smooth start. Below, you will find the booklist and uniform details for the 2024 school year.
 
-Kindly click on the link below to download the booklist by level. 
+
 
 
 	
-
+        
+***
+##### **Booklist 2024**<br>
+Kindly click on the link below to download the booklist by level. 
 * [Primary 1 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P1__2024.pdf)<br>
 * [Primary 2 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P2__2024.pdf)<br>
 * [Primary 3 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P3__2024.pdf)<br>
@@ -21,133 +24,60 @@ Kindly click on the link below to download the booklist by level.
 * [Primary 5 FDN  Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P5_FDN__2024.pdf)<br>
 * [Primary 6 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P6__2024.pdf)<br>
 * [Primary 6 FDN  Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P6_FDN__2024.pdf)<br>
+* ***
+        
 
+##### **Online Order**&nbsp;&nbsp;&nbsp;&nbsp;
+
+Bookshop (HB Book Centre) - [www.ihuntforbooks.com](http://www.ihuntforbooks.com)
+<br>Uniform (Asencio) – [www.asencio.com.sg](http://www.asencio.com.sg)
+<br>Online start date – 20 November 2023, 9 a.m.
+<br>Online last day of order – 21 December 2023, 6 p.m.
+<br>Please order early to provide sufficient time for vendors to make delivery.
+
+***
+
+     
+##### 
+##### **Mode of Receipt**
+
+**A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Delivery Service<br>**
+Select Home Delivery Service or Self-Collection at school Delivery charge apply
+
+* Textbooks - $14 per order Attire - $6 per order
+* Mode of payment – via PayNow
+
+**B.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-Collection Service**<br>
+(Strictly for pick up only) Any other sale transaction will not be entertained Strictly based on booking of Appointment
+* Only 1 adult and 1 student are allowed entry into school
+* Show email or screenshot of email for collection to school security guard Collection time - Mondays to Fridays, 9 a.m. to 4 p.m.
+* Start date for Online Self-Collection - 28/11/2023 <br> Last day of Online Self-Collection - 28/12/2023 <br>Mode of payment – via PayNow.
+	
+	***
+	
+
+##### **Collection of Textbooks &amp; Attire for FAS students only**
+
+* Collection date – 1/12/2023<br>
+* Collection time \- Mondays to Fridays, 9 a.m. to 4 p.m.
+<br>*Produce the FA letter to the bookshop &amp; uniform vendors during collection.*
+
+**A.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Collection of Textbooks**
+
+* [Click here](https://www.ihuntforbooks.com/) or Scan QR Code to book appointment.
+	![](/images/Parents/Booklist%20Page%202024/aappointment_qrcode.png)
+	
+
+**B.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Online Ordering of Attire**
+
+* Follow the guide to order the attire
+	
+	***
+
+
+##### **Exchange of item**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+* Contact vendor for any exchange Goods must be in good condition.
+* Books with written name will not be accepted Attire after wash will not be accepted.
 
          
-<table style="margin-left:5.75pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.3pt"><td style="width:114.1pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:24.3pt" valign="top" width="152"><p style="margin-top:5.6pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:5.65pt;margin-bottom:.0001pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">Online<span style="letter-spacing:-.55pt"> </span><span style="letter-spacing:-.1pt">Order</span></span></b></p></td><td style="width:327.95pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:24.3pt" valign="top" colspan="2" width="437"><p style="margin-top:5.85pt;margin-right:102.95pt;
-  margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:200%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:200%">Bookshop<span style="letter-spacing:
-  -.5pt"> </span>(HB<span style="letter-spacing:-.4pt"> </span>Book<span style="letter-spacing:-.4pt"> </span>Centre)<span style="letter-spacing:-.4pt"> </span>-<span style="letter-spacing:-.45pt"> <a href="http://www.ihuntforbooks.com/"><span style="color:blue;letter-spacing:
-  0pt">www.ihuntforbooks.com</span></a></span><span style="color:blue"> </span><span style="color:black">Uniform (Asencio) – <a href="http://www.asencio.com.sg/"><span style="color:blue">www.asencio.com.sg</span></a></span><span style="color:blue"></span></span></p><p style="margin-top:0cm;margin-right:114.65pt;
-  margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:198%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">Online start date – 20 November 2023, 9 a.m.<span style="letter-spacing:2.0pt"></span></span></p><p style="margin-top:0cm;margin-right:114.65pt;
-  margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:198%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">Online<span style="letter-spacing:
-  -.2pt"> </span>last<span style="letter-spacing:-.25pt"> </span>day<span style="letter-spacing:-.3pt"> </span>of<span style="letter-spacing:-.15pt"> </span>order<span style="letter-spacing:-.15pt"> </span>–<span style="letter-spacing:-.1pt"> </span>21<span style="letter-spacing:-.25pt"> </span>December<span style="letter-spacing:
-  -.2pt"> </span>2023,<span style="letter-spacing:-.25pt"> </span>6<span style="letter-spacing:-.15pt"> </span>p.m.</span></p><p style="margin-top:.05pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:5.5pt;margin-bottom:.0001pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">Please<span style="letter-spacing:-.3pt"> </span>order<span style="letter-spacing:-.25pt"> </span>early<span style="letter-spacing:-.35pt"> </span>to<span style="letter-spacing:-.3pt"> </span>provide<span style="letter-spacing:-.3pt"> </span>sufficient<span style="letter-spacing:-.25pt"> </span>time<span style="letter-spacing:-.3pt"> </span>for<span style="letter-spacing:-.25pt"> </span>vendors<span style="letter-spacing:-.2pt"> </span>to<span style="letter-spacing:-.3pt"> </span>make<span style="letter-spacing:-.3pt"> </span><span style="letter-spacing:-.1pt">delivery</span></span></p></td></tr><tr style="mso-yfti-irow:1;height:23.95pt"><td style="width:114.1pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:23.95pt" valign="top" width="152"><p style="margin-top:5.7pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:5.65pt;margin-bottom:.0001pt;line-height:11.4pt;mso-line-height-rule:
-  exactly;punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">Mode<span style="letter-spacing:-.25pt"> </span>of<span style="letter-spacing:-.15pt"> </span><span style="letter-spacing:-.1pt">Receipt</span></span></b></p><p style="margin-top:.35pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:26.75pt;margin-bottom:.0001pt;text-indent:-19.45pt;
-  line-height:95%;punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:11.0pt;line-height:95%">a.<span style="letter-spacing:4.0pt"> </span></span></b><b><span style="font-size:10.0pt;line-height:95%">Home<span style="letter-spacing:-.5pt"> </span>Delivery <span style="letter-spacing:
-  -.1pt">Service</span></span></b></p></td><td style="width:327.95pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:23.95pt" valign="top" colspan="2" width="437"><p style="margin-top:5.95pt;margin-right:102.95pt;
-  margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:197%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:197%">Select<span style="letter-spacing:
-  -.35pt"> </span>Home<span style="letter-spacing:-.35pt"> </span>Delivery<span style="letter-spacing:-.4pt"> </span>Service<span style="letter-spacing:-.35pt"> </span>or<span style="letter-spacing:-.3pt"> </span>Self-Collection<span style="letter-spacing:-.35pt"> </span>at<span style="letter-spacing:-.25pt"> </span>school Delivery charge apply</span></p><p style="margin-top:.3pt;margin-right:240.75pt;
-  margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:200%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:200%">Textbooks<span style="letter-spacing:
-  -.5pt"> </span>-<span style="letter-spacing:-.55pt"> </span>$14<span style="letter-spacing:-.6pt"> </span>per<span style="letter-spacing:-.45pt"> </span>order Attire - $6 per order</span></p><p style="margin-left:5.5pt;line-height:11.15pt;
-  mso-line-height-rule:exactly;punctuation-wrap:simple;mso-line-break-override:
-  restrictions" class="TableParagraph"><span style="font-size:10.0pt">Mode<span style="letter-spacing:
-  -.2pt"> </span>of<span style="letter-spacing:-.2pt"> </span>payment<span style="letter-spacing:-.25pt"> </span>–<span style="letter-spacing:-.2pt"> </span>via<span style="letter-spacing:-.2pt"> </span><span style="letter-spacing:-.1pt">PayNow</span></span></p></td></tr><tr style="mso-yfti-irow:2;height:38.1pt"><td style="width:114.1pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:38.1pt" valign="top" width="152"><p style="margin-top:6.15pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:26.85pt;margin-bottom:.0001pt;text-indent:-19.6pt;line-height:
-  95%;punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:11.0pt;line-height:95%">b.<span style="letter-spacing:3.25pt"> </span></span></b><b><span style="font-size:10.0pt;line-height:95%">Self-Collection <span style="letter-spacing:-.1pt">Service</span></span></b></p><p style="margin-top:.15pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">&nbsp;</span></b></p><p style="margin-top:0cm;margin-right:8.15pt;margin-bottom:
-  0cm;margin-left:22.55pt;margin-bottom:.0001pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">(Strictly<span style="letter-spacing:-.7pt"> </span>for<span style="letter-spacing:-.7pt"> </span>pick up only)</span></b></p></td><td style="width:327.95pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:38.1pt" valign="top" colspan="2" width="437"><p style="margin-top:6.1pt;margin-right:145.8pt;
-  margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:198%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">Any<span style="letter-spacing:
-  -.45pt"> </span>other<span style="letter-spacing:-.25pt"> </span>sale<span style="letter-spacing:-.3pt"> </span>transaction<span style="letter-spacing:
-  -.25pt"> </span>will<span style="letter-spacing:-.35pt"> </span>not<span style="letter-spacing:-.3pt"> </span>be<span style="letter-spacing:-.3pt"> </span>entertained Strictly based on booking of Appointment</span></p><p style="margin-left:4.9pt;line-height:11.45pt;
-  mso-line-height-rule:exactly;punctuation-wrap:simple;mso-line-break-override:
-  restrictions" class="TableParagraph"><span style="font-size:10.0pt">Only<span style="letter-spacing:
-  -.35pt"> </span>1<span style="letter-spacing:-.3pt"> </span>adult<span style="letter-spacing:-.25pt"> </span>and<span style="letter-spacing:-.35pt"> </span>1<span style="letter-spacing:-.2pt"> </span>student<span style="letter-spacing:-.2pt"> </span>are<span style="letter-spacing:-.3pt"> </span>allowed<span style="letter-spacing:-.15pt"> </span>entry<span style="letter-spacing:-.45pt"> </span>into<span style="letter-spacing:-.3pt"> </span><span style="letter-spacing:
-  -.1pt">school</span></span></p><p style="margin-top:.15pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">&nbsp;</span></b></p><p style="margin-top:0cm;margin-right:16.1pt;margin-bottom:
-  0cm;margin-left:4.9pt;margin-bottom:.0001pt;line-height:200%;punctuation-wrap:
-  simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;
-  line-height:200%">Show<span style="letter-spacing:-.25pt"> </span>email<span style="letter-spacing:-.25pt"> </span>or<span style="letter-spacing:-.25pt"> </span>screenshot<span style="letter-spacing:-.15pt"> </span>of<span style="letter-spacing:-.15pt"> </span>email<span style="letter-spacing:-.25pt"> </span>for<span style="letter-spacing:-.25pt"> </span>collection<span style="letter-spacing:-.25pt"> </span>to<span style="letter-spacing:-.15pt"> </span>school<span style="letter-spacing:-.25pt"> </span>security<span style="letter-spacing:-.35pt"> </span>guard Collection time - Mondays to Fridays, 9 a.m. to 4 p.m.</span></p><p style="margin-top:0cm;margin-right:145.8pt;
-  margin-bottom:0cm;margin-left:4.9pt;margin-bottom:.0001pt;line-height:200%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:200%">Start<span style="letter-spacing:
-  -.25pt"> </span>date<span style="letter-spacing:-.3pt"> </span>for<span style="letter-spacing:-.4pt"> </span>Online<span style="letter-spacing:-.3pt"> </span>Self-Collection<span style="letter-spacing:-.35pt"> </span>-<span style="letter-spacing:-.35pt"> 28</span>/11/2023 Last day of Online Self-Collection - 28/12/2023 Mode of payment – via PayNow</span></p></td></tr><tr style="mso-yfti-irow:3;height:17.65pt"><td style="width:114.1pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:17.65pt" valign="top" rowspan="2" width="152"><p style="margin-top:6.15pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:8.95pt;margin-bottom:.0001pt;line-height:95%;punctuation-wrap:
-  simple;mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt;
-  line-height:95%">Collection of Textbooks &amp; Attire<span style="letter-spacing:
-  2.0pt"> </span>for<span style="letter-spacing:-.7pt"> </span>FAS<span style="letter-spacing:-.65pt"> </span>students<span style="letter-spacing:
-  -.65pt"> </span>only</span></b><b><span style="font-size:11.0pt;line-height:
-  95%"></span></b></p></td><td style="width:327.95pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:17.65pt" valign="top" colspan="2" width="437"><p style="margin-top:5.95pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:5.15pt;margin-bottom:.0001pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">Collection<span style="letter-spacing:-.45pt"> </span>date<span style="letter-spacing:-.25pt"> </span>–<span style="letter-spacing:-.4pt"> </span><span style="letter-spacing:
-  -.1pt">1/12/2023</span></span></p><p style="margin-top:.05pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">&nbsp;</span></b></p><p style="margin-left:5.4pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">Collection<span style="letter-spacing:-.35pt"> </span>time<span style="letter-spacing:-.2pt"> </span>-<span style="letter-spacing:-.25pt"> </span>Mondays<span style="letter-spacing:-.25pt"> </span>to<span style="letter-spacing:-.25pt"> </span>Fridays,<span style="letter-spacing:-.25pt"> </span>9<span style="letter-spacing:-.2pt"> </span>a.m.<span style="letter-spacing:-.3pt"> </span>to<span style="letter-spacing:-.3pt"> </span>4<span style="letter-spacing:-.25pt"> </span><span style="letter-spacing:-.2pt">p.m.</span></span></p><p style="margin-top:.05pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">&nbsp;</span></b></p><p style="margin-top:6.1pt;margin-right:145.8pt;
-  margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:198%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">Produce<span style="letter-spacing:
-  -.3pt"> </span>the<span style="letter-spacing:-.25pt"> </span>FA<span style="letter-spacing:-.25pt"> </span>letter<span style="letter-spacing:-.35pt"> </span>to<span style="letter-spacing:-.35pt"> </span>the<span style="letter-spacing:-.3pt"> </span>bookshop<span style="letter-spacing:
-  -.35pt"> </span>&amp;<span style="letter-spacing:-.3pt"> </span>uniform<span style="letter-spacing:-.1pt"> </span>vendors<span style="letter-spacing:-.35pt"> </span>during<span style="letter-spacing:-.4pt"> </span><span style="letter-spacing:-.1pt">collection</span></span></p></td></tr><tr style="mso-yfti-irow:4;height:25.75pt"><td style="width:145.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:25.75pt" valign="top" width="194"><p style="margin-top:5.95pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:5.4pt;margin-bottom:.0001pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">Collection<span style="letter-spacing:-.4pt"> </span>of<span style="letter-spacing:-.3pt"> </span><span style="letter-spacing:-.1pt">Textbooks</span></span></b></p><p style="margin-left:5.15pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">Scan<span style="letter-spacing:-.3pt"> </span>QR<span style="letter-spacing:-.25pt"> </span>Code<span style="letter-spacing:-.25pt"> </span>to<span style="letter-spacing:-.15pt"> </span>book<span style="letter-spacing:-.1pt"> appointment</span></span></p><p style="margin-top:.3pt;margin-right:0cm;margin-bottom:
-  .05pt;margin-left:0cm;punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:13.0pt">&nbsp;</span></b></p><p style="margin-left:19.25pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="mso-no-proof:yes"><img src="/images/Parents/Booklist%20Page%202024/aappointment_qrcode.png" style="width:80%"></span><span style="font-size:10.0pt"></span></p><p style="punctuation-wrap:simple;mso-line-break-override:
-  restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">&nbsp;</span></b></p><p style="punctuation-wrap:simple;mso-line-break-override:
-  restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">&nbsp;</span></b></p><p style="margin-top:6.1pt;margin-right:145.8pt;
-  margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:198%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">&nbsp;</span></p></td><td style="width:182.75pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:25.75pt" valign="top" width="244"><p style="margin-top:5.95pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:5.25pt;margin-bottom:.0001pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">Online<span style="letter-spacing:-.4pt"> </span>Ordering<span style="letter-spacing:
-  -.35pt"> </span>of <span style="letter-spacing:-.1pt">Attire</span></span></b></p><p style="margin-top:.05pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">&nbsp;</span></b></p><p style="margin-left:5.25pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">Follow<span style="letter-spacing:-.35pt"> </span>the<span style="letter-spacing:-.2pt"> </span><u><span style="color:blue">guide</span></u><span style="color:blue;letter-spacing:
-  -.25pt"> </span><span style="color:black">to<span style="letter-spacing:-.25pt"> </span>order<span style="letter-spacing:-.2pt"> </span>the<span style="letter-spacing:-.25pt"> </span><span style="letter-spacing:-.1pt">attire</span></span></span></p><p style="margin-top:.05pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">&nbsp;</span></b></p><p style="margin-top:0cm;margin-right:8.8pt;margin-bottom:
-  0cm;margin-left:5.25pt;margin-bottom:.0001pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">Click on <span style="color:blue">Online Purchase </span><span style="color:black">and select Xingnan<span style="letter-spacing:-.4pt"> </span>Primary<span style="letter-spacing:-.7pt"> </span>FAS<span style="letter-spacing:-.35pt"> </span>Uniform<span style="letter-spacing:-.25pt"> </span>icon<span style="letter-spacing:-.3pt"> </span>in the <a href="http://www.asencio.com.sg/"><span style="color:blue">website</span></a></span><span style="color:blue"></span></span></p><p style="margin-top:.55pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:9.5pt">&nbsp;</span></b></p><p style="margin-left:26.7pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="mso-no-proof:yes"><a href="https://asencio.com.sg/"><img src="/images/Parents/Booklist%20Page%202024/FAS__Image.png" style="width:150px;height:180px;margin-left:15px;" align="Centre"></a></span><a href="https://asencio.com.sg/"><span style="font-size:10.0pt"></span></a></p><p style="margin-top:6.1pt;margin-right:145.8pt;
-  margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:198%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><a href="https://asencio.com.sg/"><span style="font-size:10.0pt;line-height:198%">&nbsp;</span></a></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:38.1pt"><td style="width:114.1pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:38.1pt" valign="top" width="152"><p style="margin-top:6.15pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:26.85pt;margin-bottom:.0001pt;text-indent:-19.6pt;line-height:
-  95%;punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt;line-height:95%">Exchange<span style="letter-spacing:
-  -.35pt"> </span>of<span style="letter-spacing:-.3pt"> </span><span style="letter-spacing:-.2pt">item</span></span></b><b><span style="font-size:
-  11.0pt;line-height:95%"></span></b></p></td><td style="width:327.95pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:38.1pt" valign="top" colspan="2" width="437"><p style="margin-top:5.85pt;margin-right:202.4pt;
-  margin-bottom:0cm;margin-left:5.4pt;margin-bottom:.0001pt;line-height:200%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:200%">Contact<span style="letter-spacing:
-  -.45pt"> </span>vendor<span style="letter-spacing:-.55pt"> </span>for<span style="letter-spacing:-.55pt"> </span>any<span style="letter-spacing:-.6pt"> </span>exchange Goods<span style="letter-spacing:-.25pt"> </span>must<span style="letter-spacing:
-  -.25pt"> </span>be<span style="letter-spacing:-.25pt"> </span>in<span style="letter-spacing:-.15pt"> </span>good<span style="letter-spacing:-.25pt"> </span><span style="letter-spacing:-.1pt">condition</span></span></p><p style="margin-top:6.1pt;margin-right:145.8pt;
-  margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:198%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">Books<span style="letter-spacing:
-  -.35pt"> </span>with<span style="letter-spacing:-.3pt"> </span>written<span style="letter-spacing:-.4pt"> </span>name<span style="letter-spacing:-.3pt"> </span>will<span style="letter-spacing:-.35pt"> </span>not<span style="letter-spacing:-.3pt"> </span>be<span style="letter-spacing:-.4pt"> </span>accepted Attire after wash will not be accepted</span></p></td></tr></tbody></table>
