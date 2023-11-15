@@ -155,6 +155,8 @@ We are delighted to welcome you to the upcoming 2024 school year! As we prepare 
   -.35pt"> </span>with<span style="letter-spacing:-.3pt"> </span>written<span style="letter-spacing:-.4pt"> </span>name<span style="letter-spacing:-.3pt"> </span>will<span style="letter-spacing:-.35pt"> </span>not<span style="letter-spacing:-.3pt"> </span>be<span style="letter-spacing:-.4pt"> </span>accepted Attire after wash will not be accepted</span></p></td></tr></tbody></table>
 	
 	
+	[Primary 1 Booklist ](/files/Parents/Booklist%202024/XNPS_Booklist_P1__2024.pdf)
+	
 	
 	
 	
