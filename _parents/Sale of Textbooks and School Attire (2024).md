@@ -9,6 +9,8 @@ Dear Parents and Guardians,
 We are delighted to welcome you to the upcoming 2024 school year! As we prepare for another exciting academic term, we understand the importance of providing you with all the necessary information to ensure a smooth start. Below, you will find the booklist and uniform details for the 2024 school year.
 
 Kindly click on the link below to download the booklist by level. 
+
+
 * [Primary 1 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P1__2024.pdf)<br>
 * [Primary 2 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P2__2024.pdf)<br>
 * [Primary 3 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P3__2024.pdf)<br>
@@ -111,7 +113,7 @@ Kindly click on the link below to download the booklist by level.
   mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">Collection<span style="letter-spacing:-.4pt"> </span>of<span style="letter-spacing:-.3pt"> </span><span style="letter-spacing:-.1pt">Textbooks</span></span></b></p><p style="margin-left:5.15pt;punctuation-wrap:simple;
   mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">Scan<span style="letter-spacing:-.3pt"> </span>QR<span style="letter-spacing:-.25pt"> </span>Code<span style="letter-spacing:-.25pt"> </span>to<span style="letter-spacing:-.15pt"> </span>book<span style="letter-spacing:-.1pt"> appointment</span></span></p><p style="margin-top:.3pt;margin-right:0cm;margin-bottom:
   .05pt;margin-left:0cm;punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:13.0pt">&nbsp;</span></b></p><p style="margin-left:19.25pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="mso-no-proof:yes">AppointmentQRcode</span><span style="font-size:10.0pt"></span></p><p style="punctuation-wrap:simple;mso-line-break-override:
+  mso-line-break-override:restrictions" class="TableParagraph"><span style="mso-no-proof:yes"><img src="/images/Parents/Booklist%20Page%202024/aappointment_qrcode.png" style="width:80%"></span><span style="font-size:10.0pt"></span></p><p style="punctuation-wrap:simple;mso-line-break-override:
   restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">&nbsp;</span></b></p><p style="punctuation-wrap:simple;mso-line-break-override:
   restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">&nbsp;</span></b></p><p style="margin-top:6.1pt;margin-right:145.8pt;
   margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:198%;
