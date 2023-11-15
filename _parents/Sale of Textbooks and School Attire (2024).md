@@ -65,6 +65,7 @@ Select Home Delivery Service or Self-Collection at school Delivery charge apply
 **A.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Collection of Textbooks**
 
 * [Click here](https://www.ihuntforbooks.com/) or Scan QR Code to book appointment.
+	
 	![](/images/Parents/Booklist%20Page%202024/aappointment_qrcode.png)
 	
 
