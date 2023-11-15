@@ -65,13 +65,14 @@ Select Home Delivery Service or Self-Collection at school Delivery charge apply
 **A.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Collection of Textbooks**
 
 * [Click here](https://www.ihuntforbooks.com/) or Scan QR Code to book appointment.
+<img src="/images/Parents/Booklist%20Page%202024/aappointment_qrcode.png" style="width:200px;height:200px;margin-left:15px;" align="Centre">
 	
-	![](/images/Parents/Booklist%20Page%202024/aappointment_qrcode.png)
 	
 
 **B.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Online Ordering of Attire**
 
 * Follow the guide to order the attire
+	<a href="http://www.asencio.com.sg/"><img src="/images/Parents/Booklist%20Page%202024/FAS__Image.png" style="width:200px;height:250px;margin-left:15px;" align="Centre"></a>
 	
 	***
 
@@ -80,5 +81,3 @@ Select Home Delivery Service or Self-Collection at school Delivery charge apply
 
 * Contact vendor for any exchange Goods must be in good condition.
 * Books with written name will not be accepted Attire after wash will not be accepted.
-
-         
