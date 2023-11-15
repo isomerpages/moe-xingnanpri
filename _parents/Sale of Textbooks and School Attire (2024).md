@@ -8,37 +8,25 @@ Dear Parents and Guardians,
 
 We are delighted to welcome you to the upcoming 2024 school year! As we prepare for another exciting academic term, we understand the importance of providing you with all the necessary information to ensure a smooth start. Below, you will find the booklist and uniform details for the 2024 school year.
 
-  
-[Primary 1 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P1__2024.pdf)<br>
-[Primary 2 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P2__2024.pdf)<br>
-[Primary 3 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P3__2024.pdf)<br>
-[Primary 4 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P4__2024.pdf)<br>
-[Primary 5 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P5__2024.pdf)<br>
-[Primary 5 FDN  Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P5_FDN__2024.pdf)<br>
-[Primary 6 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P6__2024.pdf)<br>
-[Primary 6 FDN  Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P6_FDN__2024.pdf)<br>
-        
+Kindly click on the link below to download the booklist by level. 
+* [Primary 1 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P1__2024.pdf)<br>
+* [Primary 2 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P2__2024.pdf)<br>
+* [Primary 3 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P3__2024.pdf)<br>
+* [Primary 4 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P4__2024.pdf)<br>
+* [Primary 5 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P5__2024.pdf)<br>
+* [Primary 5 FDN  Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P5_FDN__2024.pdf)<br>
+* [Primary 6 Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P6__2024.pdf)<br>
+* [Primary 6 FDN  Booklist 2024](/files/Parents/Booklist%202024/XNPS_Booklist_P6_FDN__2024.pdf)<br>
+
+
+         
 <table style="margin-left:5.75pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.65pt"><td style="width:114.1pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:12.65pt" valign="top" width="152"><p style="margin-top:5.7pt;margin-right:0cm;margin-bottom:
+ mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.3pt"><td style="width:114.1pt;border:solid black 1.0pt;
+  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:24.3pt" valign="top" width="152"><p style="margin-top:5.6pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:5.65pt;margin-bottom:.0001pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">Booklist<span style="letter-spacing:-.5pt"> </span><span style="letter-spacing:-.2pt">2024</span></span></b></p></td><td style="width:327.95pt;border:solid black 1.0pt;
+  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">Online<span style="letter-spacing:-.55pt"> </span><span style="letter-spacing:-.1pt">Order</span></span></b></p></td><td style="width:327.95pt;border:solid black 1.0pt;
   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:12.65pt" valign="top" colspan="2" width="437"><p style="margin-top:5.85pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:5.5pt;margin-bottom:.0001pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">A<span style="letter-spacing:-.3pt"> </span>copy<span style="letter-spacing:-.4pt"> </span>of<span style="letter-spacing:-.15pt"> </span>booklist<span style="letter-spacing:
-  -.3pt"> </span>is<span style="letter-spacing:-.2pt"> </span>also<span style="letter-spacing:-.25pt"> </span>available<span style="letter-spacing:
-  -.25pt"> </span>in<span style="letter-spacing:-.25pt"> </span>school<span style="letter-spacing:-.25pt"> </span><span style="letter-spacing:-.1pt">website:</span></span></p><p style="margin-top:6.05pt;margin-right:.25pt;
-  margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;punctuation-wrap:
-  simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:11.0pt;
-  color:blue;letter-spacing:-.1pt">Create a link</span></p></td></tr><tr style="mso-yfti-irow:1;height:24.3pt"><td style="width:114.1pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 0cm 0cm 0cm;height:24.3pt" valign="top" width="152"><p style="margin-top:5.6pt;margin-right:0cm;margin-bottom:
-  0cm;margin-left:5.65pt;margin-bottom:.0001pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">Online<span style="letter-spacing:-.55pt"> </span><span style="letter-spacing:-.1pt">Order</span></span></b></p></td><td style="width:327.95pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:24.3pt" valign="top" colspan="2" width="437"><p style="margin-top:5.85pt;margin-right:102.95pt;
+  padding:0cm 0cm 0cm 0cm;height:24.3pt" valign="top" colspan="2" width="437"><p style="margin-top:5.85pt;margin-right:102.95pt;
   margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:200%;
   punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:200%">Bookshop<span style="letter-spacing:
   -.5pt"> </span>(HB<span style="letter-spacing:-.4pt"> </span>Book<span style="letter-spacing:-.4pt"> </span>Centre)<span style="letter-spacing:-.4pt"> </span>-<span style="letter-spacing:-.45pt"> <a href="http://www.ihuntforbooks.com/"><span style="color:blue;letter-spacing:
@@ -50,7 +38,7 @@ We are delighted to welcome you to the upcoming 2024 school year! As we prepare 
   -.2pt"> </span>last<span style="letter-spacing:-.25pt"> </span>day<span style="letter-spacing:-.3pt"> </span>of<span style="letter-spacing:-.15pt"> </span>order<span style="letter-spacing:-.15pt"> </span>–<span style="letter-spacing:-.1pt"> </span>21<span style="letter-spacing:-.25pt"> </span>December<span style="letter-spacing:
   -.2pt"> </span>2023,<span style="letter-spacing:-.25pt"> </span>6<span style="letter-spacing:-.15pt"> </span>p.m.</span></p><p style="margin-top:.05pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:5.5pt;margin-bottom:.0001pt;punctuation-wrap:simple;
-  mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">Please<span style="letter-spacing:-.3pt"> </span>order<span style="letter-spacing:-.25pt"> </span>early<span style="letter-spacing:-.35pt"> </span>to<span style="letter-spacing:-.3pt"> </span>provide<span style="letter-spacing:-.3pt"> </span>sufficient<span style="letter-spacing:-.25pt"> </span>time<span style="letter-spacing:-.3pt"> </span>for<span style="letter-spacing:-.25pt"> </span>vendors<span style="letter-spacing:-.2pt"> </span>to<span style="letter-spacing:-.3pt"> </span>make<span style="letter-spacing:-.3pt"> </span><span style="letter-spacing:-.1pt">delivery</span></span></p></td></tr><tr style="mso-yfti-irow:2;height:23.95pt"><td style="width:114.1pt;border:solid black 1.0pt;
+  mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt">Please<span style="letter-spacing:-.3pt"> </span>order<span style="letter-spacing:-.25pt"> </span>early<span style="letter-spacing:-.35pt"> </span>to<span style="letter-spacing:-.3pt"> </span>provide<span style="letter-spacing:-.3pt"> </span>sufficient<span style="letter-spacing:-.25pt"> </span>time<span style="letter-spacing:-.3pt"> </span>for<span style="letter-spacing:-.25pt"> </span>vendors<span style="letter-spacing:-.2pt"> </span>to<span style="letter-spacing:-.3pt"> </span>make<span style="letter-spacing:-.3pt"> </span><span style="letter-spacing:-.1pt">delivery</span></span></p></td></tr><tr style="mso-yfti-irow:1;height:23.95pt"><td style="width:114.1pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 0cm 0cm 0cm;height:23.95pt" valign="top" width="152"><p style="margin-top:5.7pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:5.65pt;margin-bottom:.0001pt;line-height:11.4pt;mso-line-height-rule:
@@ -69,7 +57,7 @@ We are delighted to welcome you to the upcoming 2024 school year! As we prepare 
   -.5pt"> </span>-<span style="letter-spacing:-.55pt"> </span>$14<span style="letter-spacing:-.6pt"> </span>per<span style="letter-spacing:-.45pt"> </span>order Attire - $6 per order</span></p><p style="margin-left:5.5pt;line-height:11.15pt;
   mso-line-height-rule:exactly;punctuation-wrap:simple;mso-line-break-override:
   restrictions" class="TableParagraph"><span style="font-size:10.0pt">Mode<span style="letter-spacing:
-  -.2pt"> </span>of<span style="letter-spacing:-.2pt"> </span>payment<span style="letter-spacing:-.25pt"> </span>–<span style="letter-spacing:-.2pt"> </span>via<span style="letter-spacing:-.2pt"> </span><span style="letter-spacing:-.1pt">PayNow</span></span></p></td></tr><tr style="mso-yfti-irow:3;height:38.1pt"><td style="width:114.1pt;border:solid black 1.0pt;
+  -.2pt"> </span>of<span style="letter-spacing:-.2pt"> </span>payment<span style="letter-spacing:-.25pt"> </span>–<span style="letter-spacing:-.2pt"> </span>via<span style="letter-spacing:-.2pt"> </span><span style="letter-spacing:-.1pt">PayNow</span></span></p></td></tr><tr style="mso-yfti-irow:2;height:38.1pt"><td style="width:114.1pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 0cm 0cm 0cm;height:38.1pt" valign="top" width="152"><p style="margin-top:6.15pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:26.85pt;margin-bottom:.0001pt;text-indent:-19.6pt;line-height:
@@ -94,7 +82,7 @@ We are delighted to welcome you to the upcoming 2024 school year! As we prepare 
   line-height:200%">Show<span style="letter-spacing:-.25pt"> </span>email<span style="letter-spacing:-.25pt"> </span>or<span style="letter-spacing:-.25pt"> </span>screenshot<span style="letter-spacing:-.15pt"> </span>of<span style="letter-spacing:-.15pt"> </span>email<span style="letter-spacing:-.25pt"> </span>for<span style="letter-spacing:-.25pt"> </span>collection<span style="letter-spacing:-.25pt"> </span>to<span style="letter-spacing:-.15pt"> </span>school<span style="letter-spacing:-.25pt"> </span>security<span style="letter-spacing:-.35pt"> </span>guard Collection time - Mondays to Fridays, 9 a.m. to 4 p.m.</span></p><p style="margin-top:0cm;margin-right:145.8pt;
   margin-bottom:0cm;margin-left:4.9pt;margin-bottom:.0001pt;line-height:200%;
   punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:200%">Start<span style="letter-spacing:
-  -.25pt"> </span>date<span style="letter-spacing:-.3pt"> </span>for<span style="letter-spacing:-.4pt"> </span>Online<span style="letter-spacing:-.3pt"> </span>Self-Collection<span style="letter-spacing:-.35pt"> </span>-<span style="letter-spacing:-.35pt"> 28</span>/11/2023 Last day of Online Self-Collection - 28/12/2023 Mode of payment – via PayNow</span></p></td></tr><tr style="mso-yfti-irow:4;height:17.65pt"><td style="width:114.1pt;border:solid black 1.0pt;
+  -.25pt"> </span>date<span style="letter-spacing:-.3pt"> </span>for<span style="letter-spacing:-.4pt"> </span>Online<span style="letter-spacing:-.3pt"> </span>Self-Collection<span style="letter-spacing:-.35pt"> </span>-<span style="letter-spacing:-.35pt"> 28</span>/11/2023 Last day of Online Self-Collection - 28/12/2023 Mode of payment – via PayNow</span></p></td></tr><tr style="mso-yfti-irow:3;height:17.65pt"><td style="width:114.1pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 0cm 0cm 0cm;height:17.65pt" valign="top" rowspan="2" width="152"><p style="margin-top:6.15pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:8.95pt;margin-bottom:.0001pt;line-height:95%;punctuation-wrap:
@@ -115,7 +103,7 @@ We are delighted to welcome you to the upcoming 2024 school year! As we prepare 
   margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:198%;
   punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">Produce<span style="letter-spacing:
   -.3pt"> </span>the<span style="letter-spacing:-.25pt"> </span>FA<span style="letter-spacing:-.25pt"> </span>letter<span style="letter-spacing:-.35pt"> </span>to<span style="letter-spacing:-.35pt"> </span>the<span style="letter-spacing:-.3pt"> </span>bookshop<span style="letter-spacing:
-  -.35pt"> </span>&amp;<span style="letter-spacing:-.3pt"> </span>uniform<span style="letter-spacing:-.1pt"> </span>vendors<span style="letter-spacing:-.35pt"> </span>during<span style="letter-spacing:-.4pt"> </span><span style="letter-spacing:-.1pt">collection</span></span></p></td></tr><tr style="mso-yfti-irow:5;height:25.75pt"><td style="width:145.2pt;border-top:none;border-left:
+  -.35pt"> </span>&amp;<span style="letter-spacing:-.3pt"> </span>uniform<span style="letter-spacing:-.1pt"> </span>vendors<span style="letter-spacing:-.35pt"> </span>during<span style="letter-spacing:-.4pt"> </span><span style="letter-spacing:-.1pt">collection</span></span></p></td></tr><tr style="mso-yfti-irow:4;height:25.75pt"><td style="width:145.2pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0cm 0cm 0cm 0cm;height:25.75pt" valign="top" width="194"><p style="margin-top:5.95pt;margin-right:0cm;margin-bottom:
@@ -127,7 +115,7 @@ We are delighted to welcome you to the upcoming 2024 school year! As we prepare 
   restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">&nbsp;</span></b></p><p style="punctuation-wrap:simple;mso-line-break-override:
   restrictions" class="TableParagraph"><b><span style="font-size:10.0pt">&nbsp;</span></b></p><p style="margin-top:6.1pt;margin-right:145.8pt;
   margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:198%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">&nbsp;</span></p></td><td style="width:182.7pt;border:solid black 1.0pt;
+  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">&nbsp;</span></p></td><td style="width:182.75pt;border:solid black 1.0pt;
   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 0cm 0cm 0cm;height:25.75pt" valign="top" width="244"><p style="margin-top:5.95pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:5.25pt;margin-bottom:.0001pt;punctuation-wrap:simple;
@@ -142,7 +130,7 @@ We are delighted to welcome you to the upcoming 2024 school year! As we prepare 
   mso-line-break-override:restrictions" class="TableParagraph"><b><span style="font-size:9.5pt">&nbsp;</span></b></p><p style="margin-left:26.7pt;punctuation-wrap:simple;
   mso-line-break-override:restrictions" class="TableParagraph"><span style="mso-no-proof:yes">FASIMAGE</span><span style="font-size:10.0pt"></span></p><p style="margin-top:6.1pt;margin-right:145.8pt;
   margin-bottom:0cm;margin-left:5.5pt;margin-bottom:.0001pt;line-height:198%;
-  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:38.1pt"><td style="width:114.1pt;border:solid black 1.0pt;
+  punctuation-wrap:simple;mso-line-break-override:restrictions" class="TableParagraph"><span style="font-size:10.0pt;line-height:198%">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:38.1pt"><td style="width:114.1pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0cm 0cm 0cm 0cm;height:38.1pt" valign="top" width="152"><p style="margin-top:6.15pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:26.85pt;margin-bottom:.0001pt;text-indent:-19.6pt;line-height:
