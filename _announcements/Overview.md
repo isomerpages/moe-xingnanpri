@@ -31,7 +31,7 @@ As the year-end holidays are approaching, please refer to the attachment to aler
 Are you looking for something fun and meaningful for your child/ward to participate during the December school holidays? Are you looking for some sporty activities to bond with your family? You may refer to the poster below and scan the QR code for more information! Have a fun and enjoyable holidays with your loved ones!
 
 [Click here to read more](https://www.activesgcircle.gov.sg/activeparents/sportyplaydate2023)
-
+***
 ##### 2023 Monthly Newsletter
 Dear Parents, [Click Here](https://www.xingnanpri.moe.edu.sg/expedition/School-Publications/school-newsletter/) to read our Monthly Newsletter
 

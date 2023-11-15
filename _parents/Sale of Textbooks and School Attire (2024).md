@@ -40,7 +40,7 @@ Bookshop (HB Book Centre) - [www.ihuntforbooks.com](http://www.ihuntforbooks.com
 ***
 
      
-##### 
+
 ##### **Mode of Receipt**
 
 **A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Delivery Service<br>**
