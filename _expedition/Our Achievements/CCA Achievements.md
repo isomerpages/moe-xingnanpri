@@ -218,19 +218,37 @@ variant: markdown
 </tr>
 </tbody></table>
 
-### Drone Interest Group
+### Others
 
 <table style="width:100%">
 <tbody><tr>
     <th>Year</th>
     <th>Award / Competition</th>
     <th>Placing</th>
-		 <th>Team</th>
+		 <th>Achievers</th>
+</tr>
+<tr>
+    <td>2023</td>
+    <td>Singapore Golf Association - Mandai Junior Golf Series -3rd &amp; 5th Leg</td>
+    <td>1st</td>
+		<td>Vedona Gong (3E)</td>
+</tr>
+<tr>
+    <td></td>
+    <td>UUMISM-SportExcel Malaysian Junior Gold Tour 2023 - 2nd Leg</td>
+    <td>1st</td>
+		<td>Vedona Gong (3E)</td>
+</tr>
+<tr>
+    <td></td>
+    <td>Srixon Junior Mixed Series 2023 - Fixture 3</td>
+    <td>1st</td>
+		<td>Vedona Gong (3E)</td>
 </tr>
 <tr>
     <td>2022</td>
     <td>Drone Odyssey Challenge</td>
     <td>1st runner up</td>
-		<td>Junior</td>
+		<td>Yap Wen Xuan Leonard (6D),<br> Aydin Matin Bin Mohammed Junaidi (6D)</td>
 </tr>
 </tbody></table>
