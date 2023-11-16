@@ -2,5 +2,6 @@ collections:
   removed-pages:
     output: true
     order:
+      - Our Learning Environment.md
       - President's Award for Teachers.md
       - stARS.md
