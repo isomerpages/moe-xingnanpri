@@ -155,25 +155,25 @@ variant: markdown
     <td></td>
     <td>National School Games (West Zone)</td>
     <td>Tier 1 Qualification</td>
-		<td>Singles - Girls</td>
+		<td>Junior - Singles - Girls</td>
 </tr>
 <tr>
     <td></td>
     <td>National School Games (West Zone)</td>
     <td>Tier 2 Qualification</td>
-		<td>Doubles - Girls</td>
+		<td>Junior - Doubles - Girls</td>
 </tr>
 <tr>
     <td></td>
     <td>National School Games (West Zone)</td>
     <td>Tier 2 Qualification</td>
-		<td>Singles -  Boys</td>
+		<td>Junior - Singles -  Boys</td>
 </tr>
 <tr>
     <td></td>
     <td>National School Games (West Zone)</td>
     <td>Tier 2 Qualification</td>
-		<td>Singles - Boys</td>
+		<td>Junior - Singles - Boys</td>
 </tr>
 <tr>
     <td>2022</td>
@@ -185,8 +185,35 @@ variant: markdown
     <td></td>
     <td>National School Games (West Zone)</td>
     <td>Tier 2 Qualification</td>
-		<td>Junior - Doubles - Girls</td>
+		<td>Junior - Doubles - Girls (1)</td>
+</tr>
+<tr>
+    <td></td>
+    <td>National School Games (West Zone)</td>
+    <td>Tier 2 Qualification</td>
+		<td>Junior - Singles - Girls (2)</td>
 </tr>
 </tbody></table>
 
+### Football
 
+<table style="width:100%">
+<tbody><tr>
+    <th>Year</th>
+    <th>Award / Competition</th>
+    <th>Placing</th>
+		 <th>Team</th>
+</tr>
+<tr>
+    <td>2023</td>
+    <td>National School Games (West Zone)</td>
+    <td>Tier 1 Champion</td>
+		<td>Junior</td>
+</tr>
+<tr>
+    <td>2022</td>
+    <td>National School Games</td>
+    <td>Tier 2 Qualification</td>
+		<td>Junior</td>
+</tr>
+</tbody></table>
