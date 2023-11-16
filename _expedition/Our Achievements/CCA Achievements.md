@@ -217,3 +217,20 @@ variant: markdown
 		<td>Junior</td>
 </tr>
 </tbody></table>
+
+### Drone Interest Group
+
+<table style="width:100%">
+<tbody><tr>
+    <th>Year</th>
+    <th>Award / Competition</th>
+    <th>Placing</th>
+		 <th>Team</th>
+</tr>
+<tr>
+    <td>2022</td>
+    <td>Drone Odyssey Challenge</td>
+    <td>1st runner up</td>
+		<td>Junior</td>
+</tr>
+</tbody></table>
