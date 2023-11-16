@@ -51,6 +51,27 @@ variant: markdown
 *  Mrs Goh Boon Gim
 *  Mr Lim Suar Poh
 
+#### Xingnan Primary School&nbsp;Long&nbsp;Service&nbsp;Award
+* Tan Chong Hian
+* Chew Bee Hoon
+* Peh En Mey
+* Tina Ng
+* Aneza Bte Abdullah
+* Nursasterawati Bte Md Yatim
+* Zuridah Bte Hussein
+* Chau Ai Ling
+* Jamilah Bte Rahim
+* Maslinda Bte Abd Wahab
+* Santha D/O Subramaniam
+* Siau Li Juan
+* Goh Boon Kim
+* Mohammad Irwan Bin Md Isa
+* Ng Yin Whee
+* Sia Ah Chai
+* Tii Siew Ping
+* Yang Nian
+
+<hr>
 
 ## 2022
 
@@ -119,6 +140,8 @@ variant: markdown
 *  Miss Denise Yap
 *  Ms Rosneayu Binte Rosenen
 
+<hr>
+
 ## 2021
 
 #### Associate of Academy of Singapore Teachers (AST) Award 2021
@@ -144,6 +167,7 @@ variant: markdown
 
 * Mr Jason Chua Kian Seng
 
+<hr>
 
 ## 2020
 ##### The Public Administration Medal, 2020 (Bronze)
@@ -179,6 +203,7 @@ variant: markdown
 
 *   **Yang Xuehui**
 
+<hr>
 
 ## 2019
 #### MOE Service Excellence Award (MSEA)
