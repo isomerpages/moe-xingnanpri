@@ -51,6 +51,27 @@ variant: markdown
 *  Mrs Goh Boon Gim
 *  Mr Lim Suar Poh
 
+#### Xingnan Primary School&nbsp;Long&nbsp;Service&nbsp;Award
+* Tan Chong Hian
+* Chew Bee Hoon
+* Peh En Mey
+* Tina Ng
+* Aneza Bte Abdullah
+* Nursasterawati Bte Md Yatim
+* Zuridah Bte Hussein
+* Chau Ai Ling
+* Jamilah Bte Rahim
+* Maslinda Bte Abd Wahab
+* Santha D/O Subramaniam
+* Siau Li Juan
+* Goh Boon Kim
+* Mohammad Irwan Bin Md Isa
+* Ng Yin Whee
+* Sia Ah Chai
+* Tii Siew Ping
+* Yang Nian
+
+<hr>
 
 ## 2022
 
@@ -119,6 +140,8 @@ variant: markdown
 *  Miss Denise Yap
 *  Ms Rosneayu Binte Rosenen
 
+<hr>
+
 ## 2021
 
 #### Associate of Academy of Singapore Teachers (AST) Award 2021
@@ -144,32 +167,30 @@ variant: markdown
 
 * Mr Jason Chua Kian Seng
 
+<hr>
 
 ## 2020
 ##### The Public Administration Medal, 2020 (Bronze)
 
-*   &nbsp;**Mdm S Anitha (Vice-Principal)**&nbsp;  
+* Mdm S Anitha (Vice-Principal)
     
 
 ##### The commendation Medal, 2020
 
-*   **Mr Abdul Wahab B Abdul Rahman**
+* Mr Abdul Wahab B Abdul Rahman
 
 
 ##### MOE Service Excellence Award (Silver)
 
-*   **Chau Ailing**
-
-*   **Chong Yen Lian Janet**
-
-*   **Nur Azlindah Azlan**
-
-*   **Wong Shi Yuan**
+* Chau Ailing
+* Chong Yen Lian Janet
+* Nur Azlindah Azlan
+* Wong Shi Yuan
 
 ##### Associate of Academy of Singapore Teachers (AST) Award 2020 as&nbsp;Facilitator of Network Learning Communities (NLCs)
 
 
-*   **Mr Abdul Wahab B Abdul Rahman**
+* Mr Abdul Wahab B Abdul Rahman
 
 
 
@@ -177,36 +198,35 @@ variant: markdown
 
 
 
-*   **Yang Xuehui**
+*  Yang Xuehui
 
+<hr>
 
 ## 2019
 #### MOE Service Excellence Award (MSEA)
 
 ##### **Gold Award**
 
-*   **Mr Abdul Wahab B Abdul Rahman**
+* Mr Abdul Wahab B Abdul Rahman
 
   
 ##### **Silver Award**
 
-*   **Miss A Sumathi**
-
-*   **Mdm Delia Ang Yen Peng**
-
-*   **Mdm Yang Nian**
+* Miss A Sumathi
+* Mdm Delia Ang Yen Peng
+* Mdm Yang Nian
 
 #### Distinguished Chinese Language Teachers Awards
 
-*   **Miss Lim Hui Min**
+* Miss Lim Hui Min
 
 
 #### Associate of Academy of Singapore Teachers (AST) Award
  
 
-*   **Mr Abdul Wahab B Abdul Rahman**
+* Mr Abdul Wahab B Abdul Rahman
 
   
 #### Singapore Youth Award
  
-*   **Miss Francesca Phoebe Wah Li Ting**
+* Miss Francesca Phoebe Wah Li Ting
