@@ -182,7 +182,7 @@ variant: markdown
   mso-bidi-theme-font:minor-latin"></span></p></td></tr></tbody></table>
 
 **Year Head Sharing and Start-It-Right Kit**
-* Content will be made available here after Orientation Day (17 November 2023).
+* [Click Here](/files/Parents/P1%202024/2024_P1_Orientation__YH_Sharing_final.pdf) to download the year head sharing slides that were presented during the P1 Orientation session on the 17th November 2023.
 
 **Useful Resources / Links**
 
