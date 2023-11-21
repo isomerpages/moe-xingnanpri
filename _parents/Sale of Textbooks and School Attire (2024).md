@@ -60,7 +60,7 @@ Select Home Delivery Service or Self-Collection at school Delivery charge apply
 
 ##### **Collection of Textbooks &amp; Attire for FAS students only**
 
-* Collection date – 1/12/2023<br>
+* Collection date starting from – 1/12/2023<br>
 * Collection time \- Mondays to Fridays, 9 a.m. to 4 p.m.
 <br>*Produce the FA letter to the bookshop &amp; uniform vendors during collection.*
 
