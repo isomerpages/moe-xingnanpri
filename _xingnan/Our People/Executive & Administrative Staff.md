@@ -3,6 +3,7 @@ title: Executive & Administrative Staff
 permalink: /xingnan/Our-People/executive-and-administrative-staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 #### Executive &amp; Administrative Staff
 
@@ -34,7 +35,7 @@ third_nav_title: Our People
 
 ***
 
-**Mr Manmeeth Singh**<br>ICT  Associate
+**Mr Manmeeth Singh**<br>ICT  Manager / Associate
  <br>   [manmeeth_singh@schools.gov.sg](mailto:manmeeth_singh@schools.gov.sg) 	
 <br>
  
@@ -45,8 +46,7 @@ third_nav_title: Our People
 
 ***
  
- **Mr R. Anburajan**<br>Desktop Engineer (NCS)	  	
-<br>
+
 
  ***
 
