@@ -35,6 +35,13 @@ variant: markdown
 
 ***
 
+**Mr Mahadar Hanafiah**<br> Adjunct ICT  Manager 
+ <br>   [mahadar_hanafiah@schools.gov.sg](mailto:mahadar_hanafiah@schools.gov.sg) 	
+<br>
+ 
+ ***
+***
+
 **Mr Manmeeth Singh**<br>ICT  Manager / Associate
  <br>   [manmeeth_singh@schools.gov.sg](mailto:manmeeth_singh@schools.gov.sg) 	
 <br>
