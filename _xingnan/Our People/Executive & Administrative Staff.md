@@ -35,11 +35,7 @@ variant: markdown
 
 ***
 
-**Mr Mahadar Hanafiah**<br> Adjunct ICT  Manager 
- <br>   [mahadar_hanafiah@schools.gov.sg](mailto:mahadar_hanafiah@schools.gov.sg) 	
-<br>
- 
- ***
+
 ***
 
 **Mr Manmeeth Singh**<br>ICT  Manager / Associate
@@ -47,7 +43,11 @@ variant: markdown
 <br>
  
  ***
+ **Mr Mahadar Hanafiah**<br> Adjunct ICT  Manager 
+ <br>   [mahadar_hanafiah@schools.gov.sg](mailto:mahadar_hanafiah@schools.gov.sg) 	
+<br>
  
+ ***
  **Mr Khairil Anuar Salim**<br>Desktop Engineer (NCS)	  	
 <br>
 
