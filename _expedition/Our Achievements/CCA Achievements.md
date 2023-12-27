@@ -118,7 +118,7 @@ variant: markdown
 </tr>
 <tr>
 	  <td>2019</td>
-    <td>West Xone Inter-Primary Basketball Championship</td>
+    <td>West Zone Inter-Primary Basketball Championship</td>
     <td>1st runner up</td>
 		<td>Senior</td>
 </tr>

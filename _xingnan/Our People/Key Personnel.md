@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /xingnan/Our-People/key-personnel/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### Key Personnel
 
@@ -25,6 +26,14 @@ Vice-Principal
 Teaching and learning is so full of excitement, wonder and joy that I am thrilled when one more pupil or colleague feels motivated to take up the challenge to try and learn something new and do their best in that endeavour! My belief is that we are unique individuals and have something special that we can bring to our own learning! It is a great feeling to provide children and peers opportunities to explore various ways to think and be committed to be a lifelong learner seeking knowledge and skills as they grow and serve others. As a school community, we can join hands to nurture our children to be confident individuals and responsible citizens!
 
 [s\_anitha@schools.gov.sg](mailto:S_ANITHA@schools.gov.sg)
+
+* * *
+
+**Mdm Ang Hwee Loo**   
+Vice-Principal  
+  
+
+[ang_hwee_loo@schools.gov.sg](mailto:ang_hwee_loo@schools.gov.sg)
 
 * * *
 
@@ -331,4 +340,3 @@ Senior Teacher - Music
 Teaching is not hard work, it's HeartWork. I teach like how I would like to be taught. Putting myself in the shoes of my students allows me to come up with engaging and inspiring lessons.
 
 [gan\_soon\_keat@schools.gov.sg](mailto:gan_soon_keat@schools.gov.sg)
-

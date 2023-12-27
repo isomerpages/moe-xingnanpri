@@ -71,6 +71,15 @@ Primary 1D
 不怕慢，只怕站。坚持、努力才是学习之路的唯一途径
 
 * * *
+Primary 1D
+
+**Ms Nur Syafawani Amira Binte Kamal** <br>
+[**nur_syafawani_amira_kamal@schools.gov.sg**](mailto:nur_syafawani_amira_kamal@schools.gov.sg)
+
+Every child deserves to be acknowledged and every learner deserves to be educated.
+
+* * *
+
 Primary 1E
 
 **Ms La Vonda Koh** <br>

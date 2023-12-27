@@ -27,19 +27,18 @@ I believe that every child is unique and has something special that he/she can b
 * * *
 Primary 4B
 
-**Miss Clara Choo Jia En** <br> 
-[**clara_choo_jia_en@schools.gov.sg**](mailto:clara_choo_jia_en@schools.gov.sg)
+**Mdm Peh En Mey** <br>
+[**peh_en_mey@schools.gov.sg**](mailto:peh_en_mey@schools.gov.sg)
 
-I believe that every child has his set of strengths. I hope to mould individuals who can navigate through life confidently.
+Every child can be motivated to learn.&nbsp; A positive stroke can go a long way to make a positive impact on a pupil's life. 
 
 * * *
-
 Primary 4B
 
-**Ms Salini A/P Baloh** <br>
-[**salini_ap_baloh@schools.gov.sg**](mailto:salini_ap_baloh@schools.gov.sg)
+**Mdm Tii Siew Ping** <br>
+[**tii_siew_ping@schools.gov.sg**](mailto:tii_siew_ping@schools.gov.sg)
 
-I believe that every child is unique and has something special that he/she can bring to his/her education.
+发光不是太阳的专利，只要用心发掘，每一个孩子都能发光发亮。
 
 * * *
 Primary 4C
