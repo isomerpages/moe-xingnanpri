@@ -2,59 +2,80 @@
 title: P4 Teachers
 permalink: /p1-to-p6-form-teachers/p4/
 description: ""
+variant: markdown
 ---
-### P4 Teachers (2023)
+### P4 Teachers (2024)
 
 
-Primary 4A 
+***
+Primary 4A
 
-**Miss Chew Bee Hoon** <br>
-[**chew_bee_hoon@schools.gov.sg**](mailto:chew_bee_hoon@schools.gov.sg)
+**Miss Clara Choo Jia En** <br> 
+[**clara_choo_jia_en@schools.gov.sg**](mailto:clara_choo_jia_en@schools.gov.sg)
 
-始终贯彻坚守教岗的信念。我坚信以诚关爱、用心感化，必能牵引学子之心，内化品学，春风化雨。以感恩之心，引领、启发快乐的小天使成为未来闪亮的星星。
+I believe that every child has his set of strengths. I hope to mould individuals who can navigate through life confidently.
 
 * * *
 
-**Mdm Nursasterawati Bte Md Yatim** <br>
-[**nursasterawati_md_yatim@schools.gov.sg**](mailto:nursasterawati_md_yatim@schools.gov.sg)
+Primary 4A
 
-I believe that learning should be engaging, enjoyable and a meaningful lifelong experience.
+**Ms Salini A/P Baloh** <br>
+[**salini_ap_baloh@schools.gov.sg**](mailto:salini_ap_baloh@schools.gov.sg)
+
+I believe that every child is unique and has something special that he/she can bring to his/her education.
+
+* * *
+Primary 4B
+
+**Miss Clara Choo Jia En** <br> 
+[**clara_choo_jia_en@schools.gov.sg**](mailto:clara_choo_jia_en@schools.gov.sg)
+
+I believe that every child has his set of strengths. I hope to mould individuals who can navigate through life confidently.
 
 * * *
 
 Primary 4B
 
-**Mdm Lin Chudai** <br>
-[**lin_chudai@schools.gov.sg**](mailto:lin_chudai@schools.gov.sg)
+**Ms Salini A/P Baloh** <br>
+[**salini_ap_baloh@schools.gov.sg**](mailto:salini_ap_baloh@schools.gov.sg)
 
-学习是一件快乐的事。我希望做一个快乐的老师，努力让学生在快乐的学习氛围中快快乐乐地学习华文。
+I believe that every child is unique and has something special that he/she can bring to his/her education.
 
 * * *
+Primary 4C
 
-**Mr Muhammed Faizal Bin Rawi** <br>
-[**muhammed_faizal_rawi@schools.gov.sg**](mailto:muhammed_faizal_rawi@schools.gov.sg)
+**Mrs Constance Chia Kai Ting** <br>
+[**constance_toh_kai_ting@schools.gov.sg**](mailto:constance_toh_kai_ting@schools.gov.sg)
 
-Our students and our children are our future. I firmly believe that as primary school teachers, it is our duty to gift them the seeds of knowledge, a passion for self-directed learning and to nurture them with the correct social values as they embark on their journey of lifelong education. It takes a village to raise a child and with the help from parents and the school community, I believe that Xingnanians will thrive in this supportive and caring school.
+I believe that every student is like a gemstone waiting to be discovered. It is my duty as an educator to help them discover their own potential and to shine brightly in their own unique ways.
 
 * * *
 
 Primary 4C
 
-**Miss Ong Lijing** <br>
-[**ong_lijing@schools.gov.sg**](mailto:ong_lijing@schools.gov.sg)
+**Mdm Nur Syahida Bte Paiman** <br>
+[**nur_syahida_paiman@schools.gov.sg**](mailto:nur_syahida_paiman@schools.gov.sg)
 
-Every child can learn and we can learn together, helping one another to improve continually.
-
-* * *
-
-**Mdm Tuminah Bte Mohd Bakir** <br>
-[**tuminah_mohamed_bakir@schools.gov.sg**](mailto:tuminah_mohamed_bakir@schools.gov.sg)
-
-I believe in nurturing, inspiring and motivating each child with tender care and sincerity.
+Every child has his or her strength. It is the teachers' duty to discover that strength by developing their potential and nurturing them to be the best that they can be.
 
 * * *
-
 Primary 4D
+
+**Miss Chen Degeng** <br>
+[**chen_degeng@schools.gov.sg**](mailto:chen_degeng@schools.gov.sg)
+
+Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions.
+
+* * *
+ Primary 4D
+ 
+**Miss Khoo Chun Mei** <br>
+[**khoo_chun_mei@schools.gov.sg**](mailto:khoo_chun_mei@schools.gov.sg)
+
+Learning takes place when curiosity is encouraged.
+
+* * *
+Primary 4E
 
 **Miss Denise Yap** <br>
 [**denise_yap@schools.gov.sg**](mailto:denise_yap@schools.gov.sg)
@@ -62,10 +83,30 @@ Primary 4D
 I believe in developing positive relationship with my students. As pupils spend most of their waking time in school, a strong pupil-teacher relationship will lead to better engagement, allowing effective instructions to take place.
 
 * * *
+Primary 4E
 
-**Ms Noriayati Ishak** <br>
-[**noriayati_ishak@schools.gov.sg**](mailto:noriayati_ishak@schools.gov.sg)
+**Miss Kaye Wong Min Qi** <br>
+[**wong_min_qi@schools.gov.sg**](mailto:wong_min_qi@schools.gov.sg)
 
-Often we find that the students we want to inspire are the ones who end up inspiring us.
+“If you have the choice between being right and being kind, choose being kind.” - Dr. Wayne W. Dyer 
+
+In the pursuit of competence and excellence, it is important to always be kind. This starts within the classroom, that transcends to their everyday lives.
+
+* * *
+Primary 4F
+
+**Mrs Santha Padman** <br>
+[**santha_subramaniam@schools.gov.sg**](mailto:santha_subramaniam@schools.gov.sg)
+
+Teaching and learning is a journey with routes and traffic lights – We are guided along the way, we pause to think, stop to reflect and move on again.
+
+* * *
+
+Primary 4F
+
+**Mr Skye Gan Soon Keat** <br>
+[**gan_soon_keat@schools.gov.sg**](mailto:gan_soon_keat@schools.gov.sg)
+
+Teaching is not hard work, it's Heart Work. I teach like how I would like to be taught. Putting myself in the shoes of my students allows me to come up with engaging and inspiring lessons.
 
 * * *
