@@ -3,6 +3,7 @@ title: Our Identity
 permalink: /xingnan/our-school/our-identity/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
 ### Xingnan Primary School
 
@@ -24,12 +25,12 @@ The school crest was designed by Miss Peng Huijun, a former pupil, in 1988. The 
 .
 <br>
 
-#### Our School Song.
+#### Our School Song
  
 <p align="center"> 
-Once a little village school it was but today an ultra-modern school <br>
-And we have the best facilities in Xingnan Primary School.<br>
-We will strive to always do our best in our studies and the CCAs<br>
+Once a little village school it was but today a forward-looking school. <br>
+Every child is of worth and can learn in Xingnan Primary School.<br>
+We will strive to always do our best in our studies and the CCAs.<br>
 To be useful,loyal citizens and to love our Singapore.<br>
 We are proud of Xingnan Primary School and we're proud of our teachers too. <br>
 We'll hold our heads up high, for country and for school.
