@@ -38,7 +38,7 @@ variant: markdown
 
 ***
 
-**Mr Manmeeth Singh**<br>ICT  Manager / Associate
+**Mr Manmeeth Singh**<br>ICT Associate
  <br>   [manmeeth_singh@schools.gov.sg](mailto:manmeeth_singh@schools.gov.sg) 	
 <br>
  
