@@ -2,8 +2,24 @@
 title: Academic Year 2024 Primary 1
 permalink: /parents/2024p1/
 description: ""
+variant: markdown
 ---
-Dear Parents of Academic year 2024 Primary 1,
+
+##### Start It Right <br>
+Dear Parents of Academic Year 2024 Primary 1, <br>
+We look forward to welcoming your child to an exciting year of educational journey with us.  Please click on the following image to access the Primary 1 ‘Start-it-Right’ (SIR) Kit for Parents which would be useful for your child/ward in their preparation for the new academic year.
+
+![](/images/Parents/SIR_2024.png)
+
+
+
+
+
+
+
+
+***
+##### P1 Orientation Matter
 
 We are excited to welcome you and your child to an exciting new chapter in their educational journey at Xingnan Primary School. As we prepare for the 2024 Primary 1 cohort, we want to keep you informed and engaged throughout this important phase of your child's education.
 
