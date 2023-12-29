@@ -7,7 +7,7 @@ variant: markdown
 ##### Start It Right <br>
 Dear Parents of Academic Year 2024 Primary 1, <br>
 We look forward to welcoming your child to an exciting year of educational journey with us.  Please click on the following image to access the Primary 1 ‘Start-it-Right’ (SIR) Kit for Parents which would be useful for your child/ward in their preparation for the new academic year.
- <figure><a href="/files/Parents/Start_It_Right_2024.pdf"><img style="width:50%" src="/images/Parents/SIR_2024.png"></a><b>My Start it right kit</b></figure><br>
+ <figure><a href="/files/Parents/Start_It_Right_2024.pdf"><img style="width:50%" src="/images/Parents/SIR_2024.png"></a><b></b></figure><br>
 
 
 
