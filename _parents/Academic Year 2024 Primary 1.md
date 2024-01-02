@@ -22,9 +22,6 @@ Discover how we're empowering our students to navigate the digital landscape res
 
 For a more detailed overview and additional information, we invite you to explore the presentation slides from the briefing by[ clicking on this link ](https://docs.google.com/presentation/d/1dwdwXiiF5Uj8qT0-AzY95xqFmXOAwQwv-6hW8CXX49M/edit#slide=id.g2aacdc63839_0_1146). These slides offer valuable insights and tips that will contribute to your child's digital well-being.
 
-Your involvement is crucial in fostering a positive online environment for our students. If you have any questions or need further clarification, please don't hesitate to reach out to us.
-
-Thank you for being an integral part of our school community!
 ***
 
 
