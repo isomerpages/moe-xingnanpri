@@ -1,0 +1,8 @@
+collections:
+  removed-pages:
+    output: true
+    order:
+      - Our Xingnan Spirit.md
+      - Our Learning Environment.md
+      - President's Award for Teachers.md
+      - stARS.md

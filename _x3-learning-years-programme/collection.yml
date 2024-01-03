@@ -1,0 +1,19 @@
+collections:
+  x3-learning-years-programme:
+    output: true
+    order:
+      - Overview.md
+      - Curricular/Overview.md
+      - Curricular/English Language and Social Studies.md
+      - Curricular/Mathematics.md
+      - Curricular/Science Department.md
+      - Curricular/Mother Tongue.md
+      - Curricular/PE, Art and Music.md
+      - Curricular/.keep
+      - Co Curricular/Overview.md
+      - Co Curricular/Information Communication and Digital Media & School
+        Library.md
+      - Co Curricular/Character and Citizenship Education.md
+      - Co Curricular/Co Curricular Activity.md
+      - Co Curricular/CCA Videos.md
+      - Co Curricular/.keep

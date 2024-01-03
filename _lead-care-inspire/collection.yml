@@ -1,0 +1,7 @@
+collections:
+  lead-care-inspire:
+    output: true
+    order:
+      - Professional Growth.md
+      - Well being Matters.md
+      - Learning from Experience.md

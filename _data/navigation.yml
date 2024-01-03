@@ -1,0 +1,80 @@
+logo: /images/xnlogo.png
+links:
+  - title: Xingnan
+    url: /xingnan/our-school/our-identity/
+    sublinks:
+      - title: Our School
+        url: /xingnan/our-school/our-identity/
+      - title: Our People
+        url: /xingnan/our-people/our-principals-message/
+      - title: Our Partnerships
+        url: /xingnan/our-partnerships/school-advisory-committee/
+  - title: Learn for Life
+    url: /learn-for-life/applied-learning-programme
+    sublinks:
+      - title: Applied Learning Programme
+        url: /learn-for-life/applied-learning-programme/
+      - title: Learn for Life Programme
+        url: /learn-for-life/learn-for-life-programme/
+      - title: Leaders lead Leaders
+        url: /learn-for-life/leaders-lead-leaders/
+      - title: X³ Learning Years Programme
+        url: /x3-learning-years-programme/overview/
+      - title: Ecostewardship
+        url: /learn-for-life/ecostewardship/
+      - title: Lead Care Inspire
+        url: /xingnan/Our-People/lead-care-inspire/
+  - title: Expedition
+    url: /expedition/Achievements/school-awards/
+    sublinks:
+      - title: Our Achievements
+        url: /expedition/Achievements/school-awards/
+      - title: Hot off the Press
+        url: /expedition/hot-off-the-press/
+      - title: Commemorative Events
+        url: /expedition/Commemorative-Events/90th-Anniversary-Celebrations/
+      - title: School Publications
+        url: /expedition/School-Publications/school-newsletter/
+  - title: Staff and Teachers
+    url: /staff-and-teachers/overview/
+    sublinks:
+      - title: Useful Links
+        url: /staff-and-teachers/overview/
+      - title: COM@X
+        url: https://sites.google.com/moe.edu.sg/communication-channel-teachers/home?authuser=1
+  - title: Parents
+    url: /parents/overview/
+    sublinks:
+      - title: 2024 Primary 1 Cohort
+        url: https://www.xingnanpri.moe.edu.sg/parents/2024p1
+      - title: 2024 Textbooks and Uniforms
+        url: /parents/2024saleofbooks/
+      - title: 2024 MOE FAS Application
+        url: https://www.xingnanpri.moe.edu.sg/parents/2022-moe-fas-application/
+      - title: Counselling Services
+        url: /parents/permalink/counselling/
+      - title: Special Education Services
+        url: /parents/permalink/SES/
+      - title: Big Heart Student Care
+        url: /parents/big-heart-student-care/
+      - title: PSLE-related information
+        url: /parents/PSLE-Related-Information/changes-to-psle-scoring-and-s1-posting-from-2021/
+      - title: 2023 Parents Engagement
+        url: /parents/2023parentengagement/
+      - title: Pledge to Plant
+        url: /parents/pledge-to-plant/
+      - title: School Bus
+        url: /parents/schoolbus/
+  - title: Students
+    url: /students/overview/
+    sublinks:
+      - title: Learning Plans
+        url: https://sites.google.com/xnps.edu.sg/xnps-learning-plans/home?authuser=2
+      - title: eLearning Portals
+        url: /students/overview/
+      - title: Student Icon
+        url: /students/student-icon/
+      - title: School Library
+        url: /students/school-library/
+      - title: Teaching Award 2024
+        url: /students/permalink/teacheraward2024
