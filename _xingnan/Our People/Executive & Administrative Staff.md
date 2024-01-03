@@ -13,7 +13,8 @@ variant: markdown
  
 ***
 
-**Mdm Aneza Abdullah**<br>Corporate Support Officer <br>[aneza\_abdullah@schools.gov.sg](mailto:aneza_abdullah@schools.gov.sg)	
+**Mdm Aneza Abdullah**<br>Administrative Executive
+  <br>[aneza\_abdullah@schools.gov.sg](mailto:aneza_abdullah@schools.gov.sg)	
  <br>
  
  ***
@@ -64,10 +65,6 @@ variant: markdown
 
 ***
 
-**Mr Lim Suar Poh**<br>Operations Manager<br>[lim\_suar\_poh@schools.gov.sg](mailto:lim_suar_poh@schools.gov.sg) 
-<br>
-
- ***
 
 **Mr Abdul Halim Bin Abdul Sani** <br>Operations Manager<br>[Abdul_Halim_Abdul_Sani@schools.gov.sg](mailto:Abdul_Halim_Abdul_Sani@schools.gov.sg) 
 <br>
