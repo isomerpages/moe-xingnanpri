@@ -16,7 +16,7 @@ We look forward to welcoming your child to an exciting year of educational journ
 ***
 ##### ICDM Programmes and Cyber Wellness <br>
 
-We're thrilled to share insights into our Information and Communication Development and Management (ICDM) Programmes and Cyber Wellness initiatives. Our recent briefing, held during the engaging first day of P1, aimed to provide parents with a deeper understanding of these vital programs.
+We're thrilled to share insights into our Information Communication Digital Media (ICDM) Programmes and Cyber Wellness initiatives. Our recent briefing, held during the engaging first day of P1, aimed to provide parents with a deeper understanding of these vital programs.
 
 Discover how we're empowering our students to navigate the digital landscape responsibly and develop strong information and communication skills. The session covered key aspects of Cyber Wellness, ensuring a safe and enjoyable online experience for our young learners.
 
