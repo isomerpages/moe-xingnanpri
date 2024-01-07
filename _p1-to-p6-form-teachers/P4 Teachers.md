@@ -107,5 +107,3 @@ Primary 4F
 [**gan_soon_keat@schools.gov.sg**](mailto:gan_soon_keat@schools.gov.sg)
 
 Teaching is not hard work, it's Heart Work. I teach like how I would like to be taught. Putting myself in the shoes of my students allows me to come up with engaging and inspiring lessons.
-
-* * *
