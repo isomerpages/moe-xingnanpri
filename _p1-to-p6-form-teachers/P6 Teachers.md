@@ -17,7 +17,7 @@ I believe that every child is like coal. By applying pressure, they can become d
 * * *
 Primary 6A
 
-**Mr Zhong MingQing** <br>
+**Mr Zhong Mingqing** <br>
 [**zhong_mingqing@schools.gov.sg**](mailto:zhong_mingqing@schools.gov.sg)
 
 没有不好的孩子，只有不幸的孩子。用心与孩子交流，以身作则，将他们引上自强不息之路。
@@ -72,18 +72,17 @@ Learning how to get there is often more important than the outcome. Through fail
 * * *
 Primary 6E
 
+**Mr Benjamin Wong Chun Chit** <br>
+[**wong_chun_chit_benjamin@schools.gov.sg**](mailto:wong_chun_chit_benjamin@schools.gov.sg)
+
+I believe that every child has the ability to improve. What matters is, no matter how minute, the child who had performed better today than yesterday is going to do even better tomorrow.
+* * *
+* * *
+Primary 6E
+
 **Miss Gabrielle Ong Suan Woon** <br>
 [**ong_suan_woon_gabrielle@schools.gov.sg**](mailto:ong_suan_woon_gabrielle@schools.gov.sg)
 
 I believe education is not only about teaching the ABCs or the 123s. Rather, it is using subject content to direct children to lifelong learning and character building. Imbibing children with skills and values will prime them for any and every challenge which life throws at them. My hope is for my students to not only be excellent in their academic endeavours, but to also become people of character with a love for others.
 
 Direct children onto the right path. When they are older, they will not depart from it.
-
-* * *
-Primary 6E
-
-**Mr Benjamin Wong Chun Chit** <br>
-[**wong_chun_chit_benjamin@schools.gov.sg**](mailto:wong_chun_chit_benjamin@schools.gov.sg)
-
-I believe that every child has the ability to improve. What matters is, no matter how minute, the child who had performed better today than yesterday is going to do even better tomorrow.
-* * *
