@@ -25,26 +25,10 @@ Should you encounter any challenges with your password or require technical supp
 
 
 
-#### Step-By-Step video 
-(Access Google Classroom and Student learning space (SLS))
 
-<iframe width="636" height="357" src="https://www.youtube.com/embed/KkbS5f9EZPo" title="Google Classroom and SLS Tutorial for Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Learning Platform Login Information 
 
-
-
-#### Google Classroom
-
-<p><a href="https://classroom.google.com/?pli=1"><img src="/images/lp1.png" style="width:290px;height:200px;margin-right:20px;" align="left"></a></p>  Google Classroom Username is your_name@students.edu.sg
-
-
-Example:  
-Student Name:&nbsp;Alex Lee Xiao Ming_&nbsp;
-
-Username: alex_lee_xiao-ming@students.edu.sg
-
-_More details on Student ICON can be found at :&nbsp;[XNPS Student ICON](https://www.xingnanpri.moe.edu.sg/students/student-icon/)_
 
 #### Student Learning Space (SLS)
 
