@@ -2,6 +2,5 @@ collections:
   students:
     output: true
     order:
-      - Teaching Award Nominations 2024.md
       - Useful Links and Resources.md
       - School Library.md
