@@ -2,6 +2,7 @@ collections:
   removed-pages:
     output: true
     order:
+      - Student Icon.md
       - Our Xingnan Spirit.md
       - Our Learning Environment.md
       - President's Award for Teachers.md
