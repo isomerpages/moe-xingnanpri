@@ -2,6 +2,7 @@ collections:
   removed-pages:
     output: true
     order:
+      - Teaching Award Nominations 2024.md
       - Student Icon.md
       - Our Xingnan Spirit.md
       - Our Learning Environment.md
