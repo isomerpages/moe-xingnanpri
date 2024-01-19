@@ -2,5 +2,6 @@
 title: Special Education Services
 permalink: /parents/permalink/SES/
 description: ""
+variant: markdown
 ---
-![](/images/Students/SCSCN2.jpg)
+![](/images/Parents/SCSCN3.jpg)
