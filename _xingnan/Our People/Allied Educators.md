@@ -24,14 +24,14 @@ I believe that as teachers it is our responsibility to encourage pupils, and cre
 * * *
 
 **Mdm&nbsp; Sharifah Insyeera** <br>
-&nbsp;[sharifah\_insyeera\_nasar\_ahmad@schools.gov.sg](mailto:sharifah_insyeera_nasar_ahmad@schools.gov.sg)
+[sharifah\_insyeera\_nasar\_ahmad@schools.gov.sg](mailto:sharifah_insyeera_nasar_ahmad@schools.gov.sg)
 
 All children are unique and must have a stimulating educational environment where they can grow mentally, emotionally, and socially. It is my desire to create this type of atmosphere where students can meet their full potential.
 
 * * *
 
 **Mdm Shanice Tan** <br> 
-&nbsp;[tan_khai_im_shanice@schools.gov.sg](mailto:tan_khai_im_shanice@schools.gov.sg)
+[tan_khai_im_shanice@schools.gov.sg](mailto:tan_khai_im_shanice@schools.gov.sg)
 
        
 
