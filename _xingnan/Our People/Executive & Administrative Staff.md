@@ -85,8 +85,5 @@ variant: markdown
  <br>
  
   *** 
- **Mdm Sia Ah Chai**<br>Operations Support Officer 	 	
- <br>
  
-  ***
  **Mdm Whitney Lee** <br> Photocopy Service
