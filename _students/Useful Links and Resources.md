@@ -10,10 +10,12 @@ Scroll down to read more on how to access these valuable resources.
 
 Should you encounter any challenges with your password or require technical support, please fill in the 
 [form](https://form.gov.sg/62ddf9fb7eb7140012ad0588) or email us at:&nbsp;[support@xnps.edu.sg](http://support@xnps.edu.sg%20/). We will get back to you as soonest possible.    
+  Remember to come back often as we keep adding new stuff to help you on your learning journey. 
+  Have fun exploring and happy learning!
  
- Remember to come back often as we keep adding new stuff to help you on your learning journey. 
+ **Watch the video below on how to access your SLS portal using MIMS account.**
+ <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Ja_5cUVFF-w?si=bS6J1139l6l-Z3Kk" height="315" width="560"></iframe>
  
- Have fun exploring and happy learning!
 #### Quick Links
 
 
