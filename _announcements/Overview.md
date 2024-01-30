@@ -6,6 +6,14 @@ variant: markdown
 ---
 ### Announcements
 
+  
+
+##### 2024 Inspiring Teacher of English Award
+
+The Inspiring Teacher of English Award is a national award for English teachers in Singapore schools, that acknowledges teachers who ignite a love for the English language, and are effective in helping their students speak and write accurately.
+
+Click this link [https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information) to nominate your English teacher today.
+
 ##### 2024 Primary 1 Administrative and Orientation
 
 Dear Parents / Guardians,
