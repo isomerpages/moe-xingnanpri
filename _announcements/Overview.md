@@ -14,6 +14,7 @@ The Inspiring Teacher of English Award is a national award for English teachers 
 
 Click this link [https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information) to nominate your English teacher today.
 
+***
 ##### 2024 Primary 1 Administrative and Orientation
 
 Dear Parents / Guardians,
