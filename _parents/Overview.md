@@ -72,7 +72,7 @@ Please take note of the opening hours :
 |:---:|---|
 | For Pupils<br>Monday to Friday (except school and public holidays) | 8.00 a.m. – 3.30 p.m. |
 | Lunch | 12.00 nn – 1.00 p.m. |
-| For Parents<br>Monday to Friday (except school and public holidays) | 2.00 p.m. – 3.00 p.m. |
+| For Parents<br>Monday to Friday (except school and public holidays) | 2.30 p.m. – 3.15 p.m. |
 |  |  |
 
 ##### School Uniform (Sales at Bookshop)
@@ -81,7 +81,7 @@ Please take note of the opening hours :
 |:---:|---|
 | For Pupils<br>Monday, Wednesday and Friday (except school and public holidays) (Note: Closed on Tuesday and Thursday) | 9.00 a.m. – 3.30 p.m. |
 | Lunch | 12.00 nn – 1.00 p.m. |
-| For Parents<br>Monday, Wednesday and Friday (except school and public holidays) (Note: Closed on Tuesday and Thursday) | 2.00 p.m. to 3.00 p.m. |
+| For Parents<br>Monday, Wednesday and Friday (except school and public holidays) (Note: Closed on Tuesday and Thursday) | 2.30 p.m. to 3.15 p.m. |
 |  |  |
 
 ##### [Big Heart Student Care Center](https://staging.d24s03z0ob23eb.amplifyapp.com/parents/big-heart-student-care/)&nbsp;
