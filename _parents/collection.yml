@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - 2024 Parents Engagement Session.md
       - Overview.md
       - Academic Year 2024 Primary 1.md
       - AY 2024 P1 Administrative matters.md
