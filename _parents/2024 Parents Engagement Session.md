@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>2024 Parents Engagement Session</strong></h4>
+<h4>P2, P5, P6 Parents Engagement Slides</h4>
 <p>Dear Parents / Guardians,
 <br>Please refer to the following slides presented during the Parents Engagement
 session held on February 16th, 2024.</p>
@@ -12,7 +13,7 @@ session held on February 16th, 2024.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Welcome Address by Principal</strong>  <a href="/files/Parents/2024 Parents Engagement/1__welcome_address_by_principal.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> 
-<br>(Educational Lanscape and School New Vision, Mission and Values)</p>
+<br>(Educational Landscape and School New Vision, Mission and Values)</p>
 </li>
 <li>
 <p><strong>Holistic Curriculum</strong>  <a href="/files/Parents/2024 Parents Engagement/2__Holistic_Curriculum_XNPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
@@ -27,7 +28,7 @@ session held on February 16th, 2024.</p>
 </p>
 </li>
 <li>
-<p><strong>CCNA </strong><a href="/files/Parents/2024 Parents Engagement/5__CCA_XNPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><strong>CCA </strong><a href="/files/Parents/2024 Parents Engagement/5__CCA_XNPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 </li>
 <li>
