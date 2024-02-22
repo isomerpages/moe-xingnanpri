@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - School Bus Advertisement.md
       - School Calendar.md
       - Outstanding Youth in Education Award (OYEA).md
       - Quick Links.md
