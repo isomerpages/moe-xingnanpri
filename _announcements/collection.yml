@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - Canteen Advertisement.md
       - Overview.md
       - School Calendar.md
+      - Canteen Advertisement.md
       - Outstanding Youth in Education Award (OYEA).md
       - Quick Links.md
