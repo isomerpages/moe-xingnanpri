@@ -9,7 +9,7 @@ variant: markdown
 
 
 
-**Introducing the 2023 Yearbook: A Special Keepsake for Our Students and Parents**
+**Introducing the 2023 Yearbook**
 
 Dear Students and Parents,
 
