@@ -20,7 +20,7 @@ Simply reach out to your child's form teacher, who will provide you with the pas
 
 
 <div style="text-align:center;">
-    <a href="Online Flipbook (heyzine.com)](https://heyzine.com/flip-book/XNPSYearbook2023">
+    <a href="https://heyzine.com/flip-book/XNPSYearbook2023">
         <img alt="Yearbook" src="/images/Expedition/2023_Yearbook.png" style="display:block; width:260px; height:340px; margin:0 auto;">
     </a>
 </div>
