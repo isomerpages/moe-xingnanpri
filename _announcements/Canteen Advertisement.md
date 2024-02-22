@@ -63,7 +63,7 @@ vendors to join our vibrant school community!</p>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office</p>
 <p></p>
-<p><a href="/files/Announcement Page/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Canteen Stall in Existing School </a>
+<p><a href="/files/Announcement Page/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Canteen Stall in Existing School</a>
 </p>
 </li>
 <li>
