@@ -48,24 +48,28 @@ session held on February 16th, 2024.</p>
 session held on February 23rd, 2024.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Welcome Address by Principal</strong>&nbsp; <a href="/files/Parents/2024 Parents Engagement/4__Leaders_Lead_Leaders_XNPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-<p>(Educational Landscape and School New Vision, Mission and Values)</p>
+<p><strong>Welcome Address by Principal</strong>&nbsp; <a href="/files/Parents/2024 Parents Engagement/1__Welcome_Address_by_Principal___Copy__6_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<br>(Educational Landscape and School New Vision, Mission and Values)</p>
 </li>
 <li>
-<p><strong>Holistic Curriculum</strong>&nbsp;</p>
-</li>
-<li>
-<p><strong>21CC Programme&nbsp;</strong>
+<p><strong>Holistic Curriculum</strong>&nbsp;<a href="/files/Parents/2024 Parents Engagement/2__Holistic_Curriculum.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 </li>
 <li>
-<p><strong>Leaders Lead Leaders&nbsp;</strong>
+<p><strong>21CC Programme&nbsp;</strong><a href="/files/Parents/2024 Parents Engagement/3__21CC_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 </li>
 <li>
-<p><strong>Assessment&nbsp;</strong>
-<br>(*For P5 &amp; 6 Only)</p>
+<p><strong>Leaders Lead Leaders&nbsp;</strong><a href="/files/Parents/2024 Parents Engagement/4__Leaders_Lead_Leaders.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+</p>
+</li>
+<li>
+<p><strong>Assessment&nbsp;</strong>  <a href="/files/Parents/2024 Parents Engagement/5__Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<br>(*For P3 &amp; 4 Only)</p>
+</li>
+<li>
+<p><strong>P4 SBB </strong><a href="/files/Parents/2024 Parents Engagement/6___P4_SBB.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+</p>
 </li>
 </ol>
 <p></p>
