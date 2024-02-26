@@ -41,3 +41,31 @@ session held on February 16th, 2024.</p>
 </li>
 </ol>
 <p></p>
+<p></p>
+<h4>P3 and P4 Parents Engagement Slides</h4>
+<p>Dear Parents / Guardians,
+<br>Please refer to the following slides presented during the Parents Engagement
+session held on February 23rd, 2024.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Welcome Address by Principal</strong>&nbsp; <a href="/files/Parents/2024 Parents Engagement/4__Leaders_Lead_Leaders_XNPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+</p>
+<p>(Educational Landscape and School New Vision, Mission and Values)</p>
+</li>
+<li>
+<p><strong>Holistic Curriculum</strong>&nbsp;</p>
+</li>
+<li>
+<p><strong>21CC Programme&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>Leaders Lead Leaders&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>Assessment&nbsp;</strong>
+<br>(*For P5 &amp; 6 Only)</p>
+</li>
+</ol>
+<p></p>
