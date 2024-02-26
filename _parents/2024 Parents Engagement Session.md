@@ -48,7 +48,7 @@ session held on February 16th, 2024.</p>
 session held on February 23rd, 2024.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Welcome Address by Principal</strong>&nbsp; <a href="/files/Parents/2024 Parents Engagement/1__Welcome_Address_by_Principal___Copy__6_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><strong>Welcome Address by Principal</strong>&nbsp; <a href="/files/Parents/2024 Parents Engagement/1__Welcome_Address_by_Principal___Copy__6_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> 
 <br>(Educational Landscape and School New Vision, Mission and Values)</p>
 </li>
 <li>
@@ -64,7 +64,7 @@ session held on February 23rd, 2024.</p>
 </p>
 </li>
 <li>
-<p><strong>Assessment&nbsp;</strong>  <a href="/files/Parents/2024 Parents Engagement/5__Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><strong>Assessment&nbsp;</strong>  <a href="/files/Parents/2024 Parents Engagement/5__Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> 
 <br>(*For P3 &amp; 4 Only)</p>
 </li>
 <li>
