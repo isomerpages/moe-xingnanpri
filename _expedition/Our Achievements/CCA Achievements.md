@@ -227,6 +227,7 @@ variant: markdown
     <th>Placing</th>
 		 <th>Achievers</th>
 </tr>
+	
 <tr>
     <td>2023</td>
     <td>Singapore Golf Association - Mandai Junior Golf Series -3rd &amp; 5th Leg</td>
