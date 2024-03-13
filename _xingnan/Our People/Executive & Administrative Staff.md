@@ -28,6 +28,10 @@ variant: markdown
 <br>
 
 ***
+**Mr Phang Shiow Wen Joseph**<br>Corporate Support Officer<br>[Phang_Shiow_Wen_Joseph@schools.gov.sg](mailto:Phang_Shiow_Wen_Joseph@schools.gov.sg) 	
+<br>
+
+***
 
 **Mdm Suraya Bte Sulaiman**<br>Adjunct Corporate Support Officer<br>[suraya\_sulaiman@schools.gov.sg](mailto:suraya_sulaiman@schools.gov.sg)  	 
 <br>  	
@@ -54,9 +58,11 @@ variant: markdown
 
 ***
  
+ **Mr Tirtha Caren Krishna Kutty**<br>Desktop Engineer (NCS)	  	
+<br>
 
+***
 
- ***
 
  **Mdm N. Punnitha** <br> Media Resource Library Assistant
 <br>
@@ -70,7 +76,10 @@ variant: markdown
 <br>
 
  ***
+**Mr Chu Ee Soon** <br>Operations Manager<br>[chu_ee_soon@schools.gov.sg](mailto:chu_ee_soon@schools.gov.sg) 
+<br>
 
+ ***
 **Mdm Low Chun Hong**<br>Operations Support Officer <br>
 
 ***
