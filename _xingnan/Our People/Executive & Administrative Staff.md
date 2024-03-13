@@ -41,7 +41,6 @@ variant: markdown
 ***
 
 
-***
 
 **Mr Manmeeth Singh**<br>ICT Associate
  <br>   [manmeeth_singh@schools.gov.sg](mailto:manmeeth_singh@schools.gov.sg) 	
@@ -94,10 +93,5 @@ variant: markdown
  <br>
  
   *** 
-	
-**Mr Joseph Phang**<br>Operations Support Officer  	
- <br>
- 
-  *** 
- 
+	 
  **Mdm Whitney Lee** <br> Photocopy Service
