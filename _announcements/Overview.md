@@ -41,14 +41,14 @@ Are you looking for something fun and meaningful for your child/ward to particip
 
 [Click here to read more](https://www.activesgcircle.gov.sg/activeparents/sportyplaydate2023)
 ***
-##### 2023 Monthly Newsletter
-Dear Parents, [Click Here](https://www.xingnanpri.moe.edu.sg/expedition/School-Publications/school-newsletter/) to read our Monthly Newsletter
+##### 2024 Termly Newsletter
+Dear Parents, [Click Here](https://www.xingnanpri.moe.edu.sg/expedition/School-Publications/school-newsletter/) to read our Termly Newsletter
 
 ***
 
-#### 2023 Learning Plans 
+#### 2024 Learning Plans 
 Dear Parents,
-The 2023 Learning Plans can be viewed from the following link. [Read more here.](https://sites.google.com/xnps.edu.sg/xnps-learning-plans/home?authuser=2)
+The 2024 Learning Plans can be viewed from the following link.  [(Read more here)](https://sites.google.com/xnps.edu.sg/xnps-2024-learning-plans/home?authuser=3)
 
 ***
 
