@@ -118,9 +118,9 @@ Hearts on. Minds on. Hands on.
 * * *
 Primary 2I
 
-**Mr Kwek Khiok Chai** <br>
-[**kwek_khiok_chai@schools.gov.sg**](mailto:kwek_khiok_chai@schools.gov.sg)
+**Miss Wee Xuan, Bevelyn** <br>
+[**wee_xuan_bevelyn@schools.gov.sg**](mailto:wee_xuan_bevelyn@schools.gov.sg)
 
-Today's teachers like yesterday's teachers will continue to engage the learners to develop holistically, be a good person and loyal to the country. But the approaches, the tools and technology used will have to evolve and be in sync with the current times in order to engage the learners' curiosity and interest.
+" "
 
 * * *
