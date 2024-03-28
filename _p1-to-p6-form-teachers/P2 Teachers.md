@@ -121,6 +121,6 @@ Primary 2I
 **Miss Wee Xuan, Bevelyn** <br>
 [**wee_xuan_bevelyn@schools.gov.sg**](mailto:wee_xuan_bevelyn@schools.gov.sg)
 
-" "
+My goal is to create safe and inclusive spaces for my students, where relationships can be fostered, diversity can be appreciated and lively interactions can take place. It's not just about the hard work, but the heart work!
 
 * * *
