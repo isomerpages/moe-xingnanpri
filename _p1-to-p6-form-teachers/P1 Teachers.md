@@ -83,7 +83,7 @@ Every child deserves to be acknowledged and every learner deserves to be educate
 Primary 1E
 
 **Ms La Vonda Koh** <br>
-[**lavondakoh@schools.gov.sg**](mailto:lavondakoh@schools.gov.sg)
+[**lavondakoh_A@schools.gov.sg**](mailto:lavondakoh_A@schools.gov.sg)
 
 Every child is precious and to be treasured.
 
