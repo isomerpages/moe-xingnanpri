@@ -26,10 +26,12 @@ variant: markdown
   height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://forms.moe.edu.sg/"><img src="/images/sat14.png" style="width:45%"></a></p></td><td width="155" valign="top" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><img src="/images/iconlink.png" style="width:80%"></a></p></td><td width="155" valign="top" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://go.gov.sg/#/"><img src="/images/gogov.jpg" style="width:100%"></a></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:38.8pt"><td width="155" valign="top" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:38.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://sites.google.com/xnps.edu.sg/xnps-publications/home?pli=1&amp;authuser=1"><img src="/images/Publication.jpeg" style="width:80%"></a></p></td><td width="155" valign="top" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:38.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://sites.google.com/xnps.edu.sg/xnps-publications/home?pli=1&amp;authuser=1"><img src="/images/Publication.jpeg" style="width:60%"></a></p></td><td width="155" valign="top" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:38.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://xnpsict.padlet.org/auth/login"><img src="/images/sat16.png" style="width:100%"></a></p></td><td width="155" valign="top" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:38.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://www.koobits.com/"><img src="/images/sat15.png" style="width:100%">	</a></p></td><td width="155" valign="top" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:40pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://www.gebiz.gov.sg/egov/"><img src="/images/gebiz%20mobile.png" style="width:100%"></a></p></td></tr></tbody></table>
+  height:40pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://www.gebiz.gov.sg/egov/"><img src="/images/gebiz%20mobile.png" style="width:100%"></a></p></td></tr><tr><td width="155" valign="top" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:40pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://onedrive.live.com/login/"><img src="/images/Our%20Staff/Staff%20Page%20Icon/m365.png" style="width:80%"></a></p></td></tr></tbody></table>
+
 
        
 
