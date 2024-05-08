@@ -14,6 +14,12 @@ variant: markdown
     <th>Placing</th>
 		 <th>Team</th>
 </tr>
+	<tr>
+    <td>2024</td>
+    <td>National School Games</td>
+    <td>National Champion</td>
+		<td>Senior</td>
+</tr>
 <tr>
     <td>2023</td>
     <td>National School Games</td>
