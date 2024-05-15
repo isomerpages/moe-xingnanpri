@@ -57,4 +57,9 @@ the holistic education approach we take to nurture well-rounded individuals.</p>
 <p>We look forward to seeing you at XCEL Day and sharing the incredible achievements
 of our students. Your presence will greatly encourage and motivate them
 as they continue to excel in their chosen activities.</p>
+<h3><strong>Which CCA?</strong></h3>
+<p>At Xingnan, we understand that choosing the right CCA can be challenging.
+To help you make an informed decision, we've created some insightful videos
+showcasing the various CCAs we offer.<a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Co-Curricular/cca-videos/" rel="noopener noreferrer nofollow" target="_blank">Click here to watch the videos</a>
+</p>
 <p></p>
