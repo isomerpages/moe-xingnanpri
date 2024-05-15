@@ -13,7 +13,9 @@ diverse Co-Curricular Activities (CCAs) available to our students. This
 is a wonderful opportunity for you to get a firsthand look at the vibrant
 and enriching experiences that contribute to our students' growth and development
 beyond the classroom.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="400" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aQSZFoNezE8?si=daBaPKv0YCwsljzQ&amp;controls=0"></iframe>
+</div>
 <h3><strong>What to Expect:</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
