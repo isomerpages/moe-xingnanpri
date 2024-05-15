@@ -16,7 +16,7 @@ variant: markdown
 <iframe width="417" height="233" src="https://www.youtube.com/embed/tsPXjvQOPTg" title="Basketball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### Performing Arts
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hcsHf7SilK8?si=i94m5sbkONntUg-k" height="226" width="414"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/b8nyWES5XtY?si=7zQ0iSC9Eg9X0sDJ" height="226" width="414"></iframe>
 
 
 
