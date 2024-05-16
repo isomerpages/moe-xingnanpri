@@ -6,7 +6,12 @@ variant: markdown
 ---
 ### Announcements
 
-  
+
+##### XCEL Day 2024
+
+You're invited to join us on May 25, 2024, for XCEL Day, dedicated to showcasing the diverse Co-Curricular Activities (CCAs) available to our students. This is a fantastic opportunity to get a firsthand look at the vibrant and enriching experiences that contribute to our students' growth and development beyond the classroom.
+
+Click [Here](https://www.xingnanpri.moe.edu.sg/xcelday2024/) for more information
 
 ##### 2024 Inspiring Teacher of English Award
 
