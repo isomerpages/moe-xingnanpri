@@ -7,6 +7,10 @@ variant: markdown
 ### Announcements
 
 
+##### Joint Advisory by SPF, CNB, NCPC and NCADA for School Holidays
+
+Click on the following link to read. [(Click Here)](/files/Attachment_1___Primary_Level_Joint_Infographic.pdf)
+
 ##### XCEL Day 2024
 
 You're invited to join us on May 25, 2024, for XCEL Day, dedicated to showcasing the diverse Co-Curricular Activities (CCAs) available to our students. This is a fantastic opportunity to get a firsthand look at the vibrant and enriching experiences that contribute to our students' growth and development beyond the classroom.
