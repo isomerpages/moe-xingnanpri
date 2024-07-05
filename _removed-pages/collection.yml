@@ -2,6 +2,7 @@ collections:
   removed-pages:
     output: true
     order:
+      - Indicative PSLE Score Ranges for Individual Secondary Schools.md
       - Parents Briefing for Sec 1 Posting and PSLE Result Release.md
       - Changes to PSLE Scoring & S1 Posting from 2021.md
       - Pledge to Plant.md
