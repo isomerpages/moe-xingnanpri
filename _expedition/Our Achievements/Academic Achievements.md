@@ -3,71 +3,114 @@ title: Academic Achievements
 permalink: /expedition/achievements/academicachievements/
 description: ""
 third_nav_title: Our Achievements
-variant: markdown
+variant: tiptap
 ---
-### Academic Achievements  2023
-
-**Raffles Scholarship**
-
-Recipients:
-
-*   Jenson Zhang Zhirong
-*   Victoria Minlatt
-
-* * *
-
-**NUS High School Oratorical Challenge**
-
-Recipients:
-
-*   Champion: Yukiko Yashira Tanoto
-*   Merit: Yu Joy Chenyue
-
-* * *
-
-**Proverb Through The Lenses _(Peribahasa Menerusi Lensa)_ - Gold Award**
-
-Recipients:
-
-*   Muhammad Fahim Iman Bin Mohamed Faizall (5A)
-*   Adryan Bin Muhammed Farizal (5B)
-*   Darwisy Bin Mat Yasin (5C)
-*   Mohamed Haqeem Bin Mohamed Hazmi (5E)
-
-* * *
-
-**Malay Choral Reading Competition _(Pertandingan Bicara Berirama)_ - 2nd placing**
-
-Recipients:
-
-*   Mohamad Qairish Bin Rosle (3A)
-*   Alisha Chow Huilin (3B)
-*   Nur Amirah Bte Amirul (3E)
-*   Shaan Syamil Bin Kamal (3E)
-*   Muhammad Herrizqy Rayyshan Bin Herman (4A)
-*   Nur 'Aisyah Binte Muhammad Hisyam (4B)
-*   Nur Alisha Marissa Binte Muhamad Faizal (4C)
-*   Nur Suhaidah Binte Suhaimi (5A)
-*   Nur Hylwana Bte Nur Hisham (5A)
-*   Muhammad Eri Anaqi Bin Muhd Efendi (5B)
-*   Nufail Aqeel Bin Abdul Rahim (5D)
-
-* * *
-
-**West Zone Junior Science Whiz Challenge: Inter-primary School Science Whiz Challenge 2023**
-
-Individual & Written Test recipients:
-
-*   2nd: Liu Shize from 6A
-*   10th: Phan Anh Tu from 6B
-
-* * *
-
-**West Zone Junior Science Whiz Challenge: Inter-primary School Science Whiz Challenge 2023**
-
-Top 10 Team recipients:
-
-*   Liu Shize (6A)
-*   Phan Anh Tu (6B)
-*   Han Nyi Tun (6B)
-
+<h3>Academic Achievements 2023</h3>
+<p><strong>Raffles Scholarship</strong>
+</p>
+<p>Recipients:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jenson Zhang Zhirong</p>
+</li>
+<li>
+<p>Victoria Minlatt</p>
+</li>
+</ul>
+<hr>
+<p><strong>NUS High School Oratorical Challenge</strong>
+</p>
+<p>Recipients:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Champion: Yukiko Yashira Tanoto</p>
+</li>
+<li>
+<p>Merit: Yu Joy Chenyue</p>
+</li>
+</ul>
+<hr>
+<p><strong>Proverb Through The Lenses <em>(Peribahasa Menerusi Lensa)</em> - Gold Award</strong>
+</p>
+<p>Recipients:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Fahim Iman Bin Mohamed Faizall (5A)</p>
+</li>
+<li>
+<p>Adryan Bin Muhammed Farizal (5B)</p>
+</li>
+<li>
+<p>Darwisy Bin Mat Yasin (5C)</p>
+</li>
+<li>
+<p>Mohamed Haqeem Bin Mohamed Hazmi (5E)</p>
+</li>
+</ul>
+<hr>
+<p><strong>Malay Choral Reading Competition <em>(Pertandingan Bicara Berirama)</em> - 2nd placing</strong>
+</p>
+<p>Recipients:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mohamad Qairish Bin Rosle (3A)</p>
+</li>
+<li>
+<p>Alisha Chow Huilin (3B)</p>
+</li>
+<li>
+<p>Nur Amirah Bte Amirul (3E)</p>
+</li>
+<li>
+<p>Shaan Syamil Bin Kamal (3E)</p>
+</li>
+<li>
+<p>Muhammad Herrizqy Rayyshan Bin Herman (4A)</p>
+</li>
+<li>
+<p>Nur 'Aisyah Binte Muhammad Hisyam (4B)</p>
+</li>
+<li>
+<p>Nur Alisha Marissa Binte Muhamad Faizal (4C)</p>
+</li>
+<li>
+<p>Nur Suhaidah Binte Suhaimi (5A)</p>
+</li>
+<li>
+<p>Nur Hylwana Bte Nur Hisham (5A)</p>
+</li>
+<li>
+<p>Muhammad Eri Anaqi Bin Muhd Efendi (5B)</p>
+</li>
+<li>
+<p>Nufail Aqeel Bin Abdul Rahim (5D)</p>
+</li>
+</ul>
+<hr>
+<p><strong>West Zone Junior Science Whiz Challenge: Inter-primary School Science Whiz Challenge 2023</strong>
+</p>
+<p>Individual &amp; Written Test recipients:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2nd: Liu Shize from 6A</p>
+</li>
+<li>
+<p>10th: Phan Anh Tu from 6B</p>
+</li>
+</ul>
+<hr>
+<p><strong>West Zone Junior Science Whiz Challenge: Inter-primary School Science Whiz Challenge 2023</strong>
+</p>
+<p>Top 10 Team recipients:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Liu Shize (6A)</p>
+</li>
+<li>
+<p>Phan Anh Tu (6B)</p>
+</li>
+<li>
+<p>Han Nyi Tun (6B)</p>
+</li>
+</ul>
+<p></p>
