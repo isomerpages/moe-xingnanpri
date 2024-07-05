@@ -65,13 +65,6 @@ Primary 4D
 
 Meaningful learning occurs when students are allowed to confront real problems, make choices, and find solutions.
 
-* * *
- Primary 4D
- 
-**Miss Khoo Chun Mei** <br>
-[**khoo_chun_mei@schools.gov.sg**](mailto:khoo_chun_mei@schools.gov.sg)
-
-Learning takes place when curiosity is encouraged.
 
 * * *
 Primary 4E
