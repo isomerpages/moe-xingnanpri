@@ -25,45 +25,82 @@ The School Advisory Committee promotes closer relationship between members of th
         th, td {
             border: 1px solid black;
             padding: 8px;
-            text-align: left;
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+        }
+        figure {
+            margin: 0;
+            padding: 0;
+        }
+        figcaption {
+            font-weight: bold;
         }
     </style>
 
 
     <table>
         <tbody><tr>
-            <td><img alt="Image 1" src="/images/sac1.png"></td>
-            <td><img alt="Image 2" src="/images/sac2.png"></td>
+            <td>
+                <figure>
+                    <img alt="MR TAY YI CHONG ANDRE" src="/images/sac1.png" style="width:50%">
+                    <figcaption>MR TAY YI CHONG ANDRE<br><i>CHAIRMAN</i></figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img alt="MR LIM BAK HENG" src="/images/sac2.png" style="width:60%">
+                    <figcaption>MR LIM BAK HENG<br><i>VICE CHAIRMAN</i></figcaption>
+                </figure>
+            </td>
         </tr>
         <tr>
-            <td>MR TAY YI CHONG ANDRE<br>CHAIRMAN</td>
-            <td>MR LIM BAK HENG<br>VICE CHAIRMAN</td>
+            <td>
+                <figure>
+                    <img alt="MRS CINDY ONG" src="/images/Our%20Staff/01%20SL/SL1.png" style="width:50%">
+                    <figcaption>MRS CINDY ONG<br><i>SECRETARY</i></figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img alt="MS SOO HUI WAH" src="/images/sac4.png" style="width:60%">
+                    <figcaption>MS SOO HUI WAH<br><i>HONORARY TREASURER</i></figcaption>
+                </figure>
+            </td>
         </tr>
         <tr>
-            <td><img alt="Image 3" src="/images/Our%20Staff/01%20SL/SL1.png"></td>
-            <td><img alt="Image 4" src="/images/sac4.png"></td>
+            <td>
+                <figure>
+                    <img alt="MR KEN KOH PEI WENG" src="/images/sac5.png" style="width:50%">
+                    <figcaption>MR KEN KOH PEI WENG<br><i>MEMBER</i></figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img alt="MS DENISE WONG" src="/images/sac6.png" style="width:65%">
+                    <figcaption>MS DENISE WONG<br><i>MEMBER</i></figcaption>
+                </figure>
+            </td>
         </tr>
         <tr>
-            <td>MRS CINDY ONG<br>SECRETARY</td>
-            <td>MS SOO HUI WAH<br>HONORARY TREASURER</td>
-        </tr>
-        <tr>
-            <td><img alt="Image 5" src="/images/sac5.png"></td>
-            <td><img alt="Image 6" src="/images/sac6.png"></td>
-        </tr>
-        <tr>
-            <td>MR KEN KOH PEI WENG<br>MEMBER</td>
-            <td>MS DENISE WONG<br>MEMBER</td>
-        </tr>
-        <tr>
-            <td><img alt="Image 7" src="/images/sac7.png"></td>
-            <td><img alt="Image 8" src="image8.jpg"></td>
-        </tr>
-        <tr>
-            <td>MS LIM XIAO ZHUANG SLYVIA<br>MEMBER</td>
-            <td>Serena Genesis Adsit<br>Member</td>
+            <td>
+                <figure>
+                    <img alt="MS LIM XIAO ZHUANG SLYVIA" src="/images/Our%20Staff/05%20SAC/xnpssac7.png" style="width:50%">
+                    <figcaption>MS LIM XIAO ZHUANG SLYVIA<br><i>MEMBER</i></figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img alt="Serena Genesis Adsit" src="/images/sac8.png" style="width:50%">
+                    <figcaption>Serena Genesis Adsit<br><i>MEMBER</i></figcaption>
+                </figure>
+            </td>
         </tr>
     </tbody></table>
+
+
+
 
 
 
