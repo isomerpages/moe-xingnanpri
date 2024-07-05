@@ -2,6 +2,7 @@ collections:
   removed-pages:
     output: true
     order:
+      - National Events.md
       - Canteen Advertisement.md
       - School Bus Advertisement.md
       - 2023 Parents Engagement Session.md
