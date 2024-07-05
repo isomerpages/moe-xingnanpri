@@ -21,13 +21,13 @@ the school's efforts in providing a holistic education for our students.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC1.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC2.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC2.png">
 </div>
 </td>
 </tr>
