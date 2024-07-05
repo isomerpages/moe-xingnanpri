@@ -64,7 +64,7 @@ The School Advisory Committee promotes closer relationship between members of th
     <td>
       <figure>
         <img alt="Serena Genesis Adsit" src="/images/Our%20Staff/05%20SAC/SAC8.png" style="width:50%">
-        <figcaption><b>Serena Genesis Adsit</b><br><i>MEMBER</i></figcaption>
+        <figcaption><b>SERENA GENESIS ADSIT</b><br><i>MEMBER</i></figcaption>
       </figure>
     </td>
   </tr>
