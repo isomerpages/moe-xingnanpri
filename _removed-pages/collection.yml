@@ -2,6 +2,7 @@ collections:
   removed-pages:
     output: true
     order:
+      - Pledge to Plant.md
       - Festival Celebrations.md
       - National Events.md
       - Canteen Advertisement.md
