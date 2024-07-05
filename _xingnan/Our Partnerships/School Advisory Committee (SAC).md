@@ -33,47 +33,25 @@ the school's efforts in providing a holistic education for our students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR TAY YI CHONG ANDRE</strong>
-<br><em>CHAIRMAN</em>
+<p><strong><sup>MR TAY YI CHONG ANDRE</sup></strong><sup><br></sup><em><sup>CHAIRMAN</sup></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><sup>MR LIM BAK HENG</sup></strong><sup><br></sup><em><sup>VICE CHAIRMAN</sup></em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC3.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC4.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC5.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC6.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC4.png">
 </div>
 </td>
 </tr>
@@ -89,13 +67,35 @@ the school's efforts in providing a holistic education for our students.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/xnpssac7.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC5.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC8.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC6.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/xnpssac7.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC8.png">
 </div>
 </td>
 </tr>
