@@ -10,6 +10,63 @@ variant: markdown
 <p align="justify"> 
 The School Advisory Committee promotes closer relationship between members of the local community and the school personnel. It provides opportunities for the local community to take an interest in student welfare and supports the school's efforts in providing a holistic education for our students.
 	</p>
+	
+
+
+
+    
+    
+    <title>Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+
+
+    <table>
+        <tbody><tr>
+            <td><img alt="Image 1" src="/images/sac1.png"></td>
+            <td><img alt="Image 2" src="/images/sac2.png"></td>
+        </tr>
+        <tr>
+            <td>MR TAY YI CHONG ANDRE<br>CHAIRMAN</td>
+            <td>MR LIM BAK HENG<br>VICE CHAIRMAN</td>
+        </tr>
+        <tr>
+            <td><img alt="Image 3" src="/images/Our%20Staff/01%20SL/SL1.png"></td>
+            <td><img alt="Image 4" src="/images/sac4.png"></td>
+        </tr>
+        <tr>
+            <td>MRS CINDY ONG<br>SECRETARY</td>
+            <td>MS SOO HUI WAH<br>HONORARY TREASURER</td>
+        </tr>
+        <tr>
+            <td><img alt="Image 5" src="/images/sac5.png"></td>
+            <td><img alt="Image 6" src="/images/sac6.png"></td>
+        </tr>
+        <tr>
+            <td>MR KEN KOH PEI WENG<br>MEMBER</td>
+            <td>MS DENISE WONG<br>MEMBER</td>
+        </tr>
+        <tr>
+            <td><img alt="Image 7" src="/images/sac7.png"></td>
+            <td><img alt="Image 8" src="image8.jpg"></td>
+        </tr>
+        <tr>
+            <td>MS LIM XIAO ZHUANG SLYVIA<br>MEMBER</td>
+            <td>Serena Genesis Adsit<br>Member</td>
+        </tr>
+    </tbody></table>
+
+
+
 
 |  	|  	|
 |---	|---	|
