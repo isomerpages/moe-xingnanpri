@@ -27,13 +27,15 @@ the school's efforts in providing a holistic education for our students.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/SAC2.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MR TAY YI CHONG ANDRE</strong>
+<br><em>CHAIRMAN</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
