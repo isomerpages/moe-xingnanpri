@@ -6,31 +6,17 @@ variant: markdown
 ---
 ### Announcements
 
-
+***
 ##### Joint Advisory by SPF, CNB, NCPC and NCADA for School Holidays
 
 Click on the following link to read. [(Click Here)](/files/Attachment_1___Primary_Level_Joint_Infographic.pdf)
 
-##### XCEL Day 2024
-
-You're invited to join us on May 25, 2024, for XCEL Day, dedicated to showcasing the diverse Co-Curricular Activities (CCAs) available to our students. This is a fantastic opportunity to get a firsthand look at the vibrant and enriching experiences that contribute to our students' growth and development beyond the classroom.
-
-Click [Here](https://www.xingnanpri.moe.edu.sg/xcelday2024/) for more information
-
+***
 ##### 2024 Inspiring Teacher of English Award
 
 The Inspiring Teacher of English Award is a national award for English teachers in Singapore schools, that acknowledges teachers who ignite a love for the English language, and are effective in helping their students speak and write accurately.
 
 Click this link [https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information) to nominate your English teacher today.
-
-***
-##### 2024 Primary 1 Administrative and Orientation
-
-Dear Parents / Guardians,
-Please  [Click Here](https://www.xingnanpri.moe.edu.sg/parents/2024p1/) to access the 2024 primary 1 **administrative**&nbsp;and&nbsp;**orientation**&nbsp;matters
-
-
-Thank you.
 
 ***
 
@@ -42,13 +28,6 @@ As the year-end holidays are approaching, please refer to the attachment to aler
 
 [Click here to read more](/files/Announcement%20Page/Attachment_3___Joint_School_Primary_Infographic.pdf)
 
-***
-
-##### Sporty Playdate for Families by SportSG in the December School Holidays
-
-Are you looking for something fun and meaningful for your child/ward to participate during the December school holidays? Are you looking for some sporty activities to bond with your family? You may refer to the poster below and scan the QR code for more information! Have a fun and enjoyable holidays with your loved ones!
-
-[Click here to read more](https://www.activesgcircle.gov.sg/activeparents/sportyplaydate2023)
 ***
 ##### 2024 Termly Newsletter
 Dear Parents, [Click Here](https://www.xingnanpri.moe.edu.sg/expedition/School-Publications/school-newsletter/) to read our Termly Newsletter
