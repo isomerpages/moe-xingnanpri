@@ -87,11 +87,20 @@ variant: markdown
  **Mr Abu Bakar Bin Aman**<br>Operations Support Officer 	 	
  <br>
 
-* ***
+***
 
 **Mdm Chan Mooi**<br>Operations Support Officer  	
  <br>
  
-  *** 
-	 
+***
+**Mr Yeo Chin Guan** <br>
+Operations Support Officer (Contract)
+***
+
+
+**Mdm Tang Siew Hua** <br>
+Operations Support Officer (Contract)
+
+***
+ 
  **Mdm Whitney Lee** <br> Photocopy Service
