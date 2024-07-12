@@ -101,6 +101,13 @@ her presence will make a positive difference to the community.</p>
 <p><a href="mailto:maslinda_abd_wahab@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maslinda_abd_wahab@schools.gov.sg</a>
 </p>
 <hr>
+<p><strong>Miss Ng Yin Whee</strong>
+<br>Assistant Year Head (Covering)</p>
+<p>I believe that every child is like coal. By applying pressure, they can
+become diamonds.</p>
+<p><a href="mailto:ng_yin_whee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yin_whee@schools.gov.sg</a>
+</p>
+<p></p>
 <p><strong>Miss Chen Degeng</strong>
 <br>Assistant Year Head (Middle Primary)</p>
 <p>Meaningful learning occurs when students are allowed to confront real
