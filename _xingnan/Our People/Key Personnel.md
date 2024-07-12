@@ -107,7 +107,6 @@ become diamonds.</p>
 <p><a href="mailto:ng_yin_whee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yin_whee@schools.gov.sg</a>
 </p>
 <hr>
-<p></p>
 <p><strong>Miss Chen Degeng</strong>
 <br>Assistant Year Head (Middle Primary)</p>
 <p>Meaningful learning occurs when students are allowed to confront real
@@ -263,7 +262,6 @@ wiser.</p>
 <p>Every Child Deserves An Opportunity To Learn.</p>
 <p><a href="mailto:taufek_b_siniwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">taufek_b_siniwi@schools.gov.sg</a>
 </p>
-<hr>
 <hr>
 <p><strong>Mdm Tuminah Bte Mohd Bakir</strong>&nbsp;
 <br>Senior Teacher - Malay Language&nbsp;</p>
