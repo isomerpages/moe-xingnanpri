@@ -64,7 +64,6 @@ through music extend to all areas of life.</p>
 <p><a href="mailto:angela_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">angela_lin@schools.gov.sg</a>
 </p>
 <hr>
-<hr>
 <h5>Partnership and Publicity</h5>
 <p><strong>Mdm Rachel Sin Meng Hui</strong> 
 <br>Subject Head - Partnership &amp; Publicity&nbsp;</p>
