@@ -3,104 +3,104 @@ title: Executive & Administrative Staff
 permalink: /xingnan/Our-People/executive-and-administrative-staff/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-#### Executive &amp; Administrative Staff
-
-**Mrs Jesslyn Phon**<br>Administration Manager <br>[goh_boon_kim@schools.gov.sg](mailto:goh_boon_kim@schools.gov.sg)
-
- <br>
- 
-***
-
-**Mdm Aneza Abdullah**<br>Administrative Executive
-  <br>[aneza\_abdullah@schools.gov.sg](mailto:aneza_abdullah@schools.gov.sg)	
- <br>
- 
- ***
-
- **Mdm Zuridah Hussein**<br>Corporate Support Officer<br>[zuridah\_hussein@schools.gov.sg](mailto:zuridah_hussein@schools.gov.sg) 
+<h4>Executive &amp; Administrative Staff</h4>
+<p><strong>Mrs Jesslyn Phon</strong>
+<br>Administration Manager
+<br><a href="mailto:goh_boon_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_boon_kim@schools.gov.sg</a>
+</p>
+<p>
 <br>
- 
- ***
-
-**Mdm Lim Jenny**<br>Corporate Support Officer<br>[lim\_jenny@schools.gov.sg](mailto:lim_jenny@schools.gov.sg) 	
+</p>
+<hr>
+<p><strong>Mdm Aneza Abdullah</strong>
+<br>Administrative Executive
+<br><a href="mailto:aneza_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aneza_abdullah@schools.gov.sg</a> 
 <br>
-
-***
-**Mr Phang Shiow Wen Joseph**<br>Corporate Support Officer<br>[Phang_Shiow_Wen_Joseph@schools.gov.sg](mailto:Phang_Shiow_Wen_Joseph@schools.gov.sg) 	
+</p>
+<hr>
+<p><strong>Mdm Zuridah Hussein</strong>
+<br>Corporate Support Officer
+<br><a href="mailto:zuridah_hussein@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zuridah_hussein@schools.gov.sg</a>
 <br>
-
-***
-
-**Mdm Suraya Bte Sulaiman**<br>Adjunct Corporate Support Officer<br>[suraya\_sulaiman@schools.gov.sg](mailto:suraya_sulaiman@schools.gov.sg)  	 
-<br>  	
-
-#### Information Communication and Digital Media 
-
-***
-
-
-
-**Mr Manmeeth Singh**<br>ICT Associate
- <br>   [manmeeth_singh@schools.gov.sg](mailto:manmeeth_singh@schools.gov.sg) 	
+</p>
+<hr>
+<p><strong>Mdm Lim Jenny</strong>
+<br>Corporate Support Officer
+<br><a href="mailto:lim_jenny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jenny@schools.gov.sg</a> 
 <br>
- 
- ***
- **Mr Mahadar Hanafiah**<br> Adjunct ICT  Manager 
- <br>   [mahadar_hanafiah@schools.gov.sg](mailto:mahadar_hanafiah@schools.gov.sg) 	
+</p>
+<hr>
+<p><strong>Mr Phang Shiow Wen Joseph</strong>
+<br>Corporate Support Officer
+<br><a href="mailto:Phang_Shiow_Wen_Joseph@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Phang_Shiow_Wen_Joseph@schools.gov.sg</a> 
 <br>
- 
- ***
- **Mr Khairil Anuar Salim**<br>Desktop Engineer (NCS)	  	
+</p>
+<hr>
+<p></p>
+<h4>Information Communication and Digital Media</h4>
+<hr>
+<p><strong>Mr Manmeeth Singh</strong>
+<br>ICT Associate
+<br><a href="mailto:manmeeth_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">manmeeth_singh@schools.gov.sg</a> 
 <br>
-
-***
- 
- **Mr Tirtha Caren Krishna Kutty**<br>Desktop Engineer (NCS)	  	
+</p>
+<hr>
+<p><strong>Mr Mahadar Hanafiah</strong>
+<br>Adjunct ICT Manager
+<br><a href="mailto:mahadar_hanafiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mahadar_hanafiah@schools.gov.sg</a> 
 <br>
-
-***
-
-
- **Mdm N. Punnitha** <br> Media Resource Library Assistant
+</p>
+<hr>
+<p><strong>Mr Khairil Anuar Salim</strong>
+<br>Desktop Engineer (NCS)
 <br>
-  
-#### Operational Support Team
-
-***
-
-
-**Mr Abdul Halim Bin Abdul Sani** <br>Operations Manager<br>[Abdul_Halim_Abdul_Sani@schools.gov.sg](mailto:Abdul_Halim_Abdul_Sani@schools.gov.sg) 
+</p>
+<hr>
+<p><strong>Mr Tirtha Caren Krishna Kutty</strong>
+<br>Desktop Engineer (NCS)
 <br>
-
- ***
-**Mr Chu Ee Soon** <br>Operations Manager<br>[chu_ee_soon@schools.gov.sg](mailto:chu_ee_soon@schools.gov.sg) 
+</p>
+<hr>
+<p><strong>Mdm N. Punnitha</strong> 
+<br>Media Resource Library Assistant
 <br>
-
- ***
-**Mdm Low Chun Hong**<br>Operations Support Officer <br>
-
-***
-
-
- **Mr Abu Bakar Bin Aman**<br>Operations Support Officer 	 	
- <br>
-
-***
-
-**Mdm Chan Mooi**<br>Operations Support Officer  	
- <br>
- 
-***
-**Mr Yeo Chin Guan** <br>
-Operations Support Officer (Contract)
-***
-
-
-**Mdm Tang Siew Hua** <br>
-Operations Support Officer (Contract)
-
-***
- 
- **Mdm Whitney Lee** <br> Photocopy Service
+</p>
+<h4>Operational Support Team</h4>
+<hr>
+<p><strong>Mr Abdul Halim Bin Abdul Sani</strong> 
+<br>Operations Manager
+<br><a href="mailto:Abdul_Halim_Abdul_Sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Abdul_Halim_Abdul_Sani@schools.gov.sg</a>
+<br>
+</p>
+<hr>
+<p><strong>Mr Chu Ee Soon</strong> 
+<br>Operations Manager
+<br><a href="mailto:chu_ee_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chu_ee_soon@schools.gov.sg</a>
+<br>
+</p>
+<hr>
+<p><strong>Mdm Low Chun Hong</strong>
+<br>Operations Support Officer
+<br>
+</p>
+<hr>
+<p><strong>Mr Abu Bakar Bin Aman</strong>
+<br>Operations Support Officer
+<br>
+</p>
+<hr>
+<p><strong>Mdm Chan Mooi</strong>
+<br>Operations Support Officer
+<br>
+</p>
+<hr>
+<p><strong>Mr Yeo Chin Guan</strong> 
+<br>Operations Support Officer (Contract)</p>
+<hr>
+<p><strong>Mdm Tang Siew Hua</strong> 
+<br>Operations Support Officer (Contract)</p>
+<hr>
+<p><strong>Mdm Whitney Lee</strong> 
+<br>Photocopy Service</p>
