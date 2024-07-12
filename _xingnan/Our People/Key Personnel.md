@@ -3,7 +3,7 @@ title: Key Personnel
 permalink: /xingnan/our-people/key-personnel/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
 <h3>Key Personnel</h3>
 <h4>School Leaders</h4>
@@ -54,7 +54,7 @@ helping hand to encourage and support the pupils. I hope to be the person
 that the pupils can depend on.</p>
 <p><a href="mailto:chng_yen_teng_sheree@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_yen_teng_sheree@schools.gov.sg</a>
 </p>
-<p></p>
+<hr>
 <p></p>
 <p><strong>Miss Lin Pei-Jun Angela</strong>&nbsp;
 <br>HOD AESTHETICS
@@ -107,6 +107,7 @@ her presence will make a positive difference to the community.</p>
 become diamonds.</p>
 <p><a href="mailto:ng_yin_whee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yin_whee@schools.gov.sg</a>
 </p>
+<hr>
 <p></p>
 <p><strong>Miss Chen Degeng</strong>
 <br>Assistant Year Head (Middle Primary)</p>
