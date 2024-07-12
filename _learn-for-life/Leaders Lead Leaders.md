@@ -26,3 +26,4 @@ In Xingnan, the EXCO Prefects and Primary 5/6 CCA Leaders go through a lighthous
 <h4>Teaching of the 7 habits&nbsp;</h4>
 Students internalize the 7 habits through our comprehensive lesson packages conducted during the weekly Form Teacher Guidance Period (FTGP) lessons and through our Start It Right, Keep It Right &amp; End It Right lesson packages conducted on the first day of school. Teachers revisit the habits with the pupils. Pupils learn the habits through hands-on activities and conversations with their peers and teachers.
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQR08GY6Eq3qgLcoF0ndvmbktg60-n9IxFDcAmhmnCKkDkluQrazvAk82qQ3Px1p1MXctaXq4qa8RCS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
