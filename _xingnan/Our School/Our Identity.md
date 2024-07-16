@@ -13,11 +13,37 @@ every child is of worth and can learn.</p>
 <h4>School Philosophy</h4>
 <p>We believe that Every child is of worth and can learn.</p>
 <h4>School Vision</h4>
-<p>Confident Person | Self-directed Learner | Compassionate Leader</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Confident Person</p>
+</li>
+<li>
+<p>Self-directed Learner</p>
+</li>
+<li>
+<p>Compassionate Leader</p>
+</li>
+</ul>
 <h4>School Mission</h4>
 <p>To provide meaningful experiences that nurture minds and build character.</p>
-<p></p>
 <h4>Our Core Values</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>R</strong>espect</p>
+</li>
+<li>
+<p><strong>R</strong>esponsibility</p>
+</li>
+<li>
+<p><strong>R</strong>esilience</p>
+</li>
+<li>
+<p><strong>I</strong>ntegrity</p>
+</li>
+<li>
+<p><strong>E</strong>mpathy&nbsp;</p>
+</li>
+</ul>
 <p></p>
 <h4>School Crest</h4>
 <div class="isomer-image-wrapper">
