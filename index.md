@@ -32,7 +32,7 @@ sections:
       title: Learn For Life
       description: Xingnanians discover their own talents. make the best of their
         talents and realise their full potential as self-directed learners and
-        gracious citizens.
+        compasionate leader.
       button: Read More
       url: /learn-for-life/applied-learning-programme/
       image: /images/Homepage/image2.png
