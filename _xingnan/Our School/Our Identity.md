@@ -10,12 +10,16 @@ variant: tiptap
 in 1932, the school has grown in many ways to-date. Committed to our mission
 and vision, Xingnan anchors its programmes on the school’s philosophy that
 every child is of worth and can learn.</p>
-<h4><br>School Philosophy </h4>
+<h4>School Philosophy</h4>
 <p>We believe that Every child is of worth and can learn.</p>
-<p></p>
 <h4>School Vision</h4>
 <p>Confident Person | Self-directed Learner | Compassionate Leader</p>
-<h4>Our School Crest</h4>
+<h4>School Mission</h4>
+<p>To provide meaningful experiences that nurture minds and build character.</p>
+<p></p>
+<h4>Our Core Values</h4>
+<p></p>
+<h4>School Crest</h4>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/logo.png">
 </div>
@@ -36,7 +40,7 @@ to remind all Xingnanians of our history and how far we have come.</p>
 <p>.
 <br>
 </p>
-<h4>Our School Song</h4>
+<h4>School Song</h4>
 <p>Once a little village school it was but today a forward-looking school.
 <br>Every child is of worth and can learn in Xingnan Primary School.
 <br>We will strive to always do our best in our studies and the CCAs.
