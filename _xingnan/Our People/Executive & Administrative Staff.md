@@ -10,9 +10,6 @@ variant: tiptap
 <br>Administration Manager
 <br><a href="mailto:goh_boon_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_boon_kim@schools.gov.sg</a>
 </p>
-<p>
-<br>
-</p>
 <hr>
 <p><strong>Mdm Aneza Abdullah</strong>
 <br>Administrative Executive
@@ -44,12 +41,6 @@ variant: tiptap
 <p><strong>Mr Manmeeth Singh</strong>
 <br>ICT Associate
 <br><a href="mailto:manmeeth_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">manmeeth_singh@schools.gov.sg</a> 
-<br>
-</p>
-<hr>
-<p><strong>Mr Mahadar Hanafiah</strong>
-<br>Adjunct ICT Manager
-<br><a href="mailto:mahadar_hanafiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mahadar_hanafiah@schools.gov.sg</a> 
 <br>
 </p>
 <hr>
