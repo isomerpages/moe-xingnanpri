@@ -60,17 +60,11 @@ in the primary education system from an 8 year course to a 6 year course,
 the crest was redesigned to include 6 bands, each indicating a year of
 study in primary school. &nbsp;The phrase “Established 1932” was also included
 to remind all Xingnanians of our history and how far we have come.</p>
-<div class="isomer-image-wrapper">
-<img style="width:120%" height="auto" width="100%" src="/images/xnpscreed.JPG">
-</div>
-<p>.
-<br>
-</p>
+<p></p>
 <h4>School Song</h4>
 <p>Once a little village school it was but today a forward-looking school.
 <br>Every child is of worth and can learn in Xingnan Primary School.
 <br>We will strive to always do our best in our studies and the CCAs.
 <br>To be useful, loyal citizens and to love our Singapore.
 <br>We are proud of Xingnan Primary School and we're proud of our teachers
-too.
-<br>We'll hold our heads up high, for country and for school.</p>
+too. We'll hold our heads up high, for country and for school.</p>
