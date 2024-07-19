@@ -59,8 +59,11 @@ that the pupils can depend on.</p>
 <p><strong>Miss Lin Pei-Jun Angela</strong>&nbsp;
 <br>HOD AESTHETICS
 <br>HOD PE/CCA</p>
-<p>Teaching music encompasses educating the whole child. The skills acquired
-through music extend to all areas of life.</p>
+<p>As the famous philosopher, Plato, once said “Music and art are the wings
+of the mind.”</p>
+<p>I believe in helping every child explore their imagination and discover
+their own creative expression, to ignite a passion that extends beyond
+the academics.</p>
 <p><a href="mailto:angela_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">angela_lin@schools.gov.sg</a>
 </p>
 <hr>
