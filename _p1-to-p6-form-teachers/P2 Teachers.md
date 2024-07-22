@@ -66,7 +66,7 @@ become diamonds.</p>
 <hr>
 <p>Primary 2F</p>
 <p><strong>Mdm Juhariyah Bte Johari</strong> 
-<br><strong><a href="mailto:chua_geok_fan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juhariyah_johari@schools.gov.sg </a></strong>
+<br><strong><a href="mailto:chua_geok_fan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juhariyah_johari@schools.gov.sg</a></strong>
 </p>
 <p>To be confident, one needs to be competent. To be competent, one needs
 to be fearless to continuously seek knowledge and skills with humility.</p>
@@ -115,5 +115,17 @@ classrooms.</p>
 relationships can be fostered, diversity can be appreciated and lively
 interactions can take place. It's not just about the hard work, but the
 heart work!</p>
+<hr>
+<p>Primary 2I</p>
+<p><strong>Mr Kwek Khiok Chai</strong> 
+</p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">wek_khiok_chai@schools.gov.sg</a></strong>
+</p>
+<p></p>
+<p>Today's teachers like yesterday's teachers will continue to engage the
+learners to develop holistically, be a good person and loyal to the country.
+But the approaches, the tools and technology used will have to evolve and
+be in sync with the current times in order to engage the learners' curiosity
+and interest.</p>
 <hr>
 <p></p>
