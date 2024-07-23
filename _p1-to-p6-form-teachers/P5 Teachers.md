@@ -44,6 +44,9 @@ to them.</p>
 <p>Mdm Goh Xinmin</p>
 <p><strong><a href="mailto:goh_xinmin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xinmin@schools.gov.sg</a></strong>
 </p>
+<p>I believe in promoting the joy of learning in our pupils. Pupils must
+feel curious and happy when they come to school. I hope to inspire our
+pupils to become passionate learners and gracious individuals.</p>
 <hr>
 <p>Primary 5C</p>
 <p><strong>Mrs Isabel Soo</strong> 
