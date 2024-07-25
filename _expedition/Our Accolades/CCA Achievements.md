@@ -2,7 +2,7 @@
 title: CCA Achievements
 permalink: /expedition/Achievements/cca-achievements/
 description: ""
-third_nav_title: Our Achievements
+third_nav_title: Our Accolades
 variant: markdown
 ---
 ### Volleyball

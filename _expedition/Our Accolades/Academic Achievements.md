@@ -2,7 +2,7 @@
 title: Academic Achievements
 permalink: /expedition/achievements/academicachievements/
 description: ""
-third_nav_title: Our Achievements
+third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h3>Academic Achievements 2023</h3>

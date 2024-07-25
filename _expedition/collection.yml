@@ -2,11 +2,11 @@ collections:
   expedition:
     output: true
     order:
-      - Our Achievements/.keep
-      - Our Achievements/School Awards.md
-      - Our Achievements/Staff Achievements.md
-      - Our Achievements/Academic Achievements.md
-      - Our Achievements/CCA Achievements.md
+      - Our Accolades/.keep
+      - Our Accolades/School Awards.md
+      - Our Accolades/Staff Achievements.md
+      - Our Accolades/Academic Achievements.md
+      - Our Accolades/CCA Achievements.md
       - Hot off the Press.md
       - Commemorative Events/90th Anniversary Celebrations (2021 to 2022).md
       - Commemorative Events/85th Anniversary Celebrations.md

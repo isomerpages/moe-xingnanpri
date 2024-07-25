@@ -2,7 +2,7 @@
 title: Staff Achievements
 permalink: /expedition/our-accolade/permalink/
 description: ""
-third_nav_title: Our Achievements
+third_nav_title: Our Accolades
 variant: markdown
 ---
 ## 2023
