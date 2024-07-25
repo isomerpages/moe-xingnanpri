@@ -8,7 +8,7 @@ third_nav_title: Our People
 <h4>Teacher Work Attachment Programme Semester 2, 2024 from Pioneer Primary School:-</h4>
 <p></p>
 <hr>
-<p><strong>Ms Christine Chan - (P2-B) </strong>
+<p><strong>Ms Christine Chan - (P2-B)</strong>
 </p>
 <p><strong><a href="mailto:OTH_chan_lay_peng_christine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">OTH_chan_lay_peng_christine@schools.gov.sg</a></strong>
 </p>
