@@ -34,17 +34,20 @@ content.</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 Year Book</p>
+<p><a href="https://designrr.page/?id=250767&amp;token=3990580765&amp;type=FP&amp;h=7630" rel="noopener noreferrer nofollow" target="_blank">2022 Yearbook</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021 Year Book</p>
+<p><a href="https://designrr.page/?id=245368&amp;token=3268992976&amp;type=FP&amp;h=2444" rel="noopener noreferrer nofollow" target="_blank">2021 Yearbook</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2020 Year Book</p>
+<p><a href="https://designrr.page/?id=263683&amp;token=1530465513&amp;type=FP&amp;h=6500" rel="noopener noreferrer nofollow" target="_blank">2020 Yearbook</a>
+</p>
 </td>
 </tr>
 </tbody>
