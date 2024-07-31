@@ -2,6 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Student MIMS Self Service.md
+      - MIMS Account Self Reset Guide.md
       - Useful Links and Resources.md
       - School Library.md
