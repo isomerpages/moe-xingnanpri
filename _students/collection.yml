@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Useful Links and Resources.md
+      - MIMS Account Self Reset Guide.md
       - School Library.md
