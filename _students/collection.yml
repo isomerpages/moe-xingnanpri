@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Student MIMS Self Service.md
       - Useful Links and Resources.md
       - School Library.md
