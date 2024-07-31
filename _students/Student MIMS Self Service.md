@@ -5,14 +5,15 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Students,</p>
-<p></p>
-<p>You can now reset your MIMS password by performing a one-time set-up of
-answers to 3-security challenge questions.</p>
-<h4>Please follow the instructions below to set up your 3-security challenge questions. </h4>
+<p>You can now reset your MIMS password by yourself, but first, you need
+to set-up the 3-security challenge questions.</p>
+<p><strong>Please follow the instructions below to perform a one-time set of  3-security challenge questions.</strong>
+</p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://portal.mims.moe.gov.sg/sspr"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/posters_mims_sspr_guide_Page_1.jpg"></a>
 <p></p>
-<h4>After setting the three security questions, you will be able to initiate a self-reset of your password using the "forget password" option on the MIMS portal. For detailed instructions, please refer to the guide below.</h4>
+<p><strong>After setting the three security questions, you will be able to initiate a self-reset of your password using the "forget password" option on the MIMS portal. For detailed instructions, please refer to the guide below.</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/posters_mims_sspr_guide_Page_2.jpg">
 </div>
