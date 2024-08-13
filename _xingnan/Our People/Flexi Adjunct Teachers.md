@@ -6,12 +6,12 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h4>Adjunct Teachers</h4>
-<p><strong>Mdm Choo Bee Leng</strong> 
+<p><strong>Mdm Choo Bee Leng</strong>
 </p>
 <p><a href="mailto:choo_bee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_bee_leng@schools.gov.sg</a>
 </p>
 <hr>
-<p><strong>Mdm Sulastri Ryanti Binte Sujak </strong>
+<p><strong>Mdm Sulastri Ryanti Binte Sujak</strong>
 </p>
 <p><a href="mailto:sulastri_ryanti_sujak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sulastri_ryanti_sujak@schools.gov.sg</a>
 </p>
