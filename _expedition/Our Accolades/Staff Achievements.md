@@ -6,8 +6,8 @@ third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h2>2024</h2>
-<h4>National Day Awards 2024 </h4>
-<p><strong>The Commendation Medal </strong>
+<h4>National Day Awards 2024</h4>
+<p><strong>The Commendation Medal</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
