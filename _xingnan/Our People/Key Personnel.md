@@ -57,7 +57,6 @@ that the pupils can depend on.</p>
 <hr>
 <p></p>
 <p><strong>Miss Lin Pei-Jun Angela</strong>&nbsp;
-<br>HOD AESTHETICS
 <br>HOD PE/CCA</p>
 <p>As the famous philosopher, Plato, once said “Music and art are the wings
 of the mind.”</p>
