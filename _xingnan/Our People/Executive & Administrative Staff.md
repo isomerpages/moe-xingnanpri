@@ -5,93 +5,300 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h4>Executive &amp; Administrative Staff</h4>
-<p><strong>Mrs Jesslyn Phon</strong>
-<br>Administration Manager
-<br><a href="mailto:goh_boon_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_boon_kim@schools.gov.sg</a>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Administration</strong>
 </p>
-<hr>
-<p><strong>Mdm Aneza Abdullah</strong>
-<br>Administrative Executive
-<br><a href="mailto:aneza_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aneza_abdullah@schools.gov.sg</a> 
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
 </p>
-<hr>
-<p><strong>Mdm Zuridah Hussein</strong>
-<br>Corporate Support Officer
-<br><a href="mailto:zuridah_hussein@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zuridah_hussein@schools.gov.sg</a>
-<br>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
 </p>
-<hr>
-<p><strong>Mdm Lim Jenny</strong>
-<br>Corporate Support Officer
-<br><a href="mailto:lim_jenny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jenny@schools.gov.sg</a> 
-<br>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
 </p>
-<hr>
-<p><strong>Mr Phang Shiow Wen Joseph</strong>
-<br>Corporate Support Officer
-<br><a href="mailto:Phang_Shiow_Wen_Joseph@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Phang_Shiow_Wen_Joseph@schools.gov.sg</a> 
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jesslyn Phon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_boon_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_boon_kim@schools.gov.sg</u></a>
 </p>
-<hr>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Aneza Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aneza_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>aneza_abdullah@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zuridah Hussein</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zuridah_hussein@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zuridah_hussein@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Jenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_jenny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_jenny@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Phang Shiow Wen Joseph</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Phang_Shiow_Wen_Joseph@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Phang_Shiow_Wen_Joseph@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Information Communication and Digital Media</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Manmeeth Singh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:manmeeth_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>manmeeth_singh@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer (NCS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khairil Anuar Salim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tirtha Caren Krishna Kutty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media Resource Library Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm N. Punnitha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<h4>Information Communication and Digital Media</h4>
-<hr>
-<p><strong>Mr Manmeeth Singh</strong>
-<br>ICT Associate
-<br><a href="mailto:manmeeth_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">manmeeth_singh@schools.gov.sg</a> 
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Operational Support Team</strong>
 </p>
-<hr>
-<p><strong>Mr Khairil Anuar Salim</strong>
-<br>Desktop Engineer (NCS)
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
 </p>
-<hr>
-<p><strong>Mr Tirtha Caren Krishna Kutty</strong>
-<br>Desktop Engineer (NCS)
-<br>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
 </p>
-<hr>
-<p><strong>Mdm N. Punnitha</strong> 
-<br>Media Resource Library Assistant
-<br>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
 </p>
-<h4>Operational Support Team</h4>
-<hr>
-<p><strong>Mr Abdul Halim Bin Abdul Sani</strong> 
-<br>Operations Manager
-<br><a href="mailto:Abdul_Halim_Abdul_Sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Abdul_Halim_Abdul_Sani@schools.gov.sg</a>
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Halim Bin Abdul Sani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Abdul_Halim_Abdul_Sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Abdul_Halim_Abdul_Sani@schools.gov.sg</u></a>
 </p>
-<hr>
-<p><strong>Mr Chu Ee Soon</strong> 
-<br>Operations Manager
-<br><a href="mailto:chu_ee_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chu_ee_soon@schools.gov.sg</a>
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chu Ee Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chu_ee_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chu_ee_soon@schools.gov.sg</u></a>
 </p>
-<hr>
-<p><strong>Mdm Low Chun Hong</strong>
-<br>Operations Support Officer
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Low Chun Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
 </p>
-<hr>
-<p><strong>Mr Abu Bakar Bin Aman</strong>
-<br>Operations Support Officer
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Abu Bakar Bin Aman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
 </p>
-<hr>
-<p><strong>Mdm Chan Mooi</strong>
-<br>Operations Support Officer
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Mooi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
 </p>
-<hr>
-<p><strong>Mr Yeo Chin Guan</strong> 
-<br>Operations Support Officer (Contract)</p>
-<hr>
-<p><strong>Mdm Tang Siew Hua</strong> 
-<br>Operations Support Officer (Contract)</p>
-<hr>
-<p><strong>Mdm Whitney Lee</strong> 
-<br>Photocopy Service</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer (Contract)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Chin Guan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tang Siew Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Photocopy Service</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Whitney Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

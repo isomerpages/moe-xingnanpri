@@ -3,7 +3,6 @@ title: Teacher Work Attachment
 permalink: /teacher-work-attachment/
 variant: tiptap
 description: ""
-third_nav_title: Our People
 ---
 <h4>Teacher Work Attachment Programme Semester 2, 2024 from Pioneer Primary School:-</h4>
 <p></p>
