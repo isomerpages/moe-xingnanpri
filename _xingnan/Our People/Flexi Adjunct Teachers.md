@@ -5,41 +5,103 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h4>Adjunct Teachers</h4>
-<p><strong>Mdm Choo Bee Leng</strong>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
 </p>
-<p><a href="mailto:choo_bee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_bee_leng@schools.gov.sg</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
 </p>
-<hr>
-<p><strong>Mdm Sulastri Ryanti Binte Sujak</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Choo Bee Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choo_bee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>choo_bee_leng@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:sulastri_ryanti_sujak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sulastri_ryanti_sujak@schools.gov.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sulastri Ryanti Binte Sujak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sulastri_ryanti_sujak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sulastri_ryanti_sujak@schools.gov.sg</u></a>
 </p>
-<hr>
-<p><strong>Mdm Flora Chew Seok May</strong>
-<br><strong><a href="mailto:chew_Seok_May@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_seok_may@schools.gov.sg</a></strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Flora Chew Seok May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_seok_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chew_seok_may@schools.gov.sg</u></a>
 </p>
-<hr>
-<p><strong>Mdm Kavitha Kiresnasamy</strong>
-<br><strong><a href="mailto:Kavitha_Kiresnasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_kiresnasamy@schools.gov.sg</a></strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kavitha Kiresnasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kavitha_kiresnasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kavitha_kiresnasamy@schools.gov.sg</u></a>
 </p>
-<hr>
-<p><strong>Mrs Soong-Ong Buang Eng</strong>
-<br><strong><a href="mailto:soong-ong_buang_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soong-ong_buang_eng@schools.gov.sg</a></strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Soong-Ong Buang Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soong-ong_buang_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soong-ong_buang_eng@schools.gov.sg</u></a>
 </p>
-<hr>
-<p><strong>Mr Tan Chong Hian</strong>
-<br><strong><a href="mailto:tan_chong_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chong_hian@schools.gov.sg</a></strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chong Hian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chong_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_chong_hian@schools.gov.sg</u></a>
 </p>
-<hr>
-<p><strong>Ms Adeline Wong Ai Leng </strong>
-<br><strong><a href="mailto:adeline_wong_ai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_wong_ai_leng@schools.gov.sg</a></strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Adeline Wong Ai Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adeline_wong_ai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>adeline_wong_ai_leng@schools.gov.sg</u></a>
 </p>
-<hr>
-<p><strong>Mr Ho Sau Ken</strong>
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Sau Ken</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
 </p>
-<hr>
-<p><strong>Mr Lim Chan Kuang</strong>
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Chan Kuang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
