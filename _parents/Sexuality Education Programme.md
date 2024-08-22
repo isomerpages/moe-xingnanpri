@@ -1,10 +1,10 @@
 ---
-title: Sexuality Education Programme in Xingnan Primary School
+title: Sexuality Education Programme
 permalink: /parents/sexuality-education-programme/
 description: ""
 variant: markdown
 ---
-### Sexuality Education Programme in Xingnan Primary School
+### Sexuality Education 
 
 #### Overview
 
