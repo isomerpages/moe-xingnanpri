@@ -705,7 +705,7 @@ variant: tiptap
 <p>Mdm Nur Syahida Bte Paiman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Mdm Nur Syahida Bte </u><a href="mailto:Paimannur_syahida_paiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Paimannur_syahida_paiman@schools.gov.sg</u></a>
+<p><a href="nur_syahida_paiman@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_syahida_paiman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
