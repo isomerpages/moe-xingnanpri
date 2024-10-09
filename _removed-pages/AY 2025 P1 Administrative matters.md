@@ -1,6 +1,6 @@
 ---
-title: AY 2024 P1 Administrative matters
-permalink: /parents/2024p1admin/
+title: AY 2025 P1 Administrative matters
+permalink: /parents/2025p1admin/
 description: ""
 variant: markdown
 ---

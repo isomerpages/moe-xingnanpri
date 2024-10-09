@@ -1,6 +1,6 @@
 ---
-title: Academic Year 2024 Primary 1
-permalink: /parents/2024p1/
+title: Academic Year 2025 Primary 1
+permalink: /parents/2025p1/
 description: ""
 variant: markdown
 ---

@@ -1,6 +1,6 @@
 ---
-title: AY 2024 P1 Orientation
-permalink: /parents/2024p1orientation/
+title: AY 2025 P1 Orientation
+permalink: /parents/2025p1orientation/
 description: ""
 variant: markdown
 ---
