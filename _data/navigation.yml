@@ -47,6 +47,8 @@ links:
   - title: Parents
     url: /parents/overview/
     sublinks:
+      - title: FAS Application - 2025
+        url: /parents/2025-moe-fas-application/
       - title: Counselling Services
         url: /parents/permalink/counselling/
       - title: Special Education Services
