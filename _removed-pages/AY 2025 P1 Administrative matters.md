@@ -86,12 +86,9 @@ the school administrative office.</p>
 or disbursement of award or subsidy via online at (1)&nbsp;MOE eGIRO page.</p>
 <p>Current eGIRO participating banks: DBS/POSB, OCBC, UOB, BOC, HSBC, Maybank
 and SCB. Please refer to the&nbsp;(2) user guide&nbsp;for the steps to
-sign up.</p>
-<p>Please email me a screenshot of SMS notification upon successful submission
-of the e-GIRO application. See example below:
-<br>
-<br>
-</p>
+sign up. Kindly upload the SMS notification confirming the successful GIRO
+submission using the link given.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/P1 Orientation/egiro text 2024.png">
 </div>
@@ -99,6 +96,7 @@ of the e-GIRO application. See example below:
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">(1)MOE eGIRO page</a>
 </p>
 <p>&nbsp;</p>
@@ -106,6 +104,14 @@ of the e-GIRO application. See example below:
 <p><a href="https://file.go.gov.sg/moeegirouserguide.pdf" rel="noopener noreferrer nofollow" target="_blank">(2) user guide</a>
 </p>
 <p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="https://go.gov.sg/xnps-egiro" rel="noopener nofollow" target="_blank">E-Giro Confirmation Submission</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Required</p>
@@ -147,7 +153,7 @@ account to submit particulars of himself/herself.
 <td rowspan="1" colspan="1">
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDP Form<br></a>
 </p>
-<p>*Form is accessible from 27 Nov, 10 am to 29 Dec</p>
+<p>*Form is accessible from 25 Nov, 10 am to 29 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Required</p>
