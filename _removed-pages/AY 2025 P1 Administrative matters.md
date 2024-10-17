@@ -85,46 +85,28 @@ the school administrative office.</p>
 <p>Sign up for GIRO arrangement with MOE for payment of school fees and charges
 or disbursement of award or subsidy via online at (1)&nbsp;MOE eGIRO page.</p>
 <p>Current eGIRO participating banks: DBS/POSB, OCBC, UOB, BOC, HSBC, Maybank
-and SCB. Please refer to the&nbsp;</p>
+and SCB. Please refer to the&nbsp;(2) user guide&nbsp;for the steps to
+sign up.</p>
 <p></p>
-<p>(2) user guide&nbsp;for the steps to sign up. Kindly upload the SMS notification
-confirming the successful (3) E-GIRO submission using the link given.</p>
+<p>Kindly upload the SMS notification confirming the successful (3) E-GIRO
+submission using the link given.</p>
+<p></p>
+<p><em>Example SMS Confirmation</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/P1 Orientation/egiro text 2024.png">
 </div>
-<p><strong>&nbsp;</strong>
+<p><em>&nbsp;</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
 <p></p>
-<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">(1)MOE eGIRO page</a>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">(1)MOE eGIRO page</a>&nbsp;</p>
 <p><a href="https://file.go.gov.sg/moeegirouserguide.pdf" rel="noopener noreferrer nofollow" target="_blank">(2) user guide</a>
 </p>
-<p>&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p><a href="https://go.gov.sg/xnps-egiro" rel="noopener nofollow" target="_blank">(3) E-Giro Confirmation Submission</a>
@@ -132,6 +114,7 @@ confirming the successful (3) E-GIRO submission using the link given.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Required</p>
 </td>
 </tr>
@@ -154,27 +137,6 @@ school and billed by the school.</p>
 <p>Required</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Student Details Portal (SDP)</strong>
-</p>
-<p>Both parents must login separately to the portal using his/her own Singpass
-account to submit particulars of himself/herself.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDP Form<br></a>
-</p>
-<p>*Form is accessible from 25 Nov, 10 am to 31 Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required</p>
 </td>
 </tr>
 <tr>
@@ -399,6 +361,73 @@ of students from Xingnan Primary School.
 </td>
 <td rowspan="1" colspan="1">
 <p>Optional</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Student Details Portal (SDP)</strong>
+</p>
+<p>Both parents must login separately to the portal using his/her own Singpass
+account to submit particulars of himself/herself.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDP Form<br></a>
+</p>
+<p>*Form is accessible from 25 Nov, 10 am to 31 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Required</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dental Consent Form</strong>
+</p>
+<p>The Health Promotion Board (HPB) provides dental screening and basic dental
+treatment for student in schools. Please click on the link to give your
+consent to provide these services for your child/ward.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Dental Form</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Required</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
