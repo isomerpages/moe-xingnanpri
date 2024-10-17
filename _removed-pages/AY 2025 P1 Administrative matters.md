@@ -87,27 +87,33 @@ or disbursement of award or subsidy via online at (1)&nbsp;MOE eGIRO page.</p>
 <p>Current eGIRO participating banks: DBS/POSB, OCBC, UOB, BOC, HSBC, Maybank
 and SCB. Please refer to the&nbsp;(2) user guide&nbsp;for the steps to
 sign up.</p>
-<p>Please email me a screenshot of SMS notification upon successful submission
-of the e-GIRO application. See example below:
-<br>
-<br>
-</p>
+<p></p>
+<p>Kindly upload the SMS notification confirming the successful (3) E-GIRO
+submission using the link given.</p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/P1 Orientation/egiro text 2024.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Parents/P1 Orientation/egiro text 2024.png">
 </div>
-<p><strong>&nbsp;</strong>
+<p><em>&nbsp;<sup>Example</sup> <sup>SMS Confirmation</sup></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">(1)MOE eGIRO page</a>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">(1)MOE eGIRO page</a>&nbsp;</p>
 <p><a href="https://file.go.gov.sg/moeegirouserguide.pdf" rel="noopener noreferrer nofollow" target="_blank">(2) user guide</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
+<p><a href="https://go.gov.sg/xnps-egiro" rel="noopener nofollow" target="_blank">(3) E-Giro Confirmation Submission</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Required</p>
 </td>
 </tr>
@@ -130,49 +136,6 @@ school and billed by the school.</p>
 <p>Required</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Student Details Portal (SDP)</strong>
-</p>
-<p>Both parents must login separately to the portal using his/her own Singpass
-account to submit particulars of himself/herself.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDP Form<br></a>
-</p>
-<p>*Form is accessible from 27 Nov, 10 am to 29 Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Dental Consent Form</strong>
-</p>
-<p>The Health Promotion Board (HPB) provides dental screening and basic dental
-treatment for student in schools. Please click on the link to give your
-consent to provide these services for your child/ward.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Dental Form</a>
-</p>
-<p>*Form is accessible from 31 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required</p>
 </td>
 </tr>
 <tr>
@@ -203,45 +166,9 @@ Play Store app on your mobile phone to download.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Required</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Uniform</strong>
+<p></p>
+<p><em><sup>Parents who have already activated the PG portal can skip this task. Please ensure your spouse or registered legal guardian has also onboarded the Parent Gateway portal.</sup></em>
 </p>
-<p>Please click on the following link to access the school uniform vendors
-website. Sale of school uniform will start from the 17th November 2024.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/<br><br>School</a>
-<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Textbooks</strong>
-</p>
-<p>Please click on the following link to access the bookshop website. Online
-purchase will start from 20 Nov 2023. For 2024 Primary 1 Chinese / Malay
-/ Tamil language books, they will only be available from early Dec 2024.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.ihuntforbooks.com/<br><br>School</a>
-<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required</p>
 </td>
 </tr>
 <tr>
@@ -375,6 +302,84 @@ of students from Xingnan Primary School.
 </td>
 <td rowspan="1" colspan="1">
 <p>Optional</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Student Details Portal (SDP)</strong>
+</p>
+<p>Both parents must login separately to the portal using his/her own Singpass
+account to submit particulars of himself/herself.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDP Form<br></a>
+</p>
+<p>*Form is accessible from 25 Nov, 10 am to 31 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Required</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dental Consent Form</strong>
+</p>
+<p>The Health Promotion Board (HPB) provides dental screening and basic dental
+treatment for student in schools. Please click on the link to give your
+consent to provide these services for your child/ward.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Dental Form</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Required</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Uniform</strong>
+</p>
+<p>Please click on the following link to access the school uniform vendors
+website. Sale of school uniform will start from the 17th November 2024.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/<br><br>School</a>
+<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Required</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Textbooks</strong>
+</p>
+<p>Please click on the following link to access the bookshop website. Online
+purchase will start from 20 Nov 2023. For 2024 Primary 1 Chinese / Malay
+/ Tamil language books, they will only be available from early Dec 2024.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.ihuntforbooks.com/<br><br>School</a>
+<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Required</p>
 </td>
 </tr>
 </tbody>

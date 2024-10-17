@@ -1,17 +1,17 @@
 ---
-title: Sale of Textbooks and School Attire (2024)
-permalink: /parents/2024saleofbooks/
+title: Sale of Textbooks and School Attire (2025)
+permalink: /parents/2025saleofbooks/
 description: ""
 variant: markdown
 ---
 Dear Parents and Guardians,
 
-We are delighted to welcome you to the upcoming 2024 school year! As we prepare for another exciting academic term, we understand the importance of providing you with all the necessary information to ensure a smooth start. Below, you will find the booklist and uniform details for the 2024 school year.
+We are delighted to welcome you to the upcoming 2025 school year! As we prepare for another exciting academic term, we understand the importance of providing you with all the necessary information to ensure a smooth start. Below, you will find the booklist and uniform details for the 2025 school year.
 
 
 
-Kindly access the online purchasing guide for [school book](/files/Parents/Booklist%202024/Online_Buying_Guide_for_Textbooks.pdf) and [attire](/files/Parents/Booklist%202024/Online_Buying_Guide_for_School_Attire.pdf)  by clicking on the provided links. To read the guide for FAS Student attire, please [click here](/files/Parents/Booklist%202024/Online_Buying_Guide_for_School_Attire_FAS_2024___0112023.pdf).
-	
+Kindly access the online purchasing guide for [school book](/files/Parents/Booklist%202024/Online_Buying_Guide_for_Textbooks.pdf) and [attire](/files/Parents/Books%20and%20Attire%202025/Xingnan_Primary_School_online_ordering_guide_for_NON_FAS_2025____09102024.pdf)  by clicking on the provided links. To read the guide for FAS Student attire, please [click here](/files/Parents/Books%20and%20Attire%202025/Xingnan_Primary_School_online_ordering_guide_for_FAS__2025____09102024.pdf).
+
         
 ***
 ##### **Booklist 2025**<br>
