@@ -8,7 +8,7 @@ variant: markdown
 
 <img src="/images/Parents/BHSC.png" style="width:100%">
 
-#### Student Care Registration 2023
+#### Student Care Registration 2025
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Do4hSWR8s4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> 
 
