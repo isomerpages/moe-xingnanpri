@@ -92,3 +92,6 @@ convenient transportation for our students.</p>
 <p>Warm regards,</p>
 <p>Warm regards,
 <br>School Admin Team.</p>
+<p></p>
+<p><a href="/files/Parents/schools bus terms and conditions .pdf" rel="noopener nofollow" target="_blank">2024</a>
+</p>
