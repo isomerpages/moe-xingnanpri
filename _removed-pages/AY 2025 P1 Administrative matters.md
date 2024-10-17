@@ -171,7 +171,7 @@ account to submit particulars of himself/herself.
 <td rowspan="1" colspan="1">
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDP Form<br></a>
 </p>
-<p>*Form is accessible from 25 Nov, 10 am to 29 Dec</p>
+<p>*Form is accessible from 25 Nov, 10 am to 31 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Required</p>
