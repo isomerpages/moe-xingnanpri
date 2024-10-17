@@ -91,13 +91,12 @@ sign up.</p>
 <p>Kindly upload the SMS notification confirming the successful (3) E-GIRO
 submission using the link given.</p>
 <p></p>
-<p><em>Example SMS Confirmation</em>
-</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/P1 Orientation/egiro text 2024.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Parents/P1 Orientation/egiro text 2024.png">
 </div>
-<p><em>&nbsp;</em>
+<p><em>&nbsp;<sup>Example</sup> <sup>SMS Confirmation</sup></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,28 +140,6 @@ school and billed by the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Dental Consent Form</strong>
-</p>
-<p>The Health Promotion Board (HPB) provides dental screening and basic dental
-treatment for student in schools. Please click on the link to give your
-consent to provide these services for your child/ward.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Dental Form</a>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,6 +166,8 @@ Play Store app on your mobile phone to download.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Required</p>
+<p><em><sup>Parents who have already activated the PG portal can skip this task. Please ensure your spouse or registered legal guardian has also onboarded the Parent Gateway portal.</sup></em>
+</p>
 </td>
 </tr>
 <tr>
