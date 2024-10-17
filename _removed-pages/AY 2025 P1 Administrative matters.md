@@ -193,7 +193,7 @@ consent to provide these services for your child/ward.
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Dental Form</a>
 </p>
-<p>*Form is accessible from 31 Dec 2023</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Required</p>
