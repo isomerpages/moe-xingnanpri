@@ -166,47 +166,9 @@ Play Store app on your mobile phone to download.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Required</p>
+<p></p>
 <p><em><sup>Parents who have already activated the PG portal can skip this task. Please ensure your spouse or registered legal guardian has also onboarded the Parent Gateway portal.</sup></em>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Uniform</strong>
-</p>
-<p>Please click on the following link to access the school uniform vendors
-website. Sale of school uniform will start from the 17th November 2024.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/<br><br>School</a>
-<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Textbooks</strong>
-</p>
-<p>Please click on the following link to access the bookshop website. Online
-purchase will start from 20 Nov 2023. For 2024 Primary 1 Chinese / Malay
-/ Tamil language books, they will only be available from early Dec 2024.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.ihuntforbooks.com/<br><br>School</a>
-<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required</p>
 </td>
 </tr>
 <tr>
@@ -386,13 +348,18 @@ consent to provide these services for your child/ward.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>School Uniform</strong>
+</p>
+<p>Please click on the following link to access the school uniform vendors
+website. Sale of school uniform will start from the 17th November 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/<br><br>School</a>
+<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Required</p>
 </td>
 </tr>
 <tr>
@@ -400,13 +367,19 @@ consent to provide these services for your child/ward.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>School Textbooks</strong>
+</p>
+<p>Please click on the following link to access the bookshop website. Online
+purchase will start from 20 Nov 2023. For 2024 Primary 1 Chinese / Malay
+/ Tamil language books, they will only be available from early Dec 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.ihuntforbooks.com/<br><br>School</a>
+<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Required</p>
 </td>
 </tr>
 </tbody>
