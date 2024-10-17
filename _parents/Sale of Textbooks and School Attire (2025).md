@@ -6,7 +6,7 @@ variant: markdown
 ---
 Dear Parents and Guardians,
 
-We are delighted to welcome you to the upcoming 2024 school year! As we prepare for another exciting academic term, we understand the importance of providing you with all the necessary information to ensure a smooth start. Below, you will find the booklist and uniform details for the 2024 school year.
+We are delighted to welcome you to the upcoming 2025 school year! As we prepare for another exciting academic term, we understand the importance of providing you with all the necessary information to ensure a smooth start. Below, you will find the booklist and uniform details for the 2025 school year.
 
 
 
