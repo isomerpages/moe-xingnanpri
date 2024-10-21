@@ -336,7 +336,7 @@ treatment for student in schools.</p>
 <p><strong>School Uniform</strong>
 </p>
 <p>Please click on the following link to access the school uniform vendors
-website. Sale of school uniform will start from the 17th November 2024.</p>
+website. Sale of school uniform will start from the 26th November 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/<br><br>School</a>
@@ -355,11 +355,10 @@ website. Sale of school uniform will start from the 17th November 2024.</p>
 <p><strong>School Textbooks</strong>
 </p>
 <p>Please click on the following link to access the bookshop website. Online
-purchase will start from 20 Nov 2023. For 2024 Primary 1 Chinese / Malay
-/ Tamil language books, they will only be available from early Dec 2024.</p>
+purchase will start from 26 Nov 2024. For 2024 .</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.ihuntforbooks.com/<br><br>School</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">rbooks.com/<br><br>School</a>
 <a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
 </p>
 </td>
