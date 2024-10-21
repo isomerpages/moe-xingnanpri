@@ -172,8 +172,8 @@ Play Store app on your mobile phone to download.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Bus</strong>
 </p>
-<p>Please visit the school bus page for more information and register your
-interest.</p>
+<p>Please click on the school bus application if your child/ward need school
+bus arrangement.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,15 +191,13 @@ interest.</p>
 <td rowspan="1" colspan="1">
 <p><strong>MOE-FAS</strong>
 </p>
-<p>(1)Please Click on the link to apply for the 2025 MOE FAS application</p>
+<p>This application for Singaporean students who need financial assistance
+for their studies.</p>
 <p></p>
-<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025-moe-fas-application/" rel="noopener nofollow" target="_blank">Please click here for more information on MOE FAS Application</a>
-</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">(1) MOE e-FAS</a>
-</p>
+<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025-moe-fas-application/" rel="noopener nofollow" target="_blank">Please click here for more information on MOE FAS and Online Submission Form. </a>&nbsp;</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>&nbsp;</strong>
