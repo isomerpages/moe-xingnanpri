@@ -329,7 +329,7 @@ treatment for student in schools. Please click on the link to give your
 consent to provide these services for your child/ward.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Dental Form</a>
+<p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Health and Dental Form</a>
 </p>
 <p></p>
 </td>
