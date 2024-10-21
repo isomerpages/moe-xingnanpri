@@ -5,11 +5,11 @@ description: ""
 variant: tiptap
 ---
 <p>Dear Parents/Guardians,</p>
-<p>Kindly review the table below to complete the necessary administrative
-tasks for your child's/ward's administrative matters. Please note that
-all tasks labeled as "Required" in the remarks column must be submitted.</p>
+<p>Please review the table below to complete the administrative tasks for
+your child/ward. Please note that the task labeled as "Required" in the
+remarks column must be submitted by 30th October 2024.</p>
 <p>If you require additional information, please do not hesitate to contact
-the school administrative office.</p>
+the school's General Office.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -41,9 +41,9 @@ the school administrative office.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Admin Matters</strong>
+<p><strong>XNPS Pupil Data Form</strong>
 </p>
-<p>Please click on the link to provide the following details of your child’s.</p>
+<p>Please click on the form to complete the following details:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Commuting details</p>
@@ -61,13 +61,13 @@ the school administrative office.</p>
 <p>Emergency Contact</p>
 </li>
 <li>
-<p>Medical Details</p>
+<p>Medical Information</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><a href="https://form.gov.sg/65f24cc6a79454b49d9b1ff5" rel="noopener noreferrer nofollow" target="_blank">XNPS Admin Matters</a>
+<p><a href="https://form.gov.sg/65f24cc6a79454b49d9b1ff5" rel="noopener noreferrer nofollow" target="_blank">XNPS Pupil Data Form.</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,22 +80,17 @@ the school administrative office.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>E-Giro</strong>
+<p><strong>eGiro</strong>
 </p>
 <p>Sign up for GIRO arrangement with MOE for payment of school fees and charges
-or disbursement of award or subsidy via online at (1)&nbsp;MOE eGIRO page.</p>
-<p>Current eGIRO participating banks: DBS/POSB, OCBC, UOB, BOC, HSBC, Maybank
-and SCB. Please refer to the&nbsp;(2) user guide&nbsp;for the steps to
-sign up.</p>
+or disbursement of award/subsidy via online at (1)&nbsp;MOE eGIRO page.</p>
 <p></p>
-<p>Kindly upload the SMS notification confirming the successful (3) E-GIRO
-submission using the link given.</p>
+<p>Please refer to the&nbsp;(2) user guide&nbsp;for the steps to sign up
+and the participating banks.</p>
 <p></p>
+<p>Kindly upload the SMS notification confirming the successful (3) eGIRO
+submission using the provided link.</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Parents/P1 Orientation/egiro text 2024.png">
-</div>
 <p><em>&nbsp;<sup>Example</sup> <sup>SMS Confirmation</sup></em>
 </p>
 </td>
@@ -108,7 +103,7 @@ submission using the link given.</p>
 </p>
 <p></p>
 <p></p>
-<p><a href="https://go.gov.sg/xnps-egiro" rel="noopener nofollow" target="_blank">(3) E-Giro Confirmation Submission</a>
+<p><a href="https://go.gov.sg/xnps-egiro" rel="noopener nofollow" target="_blank">(3) eGiro Confirmation Submission</a>
 </p>
 <p></p>
 </td>
@@ -125,11 +120,10 @@ submission using the link given.</p>
 <p><strong>Edusave (for Singaporeans only)</strong>
 </p>
 <p>Apply to use Edusave funds for payment of school fees by MOE and/or enrichment
-programmes charges incurred by the child/ward in a government or Government-aided
-school and billed by the school.</p>
+programmes charges incurred by the child/ward billed by the school.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave</a>
+<p><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,9 +152,9 @@ as declaration of travel plans.
 Play Store app on your mobile phone to download.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en&amp;gl=US&amp;pli=1" rel="noopener noreferrer nofollow" target="_blank">Click to Download from Google Play</a>
+<p><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en&amp;gl=US&amp;pli=1" rel="noopener noreferrer nofollow" target="_blank">Android User</a>
 <br>
-<br><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">Click to Download from Apple Store</a>
+<br><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">IOS User</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,8 +172,8 @@ Play Store app on your mobile phone to download.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Bus</strong>
 </p>
-<p>Please visit the school bus page for more information and register your
-interest.</p>
+<p>Please click on the school bus application if your child/ward need school
+bus arrangement.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,29 +191,18 @@ interest.</p>
 <td rowspan="1" colspan="1">
 <p><strong>MOE-FAS</strong>
 </p>
-<p>(1)Please Click on the link given to apply for the 2024 MOE FAS application</p>
-<p>&nbsp;</p>
-<p>(2)Please complete the hardcopy application form and submit to school’s
-General Office together with all supporting documents for the scenarios
-listed below:</p>
-<p>a) Families with other dependents (Great grandparents, Aunties/Uncles,
-Cousins and others)</p>
-<p>b) Family with more than 6 children in GGAS</p>
-<p>c) Family with more than 5 unmarried children not in GGAS</p>
-<p>d) Family with more than 3 grandparents in the household</p>
-<p>&nbsp;</p>
-<p><a href="https://cms.isomer.gov.sg/files/Parents/P1%202024/2024moefasapplicationform.pdf" rel="noopener noreferrer nofollow" target="_blank">Click on the Pamphlet for more information on MOE FAS.</a>
-</p>
+<p>This application for Singaporean students who need financial assistance
+for their studies.</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">(1) MOE e-FAS</a>
-</p>
+<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025-moe-fas-application/" rel="noopener nofollow" target="_blank">Please click here for more information on MOE FAS application</a>&nbsp;</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;<a href="https://cms.isomer.gov.sg/files/Parents/P1%202024/2024moefasapplicationform.pdf" rel="noopener noreferrer nofollow" target="_blank">(2) MOE FAS Form</a>
-</p>
+<p>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Optional</p>
@@ -234,19 +217,9 @@ Cousins and others)</p>
 </p>
 <p>Please fill in the form to register as our school parent support member.
 For more information, Please contact :</p>
-<p>&nbsp;</p>
-<p>Mao Xihui (XNPSG Chairperson)</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">xihui2508@gmail.com</a>
+<p>Mao Xihui (XNPSG Chairperson) <a rel="noopener noreferrer nofollow" target="_blank">xihui2508@gmail.com</a>
 <br>
-<br>
-</p>
-<p>Mdm Everlyn Tan (XNPSG Vice Chairperson)</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">everlyn9390@gmail.com</a>
-<br>
-<br>
-<br>
-</p>
-<p>&nbsp;</p>
+<br>Mdm Everlyn Tan (XNPSG Vice Chairperson) <a rel="noopener noreferrer nofollow" target="_blank">everlyn9390@gmail.com</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.moe.edu.sg/forms/eQkZ0J" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group</a>
@@ -263,10 +236,10 @@ For more information, Please contact :</p>
 <td rowspan="1" colspan="1">
 <p><strong>POSB Smart Buddy</strong>
 </p>
-<p>You child can now go cash free in school with POSB Smart Buddy, tap to
-pay at the school canteen or bookshop.
-<br>As a parents, you can enjoy greater convenience in managing your child’s
-allowance and daily expenses.</p>
+<p>You child/ward can now go cash free in school with POSB Smart Buddy, tap
+to pay at the school canteen or bookshop.
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -285,7 +258,7 @@ allowance and daily expenses.</p>
 <p><strong>Student Care Centre @ Xingnan</strong>
 </p>
 <p>Big Heart Student Care @ Xingnan caters to the after school care needs
-of students from Xingnan Primary School.
+of our students.
 <br>
 <br>Interested applicants may submit your interest online via the link:
 <br>
@@ -315,13 +288,13 @@ of students from Xingnan Primary School.
 <td rowspan="1" colspan="1">
 <p><strong>Student Details Portal (SDP)</strong>
 </p>
-<p>Both parents must login separately to the portal using his/her own Singpass
-account to submit particulars of himself/herself.</p>
+<p>Only one parent (father or mother) / legal guardian is required to submit
+the pupil data to MOE.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDP Form<br></a>
 </p>
-<p>*Form is accessible from 25 Nov, 10 am to 31 Dec 2024</p>
+<p>*Form is accessible from 25 Nov, 10 a.m. to 31 Dec 2024 12 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Required</p>
@@ -335,11 +308,12 @@ account to submit particulars of himself/herself.</p>
 <p><strong>School Health and Dental Consent Form</strong>
 </p>
 <p>The Health Promotion Board (HPB) provides health screening and basic dental
-treatment for student in schools. Please click on the link to give your
-consent to provide these services for your child/ward.</p>
+treatment for student in school.</p>
+<p></p>
+<p>Please click on the form to give your consent.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Dental Form</a>
+<p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Health and dental consent Form</a>
 </p>
 <p></p>
 </td>
@@ -354,8 +328,9 @@ consent to provide these services for your child/ward.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Uniform</strong>
 </p>
-<p>Please click on the following link to access the school uniform vendors
-website. Sale of school uniform will start from the 17th November 2024.</p>
+<p>Please click on the link to access the school uniform website.</p>
+<p></p>
+<p>Sales dates for uniform are the same as textbook sale.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/<br><br>School</a>
@@ -373,13 +348,15 @@ website. Sale of school uniform will start from the 17th November 2024.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Textbooks</strong>
 </p>
-<p>Please click on the following link to access the bookshop website. Online
-purchase will start from 20 Nov 2023. For 2024 Primary 1 Chinese / Malay
-/ Tamil language books, they will only be available from early Dec 2024.</p>
+<p>Please click on the link to access the bookshop website.</p>
+<p></p>
+<p>Please refer to the booklist for the sales dates.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.ihuntforbooks.com/<br><br>School</a>
-<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+<p><a href="ihuntforbooks.com" rel="noopener nofollow" target="_blank">ihuntforbooks.com</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+<br>School</a><a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
