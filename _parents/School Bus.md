@@ -84,9 +84,5 @@ variant: tiptap
 <p></p>
 <p>Please click on the following <a href="https://form.gov.sg/616778ce812f4c00144f8f29" rel="noopener noreferrer nofollow" target="_blank">Bus Registration Form</a> to
 register your child for the school bus service.</p>
-<p>Thank you for your continued trust and partnership in ensuring safe and
-convenient transportation for our students.</p>
-<p>Warm regards,</p>
-<p>Warm regards,
-<br>School Admin Team.</p>
+<p></p>
 <p></p>
