@@ -336,7 +336,9 @@ treatment for student in schools.</p>
 <p><strong>School Uniform</strong>
 </p>
 <p>Please click on the following link to access the school uniform vendor's
-website. Please refer to the booklist for the sales dates.</p>
+website.</p>
+<p></p>
+<p>Sales date for uniform is the same as textbook sale.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/<br><br>School</a>
@@ -354,8 +356,8 @@ website. Please refer to the booklist for the sales dates.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Textbooks</strong>
 </p>
-<p>Please click on the following link to access the bookshop website. Online
-purchase will start from 26 Nov 2024. For 2024 .</p>
+<p>Please click on the following link to access the bookshop website. Please
+refer to the booklist for the sales dates.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">rbooks.com/<br><br>School</a>
