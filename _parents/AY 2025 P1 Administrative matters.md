@@ -196,7 +196,7 @@ interest.</p>
 <td rowspan="1" colspan="1">
 <p><strong>MOE-FAS</strong>
 </p>
-<p>(1)Please Click on the link given to apply for the 2024 MOE FAS application</p>
+<p>(1)Please Click on the link to apply for the 2025 MOE FAS application</p>
 <p>&nbsp;</p>
 <p>(2)Please complete the hardcopy application form and submit to school’s
 General Office together with all supporting documents for the scenarios
@@ -217,8 +217,7 @@ Cousins and others)</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;<a href="https://cms.isomer.gov.sg/files/Parents/P1%202024/2024moefasapplicationform.pdf" rel="noopener noreferrer nofollow" target="_blank">(2) MOE FAS Form</a>
-</p>
+<p>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Optional</p>
