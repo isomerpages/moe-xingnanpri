@@ -194,7 +194,10 @@ interest.</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MOE-FAS</strong>
+</p>
+<p>(1)Please Click on the link to apply for the 2025 MOE FAS application</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">(1) MOE e-FAS</a>
