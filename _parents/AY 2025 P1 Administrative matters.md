@@ -226,7 +226,7 @@ For more information, Please contact :</p>
 <br>Mdm Everlyn Tan (XNPSG Vice Chairperson) <a rel="noopener noreferrer nofollow" target="_blank">everlyn9390@gmail.com</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/forms/eQkZ0J" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group</a>
+<p><a href="https://go.gov.sg/psg-xnps" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
