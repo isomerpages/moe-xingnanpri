@@ -239,7 +239,6 @@ For more information, Please contact :</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">xihui2508@gmail.com</a>
 <br>
 <br>
-<br>
 </p>
 <p>Mdm Everlyn Tan (XNPSG Vice Chairperson)</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">everlyn9390@gmail.com</a>
@@ -290,7 +289,7 @@ of students from Xingnan Primary School.
 <br>
 <br>Interested applicants may submit your interest online via the link:
 <br>
-<br>Contact Person: Ms Siti / Ms Vivian Chua @ +65 97729974
+<br>Contact Person: Ms Siti : +65 97729974
 <br><a href="https://cms.isomer.gov.sg/sites/moe-xingnanpri/folders/removed-pages/editPage/xingnan@shgstudentcare.com.sg" rel="noopener noreferrer nofollow" target="_blank">Email: </a>
 <a rel="noopener noreferrer nofollow" target="_blank">xingnan@shgstudentcare.com.sg</a>
 <br>
