@@ -197,7 +197,7 @@ for their studies.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025-moe-fas-application/" rel="noopener nofollow" target="_blank">Please click here for more information on MOE FAS and Online Submission Form. </a>&nbsp;</p>
+<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025-moe-fas-application/" rel="noopener nofollow" target="_blank">Please click here for more information on MOE FAS application</a>&nbsp;</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -236,10 +236,10 @@ For more information, Please contact :</p>
 <td rowspan="1" colspan="1">
 <p><strong>POSB Smart Buddy</strong>
 </p>
-<p>You child can now go cash free in school with POSB Smart Buddy, tap to
-pay at the school canteen or bookshop.
-<br>As a parents, you can enjoy greater convenience in managing your child’s
-allowance and daily expenses.</p>
+<p>You child/ward can now go cash free in school with POSB Smart Buddy, tap
+to pay at the school canteen or bookshop.
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -308,7 +308,7 @@ account to submit particulars of himself/herself.</p>
 <p><strong>School Health and Dental Consent Form</strong>
 </p>
 <p>The Health Promotion Board (HPB) provides health screening and basic dental
-treatment for student in schools.</p>
+treatment for student in school.</p>
 <p></p>
 <p>Please click on the form to give your consent.</p>
 </td>
@@ -328,8 +328,7 @@ treatment for student in schools.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Uniform</strong>
 </p>
-<p>Please click on the following link to access the school uniform vendor's
-website.</p>
+<p>Please click on the link to access the school uniform website.</p>
 <p></p>
 <p>Sales dates for uniform are the same as textbook sale.</p>
 </td>
@@ -349,7 +348,7 @@ website.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Textbooks</strong>
 </p>
-<p>Please click on the following link to access the bookshop website.</p>
+<p>Please click on the link to access the bookshop website.</p>
 <p></p>
 <p>Please refer to the booklist for the sales dates.</p>
 </td>
