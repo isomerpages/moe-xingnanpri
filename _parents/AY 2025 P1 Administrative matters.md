@@ -91,6 +91,9 @@ and the participating banks.</p>
 <p>Kindly upload the SMS notification confirming the successful (3) eGIRO
 submission using the provided link.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/P1 Orientation/egiro text 2024.png">
+</div>
 <p><em>&nbsp;<sup>Example</sup> <sup>SMS Confirmation</sup></em>
 </p>
 </td>
@@ -99,6 +102,7 @@ submission using the provided link.</p>
 <p></p>
 <p></p>
 <p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">(1)MOE eGIRO page</a>&nbsp;</p>
+<p></p>
 <p><a href="https://file.go.gov.sg/moeegirouserguide.pdf" rel="noopener noreferrer nofollow" target="_blank">(2) user guide</a>
 </p>
 <p></p>
