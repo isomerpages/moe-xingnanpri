@@ -317,8 +317,7 @@ account to submit particulars of himself/herself.</p>
 <p>The Health Promotion Board (HPB) provides health screening and basic dental
 treatment for student in schools.</p>
 <p></p>
-<p>Please click on the form to give your consent to provide these services
-for your child/ward.</p>
+<p>Please click on the form to give your consent.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Health and dental consent Form</a>
