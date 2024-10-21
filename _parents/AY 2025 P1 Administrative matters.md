@@ -91,6 +91,9 @@ and the participating banks.</p>
 <p>Kindly upload the SMS notification confirming the successful (3) eGIRO
 submission using the provided link.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/P1 Orientation/egiro text 2024.png">
+</div>
 <p><em>&nbsp;<sup>Example</sup> <sup>SMS Confirmation</sup></em>
 </p>
 </td>
@@ -99,6 +102,7 @@ submission using the provided link.</p>
 <p></p>
 <p></p>
 <p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">(1)MOE eGIRO page</a>&nbsp;</p>
+<p></p>
 <p><a href="https://file.go.gov.sg/moeegirouserguide.pdf" rel="noopener noreferrer nofollow" target="_blank">(2) user guide</a>
 </p>
 <p></p>
@@ -222,7 +226,7 @@ For more information, Please contact :</p>
 <br>Mdm Everlyn Tan (XNPSG Vice Chairperson) <a rel="noopener noreferrer nofollow" target="_blank">everlyn9390@gmail.com</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/forms/eQkZ0J" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group</a>
+<p><a href="https://go.gov.sg/psg-xnps" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -274,93 +278,6 @@ of our students.
 </td>
 <td rowspan="1" colspan="1">
 <p>Optional</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p>Not Started</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Student Details Portal (SDP)</strong>
-</p>
-<p>Only one parent (father or mother) / legal guardian is required to submit
-the pupil data to MOE.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDP Form<br></a>
-</p>
-<p>*Form is accessible from 25 Nov, 10 a.m. to 31 Dec 2024 12 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Health and Dental Consent Form</strong>
-</p>
-<p>The Health Promotion Board (HPB) provides health screening and basic dental
-treatment for student in school.</p>
-<p></p>
-<p>Please click on the form to give your consent.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Health and dental consent Form</a>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Uniform</strong>
-</p>
-<p>Please click on the link to access the school uniform website.</p>
-<p></p>
-<p>Sales dates for uniform are the same as textbook sale.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/<br><br>School</a>
-<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Textbooks</strong>
-</p>
-<p>Please click on the link to access the bookshop website.</p>
-<p></p>
-<p>Please refer to the booklist for the sales dates.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="ihuntforbooks.com" rel="noopener nofollow" target="_blank">ihuntforbooks.com</a>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>
-<br>School</a><a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required</p>
 </td>
 </tr>
 </tbody>
