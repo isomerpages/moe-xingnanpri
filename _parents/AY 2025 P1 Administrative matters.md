@@ -41,7 +41,7 @@ the school administrative office.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Admin Matters</strong>
+<p><strong>Pupil Data Form</strong>
 </p>
 <p>Please click on the link to provide the following details of your child’s.</p>
 <ul data-tight="true" class="tight">
