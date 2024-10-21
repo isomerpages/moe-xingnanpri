@@ -7,7 +7,8 @@ variant: tiptap
 <p>Dear Parents/Guardians,</p>
 <p>Kindly review the table below to complete the necessary administrative
 tasks for your child's/ward's administrative matters. Please note that
-all tasks labeled as "Required" in the remarks column must be submitted.</p>
+all tasks labeled as "Required" in the remarks column must be submitted
+by 30th October 2024.</p>
 <p>If you require additional information, please do not hesitate to contact
 the school administrative office.</p>
 <table style="minWidth: 100px">
@@ -67,7 +68,7 @@ the school administrative office.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><a href="https://form.gov.sg/65f24cc6a79454b49d9b1ff5" rel="noopener noreferrer nofollow" target="_blank">XNPS Admin Matters</a>
+<p><a href="https://form.gov.sg/65f24cc6a79454b49d9b1ff5" rel="noopener noreferrer nofollow" target="_blank">XNPS Pupils Data Form.</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -338,7 +339,7 @@ treatment for student in schools.</p>
 <p>Please click on the following link to access the school uniform vendor's
 website.</p>
 <p></p>
-<p>Sales date for uniform is the same as textbook sale.</p>
+<p>Sales dates for uniform are the same as textbook sale.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/<br><br>School</a>
@@ -356,12 +357,15 @@ website.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Textbooks</strong>
 </p>
-<p>Please click on the following link to access the bookshop website. Please
-refer to the booklist for the sales dates.</p>
+<p>Please click on the following link to access the bookshop website.</p>
+<p></p>
+<p>Please refer to the booklist for the sales dates.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">rbooks.com/<br><br>School</a>
-<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+<p><a href="ihuntforbooks.com" rel="noopener nofollow" target="_blank">ihuntforbooks.com</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+<br>School</a><a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
