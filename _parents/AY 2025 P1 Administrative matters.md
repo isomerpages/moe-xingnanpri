@@ -226,12 +226,7 @@ interest.</p>
 For more information, Please contact :</p>
 <p>Mao Xihui (XNPSG Chairperson) <a rel="noopener noreferrer nofollow" target="_blank">xihui2508@gmail.com</a>
 <br>
-<br>Mdm Everlyn Tan (XNPSG Vice Chairperson) <a rel="noopener noreferrer nofollow" target="_blank">everlyn9390@gmail.com</a>
-<br>
-<br>
-<br>
-</p>
-<p>&nbsp;</p>
+<br>Mdm Everlyn Tan (XNPSG Vice Chairperson) <a rel="noopener noreferrer nofollow" target="_blank">everlyn9390@gmail.com</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.moe.edu.sg/forms/eQkZ0J" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group</a>
