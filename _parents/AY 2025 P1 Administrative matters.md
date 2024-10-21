@@ -42,9 +42,9 @@ the school administrative office.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Pupil Data Form</strong>
+<p><strong>XNPS Pupil Data Form</strong>
 </p>
-<p>Please click on the link to provide the following details of your child’s.</p>
+<p>Please click on the form to complete the following details of your child’s.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Commuting details</p>
