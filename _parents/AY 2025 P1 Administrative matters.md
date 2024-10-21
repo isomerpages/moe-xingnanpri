@@ -193,7 +193,7 @@ interest.</p>
 </p>
 <p>(1)Please Click on the link to apply for the 2025 MOE FAS application</p>
 <p></p>
-<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025-moe-fas-application/" rel="noopener nofollow" target="_blank">Please click here to read more on MOE FAS Application</a>
+<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025-moe-fas-application/" rel="noopener nofollow" target="_blank">Please click here for more information on MOE FAS Application</a>
 </p>
 <p>&nbsp;</p>
 </td>
