@@ -140,7 +140,7 @@ school and billed by the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Parent Gateway Setup (PG)</strong>
@@ -173,7 +173,7 @@ Play Store app on your mobile phone to download.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Bus</strong>
@@ -192,7 +192,7 @@ interest.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MOE-FAS</strong>
@@ -227,7 +227,7 @@ Cousins and others)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Parent Support Group (PSG)</strong>
@@ -237,7 +237,6 @@ For more information, Please contact :</p>
 <p>&nbsp;</p>
 <p>Mao Xihui (XNPSG Chairperson)</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">xihui2508@gmail.com</a>
-<br>
 <br>
 <br>
 </p>
@@ -259,7 +258,7 @@ For more information, Please contact :</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>POSB Smart Buddy</strong>
@@ -280,7 +279,7 @@ allowance and daily expenses.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Student Care Centre @ Xingnan</strong>
@@ -290,7 +289,7 @@ of students from Xingnan Primary School.
 <br>
 <br>Interested applicants may submit your interest online via the link:
 <br>
-<br>Contact Person: Ms Siti / Ms Vivian Chua @ +65 97729974
+<br>Contact Person: Ms Siti : +65 97729974
 <br><a href="https://cms.isomer.gov.sg/sites/moe-xingnanpri/folders/removed-pages/editPage/xingnan@shgstudentcare.com.sg" rel="noopener noreferrer nofollow" target="_blank">Email: </a>
 <a rel="noopener noreferrer nofollow" target="_blank">xingnan@shgstudentcare.com.sg</a>
 <br>
@@ -305,8 +304,13 @@ of students from Xingnan Primary School.
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="4">
+<p>Not Started</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Student Details Portal (SDP)</strong>
@@ -317,7 +321,7 @@ account to submit particulars of himself/herself.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDP Form<br></a>
 </p>
-<p>*Form is accessible from 25 Nov, 10 am to 31 Dec</p>
+<p>*Form is accessible from 25 Nov, 10 am to 31 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Required</p>
@@ -325,12 +329,12 @@ account to submit particulars of himself/herself.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Dental Consent Form</strong>
+<p><strong>School Health and Dental Consent Form</strong>
 </p>
-<p>The Health Promotion Board (HPB) provides dental screening and basic dental
+<p>The Health Promotion Board (HPB) provides health screening and basic dental
 treatment for student in schools. Please click on the link to give your
 consent to provide these services for your child/ward.</p>
 </td>
@@ -345,7 +349,7 @@ consent to provide these services for your child/ward.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Uniform</strong>
@@ -364,7 +368,7 @@ website. Sale of school uniform will start from the 17th November 2024.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Textbooks</strong>
