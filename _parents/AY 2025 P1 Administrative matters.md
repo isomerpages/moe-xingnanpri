@@ -5,12 +5,11 @@ description: ""
 variant: tiptap
 ---
 <p>Dear Parents/Guardians,</p>
-<p>Kindly review the table below to complete the necessary administrative
-tasks for your child's/ward's administrative matters. Please note that
-all tasks labeled as "Required" in the remarks column must be submitted
-by 30th October 2024.</p>
+<p>Please review the table below to complete the administrative tasks for
+your child/ward. Please note that the task labeled as "Required" in the
+remarks column must be submitted by 30th October 2024.</p>
 <p>If you require additional information, please do not hesitate to contact
-the school administrative office.</p>
+the school's General Office.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -44,7 +43,7 @@ the school administrative office.</p>
 <td rowspan="1" colspan="1">
 <p><strong>XNPS Pupil Data Form</strong>
 </p>
-<p>Please click on the form to complete the following details of your child’s.</p>
+<p>Please click on the form to complete the following details:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Commuting details</p>
@@ -62,13 +61,13 @@ the school administrative office.</p>
 <p>Emergency Contact</p>
 </li>
 <li>
-<p>Medical Details</p>
+<p>Medical Information</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><a href="https://form.gov.sg/65f24cc6a79454b49d9b1ff5" rel="noopener noreferrer nofollow" target="_blank">XNPS Pupils Data Form.</a>
+<p><a href="https://form.gov.sg/65f24cc6a79454b49d9b1ff5" rel="noopener noreferrer nofollow" target="_blank">XNPS Pupil Data Form.</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,22 +80,17 @@ the school administrative office.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>E-Giro</strong>
+<p><strong>eGiro</strong>
 </p>
 <p>Sign up for GIRO arrangement with MOE for payment of school fees and charges
-or disbursement of award or subsidy via online at (1)&nbsp;MOE eGIRO page.</p>
+or disbursement of award/subsidy via online at (1)&nbsp;MOE eGIRO page.</p>
 <p></p>
 <p>Please refer to the&nbsp;(2) user guide&nbsp;for the steps to sign up
 and the participating banks.</p>
 <p></p>
 <p>Kindly upload the SMS notification confirming the successful (3) eGIRO
-submission using the link given.</p>
+submission using the provided link.</p>
 <p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Parents/P1 Orientation/egiro text 2024.png">
-</div>
 <p><em>&nbsp;<sup>Example</sup> <sup>SMS Confirmation</sup></em>
 </p>
 </td>
