@@ -194,21 +194,7 @@ interest.</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MOE-FAS</strong>
-</p>
-<p>(1)Please Click on the link to apply for the 2025 MOE FAS application</p>
-<p>&nbsp;</p>
-<p>(2)Please complete the hardcopy application form and submit to school’s
-General Office together with all supporting documents for the scenarios
-listed below:</p>
-<p>a) Families with other dependents (Great grandparents, Aunties/Uncles,
-Cousins and others)</p>
-<p>b) Family with more than 6 children in GGAS</p>
-<p>c) Family with more than 5 unmarried children not in GGAS</p>
-<p>d) Family with more than 3 grandparents in the household</p>
-<p>&nbsp;</p>
-<p><a href="https://cms.isomer.gov.sg/files/Parents/P1%202024/2024moefasapplicationform.pdf" rel="noopener noreferrer nofollow" target="_blank">Click on the Pamphlet for more information on MOE FAS.</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">(1) MOE e-FAS</a>
