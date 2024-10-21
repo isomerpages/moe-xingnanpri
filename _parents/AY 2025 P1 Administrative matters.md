@@ -288,13 +288,13 @@ of our students.
 <td rowspan="1" colspan="1">
 <p><strong>Student Details Portal (SDP)</strong>
 </p>
-<p>Both parents must login separately to the portal using his/her own Singpass
-account to submit particulars of himself/herself.</p>
+<p>Only one parent (father or mother ) / legal guardian is required to submit
+the pupil data to MOE.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDP Form<br></a>
 </p>
-<p>*Form is accessible from 25 Nov, 10 am to 31 Dec 2024</p>
+<p>*Form is accessible from 25 Nov, 10 am to 31 Dec 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Required</p>
