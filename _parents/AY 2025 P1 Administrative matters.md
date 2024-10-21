@@ -84,11 +84,11 @@ the school administrative office.</p>
 </p>
 <p>Sign up for GIRO arrangement with MOE for payment of school fees and charges
 or disbursement of award or subsidy via online at (1)&nbsp;MOE eGIRO page.</p>
-<p>Current eGIRO participating banks: DBS/POSB, OCBC, UOB, BOC, HSBC, Maybank
-and SCB. Please refer to the&nbsp;(2) user guide&nbsp;for the steps to
-sign up.</p>
 <p></p>
-<p>Kindly upload the SMS notification confirming the successful (3) E-GIRO
+<p>Please refer to the&nbsp;(2) user guide&nbsp;for the steps to sign up
+and the participating banks.</p>
+<p></p>
+<p>Kindly upload the SMS notification confirming the successful (3) eGIRO
 submission using the link given.</p>
 <p></p>
 <p></p>
@@ -108,7 +108,7 @@ submission using the link given.</p>
 </p>
 <p></p>
 <p></p>
-<p><a href="https://go.gov.sg/xnps-egiro" rel="noopener nofollow" target="_blank">(3) E-Giro Confirmation Submission</a>
+<p><a href="https://go.gov.sg/xnps-egiro" rel="noopener nofollow" target="_blank">(3) eGiro Confirmation Submission</a>
 </p>
 <p></p>
 </td>
