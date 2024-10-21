@@ -335,8 +335,8 @@ treatment for student in schools.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Uniform</strong>
 </p>
-<p>Please click on the following link to access the school uniform vendors
-website. Sale of school uniform will start from the 26th November 2024.</p>
+<p>Please click on the following link to access the school uniform vendor's
+website. Please refer to the booklist for the sales dates.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/<br><br>School</a>
