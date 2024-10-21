@@ -224,14 +224,9 @@ interest.</p>
 </p>
 <p>Please fill in the form to register as our school parent support member.
 For more information, Please contact :</p>
-<p>&nbsp;</p>
-<p>Mao Xihui (XNPSG Chairperson)</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">xihui2508@gmail.com</a>
+<p>Mao Xihui (XNPSG Chairperson) <a rel="noopener noreferrer nofollow" target="_blank">xihui2508@gmail.com</a>
 <br>
-<br>
-</p>
-<p>Mdm Everlyn Tan (XNPSG Vice Chairperson)</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">everlyn9390@gmail.com</a>
+<br>Mdm Everlyn Tan (XNPSG Vice Chairperson) <a rel="noopener noreferrer nofollow" target="_blank">everlyn9390@gmail.com</a>
 <br>
 <br>
 <br>
@@ -325,11 +320,13 @@ account to submit particulars of himself/herself.</p>
 <p><strong>School Health and Dental Consent Form</strong>
 </p>
 <p>The Health Promotion Board (HPB) provides health screening and basic dental
-treatment for student in schools. Please click on the link to give your
-consent to provide these services for your child/ward.</p>
+treatment for student in schools.</p>
+<p></p>
+<p>Please click on the form to give your consent to provide these services
+for your child/ward.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Health and Dental Form</a>
+<p><a href="https://go.gov.sg/hpb-ccp" rel="noopener noreferrer nofollow" target="_blank">Health and dental consent Form</a>
 </p>
 <p></p>
 </td>
