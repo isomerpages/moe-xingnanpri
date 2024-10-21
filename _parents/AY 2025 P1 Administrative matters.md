@@ -198,7 +198,6 @@ interest.</p>
 </p>
 <p>(1)Please Click on the link to apply for the 2025 MOE FAS application</p>
 <p></p>
-<p></p>
 <p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025-moe-fas-application/" rel="noopener nofollow" target="_blank">Please click here to read more on MOE FAS Application</a>
 </p>
 <p>&nbsp;</p>
@@ -276,7 +275,7 @@ allowance and daily expenses.</p>
 <p><strong>Student Care Centre @ Xingnan</strong>
 </p>
 <p>Big Heart Student Care @ Xingnan caters to the after school care needs
-of students from Xingnan Primary School.
+of our students.
 <br>
 <br>Interested applicants may submit your interest online via the link:
 <br>
