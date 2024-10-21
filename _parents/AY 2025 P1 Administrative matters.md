@@ -125,8 +125,7 @@ submission using the link given.</p>
 <p><strong>Edusave (for Singaporeans only)</strong>
 </p>
 <p>Apply to use Edusave funds for payment of school fees by MOE and/or enrichment
-programmes charges incurred by the child/ward in a government or Government-aided
-school and billed by the school.</p>
+programmes charges incurred by the child/ward billed by the school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave</a>
