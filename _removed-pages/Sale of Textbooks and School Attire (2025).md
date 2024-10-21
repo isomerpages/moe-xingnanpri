@@ -10,7 +10,8 @@ We are delighted to welcome you to the upcoming 2025 school year! As we prepare 
 
 
 
-Kindly access the online purchasing guide for [school book](/files/Parents/Booklist%202024/Online_Buying_Guide_for_Textbooks.pdf) and [attire](/files/Parents/Books%20and%20Attire%202025/Xingnan_Primary_School_online_ordering_guide_for_NON_FAS_2025____09102024.pdf)  by clicking on the provided links. To read the guide for FAS Student attire, please [click here](/files/Parents/Books%20and%20Attire%202025/Xingnan_Primary_School_online_ordering_guide_for_FAS__2025____09102024.pdf).
+Kindly access the online purchasing guide for [school book](/files/Parents/Books%20and%20Attire%202025/Step_by_Step_Guide___Online_Purchase_2024.pdf) and [attire](/files/Parents/Books%20and%20Attire%202025/Xingnan_Primary_School_online_ordering_guide_for_NON_FAS_2025____09102024.pdf)  by clicking on the provided links. To read the guide for FAS Student attire, please [click here](/files/Parents/Books%20and%20Attire%202025/Xingnan_Primary_School_online_ordering_guide_for_FAS__2025____09102024.pdf).
+
 
         
 ***
