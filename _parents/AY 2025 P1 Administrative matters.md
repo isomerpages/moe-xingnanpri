@@ -123,7 +123,7 @@ submission using the provided link.</p>
 programmes charges incurred by the child/ward billed by the school.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave</a>
+<p><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,9 +152,9 @@ as declaration of travel plans.
 Play Store app on your mobile phone to download.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en&amp;gl=US&amp;pli=1" rel="noopener noreferrer nofollow" target="_blank">Click to Download from Google Play</a>
+<p><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en&amp;gl=US&amp;pli=1" rel="noopener noreferrer nofollow" target="_blank">Android User</a>
 <br>
-<br><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">Click to Download from Apple Store</a>
+<br><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">IOS User</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
