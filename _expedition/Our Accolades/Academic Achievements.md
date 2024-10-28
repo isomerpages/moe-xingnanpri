@@ -6,24 +6,24 @@ third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h3>Academic Achievements 2024</h3>
-<p><strong>Singapore Primary Science Olympiad </strong>
+<p><strong>Singapore Primary Science Olympiad</strong>
 </p>
 <p>Recipients:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ramamoorthi Vibishanaram - BRONZE</p>
+<p>Ramamoorthi Vibishanaram (5B) - BRONZE</p>
 </li>
 <li>
-<p>Leow Yu - MERIT</p>
+<p>Leow Yu (5A) - MERIT</p>
 </li>
 <li>
-<p>Reagan Lim Qin Kai - MERIT</p>
+<p>Reagan Lim Qin Kai (5C) - MERIT</p>
 </li>
 <li>
-<p>Wei Serena - MERIT</p>
+<p>Wei Serena (5D) - MERIT</p>
 </li>
 <li>
-<p>Yang Joseph Chi-Sheng - MERIT</p>
+<p>Yang Joseph Chi-Sheng (5D) - MERIT</p>
 <p></p>
 </li>
 </ul>
