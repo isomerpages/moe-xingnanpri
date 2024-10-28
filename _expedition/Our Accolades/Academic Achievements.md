@@ -5,6 +5,41 @@ description: ""
 third_nav_title: Our Accolades
 variant: tiptap
 ---
+<h3>Academic Achievements 2024</h3>
+<p><strong>Singapore Primary Science Olympiad</strong>
+</p>
+<p>Recipients:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ramamoorthi Vibishanaram (5B) - BRONZE</p>
+</li>
+<li>
+<p>Leow Yu (5A) - MERIT</p>
+</li>
+<li>
+<p>Reagan Lim Qin Kai (5C) - MERIT</p>
+</li>
+<li>
+<p>Wei Serena (5D) - MERIT</p>
+</li>
+<li>
+<p>Yang Joseph Chi-Sheng (5D) - MERIT</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Singapore Science Buskers 2024 - Finalists</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Ali Zidane (4C)</p>
+</li>
+<li>
+<p>Muhammad Aahil (4C)</p>
+</li>
+<li>
+<p>Lim Zheng Yu Jeryl (4E)</p>
+</li>
+</ul>
 <h3>Academic Achievements 2023</h3>
 <p><strong>Raffles Scholarship</strong>
 </p>
