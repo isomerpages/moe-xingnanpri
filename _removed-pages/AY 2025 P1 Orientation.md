@@ -12,177 +12,172 @@ variant: markdown
 **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.00 a.m. to 11.00 a.m.**  
   
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="626" style="width:469.2pt;border-collapse:collapse;mso-yfti-tbllook:1184"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:8.65pt"><td width="90" style="width:67.25pt;border:solid #7F7F7F 1.0pt;mso-border-alt:
+    
+
+<table style="width:469.2pt;border-collapse:collapse;mso-yfti-tbllook:1184" width="626" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:8.65pt"><td style="width:67.25pt;border:solid #7F7F7F 1.0pt;mso-border-alt:
   solid #7F7F7F .5pt;background:#D9D9D9;mso-background-themecolor:background1;
-  mso-background-themeshade:217;padding:.75pt .75pt .75pt .75pt;height:8.65pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-background-themeshade:217;padding:.75pt .75pt .75pt .75pt;height:8.65pt" width="90"><p style="margin-bottom:0mm;text-align:center" align="center" class="MsoNormal"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black">Time</span></b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td><td width="373" colspan="2" style="width:280.1pt;border:solid #7F7F7F 1.0pt;
+  mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:280.1pt;border:solid #7F7F7F 1.0pt;
   border-left:none;mso-border-left-alt:solid #7F7F7F .5pt;mso-border-alt:solid #7F7F7F .5pt;
   background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:.75pt .75pt .75pt .75pt;height:8.65pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  217;padding:.75pt .75pt .75pt .75pt;height:8.65pt" colspan="2" width="373"><p style="margin-bottom:0mm;text-align:center" align="center" class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">Orientation</span></b><b><span style="mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black"> Programme</span></b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p></td><td width="162" style="width:121.85pt;border:solid #7F7F7F 1.0pt;border-left:
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:121.85pt;border:solid #7F7F7F 1.0pt;border-left:
   none;mso-border-left-alt:solid #7F7F7F .5pt;mso-border-alt:solid #7F7F7F .5pt;
   background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:.75pt .75pt .75pt .75pt;height:8.65pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  217;padding:.75pt .75pt .75pt .75pt;height:8.65pt" width="162"><p style="margin-bottom:0mm;text-align:center" align="center" class="MsoNormal"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black">Venue</span></b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td></tr><tr style="mso-yfti-irow:1;height:2.75pt"><td width="90" style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
+  mso-bidi-theme-font:minor-latin"></span></p></td></tr><tr style="mso-yfti-irow:1;height:2.75pt"><td style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-alt:solid #7F7F7F .5pt;
-  padding:.75pt .75pt .75pt .75pt;height:2.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  padding:.75pt .75pt .75pt .75pt;height:2.75pt" width="90"><p style="margin-bottom:0mm;text-align:center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black">9.00 a.m.</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td><td width="373" colspan="2" style="width:280.1pt;border-top:none;border-left:
+  mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:280.1pt;border-top:none;border-left:
   none;border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  2.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">Registration</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td><td width="162" rowspan="2" style="width:121.85pt;border-top:none;border-left:
-  none;border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
-  mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  2.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">School Hall</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td></tr><tr style="mso-yfti-irow:2;height:6.85pt"><td width="90" style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-alt:solid #7F7F7F .5pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">9.05 a.m.</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td><td width="373" colspan="2" style="width:280.1pt;border-top:none;border-left:
-  none;border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
-  mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  6.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  2.75pt" colspan="2" width="373"><p style="margin-bottom:0mm;text-align:center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black">Welcome Address by Principal</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td></tr><tr style="mso-yfti-irow:3;height:4.15pt"><td width="90" style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
+  mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:121.85pt;border:none;border-right:solid #7F7F7F 1.0pt;
+  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
+  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
+  mso-border-right-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;
+  height:2.75pt" width="162"><p style="margin-bottom:0mm;text-align:center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">School Hall</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin"></span></p></td></tr><tr style="mso-yfti-irow:2;height:4.15pt"><td style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-alt:solid #7F7F7F .5pt;
   background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:.75pt .75pt .75pt .75pt;height:4.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">&nbsp;</span></p></td><td width="192" style="width:144.0pt;border-top:none;border-left:none;
+  217;padding:.75pt .75pt .75pt .75pt;height:4.15pt" width="90"><p style="margin-bottom:0mm;text-align:center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">&nbsp;</span></p></td><td style="width:144.0pt;border-top:none;border-left:none;
   border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;background:#D9D9D9;mso-background-themecolor:
   background1;mso-background-themeshade:217;padding:.75pt .75pt .75pt .75pt;
-  height:4.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">For Parents</span></b></p></td><td width="181" style="width:136.1pt;border-top:none;border-left:none;
+  height:4.15pt" width="192"><p style="margin-bottom:0mm;text-align:center" align="center" class="MsoNormal"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">For Parents</span></b></p></td><td style="width:136.1pt;border-top:none;border-left:none;
   border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;background:#D9D9D9;mso-background-themecolor:
   background1;mso-background-themeshade:217;padding:.75pt .75pt .75pt .75pt;
-  height:4.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">For Pupils</span></b></p></td><td width="162" style="width:121.85pt;border-top:none;border-left:none;
+  height:4.15pt" width="181"><p style="margin-bottom:0mm;text-align:center" align="center" class="MsoNormal"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">For Pupils</span></b></p></td><td style="width:121.85pt;border-top:none;border-left:none;
   border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-left-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-bottom-alt:solid #7F7F7F .5pt;mso-border-right-alt:solid #7F7F7F .5pt;
   background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:.75pt .75pt .75pt .75pt;height:4.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4;height:14.5pt"><td width="90" style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
+  217;padding:.75pt .75pt .75pt .75pt;height:4.15pt" width="162"><p style="margin-bottom:0mm;text-align:center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3;height:14.5pt"><td style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-alt:solid #7F7F7F .5pt;
-  padding:.75pt .75pt .75pt .75pt;height:14.5pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black">9.25 a.m.</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td><td width="192" style="width:144.0pt;border-top:none;border-left:none;
+  padding:.75pt .75pt .75pt .75pt;height:14.5pt" width="90"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black">9.</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">30</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black"> a.m.</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:144.0pt;border-top:none;border-left:none;
   border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  14.5pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black">YH Sharing on Lower Primary Programme</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p></td><td width="181" style="width:136.1pt;border-top:none;border-left:none;
+  14.5pt" width="192"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">Lower Primary Year Head</span><span style="mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black"> Sharing</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:136.1pt;border-top:none;border-left:none;
   border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  14.5pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin">Interaction Time with<br>Form Teachers</span></p></td><td width="162" style="width:121.85pt;border-top:none;border-left:none;
+  14.5pt" width="181"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">Interaction Time with<br>Form Teachers</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin"> and Peers</span></p></td><td style="width:121.85pt;border-top:none;border-left:none;
   border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  14.5pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin">School Hall /<br>Classrooms (Level 1)</span></p></td></tr><tr style="mso-yfti-irow:5;height:6.4pt"><td width="90" style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
+  14.5pt" width="162"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">School Hall /<br>Classrooms (Level 1)</span></p></td></tr><tr style="mso-yfti-irow:4;height:6.4pt"><td style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-alt:solid #7F7F7F .5pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.4pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black">9.40 a.m.</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td><td width="192" style="width:144.0pt;border-top:none;border-left:none;
+  padding:.75pt .75pt .75pt .75pt;height:6.4pt" width="90"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black">9.4</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">5</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black"> a.m.</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:144.0pt;border-top:none;border-left:none;
   border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  6.4pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black">Interaction Time with Xingnanians in Classrooms</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p></td><td width="181" style="width:136.1pt;border-top:none;border-left:none;
-  border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
+  6.4pt" width="192"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black">Interaction Time with Xingnanians</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin"></span></p></td><td style="width:136.1pt;border-top:none;border-left:
+  none;border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  6.4pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin">School Tour with<br>Xingnanians</span></p></td><td width="162" style="width:121.85pt;border-top:none;border-left:none;
-  border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
+  6.4pt" rowspan="2" width="181"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">School Tour with<br></span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Student Leaders</span></p></td><td style="width:121.85pt;border-top:none;border-left:
+  none;border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  6.4pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  6.4pt" rowspan="2" width="162"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black">Classrooms (Level 3) / School Compound</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p></td></tr><tr style="mso-yfti-irow:6;height:6.4pt"><td width="90" style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p></td></tr><tr style="mso-yfti-irow:5;height:6.4pt"><td style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-alt:solid #7F7F7F .5pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.4pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  padding:.75pt .75pt .75pt .75pt;height:6.4pt" width="90"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black">10.00 a.m.</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td><td width="373" colspan="2" style="width:280.1pt;border-top:none;border-left:
-  none;border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
-  mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
-  mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  6.4pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black">Engagement Session with Form Teachers</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p></td><td width="162" style="width:121.85pt;border-top:none;border-left:none;
+  mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:144.0pt;border-top:none;border-left:none;
   border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  6.4pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black">Classrooms (Level 3)</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td></tr><tr style="mso-yfti-irow:7;height:2.75pt"><td width="90" style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
+  6.4pt" width="192"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black">Engagement Session with</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black"><br></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black">Form Teachers</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black"><br>and Parent Support Group</span><span style="mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin"></span></p></td></tr><tr style="mso-yfti-irow:6;height:2.75pt"><td style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-alt:solid #7F7F7F .5pt;
-  padding:.75pt .75pt .75pt .75pt;height:2.75pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  padding:.75pt .75pt .75pt .75pt;height:2.75pt" width="90"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black">10.30 a.m.</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td><td width="192" style="width:144.0pt;border-top:none;border-left:none;
+  mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:144.0pt;border-top:none;border-left:none;
   border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  2.75pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black">Administrative Matters and Parent Support Group</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p></td><td width="181" style="width:136.1pt;border-top:none;border-left:none;
+  2.75pt" width="192"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black">Administrative Matters</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:136.1pt;border-top:none;border-left:none;
   border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  2.75pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin">Ice Breaker Activity with Peers</span></p></td><td width="162" style="width:121.85pt;border-top:none;border-left:none;
+  2.75pt" width="181"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black">Interaction Time with Xingnanians</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:121.85pt;border-top:none;border-left:none;
   border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  2.75pt"><p class="MsoNormal" align="center" style="mso-margin-bottom-alt:auto;text-align:
-  center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  2.75pt" width="162"><p style="mso-margin-bottom-alt:auto;text-align:
+  center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black">Classrooms (Level 3) / </span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin">Classrooms (Level 1)</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:2.75pt"><td width="90" style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
+  mso-bidi-theme-font:minor-latin">Classrooms (Level 1)</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes;height:2.75pt"><td style="width:67.25pt;border:solid #7F7F7F 1.0pt;border-top:none;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-alt:solid #7F7F7F .5pt;
-  padding:.75pt .75pt .75pt .75pt;height:2.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  padding:.75pt .75pt .75pt .75pt;height:2.75pt" width="90"><p style="margin-bottom:0mm;text-align:center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black">11.00 a.m.</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"></span></p></td><td width="536" colspan="3" style="width:401.95pt;border-top:none;border-left:
+  mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:401.95pt;border-top:none;border-left:
   none;border-bottom:solid #7F7F7F 1.0pt;border-right:solid #7F7F7F 1.0pt;
   mso-border-top-alt:solid #7F7F7F .5pt;mso-border-left-alt:solid #7F7F7F .5pt;
   mso-border-alt:solid #7F7F7F .5pt;padding:.75pt .75pt .75pt .75pt;height:
-  2.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  2.75pt" colspan="3" width="536"><p style="margin-bottom:0mm;text-align:center" align="center" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black">End of Orientation Day</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin"></span></p></td></tr></tbody></table>
-
+	
 **Year Head Sharing and Start-It-Right Kit**
-* [Click Here](/files/Parents/P1%202024/2024_P1_Orientation__YH_Sharing_final.pdf) to download the year head sharing slides that were presented during the P1 Orientation session on the 17th November 2023.
+* The slides will be shared here after Orientation Day on 15 November 2024.
 
 **Useful Resources / Links**
 
