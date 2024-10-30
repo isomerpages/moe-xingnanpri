@@ -210,4 +210,11 @@ Through articles and multimedia content, Schoolbag provide parents and general p
 
 **Parent-Child Activity Book (Digital)**
 
-The Parent-Child Activity Book (PCAB) is specially designed to help your child transit from preschool to P1 with the aid of fun and meaningful parent-child activities.&nbsp; The book is made up of 10 chapters to support parents in helping your child adjust to their new environment.&nbsp; Available on the Parent Kit website and Parenting Resources repository on Parents Gateway, you may scan the QR code to access a digital copy of the book.
+Your child will receive a card game, The Family Race, from Families for Life (FFL) during Orientation
+The game is designed to strengthen family bonds with values like love, care, commitment, and respect through engaging conversation starters.
+
+For a smooth start, we have included an instructional video on how to play the game. You can access it below or find it at the back of the card game box.
+
+We encourage you to embrace quality family time by playing this delightful game with your child. We hope it brings joy and strengthens connections in your family.
+
+[Click here to watch The instructional video](https://m.youtube.com/watch?v=otawTd4na98)
