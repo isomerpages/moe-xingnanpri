@@ -40,6 +40,45 @@ variant: tiptap
 <p>Lim Zheng Yu Jeryl (4E)</p>
 </li>
 </ul>
+<p></p>
+<p><strong>RV STEM Fest 2024: STEM Whizz Award </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chan Zhi Bin (6C) - 8th position</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Raffles Science Olympiad (RSO) </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Huang Andrew Chengrui (5D) - MERIT</p>
+</li>
+</ul>
+<p></p>
+<p><strong>NUS High MCurie2 Excellence Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aw Yu Xin (5D)</p>
+</li>
+<li>
+<p>Wei Serena (5D)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Da Vinci Junior Excellence Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chloe Lim (5B)</p>
+</li>
+<li>
+<p>Yeak Jun Kang Ethan (5B)</p>
+</li>
+</ul>
+<p></p>
 <h3>Academic Achievements 2023</h3>
 <p><strong>Raffles Scholarship</strong>
 </p>
