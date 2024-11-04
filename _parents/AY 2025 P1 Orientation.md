@@ -177,7 +177,8 @@ variant: markdown
   mso-bidi-theme-font:minor-latin"></span></p></td></tr></tbody></table>
 	
 **Year Head Sharing and Start-It-Right Kit**
-* The slides will be shared here after Orientation Day on 15 November 2024.
+* The year head sharing slides will be shared here after Orientation Day on 15 November 2024.
+* Click here to view the [Start-It-Right Kit](/files/Parents/Books%20and%20Attire%202025/Start_It_Right_2025.pdf)
 
 **Useful Resources / Links**
 
@@ -208,7 +209,7 @@ Through articles and multimedia content, Schoolbag provide parents and general p
 
 [www.schoolbag.edu.sg](http://www.schoolbag.edu.sg)
 
-**Parent-Child Activity Book (Digital)**
+**Parent-Child Activity - Family Race **
 
 Your child will receive a card game, The Family Race, from Families for Life (FFL) during Orientation
 The game is designed to strengthen family bonds with values like love, care, commitment, and respect through engaging conversation starters.
