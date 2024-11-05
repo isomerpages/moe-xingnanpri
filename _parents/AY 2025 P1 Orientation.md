@@ -178,7 +178,7 @@ variant: markdown
 	
 **Year Head Sharing and Start-It-Right Kit**
 * The year head sharing slides will be shared here after Orientation Day on 15 November 2024.
-* Click here to view the [Start-It-Right Kit](/files/Parents/Books%20and%20Attire%202025/Start_It_Right_2025.pdf)
+* Click here to view the [Start-It-Right 2025 ](/files/Parents/Books%20and%20Attire%202025/Start_It_Right_2025_Updated.pdf)
 
 **Useful Resources / Links**
 
