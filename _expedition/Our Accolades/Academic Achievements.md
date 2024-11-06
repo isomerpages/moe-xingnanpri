@@ -6,9 +6,71 @@ third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h3>Academic Achievements 2024</h3>
+<p><strong>25TH International Chinese Language Competition</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Megan Chan Jing Yao (4A) – SILVER</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Text Recital Competition for Primary Schools</strong>
+</p>
+<p><strong>Lower Primary (Individual)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Trixie Wee Zi Rui (3D) – BRONZE</p>
+</li>
+<li>
+<p>Zhang RuXi, April (3F) – BRONZE</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Lower Primary (Team) - SILVER</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Rachel Ng Shi Ting (2E)</p>
+</li>
+<li>
+<p>Wathan Lynn Latt (2G)</p>
+</li>
+<li>
+<p>Tay Xuan Hui (2G)</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Upper Primary (Team) - BRONZE</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Law Yee Teng (5C)</p>
+</li>
+<li>
+<p>Thee Sze Yu (5C)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>13TH National Chinese Calligraphy Competition</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Goh Rony Wei (6C) – MERIT</p>
+</li>
+<li>
+<p>Wu YuChen (6D) – MERIT</p>
+</li>
+<li>
+<p>Law Yee Teng (5C) – CONSOLATION</p>
+</li>
+<li>
+<p>Vivian Ho (5C) – PARTICIPATION</p>
+<p></p>
+</li>
+</ul>
 <p><strong>Singapore Primary Science Olympiad</strong>
 </p>
-<p>Recipients:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ramamoorthi Vibishanaram (5B) - BRONZE</p>
@@ -41,7 +103,7 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><strong>RV STEM Fest 2024: STEM Whizz Award </strong>
+<p><strong>RV STEM Fest 2024: STEM Whizz Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,7 +111,7 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><strong>Raffles Science Olympiad (RSO) </strong>
+<p><strong>Raffles Science Olympiad (RSO)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
