@@ -15,6 +15,9 @@ variant: tiptap
 <li>
 <p>Mdm Goh Boon Kim</p>
 </li>
+<li>
+<p>Mr Chu Ee Soon</p>
+</li>
 </ul>
 <h4><strong>Gold Award</strong></h4>
 <ul data-tight="true" class="tight">
