@@ -4,7 +4,9 @@ permalink: /parents/2025p1orientation/
 description: ""
 variant: markdown
 ---
-<img align="Centre" style="width:6000px;height:260px;margin-left:15px;" src="/images/Parents/P1%20Orientation/P1_Orientation_2025.jpg">
+<img align="Centre" style="width:6000px;height:260px;margin-left:15px;" src="/images/Parents/P1%20Orientation/2025_P1_Orientation.jpg">
+
+
 
       
 **Day / Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Friday, 15 November 2024**
