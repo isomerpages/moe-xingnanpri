@@ -10,7 +10,7 @@ prepare for another exciting academic term, we understand the importance
 of providing you with all the necessary information to ensure a smooth
 start. Below, you will find the booklist and uniform details for the 2025
 school year.</p>
-<p>Kindly access the online purchasing guide for</p>
+<p>Kindly access the online purchasing guide using the links below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>School Books</p>
