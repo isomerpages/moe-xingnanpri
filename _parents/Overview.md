@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2. <a href="https://www.xingnanpri.moe.edu.sg/parents/2025p1orientation/" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Orientation Details </a>
+<p>2. <a href="https://www.xingnanpri.moe.edu.sg/parents/2025p1orientation/" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Orientation Details</a>
 </p>
 </td>
 </tr>
@@ -32,7 +32,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>2025 Books and Attire Purchase</p>
+<p><a href="https://xingnanpri.moe.edu.sg/parents/2025saleofbooks/" rel="noopener nofollow" target="_blank">2025 Books and Attire Purchase</a>
+</p>
 </li>
 </ol>
 </td>
