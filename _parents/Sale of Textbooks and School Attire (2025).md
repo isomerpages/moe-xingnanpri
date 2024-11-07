@@ -90,8 +90,8 @@ of Appointment</p>
 Collection time - Mondays to Fridays, 9 a.m. to 4 p.m.</p>
 </li>
 <li>
-<p>Start date for Online Self-Collection - 28/11/2023
-<br>Last day of Online Self-Collection - 28/12/2023
+<p>Start date for Online Self-Collection - 26/11/2024
+<br>Last day of Online Self-Collection - 27/12/2024
 <br>Mode of payment – via PayNow.</p>
 <hr>
 </li>
