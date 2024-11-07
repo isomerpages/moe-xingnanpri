@@ -280,6 +280,46 @@ of our students.
 <p>Optional</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Uniform</strong>
+</p>
+<p>Please click on the link to access the school uniform website.</p>
+<p>Sales dates for uniform are the same as textbook sale.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://asencio.com.sg/
+<br>
+<br>School<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Required</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Textbooks</strong>
+</p>
+<p>Please click on the link to access the bookshop website.</p>
+<p>Please refer to the booklist for the sales dates.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ihuntforbooks.com</a> 
+<br>
+<br>School<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Required</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
