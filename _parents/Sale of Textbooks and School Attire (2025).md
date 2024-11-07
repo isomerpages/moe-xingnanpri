@@ -13,7 +13,8 @@ school year.</p>
 <p>Kindly access the online purchasing guide using the links below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>School Books</p>
+<p><a href="/files/Parents/Books and Attire 2025/Books_Online_Purchase_2025.pdf" rel="noopener nofollow" target="_blank">School Books</a>
+</p>
 </li>
 <li>
 <p><a href="/files/Parents/Books and Attire 2025/non_fas_2025_online_ordering_guide_09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (NON FAS)</a>
