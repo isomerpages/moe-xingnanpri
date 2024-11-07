@@ -291,9 +291,9 @@ of our students.
 <p>Sales dates for uniform are the same as textbook sale.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">https://asencio.com.sg/</a>
+<p><a href="https://asencio.com.sg/" rel="noopener nofollow" target="_blank">https://asencio.com.sg/</a>
 <br>
-<br>School<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+<br>School<a href="https://www.xingnanpri.moe.edu.sg/parents/2025saleofbooks/" rel="noopener nofollow" target="_blank">Book and Attire Information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,9 +311,9 @@ of our students.
 <p>Please refer to the booklist for the sales dates.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ihuntforbooks.com</a> 
+<p><a href="https://ihuntforbooks.com/" rel="noopener nofollow" target="_blank">https://ihuntforbooks.com/</a> 
 <br>
-<br>School<a href="https://www.xingnanpri.moe.edu.sg/parents/2024saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+<br>School<a href="https://www.xingnanpri.moe.edu.sg/parents/2025saleofbooks/" rel="noopener nofollow" target="_blank">Book and Attire Information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
