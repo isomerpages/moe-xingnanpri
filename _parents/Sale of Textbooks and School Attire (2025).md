@@ -31,42 +31,42 @@ school year.</p>
 <p>Kindly click on the link below to download the booklist by level.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/Booklist%202025/XNPS_Booklist_P1__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Booklist 2025</a>
+<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P1_2025.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist 2025</a>
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/Booklist%202025/XNPS_Booklist_P2__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Booklist 2025</a>
+<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P2_2025.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist 2025</a>
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/Booklist%202025/XNPS_Booklist_P3__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Booklist 2025</a>
+<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P3_2025.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist 2025</a>
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/Booklist%202025/XNPS_Booklist_P4__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Booklist 2025</a>
+<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P4_2025.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist 2025</a>
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/Booklist%202025/XNPS_Booklist_P5__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Booklist 2025</a>
+<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P5_2025.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist 2025</a>
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/Booklist%202025/XNPS_Booklist_P5_FDN__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 FDN Booklist 2025</a>
+<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P5_2025_FDN.pdf" rel="noopener nofollow" target="_blank">Primary 5 FDN Booklist 2025</a>
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/Booklist%202025/XNPS_Booklist_P6__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Booklist 2025</a>
+<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P6_2025.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist 2025</a>
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/Booklist%202025/XNPS_Booklist_P6_FDN__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 FDN Booklist 2025</a>
+<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P6_2025_FDN.pdf" rel="noopener nofollow" target="_blank">Primary 6 FDN Booklist 2025</a>
 <br>
 </p>
 </li>
