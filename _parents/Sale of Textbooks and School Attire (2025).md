@@ -10,10 +10,21 @@ prepare for another exciting academic term, we understand the importance
 of providing you with all the necessary information to ensure a smooth
 start. Below, you will find the booklist and uniform details for the 2025
 school year.</p>
-<p>Kindly access the online purchasing guide for <a href="/files/Parents/Books and Attire 2025/non_fas_2025_online_ordering_guide_09102024.pdf" rel="noopener noreferrer nofollow" target="_blank">school book</a> and
-<a href="/files/Parents/Books%20and%20Attire%202025/Xingnan_Primary_School_online_ordering_guide_for_NON_FAS_2025____09102024.pdf" rel="noopener noreferrer nofollow" target="_blank">attire</a>by clicking on the provided links. To read the guide for FAS
-Student attire, please <a href="/files/Parents/Books and Attire 2025/fas_2025_online_ordering_guide__09102024.pdf" rel="noopener nofollow" target="_blank">click here</a>
+<p>Kindly access the online purchasing guide for</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School Books</p>
+</li>
+<li>
+<p><a href="/files/Parents/Books and Attire 2025/non_fas_2025_online_ordering_guide_09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (NON FAS)</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Parents/Books and Attire 2025/fas_2025_online_ordering_guide__09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (FAS)</a>
+</p>
+</li>
+</ul>
+<p></p>
 <hr>
 <h5><strong>Booklist 2025</strong><br></h5>
 <p>Kindly click on the link below to download the booklist by level.</p>
@@ -129,11 +140,11 @@ Scan QR Code to book appointment.</p>
 <p>Follow the guide to order the attire</p>
 </li>
 <li>
-<p><a href="/files/Parents/Books and Attire 2025/Xingnan_Primary_School_online_ordering_guide_for_NON_FAS_2025____09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (NON FAS)</a>
+<p><a href="/files/Parents/Books and Attire 2025/non_fas_2025_online_ordering_guide_09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (NON FAS)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/Books and Attire 2025/Xingnan_Primary_School_online_ordering_guide_for_NON_FAS_2025____09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (FAS)</a>
+<p><a href="/files/Parents/Books and Attire 2025/fas_2025_online_ordering_guide__09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (FAS)</a>
 </p>
 <hr>
 </li>
