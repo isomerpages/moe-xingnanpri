@@ -2,7 +2,6 @@ collections:
   removed-pages:
     output: true
     order:
-      - Sale of Textbooks and School Attire (2025).md
       - Academic Year 2025 Primary 1.md
       - Teacher Work Attachment.md
       - Ecostewardship.md
