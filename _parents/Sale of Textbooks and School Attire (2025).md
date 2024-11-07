@@ -113,18 +113,27 @@ Collection time - Mondays to Fridays, 9 a.m. to 4 p.m.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.ihuntforbooks.com/" rel="noopener noreferrer nofollow" target="_blank">Click here</a> or
+<p><a href="https://www.ihuntforbooks.com/book-appointments/" rel="noopener noreferrer nofollow" target="_blank">Click here</a> or
 Scan QR Code to book appointment.</p>
-<div class="isomer-image-wrapper">
-<img style="width:200px;height:200px;margin-left:15px;" height="auto" width="100%" src="/images/Parents/Booklist%20Page%202024/aappointment_qrcode.png">
-</div>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Parents/Booklist Page 2024/BooksAppointment2025.png">
+</div>
 <p><strong>B.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Online Ordering of Attire</strong>
 </p>
 <ul>
 <li>
 <p>Follow the guide to order the attire</p>
+</li>
+<li>
+<p><a href="/files/Parents/Books and Attire 2025/Xingnan_Primary_School_online_ordering_guide_for_NON_FAS_2025____09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (NON FAS)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents/Books and Attire 2025/Xingnan_Primary_School_online_ordering_guide_for_NON_FAS_2025____09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (FAS)</a>
+</p>
 <hr>
 </li>
 </ul>
