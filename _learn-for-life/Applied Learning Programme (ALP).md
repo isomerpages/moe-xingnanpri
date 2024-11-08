@@ -11,7 +11,9 @@ variant: markdown
 
 <img src="/images/Learn%20For%20Life/Ixora/Picture1.png" style="width:50%"><br>
 
-<img src="/images/Learn%20For%20Life/Ixora/Picture2.png" style="width:100%">
+<img src="/images/Learn%20For%20Life/Ixora/ixora.jpg" style="width:100%">
+
+
     
 iXora&nbsp; – Inspiring Xingnanians with Opportunities to be Responsible individuals and Advocates of Sustainable Living (ECO STEWARDS)
 
