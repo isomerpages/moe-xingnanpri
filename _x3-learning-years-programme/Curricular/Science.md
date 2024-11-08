@@ -1,6 +1,6 @@
 ---
-title: Science Department
-permalink: /x3-learning-years-programme/Curricular/science-department/
+title: Science
+permalink: /x3-learning-years-programme/curricular/science-department/
 description: ""
 third_nav_title: Curricular
 variant: markdown
@@ -13,5 +13,4 @@ Our Science department aims to nurture Xingnanians to be self-directed learners,
 
 *   To enable pupils to carry out self-directed activities in various disciplines of science.&nbsp; <br>
 
-*   To provide opportunities for pupils to develop initiative and creativity. <br><br> 
-	
+*   To provide opportunities for pupils to develop initiative and creativity. <br><br>
