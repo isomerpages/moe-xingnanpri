@@ -3,6 +3,7 @@ title: Overview
 permalink: /x3-learning-years-programme/Curricular/overview/
 description: ""
 third_nav_title: Curricular
+variant: markdown
 ---
 ### Curricular
 
@@ -10,5 +11,5 @@ third_nav_title: Curricular
 
 |  	|  	|  	|
 |---	|---	|---	|
-| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/english-language-and-social-studies/"><img style="width:95%" src="/images/curr6.png"></a><b>English Language & Social Studies</b></figure><br> 	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/mathematics/"><img style="width:80%" src="/images/curr2.png"></a><b>Mathematics</b></figure><br>  	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/science-department/"><img style="width:205%" src="/images/curr3.png"></a><b>Science</b></figure><br> 	|
+| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/english-language-and-social-studies/"><img style="width:95%" src="/images/curr6.png"></a><b>English Language &amp; Social Studies</b></figure><br> 	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/mathematics/"><img style="width:80%" src="/images/curr2.png"></a><b>Mathematics</b></figure><br>  	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/curricular/science-department/"><img style="width:205%" src="/images/curr3.png"></a><b>Science</b></figure><br> 	|
 | <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/mother-tongue/"><img style="width:180%" src="/images/curr4.png"></a><b>Mother Tongue</b></figure><br> 	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/pe-art-music/"><img style="width:88%" src="/images/curr5.png"></a><b>PE, Art and Music (PAM)</b></figure><br> 	|  	|
