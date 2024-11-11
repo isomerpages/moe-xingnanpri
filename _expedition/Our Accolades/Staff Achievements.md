@@ -95,7 +95,7 @@ variant: tiptap
 <h4>Academy Award for Professional Development Recipients</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ar Abdul Wahab - Facilitator Of Networked Learning Communities</p>
+<p>Mr Abdul Wahab - Facilitator Of Networked Learning Communities</p>
 </li>
 <li>
 <p>Mdm Nur Azlindah - Innovator (SGLDC/SLS)</p>
