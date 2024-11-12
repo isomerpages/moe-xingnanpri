@@ -74,8 +74,8 @@ school year.</p>
 <hr>
 <h5><strong>Online Order</strong>&nbsp;&nbsp;&nbsp;&nbsp;</h5>
 <p>Bookshop (HB Book Centre) - <a href="http://www.ihuntforbooks.com" rel="noopener noreferrer nofollow" target="_blank">www.ihuntforbooks.com</a>
-<br>Online start date – 18 November 2024.
-<br>Online last day of order – 19 December 2024.</p>
+<br>Online start date – 18 November 2024, 9.00 a.m.
+<br>Online last day of order – 19 December 2024, 6.00 p.m.</p>
 <p>Uniform (Asencio) – <a href="http://www.asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.asencio.com.sg</a>
 <br>Please order early to provide sufficient time for vendors to make delivery.</p>
 <hr>
@@ -153,11 +153,16 @@ Scan QR Code to book appointment.</p>
 <h5><strong>Exchange of item</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Contact vendor for any exchange Goods must be in good condition.</p>
+<p>Contact vendor for any exchange</p>
 </li>
 <li>
-<p>Books with written name will not be accepted Attire after wash will not
-be accepted.</p>
+<p>Goods must be in good condition.</p>
+</li>
+<li>
+<p>Books with written name will not be accepted</p>
+</li>
+<li>
+<p>Attire after wash will not be accepted.</p>
 </li>
 </ul>
 <p></p>
