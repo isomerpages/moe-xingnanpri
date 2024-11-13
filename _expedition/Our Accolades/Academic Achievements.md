@@ -6,6 +6,25 @@ third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h3>Academic Achievements 2024</h3>
+<p><strong>Malay Scrabble (Piala Cendekia) - Runners-up</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NUR FAIQAH QURAISYA (4A)</p>
+</li>
+<li>
+<p>MUHAMMAD ALI ZIDANE (4C)</p>
+</li>
+<li>
+<p>MUHAMMAD SHAUQI AQASHAH&nbsp;(5A)</p>
+</li>
+<li>
+<p>NAZ ERLISYA (5A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>SYAURAH (5B)</p>
+</li>
+</ul>
 <p><strong>25TH International Chinese Language Competition</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -13,10 +32,7 @@ variant: tiptap
 <p>Megan Chan Jing Yao (4A) – SILVER</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Text Recital Competition for Primary Schools</strong>
-</p>
-<p><strong>Lower Primary (Individual)</strong>
+<p><strong>Text Recital Competition for Primary Schools - Lower Primary (Individual)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -26,7 +42,7 @@ variant: tiptap
 <p>Zhang RuXi, April (3F) – BRONZE</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Lower Primary (Team) - SILVER</strong>
 </p>
 <ul data-tight="true" class="tight">
