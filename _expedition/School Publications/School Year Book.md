@@ -6,22 +6,22 @@ third_nav_title: School Publications
 variant: tiptap
 ---
 <h3>School Year Book&nbsp;</h3>
-<p><strong>Introducing the 2023 Yearbook</strong>
+<p><strong>Presenting the 2024 Yearbook</strong>
 </p>
 <p>Dear Students and Parents,</p>
-<p>We are excited to present to you the 2023 edition of our school's yearbook!
-As we reflect on the memorable moments, achievements, and experiences of
-the past year, we invite you to embark on a journey through the pages of
-our meticulously crafted yearbook.</p>
-<p>To ensure the privacy and security of our students and their families,
-the 2023 yearbook is protected with a password. The password can be retrieved
-from the respective form teachers of our students. Simply reach out to
-your child's form teacher, who will provide you with the password to access
-the digital version of the yearbook. We kindly request that the password
-remains confidential to maintain the integrity and security of the yearbook
-content.</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/XNPSYearbook2023"><img style="display:block; width:260px; height:340px; margin:0 auto;" height="auto" width="100%" alt="Yearbook" src="/images/Expedition/2023_Yearbook.png"></a>
+<p>We are thrilled to introduce the 2024 edition of our school yearbook!
+This special collection captures the cherished memories, achievements,
+and experiences of the past year, taking you on a journey through the highlights
+and milestones our students have enjoyed.</p>
+<p>To prioritize the privacy and security of our students and their families,
+the 2024 yearbook is password-protected. The password can be obtained from
+your child's form teacher. Please reach out to them directly, and they
+will provide the necessary details to access the digital yearbook. We kindly
+ask that the password be kept confidential to protect the integrity and
+security of its contents.</p>
+<p>Enjoy the memories!</p>
 <h4>Yearbook Archives</h4>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/XNPSYearbook2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Expedition/2025_Yearbook.png"></a>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -31,6 +31,12 @@ content.</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/
 <th rowspan="1" colspan="1">
 <p>Click on the link below to access the year book</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://heyzine.com/flip-book/XNPSYearbook2023" rel="noopener nofollow" target="_blank">2023 Yearbook</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
