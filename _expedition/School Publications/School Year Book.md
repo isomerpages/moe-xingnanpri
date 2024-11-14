@@ -20,7 +20,6 @@ will provide the necessary details to access the digital yearbook. We kindly
 ask that the password be kept confidential to protect the integrity and
 security of its contents.</p>
 <p>Enjoy the memories!</p>
-<h4>Yearbook Archives</h4>
 <p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/XNPSYearbook2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Expedition/2025_Yearbook.png"></a>
 <table style="minWidth: 25px">
 <colgroup>
@@ -29,6 +28,8 @@ security of its contents.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
+<h4>Yearbook Archives</h4>
 <p>Click on the link below to access the year book</p>
 </th>
 </tr>
