@@ -179,7 +179,8 @@ variant: markdown
   mso-bidi-theme-font:minor-latin"></span></p></td></tr></tbody></table>
 	
 **Year Head Sharing and Start-It-Right Kit**
-* The year head sharing slides will be shared here after Orientation Day on 15 November 2024.
+*
+* [Click here to access the year head sharing slides from P1 Orientation Day on 15 November 2024.](/files/Parents/2025_P1_Orientation_YH_FTF_Sharing.pdf)
 * Click here to view the [Start-It-Right 2025 ](/files/Parents/Books%20and%20Attire%202025/Start_It_Right_2025_Updated.pdf)
 
 **Useful Resources / Links**
