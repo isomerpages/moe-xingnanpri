@@ -6,23 +6,85 @@ third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h3>Academic Achievements 2024</h3>
+<p><strong>Asia Pacific Mathematical Olympaid for Primary School (AMPOS) - SILVER</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chan Zhi Bin (6C)</p>
+</li>
+</ul>
+<p><strong>Raffles Mathematical Olympaid 2024 - Certificate of Merit </strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Patel Kashvi Dhavalkumar (6A)</p>
+</li>
+<li>
+<p>Chua Jia Cheng Alden (6B)</p>
+</li>
+<li>
+<p>Wang Kang You Kayler (6B)</p>
+</li>
+<li>
+<p>How Yu Jade (6C)</p>
+</li>
+<li>
+<p>Chan Zhi Bin (6C)</p>
+</li>
+</ul>
+<p><strong>National Mathematical Olympiad of Singapore - BRONZE</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jeron Sii Chuan Zhi (5A)</p>
+</li>
+<li>
+<p>Aw Yu Xin (5D)</p>
+</li>
+</ul>
+<p><strong>National Mathematical Olympiad of Singapore - Honourable Mention</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leow Yu (5A)</p>
+</li>
+<li>
+<p>Qiu Zhihan (5A)</p>
+</li>
+<li>
+<p>Liew Yu Chen (5B)</p>
+</li>
+<li>
+<p>Liu Xiangyu (5C)</p>
+</li>
+<li>
+<p>Wang Yixin (5C)</p>
+</li>
+</ul>
+<p><strong>National Mathematical Olympiad of Singapore - SILVER</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yoon Joong-Ho (5D)</p>
+</li>
+</ul>
 <p><strong>Malay Scrabble (Piala Cendekia) - Runners-up</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>NUR FAIQAH QURAISYA (4A)</p>
+<p>Nur Faiqah Quraisya (4A)</p>
 </li>
 <li>
-<p>MUHAMMAD ALI ZIDANE (4C)</p>
+<p>Muhammad Ali Zidane (4C)</p>
 </li>
 <li>
-<p>MUHAMMAD SHAUQI AQASHAH&nbsp;(5A)</p>
+<p>Muhammad Shauqi Aqashah&nbsp;(5A)</p>
 </li>
 <li>
-<p>NAZ ERLISYA (5A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Naz Erlisya (5A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>SYAURAH (5B)</p>
+<p>Syaurah (5B)</p>
 </li>
 </ul>
 <p><strong>25TH International Chinese Language Competition</strong>
