@@ -152,8 +152,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Skye Gan Soon Kea</p>
-<p></p>
+<p>Mr Skye Gan Soon Keat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gan_soon_keat@schools.gov.sg</u></a>
@@ -321,7 +320,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shankar Ganesh S/O Balakrishna</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shankar_ganesh_balakrishna@schools.gov.sg</a>
@@ -903,7 +901,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sumitha D/O Sudevan</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sumitha_sudevan@schools.gov.sg</u></a>
@@ -916,7 +913,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Taufek Bin Siniwi</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>taufek_b_siniwi@schools.gov.sg</u></a>
