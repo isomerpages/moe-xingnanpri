@@ -294,10 +294,10 @@ variant: tiptap
 <p>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Philip Chiu</p>
+<p>Mrs Lim Pei Cheng, Jerica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chiu_shek_man_philip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chiu_shek_man_philip@schools.gov.sg</a>
+<p><a href="mailto:lim_pei_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pei_cheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
