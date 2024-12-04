@@ -147,7 +147,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Covering)</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Ng Yin Whee</p>
@@ -243,13 +243,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD English Language and Social Studies Department</p>
+<p>HOD English Language and Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Md Irwan Bin Md Isa</p>
+<p>MDM Intan Salwah Binte Badiuzzaman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_irwan_md_isa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_irwan_md_isa@schools.gov.sg</a>
+<p><a href="mailto:Intan_salwah_badiuzzaman@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Intan_salwah_badiuzzaman@moe.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -274,18 +274,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:juhariyah_johari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juhariyah_johari@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher - English Language&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Mok Song Imm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:juhariyah_johari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mok_song_imm@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -388,7 +376,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head - Malay Language &amp; Tamil Language&nbsp;</p>
+<p>Subject Head - Malay &amp; Tamil Language&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Taufek Bin Siniwi&nbsp;</p>
