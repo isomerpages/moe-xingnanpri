@@ -340,6 +340,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Soon Yang, Joseph</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_soon_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_soon_yang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher - Science&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
