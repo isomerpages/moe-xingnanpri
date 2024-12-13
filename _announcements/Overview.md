@@ -5,18 +5,10 @@ description: ""
 variant: markdown
 ---
 ### Announcements
-
 ***
 ##### Joint Advisory by SPF, CNB, NCPC and NCADA for School Holidays
 
 Click on the following link to read. [(Click Here)](/files/Attachment_1___Primary_Level_Joint_Infographic.pdf)
-
-***
-##### 2024 Inspiring Teacher of English Award
-
-The Inspiring Teacher of English Award is a national award for English teachers in Singapore schools, that acknowledges teachers who ignite a love for the English language, and are effective in helping their students speak and write accurately.
-
-Click this link [https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information) to nominate your English teacher today.
 
 ***
 
@@ -41,7 +33,7 @@ The 2024 Learning Plans can be viewed from the following link.  [(Read more here
 ***
 
 
-##### 2023 Year Book
-Click on the following link to read and download the [2023 School Yearbook](https://www.xingnanpri.moe.edu.sg/expedition/School-Publications/school-year-book/)
+##### 2024 Year Book
+Click on the following link to read and download the [2024 School Yearbook](https://www.xingnanpri.moe.edu.sg/expedition/School-Publications/school-year-book/)
 
 ***
