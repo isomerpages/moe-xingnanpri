@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - XCELday2024.md
       - Overview.md
       - Canteen Advertisement.md
       - School Calendar.md
