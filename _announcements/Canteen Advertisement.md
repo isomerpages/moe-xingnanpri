@@ -11,7 +11,12 @@ description: ""
 minds? Xingnan Primary School is seeking dedicated and innovative canteen
 vendors to join our vibrant school community!</p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -29,28 +34,23 @@ vendors to join our vibrant school community!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Others (Halal, open to proposal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 July 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Option 1 : Assorted Halal Pau, Halal Siew Mai,Halal Snacks and cut fruits</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Asia Cuisine (Japanese)</p>
+</li>
+<li>
+<p>Others (Halal, Indian Cuisine)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>Option 2 : Indian Cuisine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Others (Non Halal, open to proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 July 2024</p>
+<p>30 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Option 1 : Assorted Pau, Siew Mai, Snacks and cut fruits</p>
-<p>&nbsp;</p>
-<p>Option 2 : Asian Cuisine</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Asia Cuisine (Japanese)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indian Cuisine (Prata,
+Briyani)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -101,7 +101,7 @@ email OR to the School’s General Office</p>
 </p>
 </li>
 <li>
-<p>Contact Person: Mr Abdul Halim / Mdm Aneza</p>
+<p>Contact Person: Mr Abdul Halim / Ms Shini / Mdm Aneza</p>
 <p></p>
 </li>
 </ul>
