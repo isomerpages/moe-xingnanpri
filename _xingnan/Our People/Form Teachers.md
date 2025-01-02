@@ -900,10 +900,10 @@ variant: tiptap
 <p>P6B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sumitha D/O Sudevan</p>
+<p>Mdm Goh Xinmin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sumitha_sudevan@schools.gov.sg</u></a>
+<p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_xinmin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -924,10 +924,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Xinmin</p>
+<p>Mdm Sumitha D/O Sudevan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_xinmin@schools.gov.sg</u></a>
+<p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sumitha_sudevan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
