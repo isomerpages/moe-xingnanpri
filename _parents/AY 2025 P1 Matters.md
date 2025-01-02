@@ -4,6 +4,25 @@ permalink: /parents/2025p1orientation/
 description: ""
 variant: markdown
 ---
+
+
+### 2025 Primary 1 Parents Engagement
+Dear Parents, 
+
+Please find attached the slides from primary 1 parents engagement session conducted on 2 January 2024 for your reference
+
+1. [Sharing on Leaders Lead Leaders (by Mrs Tan Hui Min)](https://docs.google.com/presentation/d/1Nqud8bXGC8KgOj6w9OfDbBBA5nmwUzohBqAKNbLD-r8/edit?usp=sharing)
+2. [Sharing on Leaders Lead Leaders (by Ms Mirna)](https://docs.google.com/presentation/d/1Nqud8bXGC8KgOj6w9OfDbBBA5nmwUzohBqAKNbLD-r8/edit?usp=sharing)
+
+3. [Sharing on Parenting in the Digital Age (by Mr Ma Chen)](https://docs.google.com/presentation/d/1JUkKA9NAgY-rWGKZDSwu3j_HRDosMa0wQECTohSRje4/edit?usp=sharing)
+
+
+
+
+
+### 2025 Primary 1 Orientation
+
+
 <img align="Centre" style="width:6000px;height:260px;margin-left:15px;" src="/images/Parents/P1%20Orientation/2025_P1_Orientation.jpg">
 
 
