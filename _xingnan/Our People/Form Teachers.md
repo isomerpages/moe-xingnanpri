@@ -307,10 +307,10 @@ variant: tiptap
 <p>P2E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms La Vonda&nbsp;</p>
+<p>Mdm Sulastri Ryanti Khan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kohlavondakoh_A@schools.gov.sg</a>
+<p><a href="mailto:sulastri_ryanti_sujak_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sulastri_ryanti_sujak_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
