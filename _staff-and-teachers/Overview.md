@@ -44,3 +44,5 @@ variant: markdown
 **2.&nbsp;[Bus Booking Form](https://docs.google.com/forms/d/1qYdbi7NHF5L_oGCV2K5MqR5j0ttNFn9a0O-CJLoCg1E/viewform)**  
 
 **3.&nbsp;[Parent Volunteer Request Form](https://goo.gl/forms/0FMptHySCjBxd0kI3)**
+
+**4.&nbsp;[Xnps Relief Request](http://for.edu.sg/xnpsreliefrequest)**
