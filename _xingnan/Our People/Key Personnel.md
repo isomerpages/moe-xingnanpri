@@ -249,7 +249,7 @@ variant: tiptap
 <p>MDM Intan Salwah Binte Badiuzzaman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Intan_salwah_badiuzzaman@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Intan_salwah_badiuzzaman@moe.gov.sg</a>
+<p><a href="Intan_salwah_badiuzzaman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Intan_salwah_badiuzzaman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
