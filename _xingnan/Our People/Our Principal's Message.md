@@ -33,7 +33,7 @@ variant: markdown
 
 
 <p>
-    <img style="float: left; width: 18%; margin-left: 15px;" alt="IXORA Framework" src="/images/Our%20Staff/01%20SL/IXORA.png">
+    <img style="float: left; width: 35%; margin-left: 15px;" alt="IXORA Framework" src="/images/Our%20Staff/01%20SL/IXORA.png">
     In 2024, we introduced the <strong>IXORA</strong> framework to guide our school in our eco-stewardship efforts. The 4 petals spell 
     out the 4 key thrusts - Curriculum, Culture, Campus and Community - and the strategies for <strong>I</strong>nspiring <strong>X</strong>ingnanians 
     with <strong>O</strong>pportunities to be <strong>R</strong>esponsible Individuals and <strong>A</strong>dvocates of Sustainable Living.
