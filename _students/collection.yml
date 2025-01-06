@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - 2025 President’s & Outstanding Award for Teachers.md
       - Useful Links and Resources.md
       - MIMS Account Self Reset Guide.md
       - School Library.md
+      - 2025 President’s & Outstanding Award for Teachers.md
