@@ -12,7 +12,7 @@ variant: markdown
     <img style="float: left; width: 160px; height: 230px; margin-right: 15px;" alt="Principal Image" src="/images/Our%20Staff/01%20SL/SL1.png">
     Welcome to Xingnan Primary School, where we believe that "<strong>every child is of worth and can learn</strong>."
     Here, we celebrate the uniqueness of every Xingnanian, acknowledging their individual strengths and interests. 
-    Our school values and actively seeks to nurture the diverse talents that make every Xingnanian unique. By fostering 
+    Our school values actively seeks to nurture the diverse talents that make every Xingnanian unique. By fostering 
     an inclusive and supportive environment, we aim to empower every Xingnanian to reach their full potential.
 </p>
 
@@ -40,7 +40,7 @@ variant: markdown
 </p>
 
 <p>
-    The <strong>IXORA Curriculum</strong>, delivered through our revamped Applied Learning Programme, aims to provide Xingnanians 
+    The <strong>IXORA Curriculum</strong>, delivered through our refreshed Applied Learning Programme, aims to provide Xingnanians 
     with experiential, authentic, exploratory and interdisciplinary learning experiences to develop their emerging 21CC. Through 
     our 3A approach - <strong>A</strong>wareness, <strong>A</strong>pplication and <strong>A</strong>dvocacy, Xingnanians deepen their awareness 
     of sustainability issues through learning journeys, games and discussions, apply their knowledge and skills from the various 
