@@ -48,15 +48,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss La Vonda Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lavondakoh_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lavondakoh_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
