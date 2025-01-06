@@ -36,13 +36,17 @@ variant: markdown
        
 
 	
-	
+#### School Forms
 
 **1.**&nbsp;**[Xingnan Primary School - Staff Travel Declaration](https://form.gov.sg/6642d3a1048abac439daaf13)**&nbsp;&nbsp;  
 
-  
-**2.&nbsp;[Bus Booking Form](https://docs.google.com/forms/d/1qYdbi7NHF5L_oGCV2K5MqR5j0ttNFn9a0O-CJLoCg1E/viewform)**  
+  **2.&nbsp;[Bus Booking Form](https://docs.google.com/forms/d/1qYdbi7NHF5L_oGCV2K5MqR5j0ttNFn9a0O-CJLoCg1E/viewform)**  
 
 **3.&nbsp;[Parent Volunteer Request Form](https://goo.gl/forms/0FMptHySCjBxd0kI3)**
 
 **4.&nbsp;[Xnps Relief Request](http://for.edu.sg/xnpsreliefrequest)**
+
+**5.&nbsp;[Facilities Fault Reporting](https://form.gov.sg/6716e3a8552a6bd134e34aad)**
+
+**6.&nbsp;[Logistic Request](https://form.gov.sg/677b38ce53af8180d88c916e)**
+
