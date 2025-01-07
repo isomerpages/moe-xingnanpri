@@ -12,7 +12,7 @@ variant: markdown
     <img style="float: left; width: 160px; height: 230px; margin-right: 15px;" alt="Principal Image" src="/images/Our%20Staff/01%20SL/SL1.png">
     Welcome to Xingnan Primary School, where we believe that "<strong>every child is of worth and can learn</strong>."
     Here, we celebrate the uniqueness of every Xingnanian, acknowledging their individual strengths and interests. 
-    Our school values actively seeks to nurture the diverse talents that make every Xingnanian unique. By fostering 
+    Our school actively seeks to nurture the diverse talents that make every Xingnanian unique. By fostering 
     an inclusive and supportive environment, we aim to empower every Xingnanian to reach their full potential.
 </p>
 
