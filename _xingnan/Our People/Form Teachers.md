@@ -33,7 +33,7 @@ variant: tiptap
 <p>Mdm Ler Lay Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ler_lay_ching@schools.gov.sg</a>
+<p><a href="mailto:ler_lay_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ler_lay_ching@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ variant: tiptap
 <p>Mr Wong Shui&nbsp;Zhu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shui_zhu@schools.gov.sg</a>
+<p><a href="mailto:wong_shui_zhu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shui_zhu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ variant: tiptap
 <p>Mdm Delia Ang Yen Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_yen_peng@school.gov.sg</u></a>
+<p><a href="mailto:ang_yen_peng@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_yen_peng@school.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -71,7 +71,7 @@ variant: tiptap
 <p>Mdm Yang Nian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yang_nian@schools.gov.sg</u></a>
+<p><a href="mailto:yang_nian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yang_nian@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -83,7 +83,7 @@ variant: tiptap
 <p>Miss Kaye Wong Min Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_min_qi@schools.gov.sg</u></a>
+<p><a href="mailto:wong_min_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_min_qi@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -95,7 +95,7 @@ variant: tiptap
 <p>Ms Nur Syafawani Amira Binte Kamal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_syafawani_amira_kamal@schools.gov.sg</u></a>
+<p><a href="mailto:nur_syafawani_amira_kamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_syafawani_amira_kamal@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -107,7 +107,7 @@ variant: tiptap
 <p>Mdm Rafizah Bte Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_kaibin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rafizah_rahman@schools.gov.sg</u></a>
+<p><a href="mailto:rafizah_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rafizah_rahman@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
