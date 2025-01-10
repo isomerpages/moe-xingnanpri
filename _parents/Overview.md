@@ -18,19 +18,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1. <a href="https://www.xingnanpri.moe.edu.sg/parents/2025p1admin/" rel="noopener noreferrer nofollow" target="_blank">2025 Primary 1 Administrative &amp; Orientation Matters</a>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/let-s-connect-letters/" rel="noopener nofollow" target="_blank">LET's CONNECT Letters</a>
 </p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2. <a href="https://www.xingnanpri.moe.edu.sg/parents/2025p1orientation/" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Orientation Details</a>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025p1admin/" rel="noopener noreferrer nofollow" target="_blank">2025 Primary 1 Administrative &amp; Orientation Matters</a>
 </p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ol start="3" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025p1orientation/" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Orientation Details</a>
+</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p><a href="https://xingnanpri.moe.edu.sg/parents/2025saleofbooks/" rel="noopener nofollow" target="_blank">2025 Books and Attire Purchase</a>
 </p>
@@ -40,32 +58,52 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3. <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">2025 FAS Application</a>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">2025 FAS Application</a>
 </p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4. <a href="https://www.xingnanpri.moe.edu.sg/parents/big-heart-student-care/" rel="noopener noreferrer nofollow" target="_blank">Big Heart Student Care</a>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.xingnanpri.moe.edu.sg/parents/big-heart-student-care/" rel="noopener noreferrer nofollow" target="_blank">Big Heart Student Care</a>
 </p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5. <a href="https://form.gov.sg/#!/60b98572abcc260011dc808c" rel="noopener noreferrer nofollow" target="_blank">Application Form ( Leave of Absence)</a>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p><a href="https://form.gov.sg/#!/60b98572abcc260011dc808c" rel="noopener noreferrer nofollow" target="_blank">Application Form ( Leave of Absence)</a>
 </p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6. <a href="http://www.imda.gov.sg/neupc" rel="noopener noreferrer nofollow" target="_blank">NEU PC plus application</a>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p><a href="http://www.imda.gov.sg/neupc" rel="noopener noreferrer nofollow" target="_blank">NEU PC plus application</a>
 </p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7. <a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
 </p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>
