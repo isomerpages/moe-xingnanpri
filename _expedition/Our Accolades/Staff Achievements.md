@@ -92,6 +92,24 @@ variant: tiptap
 <p>Mdm Wong Shi Yuan</p>
 </li>
 </ul>
+<h4>Caring Teacher Award 2024</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Kwek Khiok Chai</p>
+</li>
+<li>
+<p>Mdm Mazidah Bte Othman</p>
+</li>
+<li>
+<p>Mr Shankar Ganesh S/O Balakrishna</p>
+</li>
+<li>
+<p>Mdm Nurkamaliah Bte Yusoff</p>
+</li>
+<li>
+<p>Ms Kaye Wong Ming Qi</p>
+</li>
+</ul>
 <h4>Academy Award for Professional Development Recipients</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -117,6 +135,8 @@ variant: tiptap
 <p>Mrs Isabel Soo</p>
 </li>
 </ul>
+<p></p>
+<h4></h4>
 <h2>2023</h2>
 <h4>MOE Service Excellence Award (MSEA)</h4>
 <h5><strong>Platinum Award</strong></h5>
