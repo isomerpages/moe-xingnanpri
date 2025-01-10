@@ -75,18 +75,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE/CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Lin Pei-Jun Angela&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:angela_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">angela_lin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head - Partnership &amp; Publicity&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,6 +335,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sumitha_sudevan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sumitha_sudevan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD PE/CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lin Pei-Jun Angela&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:angela_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">angela_lin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
