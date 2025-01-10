@@ -294,7 +294,7 @@ variant: tiptap
 <p>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Pei Cheng, Jerica</p>
+<p>Mrs Koh Pei Cheng, Jerica</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_pei_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pei_cheng@schools.gov.sg</a>
