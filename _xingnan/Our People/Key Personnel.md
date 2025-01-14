@@ -177,7 +177,7 @@ variant: tiptap
 <p>Mdm Nursasterawati Bte Md Yatim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:s_anitha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nursasterawati_md_yatim@schools.gov.sg</a>
+<p><a href="mailto:nursasterawati_md_yatim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nursasterawati_md_yatim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
