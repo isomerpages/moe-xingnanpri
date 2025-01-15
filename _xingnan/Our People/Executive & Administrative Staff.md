@@ -265,18 +265,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chan Mooi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Operations Support Officer (Contract)</p>
 </td>
 <td rowspan="1" colspan="1">
