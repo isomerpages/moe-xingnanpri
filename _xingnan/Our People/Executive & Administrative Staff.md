@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Durgkashini D/O Paranar</p>
