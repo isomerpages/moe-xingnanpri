@@ -5,6 +5,34 @@ description: ""
 third_nav_title: Our Accolades
 variant: tiptap
 ---
+<h3>Academic Achievements 2025</h3>
+<p><strong>Mediacorp Pongal Competition</strong>
+</p>
+<p>P1: Harini &amp; Afzaal</p>
+<p>P2: Pragati &amp; Madhav</p>
+<p>P3: Vinshiga &amp; Nuvisaa</p>
+<p>P4: Asfa &amp; Sachdev</p>
+<p>P5: Aahil &amp; Shrutika</p>
+<p></p>
+<p><strong>Spelling Bee </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>RAMSANKAR GEERTHIKA</p>
+</li>
+<li>
+<p>THIRUMURUGAN PRANAV</p>
+</li>
+<li>
+<p>SUNDARAVADIVELU HESHA</p>
+</li>
+<li>
+<p>MURALI SHRUTIKA</p>
+</li>
+<li>
+<p>MUHAMMAD AAHIL BIN HABIB SULTAN</p>
+</li>
+</ul>
 <h3>Academic Achievements 2024</h3>
 <p><strong>Asia Pacific Mathematical Olympaid for Primary School (AMPOS) - SILVER</strong>
 </p>
@@ -13,7 +41,7 @@ variant: tiptap
 <p>Chan Zhi Bin (6C)</p>
 </li>
 </ul>
-<p><strong>Raffles Mathematical Olympaid 2024 - Certificate of Merit </strong> 
+<p><strong>Raffles Mathematical Olympaid 2024 - Certificate of Merit</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
