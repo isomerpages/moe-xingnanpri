@@ -4,72 +4,30 @@ permalink: /parents/permalink/2024parentsengagement/
 variant: tiptap
 description: ""
 ---
-<h4><strong>2024 Parents Engagement Session</strong></h4>
-<h4>P2, P5, P6 Parents Engagement Slides</h4>
-<p>Dear Parents / Guardians,
-<br>Please refer to the following slides presented during the Parents Engagement
-session held on February 16th, 2024.</p>
+<h4><strong>2025 Parents Engagement Session</strong></h4>
+<p>Dear Parents,</p>
+<p>Please find the <strong>2025 Parent Engagement Sessions recordings here</strong>.
+These sessions provide valuable insights into our school’s programs, initiatives,
+and ways we can work together to support our students' learning journey.</p>
+<p>Whether you missed the live sessions or would like to revisit key discussions,
+you can now access the recordings at your convenience. We encourage you
+to watch and stay informed about important school matters, classroom experiences,
+and strategies to support your child’s growth.</p>
+<p>Thank you for your continued partnership and commitment to your child’s
+education. If you have any questions, feel free to reach out to us.</p>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Welcome Address by Principal</strong>  <a href="/files/Parents/2024 Parents Engagement/1__welcome_address_by_principal.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> 
-<br>(Educational Landscape and School New Vision, Mission and Values)</p>
-</li>
-<li>
-<p><strong>Holistic Curriculum</strong>  <a href="/files/Parents/2024 Parents Engagement/2__Holistic_Curriculum_XNPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-</li>
-<li>
-<p><strong>21CC Programme </strong><a href="/files/Parents/2024 Parents Engagement/3__21CC_Programme_XNPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-</li>
-<li>
-<p><strong>Leaders Lead Leaders </strong><a href="/files/Parents/2024 Parents Engagement/4__Leaders_Lead_Leaders_XNPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-</li>
-<li>
-<p><strong>CCA </strong><a href="/files/Parents/2024 Parents Engagement/5__CCA_XNPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-</li>
-<li>
-<p><strong>Assessment </strong><a href="/files/Parents/2024 Parents Engagement/6__assessment_xnps.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-</li>
-<li>
-<p><strong>DSA, SBB and Secondary School Education</strong>  <a href="/files/Parents/2024 Parents Engagement/7__dsa__sbb_and_secondary_school_education.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> 
-<br>(*For P5 &amp; 6 Only)</p>
-</li>
-</ol>
+<p>Primary 2 Session.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kk96yWvkcLc?si=VO8enbHw05nWJbcs"></iframe>
+</div>
 <p></p>
+<p>Primary 3 and 4 session.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oDCwmWxDID0?si=UudlTI5B2UVv3TG6"></iframe>
+</div>
 <p></p>
-<h4>P3 and P4 Parents Engagement Slides</h4>
-<p>Dear Parents / Guardians,
-<br>Please refer to the following slides presented during the Parents Engagement
-session held on February 23rd, 2024.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Welcome Address by Principal</strong>&nbsp; <a href="/files/Parents/2024 Parents Engagement/1__Welcome_Address_by_Principal___Copy__6_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> 
-<br>(Educational Landscape and School New Vision, Mission and Values)</p>
-</li>
-<li>
-<p><strong>Holistic Curriculum</strong>&nbsp;<a href="/files/Parents/2024 Parents Engagement/2__Holistic_Curriculum.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-</li>
-<li>
-<p><strong>21CC Programme&nbsp;</strong><a href="/files/Parents/2024 Parents Engagement/3__21CC_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-</li>
-<li>
-<p><strong>Leaders Lead Leaders&nbsp;</strong><a href="/files/Parents/2024 Parents Engagement/4__Leaders_Lead_Leaders.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-</li>
-<li>
-<p><strong>Assessment&nbsp;</strong>  <a href="/files/Parents/2024 Parents Engagement/5__Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> 
-<br>(*For P3 &amp; 4 Only)</p>
-</li>
-<li>
-<p><strong>P4 SBB </strong><a href="/files/Parents/2024 Parents Engagement/6___P4_SBB.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-</li>
-</ol>
+<p>Primary 5 and 6 session .</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RSYtoNq8HvE?si=PggaduX60BgBak23"></iframe>
+</div>
 <p></p>
