@@ -6,6 +6,20 @@ third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h3>Academic Achievements 2025</h3>
+<p><strong>National Chinese Calligraphy Competition</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Law Yee Teng 6C - Merit prize</p>
+</li>
+<li>
+<p>Vivian Ho 6C - Consolation prize</p>
+</li>
+<li>
+<p>Tay Wei Huan Derrick 6B - Consolation prize</p>
+<p></p>
+</li>
+</ul>
 <p><strong>Mediacorp Pongal Competition</strong>
 </p>
 <p>P1: Harini &amp; Afzaal</p>
@@ -14,7 +28,7 @@ variant: tiptap
 <p>P4: Asfa &amp; Sachdev</p>
 <p>P5: Aahil &amp; Shrutika</p>
 <p></p>
-<p><strong>Spelling Bee </strong>
+<p><strong>Spelling Bee</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
