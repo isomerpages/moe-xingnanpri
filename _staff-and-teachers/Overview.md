@@ -6,31 +6,7 @@ variant: tiptap
 ---
 <h3>Staff and Teachers</h3>
 <h4>MOE &amp; SCHOOL RELATED LINKS</h4>
-<p><strong>STUDENT SERVICES:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener nofollow" target="_blank">SC Mobile</a>&nbsp;</p>
-</li>
-<li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">Student Learning Space (SLS)</a>
-</p>
-</li>
-<li>
-<p><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a>
-</p>
-</li>
-<li>
-<p>Form SG</p>
-</li>
-<li>
-<p><a href="https://forms.moe.edu.sg/" rel="noopener nofollow" target="_blank">All Ears Form Builder</a>
-</p>
-</li>
-<li>
 <p></p>
-</li>
-</ul>
 <p><strong>PROFESSIONAL &amp; HR MATTERS:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -66,11 +42,32 @@ variant: tiptap
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener nofollow" target="_blank">Academy of Singapore Teachers</a>
 </p>
 <p></p>
+<p><strong>STUDENT SERVICES:</strong>
+</p>
+</li>
+<li>
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener nofollow" target="_blank">SC Mobile</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a>
+</p>
+</li>
+<li>
+<p>Form SG</p>
+</li>
+<li>
+<p><a href="https://forms.moe.edu.sg/" rel="noopener nofollow" target="_blank">All Ears Form Builder</a>
+</p>
 <p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+</p>
+<p><strong>School Forms</strong>
 </p>
 </li>
 </ul>
-<h4>School Forms</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://form.gov.sg/6642d3a1048abac439daaf13" rel="noopener noreferrer nofollow" target="_blank">Xingnan Primary School - Staff Travel Declaration</a>&nbsp;&nbsp;</p>
