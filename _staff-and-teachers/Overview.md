@@ -42,7 +42,10 @@ variant: tiptap
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener nofollow" target="_blank">Academy of Singapore Teachers</a>
 </p>
 <p></p>
-<p><strong>STUDENT SERVICES:</strong>
+<p>Staff Services</p>
+</li>
+<li>
+<p><a href="https://rbs.avero-tech.com/" rel="noopener nofollow" target="_blank">MOE Resource Booking</a>
 </p>
 </li>
 <li>
@@ -57,10 +60,19 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Form SG</p>
+<p><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">FormSG</a>
+</p>
 </li>
 <li>
 <p><a href="https://forms.moe.edu.sg/" rel="noopener nofollow" target="_blank">All Ears Form Builder</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/#/" rel="noopener nofollow" target="_blank">Shorten Links (go.gov)</a>
+</p>
+</li>
+<li>
+<p><a href="https://pair.gov.sg/login" rel="noopener nofollow" target="_blank">Pair Chat</a>
 </p>
 <p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
