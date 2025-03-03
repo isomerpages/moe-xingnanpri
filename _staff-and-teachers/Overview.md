@@ -42,7 +42,8 @@ variant: tiptap
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener nofollow" target="_blank">Academy of Singapore Teachers</a>
 </p>
 <p></p>
-<p>Staff Services</p>
+<p><strong>STAFF SERVICES</strong>
+</p>
 </li>
 <li>
 <p><a href="https://rbs.avero-tech.com/" rel="noopener nofollow" target="_blank">MOE Resource Booking</a>
@@ -76,13 +77,18 @@ variant: tiptap
 </p>
 <p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
-<p><strong>School Forms</strong>
+<p><strong>SCHOOL FORMS</strong>
 </p>
 </li>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://form.gov.sg/6642d3a1048abac439daaf13" rel="noopener noreferrer nofollow" target="_blank">Xingnan Primary School - Staff Travel Declaration</a>&nbsp;&nbsp;</p>
+<p><a href="https://sites.google.com/moe.edu.sg/communication-channel-teachers/home?authuser=1" rel="noopener nofollow" target="_blank">C@MAX</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/6642d3a1048abac439daaf13" rel="noopener nofollow" target="_blank">Staff Travel Declaration</a>
+</p>
 </li>
 <li>
 <p><a href="https://docs.google.com/forms/d/1qYdbi7NHF5L_oGCV2K5MqR5j0ttNFn9a0O-CJLoCg1E/viewform" rel="noopener noreferrer nofollow" target="_blank">Bus Booking Form</a>
