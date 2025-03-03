@@ -13,9 +13,8 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -108,14 +107,8 @@ variant: tiptap
 </li>
 </ul>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -163,9 +156,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
