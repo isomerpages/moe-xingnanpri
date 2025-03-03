@@ -75,9 +75,7 @@ variant: tiptap
 <li>
 <p><a href="https://pair.gov.sg/login" rel="noopener nofollow" target="_blank">Pair Chat</a>
 </p>
-<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
-<p><strong>SCHOOL FORMS</strong>
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong>SCHOOLS FORMS</strong>
 </p>
 </li>
 </ul>
@@ -95,10 +93,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://goo.gl/forms/0FMptHySCjBxd0kI3" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Request Form</a>
-</p>
-</li>
-<li>
 <p><a href="http://for.edu.sg/xnpsreliefrequest" rel="noopener noreferrer nofollow" target="_blank">Xnps Relief Request</a>
 </p>
 </li>
@@ -111,4 +105,15 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p></p>
+<p><strong>OTHERS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://goo.gl/forms/0FMptHySCjBxd0kI3" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Request Form</a>
+</p>
+</li>
+</ul>
+<p><strong>SCHOOLS FORMS</strong>
+</p>
 <p></p>
