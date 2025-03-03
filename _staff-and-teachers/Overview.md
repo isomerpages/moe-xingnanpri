@@ -2,51 +2,164 @@
 title: Overview
 permalink: /staff-and-teachers/overview/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Staff and Teachers
-#### MOE &amp; SCHOOL RELATED LINKS
-   <br>   
-
-<table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
- 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:41.45pt"><td width="155" valign="middle" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"> <a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><img src="/images/sat1.png" style="width:99%"></a> </p></td><td width="155" valign="middle" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://intranet.moe.gov.sg/"><img src="/images/sat2.png" style="width:100%"></a> 	</p></td><td width="155" valign="middle" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://www.hrp.gov.sg/hrp/#/"><img src="/images/sat3.png" style="width:80%"></a></p></td><td width="155" valign="middle" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://ssoe2.moe.edu.sg/"><img src="/images/sat4.png" style="width:65%"></a></p></td></tr><tr style="mso-yfti-irow:1;height:38.8pt"><td width="155" valign="middle" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:38.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://schoolcockpit.moe.gov.sg/"><img src="/images/sat5.png" style="width:99%"></a></p></td><td width="155" valign="middle" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:38.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://scmobile.moe.edu.sg/login"><img src="/images/sat6.png" style="width:100%"></a></p></td><td width="155" valign="middle" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:38.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://rbs.avero-tech.com/"><img src="/images/sat7.png" style="width:120%"></a></p></td><td width="155" valign="middle" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:38.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://pg.moe.edu.sg/"><img src="/images/sat8.png" style="width:45%"></a></p></td></tr><tr style="mso-yfti-irow:2;height:41.45pt"><td width="155" valign="middle" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://iexams.seab.gov.sg/"><img src="/images/sat9.png" style="width:95%"></a></p></td><td width="155" valign="middle" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://opal2.moe.edu.sg/"><img src="/images/sat10.png" style="width:90%"></a></p></td><td width="155" valign="middle" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://sites.google.com/moe.edu.sg/communication-channel-teachers/home?authuser=1"><img src="/images/sat11.png" style="width:75%"></a> </p></td><td width="155" valign="middle" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://vle.learning.moe.edu.sg/login"><img src="/images/sat12.png" style="width:65%"></a></p></td></tr><tr style="mso-yfti-irow:3;height:41.45pt"><td width="155" valign="top" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://for.edu.sg/#/"><img src="/images/sat13.png" style="width:95%"></a> </p></td><td width="155" valign="top" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://forms.moe.edu.sg/"><img src="/images/sat14.png" style="width:45%"></a></p></td><td width="155" valign="top" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><img src="/images/iconlink.png" style="width:80%"></a></p></td><td width="155" valign="top" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.45pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://go.gov.sg/#/"><img src="/images/gogov.jpg" style="width:100%"></a></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:38.8pt"><td width="155" valign="top" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:38.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://sites.google.com/xnps.edu.sg/xnps-publications/home?pli=1&amp;authuser=1"><img src="/images/Publication.jpeg" style="width:60%"></a></p></td><td width="155" valign="top" style="width:116.2pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:38.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://xnps.padlet.org"><img src="/images/sat16.png" style="width:100%"></a></p></td><td width="155" valign="top" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:38.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://www.koobits.com/"><img src="/images/sat15.png" style="width:100%">	</a></p></td><td width="155" valign="top" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:40pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://www.gebiz.gov.sg/egov/"><img src="/images/gebiz%20mobile.png" style="width:100%"></a></p></td></tr><tr><td width="155" valign="top" style="width:116.25pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:40pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="https://onedrive.live.com/login/"><img src="/images/Our%20Staff/Staff%20Page%20Icon/m365.png" style="width:80%"></a></p></td></tr></tbody></table>
-
-
-       
-
-	
-#### School Forms
-
-**1.**&nbsp;**[Xingnan Primary School - Staff Travel Declaration](https://form.gov.sg/6642d3a1048abac439daaf13)**&nbsp;&nbsp;  
-
-  **2.&nbsp;[Bus Booking Form](https://docs.google.com/forms/d/1qYdbi7NHF5L_oGCV2K5MqR5j0ttNFn9a0O-CJLoCg1E/viewform)**  
-
-**3.&nbsp;[Parent Volunteer Request Form](https://goo.gl/forms/0FMptHySCjBxd0kI3)**
-
-**4.&nbsp;[Xnps Relief Request](http://for.edu.sg/xnpsreliefrequest)**
-
-**5.&nbsp;[Facilities Fault Reporting](https://form.gov.sg/6716e3a8552a6bd134e34aad)**
-
-**6.&nbsp;[Logistic Request](https://form.gov.sg/677b38ce53af8180d88c916e)**
-
+<h3>Staff and Teachers</h3>
+<h4>MOE &amp; SCHOOL RELATED LINKS</h4>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>PROFESSIONAL &amp; HR MATTERS:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://intranet.moe.gov.sg" rel="noopener nofollow" target="_blank">MOE Intranet</a>
+</p>
+</li>
+<li>
+<p><a href="https://portal.mims.moe.gov.sg" rel="noopener nofollow" target="_blank">MOE Identity Management System (MIMS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener nofollow" target="_blank">Human Resource and Payroll (HRP)</a>
+</p>
+</li>
+<li>
+<p><a href="https://intranet.moe.gov.sg/hronline/pages/home.aspx" rel="noopener nofollow" target="_blank">Human Resource Online (HR Online)</a>
+</p>
+</li>
+<li>
+<p><a href="https://ssoe2.moe.edu.sg" rel="noopener nofollow" target="_blank">SSOE2 Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://idm.opal2.moe.edu.sg/" rel="noopener nofollow" target="_blank">One Portal All Learners (OPAL 2.0)</a>
+</p>
+</li>
+<li>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener nofollow" target="_blank">Academy of Singapore Teachers</a>
+</p>
+</li>
+</ul>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>STAFF SERVICES</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener nofollow" target="_blank">School Cockpit</a>
+</p>
+</li>
+<li>
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener nofollow" target="_blank">SC Mobile</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://rbs.avero-tech.com/" rel="noopener nofollow" target="_blank">MOE Resource Booking (RBS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.gebiz.gov.sg/egov/" rel="noopener nofollow" target="_blank">Mobile AOR</a>
+</p>
+</li>
+<li>
+<p><a href="https://onedrive.live.com/login/" rel="noopener nofollow" target="_blank">OneDrive</a>
+</p>
+</li>
+<li>
+<p><a href="https://iexams.seab.gov.sg/" rel="noopener nofollow" target="_blank">SEAB iEXAMS2</a>
+</p>
+</li>
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">FormSG</a>
+</p>
+</li>
+<li>
+<p><a href="https://forms.moe.edu.sg/" rel="noopener nofollow" target="_blank">All Ears Form Builder</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/#/" rel="noopener nofollow" target="_blank">Shorten Links (go.gov)</a>
+</p>
+</li>
+<li>
+<p><a href="https://pair.gov.sg/login" rel="noopener nofollow" target="_blank">Pair Chat</a>
+</p>
+</li>
+</ul>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SCHOOLS FORMS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://sites.google.com/moe.edu.sg/communication-channel-teachers/home?authuser=1" rel="noopener nofollow" target="_blank">C@MAX</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://form.gov.sg/6642d3a1048abac439daaf13" rel="noopener nofollow" target="_blank">Staff Travel Declaration</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://docs.google.com/forms/d/1qYdbi7NHF5L_oGCV2K5MqR5j0ttNFn9a0O-CJLoCg1E/viewform" rel="noopener noreferrer nofollow" target="_blank">Bus Booking Form</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="http://for.edu.sg/xnpsreliefrequest" rel="noopener noreferrer nofollow" target="_blank">Xnps Relief Request</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://form.gov.sg/6716e3a8552a6bd134e34aad" rel="noopener noreferrer nofollow" target="_blank">Facilities Fault Reporting</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://form.gov.sg/677b38ce53af8180d88c916e" rel="noopener noreferrer nofollow" target="_blank">Logistic Request</a></strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>OTHERS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://goo.gl/forms/0FMptHySCjBxd0kI3" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Request Form</a></strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
