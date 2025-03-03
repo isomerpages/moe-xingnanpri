@@ -6,7 +6,22 @@ variant: tiptap
 ---
 <h3>Staff and Teachers</h3>
 <h4>MOE &amp; SCHOOL RELATED LINKS</h4>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p><strong>PROFESSIONAL &amp; HR MATTERS:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -41,16 +56,27 @@ variant: tiptap
 <li>
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/" rel="noopener nofollow" target="_blank">Academy of Singapore Teachers</a>
 </p>
-<p></p>
+</li>
+</ul>
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>STAFF SERVICES</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://rbs.avero-tech.com/" rel="noopener nofollow" target="_blank">MOE Resource Booking</a>
 </p>
 </li>
 <li>
 <p><a href="https://scmobile.moe.edu.sg/login" rel="noopener nofollow" target="_blank">SC Mobile</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://www.gebiz.gov.sg/egov/" rel="noopener nofollow" target="_blank">Mobile AOR</a>
+</p>
+</li>
+<li>
+<p><a href="https://iexams.seab.gov.sg/" rel="noopener nofollow" target="_blank">SEAB iEXAMS2</a>
+</p>
 </li>
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">Student Learning Space (SLS)</a>
@@ -75,45 +101,71 @@ variant: tiptap
 <li>
 <p><a href="https://pair.gov.sg/login" rel="noopener nofollow" target="_blank">Pair Chat</a>
 </p>
-<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong>SCHOOLS FORMS</strong>
-</p>
 </li>
 </ul>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SCHOOLS FORMS</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/communication-channel-teachers/home?authuser=1" rel="noopener nofollow" target="_blank">C@MAX</a>
+<p><strong><a href="https://sites.google.com/moe.edu.sg/communication-channel-teachers/home?authuser=1" rel="noopener nofollow" target="_blank">C@MAX</a></strong>
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/6642d3a1048abac439daaf13" rel="noopener nofollow" target="_blank">Staff Travel Declaration</a>
+<p><strong><a href="https://form.gov.sg/6642d3a1048abac439daaf13" rel="noopener nofollow" target="_blank">Staff Travel Declaration</a></strong>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/forms/d/1qYdbi7NHF5L_oGCV2K5MqR5j0ttNFn9a0O-CJLoCg1E/viewform" rel="noopener noreferrer nofollow" target="_blank">Bus Booking Form</a>
+<p><strong><a href="https://docs.google.com/forms/d/1qYdbi7NHF5L_oGCV2K5MqR5j0ttNFn9a0O-CJLoCg1E/viewform" rel="noopener noreferrer nofollow" target="_blank">Bus Booking Form</a></strong>
 </p>
 </li>
 <li>
-<p><a href="http://for.edu.sg/xnpsreliefrequest" rel="noopener noreferrer nofollow" target="_blank">Xnps Relief Request</a>
+<p><strong><a href="http://for.edu.sg/xnpsreliefrequest" rel="noopener noreferrer nofollow" target="_blank">Xnps Relief Request</a></strong>
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/6716e3a8552a6bd134e34aad" rel="noopener noreferrer nofollow" target="_blank">Facilities Fault Reporting</a>
+<p><strong><a href="https://form.gov.sg/6716e3a8552a6bd134e34aad" rel="noopener noreferrer nofollow" target="_blank">Facilities Fault Reporting</a></strong>
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/677b38ce53af8180d88c916e" rel="noopener noreferrer nofollow" target="_blank">Logistic Request</a>
+<p><strong><a href="https://form.gov.sg/677b38ce53af8180d88c916e" rel="noopener noreferrer nofollow" target="_blank">Logistic Request</a></strong>
 </p>
 </li>
 </ul>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>OTHERS</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://goo.gl/forms/0FMptHySCjBxd0kI3" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Request Form</a>
+<p><strong><a href="https://goo.gl/forms/0FMptHySCjBxd0kI3" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Request Form</a></strong>
 </p>
 </li>
 </ul>
-<p><strong>SCHOOLS FORMS</strong>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
