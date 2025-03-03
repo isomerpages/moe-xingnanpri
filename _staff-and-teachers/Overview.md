@@ -34,10 +34,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener nofollow" target="_blank">School Cockpit</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener nofollow" target="_blank">Human Resource and Payroll (HRP)</a>
 </p>
 </li>
@@ -64,11 +60,15 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://rbs.avero-tech.com/" rel="noopener nofollow" target="_blank">MOE Resource Booking</a>
+<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener nofollow" target="_blank">School Cockpit</a>
 </p>
 </li>
 <li>
 <p><a href="https://scmobile.moe.edu.sg/login" rel="noopener nofollow" target="_blank">SC Mobile</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://rbs.avero-tech.com/" rel="noopener nofollow" target="_blank">MOE Resource Booking (RBS)</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.gebiz.gov.sg/egov/" rel="noopener nofollow" target="_blank">Mobile AOR</a>
