@@ -48,6 +48,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tuminah Bte Mohd Bakir&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tuminah_mohamed_bakir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tuminah_mohamed_bakir@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
