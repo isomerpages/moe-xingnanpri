@@ -6,45 +6,65 @@ third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h3>Academic Achievements 2025</h3>
+<p><strong>Wushu (NSG) - 7th Position Bronze</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yoon Joong Ho (6D)</p>
+</li>
+</ul>
+<p></p>
 <p><strong>National Chinese Calligraphy Competition</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Law Yee Teng 6C - Merit prize</p>
+<p>Tay Wei Huan Derrick (6B) Consolation Prize</p>
 </li>
 <li>
-<p>Vivian Ho 6C - Consolation prize</p>
+<p>Law Yee Teng (6C) Merit Prize</p>
 </li>
 <li>
-<p>Tay Wei Huan Derrick 6B - Consolation prize</p>
+<p>Vivian Ho (6C) Consolation Prize</p>
 <p></p>
 </li>
 </ul>
 <p><strong>Mediacorp Pongal Competition</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>P1: Harini &amp; Afzaal</p>
+</li>
+<li>
 <p>P2: Pragati &amp; Madhav</p>
+</li>
+<li>
 <p>P3: Vinshiga &amp; Nuvisaa</p>
+</li>
+<li>
 <p>P4: Asfa &amp; Sachdev</p>
+</li>
+<li>
 <p>P5: Aahil &amp; Shrutika</p>
+</li>
+</ul>
 <p></p>
-<p><strong>Spelling Bee</strong>
+<p><strong>Spelling Bee - Certificate of Participation</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>RAMSANKAR GEERTHIKA</p>
+<p>Ramsankar Geerthika</p>
 </li>
 <li>
-<p>THIRUMURUGAN PRANAV</p>
+<p>Thirumurgan Pranav</p>
 </li>
 <li>
-<p>SUNDARAVADIVELU HESHA</p>
+<p>Sundaravadivelu Hesha</p>
 </li>
 <li>
-<p>MURALI SHRUTIKA</p>
+<p>Murali Shrutika</p>
 </li>
 <li>
-<p>MUHAMMAD AAHIL BIN HABIB SULTAN</p>
+<p>Muhammad Aahil Bin Habib Sultan</p>
 </li>
 </ul>
 <h3>Academic Achievements 2024</h3>
@@ -144,9 +164,9 @@ variant: tiptap
 </li>
 <li>
 <p>Zhang RuXi, April (3F) – BRONZE</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Lower Primary (Team) - SILVER</strong>
 </p>
 <ul data-tight="true" class="tight">
