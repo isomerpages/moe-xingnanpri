@@ -59,7 +59,7 @@ variant: tiptap
 <p>Mdm Delia Ang Yen Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_yen_peng@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_yen_peng@school.gov.sg</u></a>
+<p><a href="mailto:ang_yen_peng@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_yen_peng@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

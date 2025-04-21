@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://portal.mims.moe.gov.sg" rel="noopener nofollow" target="_blank">MOE Identity Management System (MIMS)</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener nofollow" target="_blank">MOE Identity Management System (MIMS)</a>
 </p>
 </li>
 <li>
