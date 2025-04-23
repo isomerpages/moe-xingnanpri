@@ -3,259 +3,609 @@ title: CCA Achievements
 permalink: /expedition/Achievements/cca-achievements/
 description: ""
 third_nav_title: Our Accolades
-variant: markdown
+variant: tiptap
 ---
-### Volleyball
-
-<table style="width:100%">
-<tbody><tr>
-    <th>Year</th>
-    <th>Award / Competition</th>
-    <th>Placing</th>
-		 <th>Team</th>
-</tr>
-	<tr>
-    <td>2024</td>
-    <td>National School Games</td>
-    <td>National Champion</td>
-		<td>Senior</td>
+<h3>Volleyball</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award / Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Placing</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
 </tr>
 <tr>
-    <td>2023</td>
-    <td>National School Games</td>
-    <td>National Champion</td>
-		<td>Senior</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball League 1 Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National 1st Runner Up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Girls</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>National School Games</td>
-    <td>Tier 1 Champion</td>
-		<td>Junior</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
 </tr>
 <tr>
-    <td>2022</td>
-    <td>National School Games</td>
-    <td>National Champion</td>
-		<td>Senior</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>National School Games</td>
-    <td>Tier 1 Champion</td>
-		<td>Junior</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
 </tr>
 <tr>
-    <td>2021</td>
-    <td>National School Games</td>
-    <td>1st</td>
-		<td>Senior</td>
- </tr>
-<tr>
-    <td>2019</td>
-    <td>National Primary School Volleyball Championships</td>
-    <td>1st</td>
-		<td>Senior</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>National Primary School Volleyball Championships</td>
-    <td>1st</td>
-		<td>Junior</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>West Zone Inter-Primary School Volleyball Championships</td>
-    <td>1st</td>
-		<td>Senior</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>West Zone Inter-Primary School Volleyball Championships</td>
-    <td>1st</td>
-		<td>Junior</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Primary School Volleyball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>U-11 National Primary School Soft Volleyball Championships</td>
-    <td>1st</td>
-		<td>Senior</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Primary School Volleyball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>U-11 National Primary School Soft Volleyball Championships</td>
-    <td>1st</td>
-		<td>Junior</td>
-</tr>
-</tbody></table>
-
-
-### Basketball
-
-<table style="width:100%">
-<tbody><tr>
-    <th>Year</th>
-    <th>Award / Competition</th>
-    <th>Placing</th>
-		 <th>Team</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Zone Inter-Primary School Volleyball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
 </tr>
 <tr>
-    <td>2023</td>
-    <td>National School Games (West Zone)</td>
-    <td>Top 8</td>
-		<td>Senior</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Zone Inter-Primary School Volleyball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>National School Games</td>
-    <td>Tier 1 Qualification</td>
-		<td>Junior</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>U-11 National Primary School Soft Volleyball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
 </tr>
 <tr>
-    <td>2022</td>
-    <td>National School Games (West Zone)</td>
-    <td>3rd</td>
-		<td>Senior</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>U-11 National Primary School Soft Volleyball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Basketball</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award / Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Placing</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
 </tr>
 <tr>
-    <td></td>
-    <td>National School Games</td>
-    <td>Tier 2 Qualification</td>
-		<td>Junior</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
 </tr>
 <tr>
-	  <td>2019</td>
-    <td>West Zone Inter-Primary Basketball Championship</td>
-    <td>1st runner up</td>
-		<td>Senior</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>National Primary School Basketball Championships</td>
-    <td>3rd runner up</td>
-		<td>Senior</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>National Primary School Basketball Championships</td>
-    <td>2nd</td>
-		<td>Junior</td>
-</tr>
-</tbody></table>
-
-### Badminton
-
-<table style="width:100%">
-<tbody><tr>
-    <th>Year</th>
-    <th>Award / Competition</th>
-    <th>Placing</th>
-		 <th>Team</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 2 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
 </tr>
 <tr>
-    <td>2023</td>
-    <td>National School Games (West Zone)</td>
-    <td>Top 6</td>
-		<td>Senior</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Zone Inter-Primary Basketball Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st runner up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>National School Games (West Zone)</td>
-    <td>Tier 1 Qualification</td>
-		<td>Junior - Singles - Girls</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Primary School Basketball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd runner up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>National School Games (West Zone)</td>
-    <td>Tier 2 Qualification</td>
-		<td>Junior - Doubles - Girls</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Primary School Basketball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Badminton</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award / Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Placing</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
 </tr>
 <tr>
-    <td></td>
-    <td>National School Games (West Zone)</td>
-    <td>Tier 2 Qualification</td>
-		<td>Junior - Singles -  Boys</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>National School Games (West Zone)</td>
-    <td>Tier 2 Qualification</td>
-		<td>Junior - Singles - Boys</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior - Singles - Girls</p>
+</td>
 </tr>
 <tr>
-    <td>2022</td>
-    <td>National School Games (West Zone)</td>
-    <td>Tier 1 Qualification</td>
-		<td>Junior - Doubles - Girls</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 2 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior - Doubles - Girls</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>National School Games (West Zone)</td>
-    <td>Tier 2 Qualification</td>
-		<td>Junior - Doubles - Girls (1)</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 2 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior - Singles - Boys</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>National School Games (West Zone)</td>
-    <td>Tier 2 Qualification</td>
-		<td>Junior - Singles - Girls (2)</td>
-</tr>
-</tbody></table>
-
-### Football
-
-<table style="width:100%">
-<tbody><tr>
-    <th>Year</th>
-    <th>Award / Competition</th>
-    <th>Placing</th>
-		 <th>Team</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 2 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior - Singles - Boys</p>
+</td>
 </tr>
 <tr>
-    <td>2023</td>
-    <td>National School Games (West Zone)</td>
-    <td>Tier 1 Champion</td>
-		<td>Junior</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior - Doubles - Girls</p>
+</td>
 </tr>
 <tr>
-    <td>2022</td>
-    <td>National School Games</td>
-    <td>Tier 2 Qualification</td>
-		<td>Junior</td>
-</tr>
-</tbody></table>
-
-### Others
-
-<table style="width:100%">
-<tbody><tr>
-    <th>Year</th>
-    <th>Award / Competition</th>
-    <th>Placing</th>
-		 <th>Achievers</th>
-</tr>
-	
-<tr>
-    <td>2023</td>
-    <td>Singapore Golf Association - Mandai Junior Golf Series -3rd &amp; 5th Leg</td>
-    <td>1st</td>
-		<td>Vedona Gong (3E)</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 2 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior - Doubles - Girls (1)</p>
+</td>
 </tr>
 <tr>
-    <td></td>
-    <td>UUMISM-SportExcel Malaysian Junior Gold Tour 2023 - 2nd Leg</td>
-    <td>1st</td>
-		<td>Vedona Gong (3E)</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 2 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior - Singles - Girls (2)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Football</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award / Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Placing</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
 </tr>
 <tr>
-    <td></td>
-    <td>Srixon Junior Mixed Series 2023 - Fixture 3</td>
-    <td>1st</td>
-		<td>Vedona Gong (3E)</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
 </tr>
 <tr>
-    <td>2022</td>
-    <td>Drone Odyssey Challenge</td>
-    <td>1st runner up</td>
-		<td>Yap Wen Xuan Leonard (6D),<br> Aydin Matin Bin Mohammed Junaidi (6D)</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 2 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+<h3>Others</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award / Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Placing</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievers</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Golf Association - Mandai Junior Golf Series -3rd &amp; 5th
+Leg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vedona Gong (3E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UUMISM-SportExcel Malaysian Junior Gold Tour 2023 - 2nd Leg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vedona Gong (3E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Srixon Junior Mixed Series 2023 - Fixture 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vedona Gong (3E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drone Odyssey Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st runner up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yap Wen Xuan Leonard (6D),
+<br>Aydin Matin Bin Mohammed Junaidi (6D)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
