@@ -74,10 +74,12 @@ links:
     sublinks:
       - title: Learning Plans
         url: https://sites.google.com/xnps.edu.sg/xnps-2025learningplan/home
-      - title: eLearning Portals
-        url: /students/overview/
+      - title: Student MIMS Support
+        url: https://go.gov.sg/xnpsmimssupport
       - title: MIMS Account Self Reset Guide
         url: /student-mims-self-service/
+      - title: eLearning Portals
+        url: /students/overview/
       - title: Student Icon
         url: /students/student-icon/
       - title: School Library
