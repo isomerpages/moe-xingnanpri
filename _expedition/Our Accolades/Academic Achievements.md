@@ -6,6 +6,10 @@ third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h3>Academic Achievements 2025</h3>
+<p><strong>Primary 6 STEM Playground 2025 Challenge - 7th Place</strong>
+</p>
+<p>Boat Powered by A Chemical Reaction</p>
+<p></p>
 <p><strong>Wushu (NSG) - 7th Position Bronze</strong>
 </p>
 <ul data-tight="true" class="tight">
