@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Parents</h3>
-<h4>Useful Links</h4>
+<h4><strong><u>Useful Links</u></strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -108,7 +108,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Health Matters</h4>
+<hr>
+<p></p>
+<h4><strong><u>Health Matters</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>&nbsp;<strong><a href="http://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health Singapore</a></strong>&nbsp;<strong>,&nbsp;<a href="http://www.youtube.com/user/MOHSingapore" rel="noopener noreferrer nofollow" target="_blank">MOHsg Youtube Channel</a></strong>
@@ -141,15 +143,16 @@ variant: tiptap
 <li>
 <p><strong><a href="http://dentalassociatesnova.com/healthy-hygiene-habits-for-kids/" rel="noopener noreferrer nofollow" target="_blank">Healthy Hygiene Habits For Kids</a></strong>
 </p>
+<p></p>
 </li>
 </ol>
-<h4>Subject Based Banding Slides</h4>
+<h4><strong><u>Subject Based Banding Slides</u></strong></h4>
 <p>1. <a href="/files/moesbb_eng.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE_SBB_ENG.pdf</a> 
 <br>2. <a href="/files/moesbb_chi.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE_SBB_CHI.pdf</a>
 <br>3. <a href="/files/moesbb_ml.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE_SBB_ML.pdf</a>
 <br>4. <a href="/files/moesbb_tl.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE_SBB_TL.pdf</a>
 </p>
-<h4>Visitor Management</h4>
+<h4><strong><u>Visitor Management</u></strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:220px;height:200px;margin-left:15px;" height="auto" width="100%" src="/images/visitor.png">
 </div>
@@ -168,13 +171,12 @@ periods.</p>
 <li>
 <p>Parents/Guardians must obtain permission from the office before proceeding
 to see your child/children at the canteen. Teachers will only be able to
-see&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp;&nbsp;Parents/Guardians during their free periods and before
-or after school in the office.</p>
+see&nbsp;Parents/Guardians during their free periods and before or after
+school in the office.</p>
 </li>
 </ul>
 <p>Please take note of the opening hours :</p>
-<h5>General Office</h5>
+<h5><strong><u>General Office</u></strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -208,7 +210,7 @@ or after school in the office.</p>
 </tr>
 </tbody>
 </table>
-<h5>Media Resource Library</h5>
+<h5><strong><u>Media Resource Library</u></strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -257,7 +259,8 @@ or after school in the office.</p>
 </tr>
 </tbody>
 </table>
-<h5>Bookshop (Tel: 62701060)</h5>
+<h5><strong><u>Schools Bookshop</u></strong></h5>
+<p>Contact : 62701060</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -308,7 +311,7 @@ or after school in the office.</p>
 </tr>
 </tbody>
 </table>
-<h5>School Uniform (Sales at Bookshop)</h5>
+<h5><strong><u>School Uniform (Sales at Bookshop)</u></strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -361,7 +364,7 @@ Closed on Tuesday and Thursday)</p>
 </tr>
 </tbody>
 </table>
-<h5><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/parents/big-heart-student-care/" rel="noopener noreferrer nofollow" target="_blank">Big Heart Student Care Center</a>&nbsp;</h5>
+<h5><strong><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/parents/big-heart-student-care/" rel="noopener noreferrer nofollow" target="_blank">Big Heart Student Care Center</a>&nbsp;</strong></h5>
 <p>Tel : 97729974
 <br>Email :&nbsp;xingnan@shgstudentcare.com.sg</p>
 <table style="minWidth: 50px">
@@ -404,7 +407,69 @@ Closed on Tuesday and Thursday)</p>
 </tr>
 </tbody>
 </table>
-<h5>TAKING YOUR CHILD HOME EARLIER</h5>
+<p></p>
+<h4><strong><u>School Dental Clinic </u></strong></h4>
+<p>Contact : 9832 6884 (Call/Message for appointment)</p>
+<p>Dental Therapist: Ms Lee&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Timing</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday / Wednesday / Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.00 a.m. to 5.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday / Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.00 a.m.&nbsp;to 5.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><sub>*Clinic opening days are subject to change.</sub>
+</p>
+<p>Lunch time: 12.30pm to 1.30pm</p>
+<p></p>
+<p></p>
+<h5><u>TAKING YOUR CHILD HOME EARLIER</u></h5>
 <div class="isomer-image-wrapper">
 <img style="width:150px;height:150px;margin-right:15px;" height="auto" width="100%" src="/images/parents1.png">
 </div>
@@ -413,7 +478,7 @@ valid reason, they have to complete the ‘Permission to Leave School Early’
 Form available at the General Office. The school can only release your
 child/ward when the form is duly completed. Please bring along identification
 documents for security verification reasons.</p>
-<h5>ABSENCE DURING SCHOOL TERM</h5>
+<h5><strong><u>ABSENCE DURING SCHOOL TERM</u></strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width:180px;height:150px;margin-right:15px;" height="auto" width="100%" src="/images/parents2.png">
 </div>
