@@ -138,7 +138,7 @@ variant: tiptap
 <p>Assistant Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chen Degeng Miss Ng Yin Whee</p>
+<p>Miss Chen Degeng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="" rel="noopener nofollow" target="_blank">chen_degeng@schools.gov.sg</a>
