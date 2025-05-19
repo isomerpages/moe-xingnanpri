@@ -135,13 +135,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ng Yin Whee</p>
+<p>Miss Chen Degeng Miss Ng Yin Whee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yin_whee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yin_whee@schools.gov.sg</a>
+<p><a href="" rel="noopener nofollow" target="_blank">chen_degeng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -150,10 +150,10 @@ variant: tiptap
 <p>Assistant Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chen Degeng</p>
+<p>Miss Ng Yin Whee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_degeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_degeng@schools.gov.sg</a>
+<p><a href="mailto:chen_degeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yin_whee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
