@@ -147,7 +147,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Middle Primary)</p>
+<p>Assistant Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Ng Yin Whee</p>
