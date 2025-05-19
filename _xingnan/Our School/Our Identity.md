@@ -11,7 +11,7 @@ in 1932, the school has grown in many ways to-date. Committed to our mission
 and vision, Xingnan anchors its programmes on the school’s philosophy that
 every child is of worth and can learn.</p>
 <h4>School Philosophy</h4>
-<p>We believe that Every child is of worth and can learn.</p>
+<p>We believe that every child is of worth and can learn.</p>
 <h4>School Vision</h4>
 <ul data-tight="true" class="tight">
 <li>
