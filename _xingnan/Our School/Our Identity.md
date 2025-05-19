@@ -50,7 +50,7 @@ every child is of worth and can learn.</p>
 <img style="width:50%" height="auto" width="100%" src="/images/logo.png">
 </div>
 <p></p>
-<p>The school crest was designed by Miss Peng Huijun, a former pupil, in
+<p>The school crest was designed by Miss Peng Huijun, a former student, in
 1988. The crest was designed to link Xingnan’s past with the future.The
 four red petals symbolize the four official languages taught in the school.
 The torch is the symbol of the old school. It signifies knowledge and enlightenment.
