@@ -11,9 +11,84 @@ of the local community and the school personnel. It provides opportunities
 for the local community to take an interest in student welfare and supports
 the school's efforts in providing a holistic education for our students.</p>
 <p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Staff/05 SAC/sac_update_Page_1.jpg">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Names</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Yi Chong Andre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Bak Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Cindy Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Soo Hui Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honorary Treasurer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ken Koh Pei Weng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Serena Genesis Adsit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Xiao Zhuang Slyvia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Denise Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
