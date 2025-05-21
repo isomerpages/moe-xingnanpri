@@ -11,7 +11,7 @@ in 1932, the school has grown in many ways to-date. Committed to our mission
 and vision, Xingnan anchors its programmes on the school’s philosophy that
 every child is of worth and can learn.</p>
 <h4>School Philosophy</h4>
-<p>We believe that Every child is of worth and can learn.</p>
+<p>We believe that every child is of worth and can learn.</p>
 <h4>School Vision</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -50,7 +50,7 @@ every child is of worth and can learn.</p>
 <img style="width:50%" height="auto" width="100%" src="/images/logo.png">
 </div>
 <p></p>
-<p>The school crest was designed by Miss Peng Huijun, a former pupil, in
+<p>The school crest was designed by Miss Peng Huijun, a former student, in
 1988. The crest was designed to link Xingnan’s past with the future.The
 four red petals symbolize the four official languages taught in the school.
 The torch is the symbol of the old school. It signifies knowledge and enlightenment.
