@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <p></p>
-<p><strong>School Leaders’</strong>
+<p><strong>School Leaders</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
