@@ -45,10 +45,8 @@ links:
   - title: Parents
     url: /parents/overview/
     sublinks:
-      - title: AY 2025 P1 Admin Matter
-        url: https://www.xingnanpri.moe.edu.sg/parents/2025p1admin/
-      - title: AY 2025 P1 Orientation Matter
-        url: https://www.xingnanpri.moe.edu.sg/parents/2025p1orientation/
+      - title: P1 Registration
+        url: /p1-registration/
       - title: 2025 Books and Attire Sale
         url: https://www.xingnanpri.moe.edu.sg/parents/2025saleofbooks/
       - title: FAS Application - 2025

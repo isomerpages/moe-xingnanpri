@@ -2,6 +2,8 @@ collections:
   removed-pages:
     output: true
     order:
+      - AY 2025 P1 Matters.md
+      - AY 2025 P1 Administrative matters.md
       - Learn for Life Programme (LLP).md
       - XCELday2024.md
       - Academic Year 2025 Primary 1.md

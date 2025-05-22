@@ -67,7 +67,7 @@ the school's efforts in providing a holistic education for our students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Serena Genesis Adsit</p>
+<p>Ms Serena Genesis Adsit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
