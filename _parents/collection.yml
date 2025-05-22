@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - P1 Registration.md
       - Overview.md
       - LET's CONNECT! Letters.md
       - Sale of Textbooks and School Attire (2025).md
