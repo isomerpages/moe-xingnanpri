@@ -93,23 +93,20 @@ variant: tiptap
 <p><a href="http://www.imda.gov.sg/neupc" rel="noopener noreferrer nofollow" target="_blank">NEU PC plus application</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">MOE eGIRO page</a>
+</p>
+</li>
+<li>
+<p></p>
+</li>
 </ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="9" data-tight="true" class="tight">
-<li>
-<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
-</p>
-</li>
-<li>
-<p>Edusave</p>
-</li>
-<li>
-<p>e-Giro</p>
-</li>
-</ol>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
