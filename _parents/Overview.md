@@ -103,6 +103,12 @@ variant: tiptap
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
 </p>
 </li>
+<li>
+<p>Edusave</p>
+</li>
+<li>
+<p>e-Giro</p>
+</li>
 </ol>
 </td>
 </tr>
@@ -408,7 +414,7 @@ Closed on Tuesday and Thursday)</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong><u>School Dental Clinic </u></strong></h4>
+<h4><strong><u>School Dental Clinic</u></strong></h4>
 <p>Contact : 9832 6884 (Call/Message for appointment)</p>
 <p>Dental Therapist: Ms Lee&nbsp;</p>
 <table style="minWidth: 75px">
