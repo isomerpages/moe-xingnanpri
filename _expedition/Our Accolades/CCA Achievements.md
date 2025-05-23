@@ -237,6 +237,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd National</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys (Senior)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -357,6 +371,34 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Team</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls (Senior)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys (Senior)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -494,6 +536,20 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Team</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys (Senior)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
