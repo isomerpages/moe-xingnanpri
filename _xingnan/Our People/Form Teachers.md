@@ -280,18 +280,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>*Mrs Yvonne Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeoh_dyit_fung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeoh_dyit_fung@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P2E</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -400,17 +388,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>*Mdm Zubaidah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zubaidah_mahamood@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zubaidah_mahamood@schools.gov.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P3D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -450,18 +427,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Miss Chen Xiaoyun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chen_xiaoyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_xiaoyun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Nahfisah Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -490,18 +455,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:denise_yap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>denise_yap@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>*Mdm Chen Yunhui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Chen_yunhui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chen_yunhui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -654,17 +607,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>*Mrs Adeline Giam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:adeline_ng_hsu-_i@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>adeline_ng_hsu-_i@schools.gov.sg</u></a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P4F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -727,17 +669,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wee_ai-hwa_jessie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wee_ai-hwa_jessie@schools.gov.sg</u></a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>*Mdm Anis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sultan_anis_fathima@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sultan_anis_fathima@schools.gov.sg</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
