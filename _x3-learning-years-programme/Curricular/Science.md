@@ -23,11 +23,9 @@ of 21st Century Competencies such as collaboration, communication, inventive
 and adaptive thinking. We leverage educational technology to personalise
 learning experiences and empower students to take ownership of their learning
 of Science.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_27_124330.png">
 </div>
-<p></p>
 <p><strong>Key Programmes</strong>
 </p>
 <table style="minWidth: 50px">
@@ -365,11 +363,10 @@ Whiz Challenge 2023</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Engaging High Ability Learners through  Excellence 2000 Science (E2K) Programme" src="/images/Photo_4___Engaging_High_Ability_Learners_through__Excellence_2000_Science__E2K__Programme.jpg">
 </div>
-<p><strong>Engaging High Ability Learners through  Excellence 2000 Science (E2K) Programme</strong>
+<p><strong>Engaging High Ability Learners through Excellence 2000 Science (E2K) Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Transforming Learning Through Hands on STEM Innovation" src="/images/Photo_5___Transforming_Learning_through_Hands_on_STEM_Innovation.jpg">
 </div>
-<p><strong>Transforming Learning Through Hands on STEM Innovation</strong>
-<br>
+<p><strong>Transforming Learning Through Hands on STEM Innovatio</strong>
 </p>
