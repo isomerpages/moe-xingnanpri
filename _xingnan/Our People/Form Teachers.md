@@ -388,6 +388,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mahehraj Begum *PPS Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P3D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -468,6 +479,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhong_mingqing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhong_mingqing@schools.gov.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yang Shi Hui (Mrs Wong) *PPS Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -669,6 +691,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wee_ai-hwa_jessie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wee_ai-hwa_jessie@schools.gov.sg</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Rashidah *PPS Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
