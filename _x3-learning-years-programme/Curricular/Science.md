@@ -368,5 +368,6 @@ Whiz Challenge 2023</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Transforming Learning Through Hands on STEM Innovation" src="/images/Photo_5___Transforming_Learning_through_Hands_on_STEM_Innovation.jpg">
 </div>
-<p><strong>Transforming Learning Through Hands on STEM Innovatio</strong>
+<p>Transforming Learning Through Hands on STEM Innovation</p>
+<p><strong>TranTransforming Learning Through Hands on STEM Innovatio</strong>
 </p>
