@@ -6,12 +6,26 @@ third_nav_title: Curricular
 variant: tiptap
 ---
 <h3>English Language and Social Studies</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>English</strong>
+<h2><strong>English</strong></h2>
+<p><strong>Curriculum Framework</strong>
 </p>
-</li>
-</ul>
+<p>The MOE English Language Syllabus 2020 for the Primary level focuses on
+the development, reinforcement and extension of language skills in the
+primary years through an enjoyment of the language and the promotion of
+extensive reading; and leveraging oracy, reading and writing skills to
+develop knowledge and independent use of the language.
+<br>
+<br>The diagram below presents the key features of the EL Syllabus 2020.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng_3.png">
+</div>
 <p>At Xingnan, we nurture our students to be empathetic communicators, discerning
 readers, and creative inquirers who use the English Language with both
 impact and affect. Xingnanians engage with authentic language daily by
@@ -138,13 +152,34 @@ and learning resources.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </div>
 <p><strong>Collaborative writing in progress as students combine their ideas to create a shared narrative.</strong>
 </p>
+<h2>Social Studies</h2>
 <ul>
 <li>
-<p>Social Studies</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/elss8.png">
-</div><pre><code>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;</code></pre>
+<p><strong>Curriculum Framework</strong>
+</p>
+<p>MOE Social Studies curriculum seeks to inculcate in students a deeper
+understanding of the values that define the Singapore society, nurture
+dispositions that will inspire them to show concern for the society and
+the world in which they live, and demonstrate empathy in their relationships
+with others. The Curriculum envisions Social Studies students as informed,
+concerned and participative citizens, competent in decision-making with
+an impassioned spirit to contribute responsibly to the society and world
+they live in.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SS_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SS_2.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
