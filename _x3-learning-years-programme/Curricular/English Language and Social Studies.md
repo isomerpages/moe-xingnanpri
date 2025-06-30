@@ -173,13 +173,17 @@ they live in.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SS_2.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1_group_work_activity.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2_Upcycling_P3_project___Produce_a_tote_bag_from_recycled_fabric.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_4_Enhancing_students__interview_skills.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_5_Checking_on_students__learning_through_interesting_Online_Quizzes.jpg">
+</div>
 <p></p>
 <p></p>
