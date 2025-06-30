@@ -371,5 +371,4 @@ Whiz Challenge 2023</p>
 </div>
 <p><strong>Transforming Learning Through Hands on STEM Innovation</strong>
 </p>
-<p><strong>TranTransforming Learning Through Hands on STEM Innovatio</strong>
-</p>
+<p></p>
