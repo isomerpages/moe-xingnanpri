@@ -101,7 +101,44 @@ support for the After School Programme. For 2025, the focus is on strengthening
 reading comprehension skills and strategies through specially curated teaching
 and learning resources.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1.jpg">
+</div>
 </li>
+</ul>
+<p><strong>Collaborative writing in progress as students combine their ideas to create a shared narrative.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2.jpg">
+</div>
+<p><strong>A Primary 3 student rehearsing for her Show and Tell assessment.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3.jpg">
+</div>
+<p><strong>Students consolidating their learning by completing an online quiz.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_4.jpg">
+</div>
+<p><strong>Students bring "Walking through the Jungle" to life through their creative role-play and collaborative storytelling.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_5.jpg">
+</div>
+<p><strong>Digital literacy in action: Students explore animal-themed texts on EPIC to gather ideas for their individual writing.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_7.jpg">
+</div>
+<p><strong>Self-directed learning in action: A student utilising feedback from Student Learning Space (SLS) to review and refine his work.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_8.jpg">
+</div>
+<p><strong>Collaborative writing in progress as students combine their ideas to create a shared narrative.</strong>
+</p>
+<ul>
 <li>
 <p>Social Studies</p>
 <p></p>
