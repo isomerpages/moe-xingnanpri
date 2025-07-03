@@ -187,10 +187,10 @@ variant: tiptap
 <p>P2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Tzu Lin (Mrs Low)</p>
+<p>Mdm Maslinda Bte Abd Wahab</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_tzu_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_tzu_lin@schools.gov.sg</a>
+<p><a href="mailto:maslinda_abd_wahab@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>maslinda_abd_wahab@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
