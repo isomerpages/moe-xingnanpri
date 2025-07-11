@@ -156,6 +156,57 @@ of Science.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Singapore Youth Science Fair (SYSF)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5 students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad (SPSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5 students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad (SPSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5 student</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>STEM Playground Challenge: Boat Powered by A Chemical Reaction</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,7 +241,7 @@ of Science.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Primary Science Olympiad</p>
+<p>Singapore Primary Science Olympiad (SPSO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 5 students</p>
@@ -207,7 +258,7 @@ of Science.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Primary Science Olympiad</p>
+<p>Singapore Primary Science Olympiad (SPSO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 5 student</p>
