@@ -5,6 +5,39 @@ description: ""
 third_nav_title: Our Accolades
 variant: tiptap
 ---
+<h3>Chinese Calligraphy</h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award / Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Capital Group Talent Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Law Yee Teng</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Volleyball</h3>
 <table style="minWidth: 100px">
 <colgroup>
