@@ -7,19 +7,23 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BN1.png
+      background: /images/Homepage/Banner.png
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements/overview/
         - title: School Calendar
-          description: ""
+          description: 2025 School Calender
           url: /school-calendar/
+        - title: XNPS Facebook Page
+          description: Offical Facebook Page
+          url: https://www.facebook.com/XingnanPrimarySchoolOfficial/
+        - title: XNPS Instagram Page
+          description: Offical Instagram page
+          url: https://www.instagram.com/xingnanprimaryschool.official/?hl=en
         - title: Contact Us
-          description: ""
+          description: Reach out to us
           url: /contact-us/overview/
       title: Xingnan Primary School
       subtitle: Confident Person • Self-Directed Learner • Compassionate Leader
+      variant: image
   - infopic:
       title: Xingnan
       description: A vibrant environment that nurtures minds and builds character as
