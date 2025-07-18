@@ -23,7 +23,8 @@ sections:
           url: /contact-us/overview/
       title: Xingnan Primary School
       subtitle: Confident Person • Self-Directed Learner • Compassionate Leader
-      variant: image
+      variant: center
+      backgroundColor: gray
   - infopic:
       title: Xingnan
       description: A vibrant environment that nurtures minds and builds character as
