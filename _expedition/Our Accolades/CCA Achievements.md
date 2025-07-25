@@ -5,8 +5,61 @@ description: ""
 third_nav_title: Our Accolades
 variant: tiptap
 ---
-<h3>Chinese Calligraphy</h3>
+<h3>Cub Scouts</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Scout's Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yim Zi Xuan (P6-A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Duraisamy Rohan (P6-B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Jia Yang (P6-D)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Chinese Calligraphy</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
