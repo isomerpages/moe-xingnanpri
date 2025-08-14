@@ -128,18 +128,6 @@ variant: tiptap
 <p>P1E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maslinda Bte Abd Wahab</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:maslinda_abd_wahab@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>maslinda_abd_wahab@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Mok Song Imm</p>
 </td>
 <td rowspan="1" colspan="1">
