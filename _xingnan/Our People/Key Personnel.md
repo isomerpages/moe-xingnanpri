@@ -286,8 +286,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department [Science (covering)]
-<br>Level Head [Science]</p>
+<p>Head of Department [Science ]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sumitha D/O Sudevan</p>
