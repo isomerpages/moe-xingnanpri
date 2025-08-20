@@ -18,7 +18,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>c</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -43,7 +43,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca3.png">
+</div>
+<p><strong>Diabolo</strong>
+</p>
 </td>
 </tr>
 </tbody>
