@@ -28,24 +28,15 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:115%" height="auto" width="100%" src="/images/cca1.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/brass-band/"><img style="width:115%" height="auto" width="100%" src="/images/cca1.png"></a>
 <p><strong>Brass Band</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:95%" height="auto" width="100%" src="/images/cca2.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/chinese-dance/"><img style="width:95%" height="auto" width="100%" src="/images/cca2.png"></a>
 <p><strong>Chinese Dance</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/cca3.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/diabolo/"><img style="width: 99%;" height="auto" width="100%" alt="" src="/images/cca3.png"></a>
 <p><strong>Diabolo</strong>
 </p>
 </td>
@@ -71,27 +62,18 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:98%" height="auto" width="100%" src="/images/cca4.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/indian-dance/"><img style="width:98%" height="auto" width="100%" src="/images/cca4.png"></a>
 <p><strong>Indian Dance</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cca5.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/international-dance/"><img style="width:80%" height="auto" width="100%" src="/images/cca5.png"></a>
 <p><strong>International Dance</strong>
 </p>
 <p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:105%" height="auto" width="100%" src="/images/cca6.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/malay-dance/"><img style="width:105%" height="auto" width="100%" src="/images/cca6.png"></a>
 <p><strong>Malay Dance</strong>
 </p>
 <p>
@@ -121,17 +103,11 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/cca7.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/chinese-cultural-appreciation-club/"><img style="width:70%" height="auto" width="100%" src="/images/cca7.png"></a>
 <p><strong>Chinese Cultural Appreciation Club</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:165%" height="auto" width="100%" src="/images/cca9.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/scouts/"><img style="width:165%" height="auto" width="100%" src="/images/cca9.png"></a>
 <p><strong>Scouts</strong>
 </p>
 </td>
@@ -160,28 +136,19 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/cca10.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/pottery-club/"><img style="width:90%" height="auto" width="100%" src="/images/cca10.png"></a>
 <p><strong>Pottery Club</strong>
 </p>
 <p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:105%" height="auto" width="100%" src="/images/cca11.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/art-club/"><img style="width:105%" height="auto" width="100%" src="/images/cca11.png"></a>
 <p><strong>Art Club </strong>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/cca12.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/infocomm-club/"><img style="width:85%" height="auto" width="100%" src="/images/cca12.png"></a>
 <p><strong>Infocomm Club</strong>
 </p>
 <p>
@@ -207,20 +174,14 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/cca13.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/badminton/"><img style="width:50%" height="auto" width="100%" src="/images/cca13.png"></a>
 <p><strong>Badminton</strong>
 </p>
 <p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/cca14.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/soccer/"><img style="width:55%" height="auto" width="100%" src="/images/cca14.png"></a>
 <p><strong>Soccer</strong>
 </p>
 <p>
@@ -229,20 +190,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/cca15.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/basketball/"><img style="width:50%" height="auto" width="100%" src="/images/cca15.png"></a>
 <p><strong>Basketball</strong>
 </p>
 <p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:54%" height="auto" width="100%" src="/images/cca16.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/volleyball/"><img style="width:54%" height="auto" width="100%" src="/images/cca16.png"></a>
 <p><strong>Volleyball</strong>
 </p>
 <p>
