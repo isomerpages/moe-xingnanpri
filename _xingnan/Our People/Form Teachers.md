@@ -152,7 +152,7 @@ variant: tiptap
 <p>P1F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Lay Hoon (Mrs Woon) &nbsp;</p>
+<p>Mrs Oon Yeo Lay Hoon (Mrs Oon) &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_lay_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_lay_hoon@schools.gov.sg</a>&nbsp;</p>
