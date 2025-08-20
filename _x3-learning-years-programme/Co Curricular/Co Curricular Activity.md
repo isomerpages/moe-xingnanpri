@@ -44,7 +44,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca3.png">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/cca3.png">
 </div>
 <p><strong>Diabolo</strong>
 </p>
