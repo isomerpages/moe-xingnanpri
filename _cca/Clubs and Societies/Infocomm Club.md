@@ -24,6 +24,7 @@ and careers in the ever-evolving digital world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/Infocomm_Club_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/Infocomm_Club_2.jpg">
 </div>
