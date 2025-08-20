@@ -873,18 +873,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sumitha D/O Sudevan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sumitha_sudevan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sumitha_sudevan@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P6C</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -929,6 +917,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wahab_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wahab_rahman@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sumitha D/O Sudevan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sumitha_sudevan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sumitha_sudevan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
