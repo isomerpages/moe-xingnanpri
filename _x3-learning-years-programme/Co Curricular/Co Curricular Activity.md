@@ -3,34 +3,253 @@ title: Co Curricular Activity
 permalink: /x3-learning-years-programme/Co-Curricular/cca/
 description: ""
 third_nav_title: Co Curricular
+variant: tiptap
 ---
-### Co-Curricular Activity (CCA)
-
-**Click on the image to read more!**
-
-#### Performing Arts
-
-|  	|  	|  	|
-|---	|---	|---	|
-| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Performing-Arts/brass-band/"><img style="width:115%" src="/images/cca1.png"></a><b>Brass Band</b></figure>| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Performing-Arts/chinese-dance/"><img style="width:95%" src="/images/cca2.png"></a><b> Chinese Dance</b></figure>|  <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Performing-Arts/diabolo/"><img style="width:95%" src="/images/cca3.png"></a><b>Diabolo </b></figure>	|
-
-|  	|  	|  	|
-|---	|---	|---	|
-| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Performing-Arts/indian-dance/"><img style="width:98%" src="/images/cca4.png"></a> <b>Indian Dance </b></figure>	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Performing-Arts/international-dance/"><img style="width:80%" src="/images/cca5.png"></a> <b>International Dance </b></figure><br>	|  <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Performing-Arts/malay-dance/"><img style="width:105%" src="/images/cca6.png"></a><b>Malay Dance </b></figure><Br>	|
-
-#### Clubs and Societies
-
-|  	|  	|  	|
-|---	|---	|---	|
-| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Clubs-and-Societies/chinese-cultural-appreciation-club/"><img style="width:70%" src="/images/cca7.png"></a> <b>Chinese Cultural Appreciation Club </b></figure>	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Clubs-and-Societies/environmental-club/"><img style="width:70%" src="/images/cca8.png"></a> <b>Environmental Club </b></figure>	|  <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Clubs-and-Societies/scouts/"><img style="width:165%" src="/images/cca9.png"></a><b>Scouts </b></figure>	|
-
-|  	|  	|  	|
-|---	|---	|---	|
-| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Clubs-and-Societies/pottery-club/"><img style="width:90%" src="/images/cca10.png"></a> <b>Pottery Club </b></figure><br>	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Clubs-and-Societies/art-club/"><img style="width:105%" src="/images/cca11.png"></a> <b>Art Club </b><br></figure>|  <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Clubs-and-Societies/infocomm-club/"><img style="width:85%" src="/images/cca12.png"></a><b>Infocomm Club </b></figure><Br>|
-
-#### Sports and Games
-
-|  	|  	|
-|---	|---	|
-| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Sports-and-Games/badminton/"><img style="width:50%" src="/images/cca13.png"></a> <b>Badminton </b></figure><br> 	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Sports-and-Games/soccer/"><img style="width:55%" src="/images/cca14.png"></a> <b>Soccer </b></figure><br> 	|
-| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Sports-and-Games/basketball/"><img style="width:50%" src="/images/cca15.png"></a> <b>Basketball </b></figure><br> 	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/cca/Sports-and-Games/volleyball/"><img style="width:54%" src="/images/cca16.png"></a> <b>Volleyball </b></figure><br> 	|
+<h3>Co-Curricular&nbsp;Activity (CCA)</h3>
+<p><strong>Click on the image to read more!</strong>
+</p>
+<h4>Performing Arts</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:115%" height="auto" width="100%" src="/images/cca1.png">
+</div>
+<p><strong>Brass Band</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:95%" height="auto" width="100%" src="/images/cca2.png">
+</div>
+<p><strong>Chinese Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/cca3.png">
+</div>
+<p><strong>Diabolo</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:98%" height="auto" width="100%" src="/images/cca4.png">
+</div>
+<p><strong>Indian Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/cca5.png">
+</div>
+<p><strong>International Dance</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:105%" height="auto" width="100%" src="/images/cca6.png">
+</div>
+<p><strong>Malay Dance</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Clubs and Societies</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/cca7.png">
+</div>
+<p><strong>Chinese Cultural Appreciation Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:165%" height="auto" width="100%" src="/images/cca9.png">
+</div>
+<p><strong>Scouts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:90%" height="auto" width="100%" src="/images/cca10.png">
+</div>
+<p><strong>Pottery Club</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:105%" height="auto" width="100%" src="/images/cca11.png">
+</div>
+<p><strong>Art Club </strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/cca12.png">
+</div>
+<p><strong>Infocomm Club</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Sports and Games</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/cca13.png">
+</div>
+<p><strong>Badminton</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:55%" height="auto" width="100%" src="/images/cca14.png">
+</div>
+<p><strong>Soccer</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/cca15.png">
+</div>
+<p><strong>Basketball</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:54%" height="auto" width="100%" src="/images/cca16.png">
+</div>
+<p><strong>Volleyball</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

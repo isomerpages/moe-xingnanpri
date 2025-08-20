@@ -3,9 +3,19 @@ title: Chinese Dance
 permalink: /cca/Performing-Arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-### Chinese Dance
-
-Chinese Dance provides pupils an opportunity to learn more about Chinese culture through dance. In addition, pupils get to appreciate dance as a performing art and develop greater self-discipline and perseverance.
-
-<img src="/images/cd.gif" style="width:70%">
+<h3>Chinese Dance</h3>
+<p>Our Chinese Dance Co-Curriucular Activity (CCA) is a vibrant and expressive
+platform where students explore the beauty of traditional and contemporary
+Chinese dance. Rooted in rich cultural heritage, Chinese dance combines
+graceful movements, storytelling, and artistry to celebrate centuries of
+history and tradition.</p>
+<p>Through this CCA, students not only improve their coordination, grace,
+and fitness but also gain a deeper appreciation of Chinese culture. The
+CCA nurtures teamwork and resilience, as dancers work together to achieve
+harmony and precision in every performance.</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/cd.gif">
+</div>
+<p></p>
