@@ -39,7 +39,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:95%" height="auto" width="100%" src="/images/cca2.png">
 </div>
-<p><strong> Chinese Dance</strong>
+<p><strong>Chinese Dance</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
