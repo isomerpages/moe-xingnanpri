@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Diabolo.md
+      - Performing Arts/.keep
       - Performing Arts/Brass Band.md
       - Performing Arts/Chinese Dance.md
+      - Performing Arts/Diabolo.md
       - Performing Arts/Indian Dance.md
       - Performing Arts/International Dance.md
       - Performing Arts/Malay Dance.md
-      - Performing Arts/.keep
       - Clubs and Societies/Chinese Cultural Appreciation Club.md
       - Clubs and Societies/Environmental Club.md
       - Clubs and Societies/Scouts.md
