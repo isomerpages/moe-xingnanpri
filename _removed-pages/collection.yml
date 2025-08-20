@@ -2,7 +2,6 @@ collections:
   removed-pages:
     output: true
     order:
-      - Diabolo.md
       - AY 2025 P1 Administrative matters.md
       - AY 2025 P1 Matters.md
       - Learn for Life Programme (LLP).md
