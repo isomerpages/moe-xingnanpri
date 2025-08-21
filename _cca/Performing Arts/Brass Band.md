@@ -8,14 +8,23 @@ variant: tiptap
 <h3>Brass Band</h3>
 <p>Xingnan Primary School first started her band in 1982 with only 20 members.&nbsp;
 To date, the band is strong and active with about 80 members.</p>
-<p>Our Brass Band aspires to create music that reaches the listeners' hearts.&nbsp;
-We participate actively in local and overseas music exchange programmes
-in Brisbane (2013) and Taiwan (2016) to enrich our members' musical experiences.
-The educational trip to Brisbane, Australia and Taipei, Taiwan provided
-opportunities for band members to interact with youth musicians across
-borders and to develop a deeper understanding of musicianship. They get
-to experience music from different cultures and value their learning as
-a life long continuous experience!</p>
+<p>The School Brass Band is a vibrant and dynamic musical ensemble that brings
+together students who share a passion for music, teamwork, and performance.Our
+band is made up of brass instruments including the trumpets, cornets, trombones,
+tubas, and supported by percussion.</p>
+<p>Beyond learning to play music, members of the Brass Band develop discipline,
+confidence, and a strong sense of community. Students practice regularly,
+perform at school events, concerts, and community functions, and proudly
+represent the school in competitions and festivals.</p>
+<p>The band welcomes players of all skill levels—from beginners eager to
+learn to experienced musicians looking to refine their talents. With guidance
+from dedicated instructors, students not only improve musically but also
+grow as individuals, building friendships and memories that last a lifetime.</p>
+<p>Being part of the Brass Band is more than just playing music—it’s about
+teamwork, creativity, and sharing the joy of music with others.</p>
+<p>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn%20For%20Life/CCA%20Images/Band_Practice.jpg">
 </div>
