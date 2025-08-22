@@ -93,7 +93,7 @@ variant: tiptap
 <p>National 1st Runner Up</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Girls</p>
+<p>Senior</p>
 </td>
 </tr>
 <tr>
@@ -168,13 +168,41 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (West Zone)</p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd National</p>
+<p>League 1 - 2nd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys (Senior)</p>
+<p>Senior</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 2 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +269,7 @@ variant: tiptap
 <p>Top 12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girls (Senior)</p>
+<p>Senior</p>
 </td>
 </tr>
 <tr>
@@ -255,7 +283,7 @@ variant: tiptap
 <p>4th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys (Senior)</p>
+<p>Senior</p>
 </td>
 </tr>
 <tr>
@@ -283,7 +311,7 @@ variant: tiptap
 <p>Tier 1 Qualification</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior - Singles - Girls</p>
+<p>Junior</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +325,7 @@ variant: tiptap
 <p>Tier 2 Qualification</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior - Doubles - Girls</p>
+<p>Junior</p>
 </td>
 </tr>
 <tr>
@@ -311,7 +339,7 @@ variant: tiptap
 <p>Tier 2 Qualification</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior - Singles - Boys</p>
+<p>Junior</p>
 </td>
 </tr>
 <tr>
@@ -325,7 +353,7 @@ variant: tiptap
 <p>Tier 2 Qualification</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior - Singles - Boys</p>
+<p>Junior</p>
 </td>
 </tr>
 </tbody>
@@ -364,7 +392,7 @@ variant: tiptap
 <p>3rd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys (Senior)</p>
+<p>Senior</p>
 </td>
 </tr>
 <tr>
