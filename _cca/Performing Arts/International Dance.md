@@ -17,7 +17,12 @@ as versatile and confident performers.&nbsp;</p>
 <p>
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/id.gif">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/International_Dance_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/International_Dance_2.jpg">
 </div>
 <p></p>

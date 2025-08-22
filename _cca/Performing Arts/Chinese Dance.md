@@ -15,7 +15,14 @@ history and tradition.</p>
 and fitness but also gain a deeper appreciation of Chinese culture. The
 CCA nurtures teamwork and resilience, as dancers work together to achieve
 harmony and precision in every performance.</p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/cd.gif">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Chinese_Dance_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Chinese_Dance_2.jpg">
 </div>
 <p></p>

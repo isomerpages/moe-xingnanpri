@@ -19,14 +19,15 @@ competitions, and community events.</p>
 students cultivate confidence, perseverance, and a love for the creative
 process, all while enjoying the satisfaction of turning raw clay into unique,
 tangible creations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Pottery_Club_1.jpg">
+</div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Photo_4_Enhancing_students__interview_skills.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Pottery_Club_2.jpg">
 </div>
+<p></p>
 <p></p>
