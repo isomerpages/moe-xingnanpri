@@ -20,7 +20,7 @@ variant: markdown
 
 
 
-<iframe width="414" height="226" src="https://www.youtube.com/embed/xNJ-YTlX9M0" title="Diabolo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 
 <iframe width="414" height="232" src="https://www.youtube.com/embed/5Fi7xjKcA3E" title="Brassband" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -35,8 +35,4 @@ variant: markdown
 <iframe width="393" height="221" src="https://www.youtube.com/embed/9KEjWcmGE84" title="Infocomm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <iframe width="394" height="221" src="https://www.youtube.com/embed/zzSfhKXAxGg" title="Pottery Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### Environmental Club will be offered as modules.
-
-<iframe width="429" height="241" src="https://www.youtube.com/embed/BLiOTPGwIfQ" title="Environmental Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
