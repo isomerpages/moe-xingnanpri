@@ -4,4 +4,6 @@ permalink: /parents/permalink/counselling/
 description: ""
 variant: markdown
 ---
-![](/images/Parents/scscn2.jpg)
+
+
+![](/images/Parents/Counselling_Service.jpg)
