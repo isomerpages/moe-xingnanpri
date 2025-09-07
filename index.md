@@ -10,7 +10,7 @@ sections:
       background: /images/Homepage/Banner.png
       key_highlights:
         - title: School Calendar
-          description: 2025 School Calender
+          description: School Calender
           url: /school-calendar/
         - title: XNPS Facebook Page
           description: Offical Facebook Page
