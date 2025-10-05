@@ -43,15 +43,7 @@ the school's efforts in providing a holistic education for our students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Cindy Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Soo Hui Wah</p>
+<p>Mr Ken Koh Pei Weng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Honorary Treasurer</p>
@@ -59,7 +51,7 @@ the school's efforts in providing a holistic education for our students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ken Koh Pei Weng</p>
+<p>Ms Soo Hui Wah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -67,7 +59,7 @@ the school's efforts in providing a holistic education for our students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Serena Genesis Adsit</p>
+<p>Ms Denise Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -83,7 +75,7 @@ the school's efforts in providing a holistic education for our students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Denise Wong</p>
+<p>Ms Serena Genesis Adsit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
