@@ -5,6 +5,31 @@ description: ""
 third_nav_title: Our Accolades
 variant: tiptap
 ---
+<h2>2025</h2>
+<h4>National Day Commendation Award</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Jesslyn Goh (Admin Manager)</p>
+</li>
+</ul>
+<h4>National Day Long Service Award</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Hazlyna</p>
+</li>
+</ul>
+<h4>Outstanding Teacher-Coach Award (Singapore Physical Education Association)</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Denise Yap</p>
+</li>
+</ul>
+<h4>Ministry of Home Affairs for Home Team Volunteers</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Wahab</p>
+</li>
+</ul>
 <h2>2024</h2>
 <h4>MOE Service Excellence Award (MSEA)</h4>
 <h4><strong>Platinum Award</strong></h4>
