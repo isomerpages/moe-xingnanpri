@@ -6,20 +6,6 @@ third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h3>Academic Achievements 2025</h3>
-<p><strong>14th National On-the-Spot Calligraphy Competition</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Law Yee Teng (6C) – Merit Award</p>
-</li>
-<li>
-<p>Chi Qi Yu (5E) – Merit Award</p>
-</li>
-<li>
-<p>Chang Xin You (6B) – Consolation Award</p>
-<p></p>
-</li>
-</ul>
 <p><strong>Primary 6 STEM Playground 2025 Challenge - 7th Place</strong>
 </p>
 <p>Boat Powered by A Chemical Reaction</p>
@@ -29,20 +15,6 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Yoon Joong Ho (6D)</p>
-</li>
-</ul>
-<p></p>
-<p><strong>National Chinese Calligraphy Competition</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tay Wei Huan Derrick (6B) Consolation Prize</p>
-</li>
-<li>
-<p>Law Yee Teng (6C) Merit Prize</p>
-</li>
-<li>
-<p>Vivian Ho (6C) Consolation Prize</p>
 <p></p>
 </li>
 </ul>
