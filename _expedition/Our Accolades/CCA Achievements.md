@@ -520,6 +520,90 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14th National On-the-Spot Calligraphy Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Law Yee Teng (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chi Qi Yu (5E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chang Xin You (6B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Chinese Calligraphy Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Wei Huan Derrick (6B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Law Yee Teng (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vivian Ho (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
