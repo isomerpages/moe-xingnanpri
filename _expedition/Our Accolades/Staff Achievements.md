@@ -6,6 +6,12 @@ third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h2>2025</h2>
+<h4>National Day Public Administration Medal (Bronze)</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Cindy Ong (Principal)</p>
+</li>
+</ul>
 <h4>National Day Commendation Award</h4>
 <ul data-tight="true" class="tight">
 <li>
