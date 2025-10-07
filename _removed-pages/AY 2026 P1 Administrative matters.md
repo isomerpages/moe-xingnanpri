@@ -70,6 +70,9 @@ Play Store app on your mobile phone to download.&nbsp;</p>
 </p>
 <p></p>
 <p>One-Time Onboarding</p>
+<p></p>
+<p><a href="/files/Parents/P1 Cohort/PG_Annex_A_One_Time_Onboarding.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Required</p>
