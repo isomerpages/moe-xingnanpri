@@ -2,6 +2,7 @@ collections:
   removed-pages:
     output: true
     order:
+      - AY 2026 P1 Matters.md
       - Environmental Club.md
       - Learn for Life Programme (LLP).md
       - Teacher Work Attachment.md
