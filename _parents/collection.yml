@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Academic Year 2026 Primary 1.md
       - Overview.md
       - P1 Registration.md
       - LET's CONNECT! Letters.md
