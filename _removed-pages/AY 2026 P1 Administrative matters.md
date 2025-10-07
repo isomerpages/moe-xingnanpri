@@ -105,7 +105,7 @@ submission using the provided link.</p>
 </p>
 <p></p>
 <p></p>
-<p><a href="https://go.gov.sg/xnps-egiro" rel="noopener nofollow" target="_blank">(3) eGiro Confirmation Submission</a>
+<p><a href="https://form.gov.sg/68de406f5b43a32fe6ae6e25" rel="noopener nofollow" target="_blank">(3) eGiro Confirmation Submission</a>
 </p>
 <p></p>
 </td>
@@ -125,7 +125,7 @@ submission using the provided link.</p>
 programmes charges incurred by the child/ward billed by the school.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave form</a>
+<p><a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">Edusave form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
