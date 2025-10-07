@@ -68,6 +68,8 @@ Play Store app on your mobile phone to download.&nbsp;</p>
 <br>
 <br><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">IOS User</a>
 </p>
+<p></p>
+<p>One-Time Onboarding</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Required</p>
