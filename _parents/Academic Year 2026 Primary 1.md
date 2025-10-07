@@ -67,7 +67,8 @@ of this page, which will be instrumental in preparing your child for Primary
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Parents/admin2.png">
 </div>
 <p></p>
-<p>Administrative information for 2026 Primary 1 registration</p>
+<p><a href="/parents/2026p1admin/" rel="noopener nofollow" target="_blank">Administrative information for 2026 Primary 1 registration </a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
