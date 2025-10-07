@@ -2,50 +2,84 @@
 title: Academic Year 2025 Primary 1
 permalink: /parents/2025p1/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-##### Start It Right <br>
-Dear Parents of Academic Year 2025 Primary 1, <br>
-We look forward to welcoming your child to an exciting year of educational journey with us.  Please click on the following image to access the Primary 1 ‘Start-it-Right’ (SIR) Kit for Parents which would be useful for your child/ward in their preparation for the new academic year.
- <figure><a href="/files/Parents/Start_It_Right_2024.pdf"><img style="width:50%" src="/images/Parents/SIR_2024.png"></a><b></b></figure><br>
-
-
-
-
-
-***
-##### ICDM Programmes and Cyber Wellness <br>
-
-We're thrilled to share insights into our Information Communication Digital Media (ICDM) Programmes and Cyber Wellness initiatives. Our recent briefing, held during the engaging first day of P1, aimed to provide parents with a deeper understanding of these vital programs.
-
-Discover how we're empowering our students to navigate the digital landscape responsibly and develop strong information and communication skills. The session covered key aspects of Cyber Wellness, ensuring a safe and enjoyable online experience for our young learners.
-
-For a more detailed overview and additional information, we invite you to explore the presentation slides from the briefing by[ clicking on this link ](https://docs.google.com/presentation/d/1dwdwXiiF5Uj8qT0-AzY95xqFmXOAwQwv-6hW8CXX49M/edit#slide=id.g2aacdc63839_0_1146). These slides offer valuable insights and tips that will contribute to your child's digital well-being.
-
-***
-
-
-
-
-***
-##### P1 Orientation Matter
-
-We are excited to welcome you and your child to an exciting new chapter in their educational journey at Xingnan Primary School. As we prepare for the 2025 Primary 1 cohort, we want to keep you informed and engaged throughout this important phase of your child's education.
-
-This webpage will serve as a central hub for all **administrative** and **orientation** matters concerning the 2025 Primary 1 cohort. We will provide regular updates, resources, and information to ensure that you are well-prepared for the upcoming academic year.
-
-To get started, please click on the following link to explore the contents of this page, which will be instrumental in preparing your child for Primary 1.
-
-
-<table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" width="649" style="width:487.0pt;border-collapse:collapse;border:none;mso-yfti-tbllook:
- 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:
- none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:65.75pt"><td width="325" valign="top" style="width:243.5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:65.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal">Administrative Matter<a href="https://www.xingnanpri.moe.edu.sg/parents/2024p1admin/"><img src="/images/Parents/admin2.png" style="width:300px;height:180px;margin-left:15px;" align="Centre"></a></p></td><td width="325" valign="top" style="width:243.5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:65.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal">P1 Orientation Matter<a href="https://www.xingnanpri.moe.edu.sg/parents/2024p1orientation"><img src="/images/Parents/student%20matter.png" style="width:400px;height:175px;margin-left:15px;" align="Centre"></a></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:60.95pt"><td width="325" valign="top" style="width:243.5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:60.95pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal">Administrative information for 2025 Primary 1 registration</p></td><td width="325" valign="top" style="width:243.5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:60.95pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal">Essential information on P1 orientation day and how to make a seamless start to your child's academic journey.</p></td></tr></tbody></table>
-We look forward to the 2025 Primary 1 cohort's arrival, and we are excited to embark on this educational journey together. If you have any immediate questions or concerns, please don't hesitate to reach out to our team.
+<h5>Start It Right <br></h5>
+<p>Dear Parents of Academic Year 2026 Primary 1,
+<br>We look forward to welcoming your child to an exciting year of educational
+journey with us. Please click on the following image to access the Primary
+1 ‘Start-it-Right’ (SIR) Kit for Parents which would be useful for your
+child/ward in their preparation for the new academic year.</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Parents/SIR_2024.png">
+</div>
+<p>
+<br>
+</p>
+<hr>
+<h5>ICDM Programmes and Cyber Wellness <br></h5>
+<p>We're thrilled to share insights into our Information Communication Digital
+Media (ICDM) Programmes and Cyber Wellness initiatives. Our recent briefing,
+held during the engaging first day of P1, aimed to provide parents with
+a deeper understanding of these vital programs.</p>
+<p>Discover how we're empowering our students to navigate the digital landscape
+responsibly and develop strong information and communication skills. The
+session covered key aspects of Cyber Wellness, ensuring a safe and enjoyable
+online experience for our young learners.</p>
+<p>For a more detailed overview and additional information, we invite you
+to explore the presentation slides from the briefing by<a href="https://docs.google.com/presentation/d/1dwdwXiiF5Uj8qT0-AzY95xqFmXOAwQwv-6hW8CXX49M/edit#slide=id.g2aacdc63839_0_1146" rel="noopener noreferrer nofollow" target="_blank"> clicking on this link </a>.
+These slides offer valuable insights and tips that will contribute to your
+child's digital well-being.</p>
+<hr>
+<hr>
+<h5>P1 Orientation Matter</h5>
+<p>We are excited to welcome you and your child to an exciting new chapter
+in their educational journey at Xingnan Primary School. As we prepare for
+the 2026 Primary 1 cohort, we want to keep you informed and engaged throughout
+this important phase of your child's education.</p>
+<p>This webpage will serve as a central hub for all <strong>administrative</strong> and <strong>orientation</strong> matters
+concerning the 2026 Primary 1 cohort. We will provide regular updates,
+resources, and information to ensure that you are well-prepared for the
+upcoming academic year.</p>
+<p>To get started, please click on the following link to explore the contents
+of this page, which will be instrumental in preparing your child for Primary
+1.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administrative Matter</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P1 Orientation Matter</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Parents/admin2.png">
+</div>
+<p></p>
+<p>Administrative information for 2026 Primary 1 registration</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/student matter.png">
+</div>
+<p></p>
+<p>Essential information on P1 orientation day and how to make a seamless
+start to your child's academic journey.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>We look forward to the 2026 Primary 1 cohort's arrival, and we are excited
+to embark on this educational journey together. If you have any immediate
+questions or concerns, please don't hesitate to reach out to our team.</p>
