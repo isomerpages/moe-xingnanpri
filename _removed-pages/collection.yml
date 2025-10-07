@@ -2,12 +2,9 @@ collections:
   removed-pages:
     output: true
     order:
+      - AY 2026 P1 Matters.md
       - Environmental Club.md
-      - AY 2025 P1 Administrative matters.md
-      - AY 2025 P1 Matters.md
       - Learn for Life Programme (LLP).md
-      - XCELday2024.md
-      - Academic Year 2025 Primary 1.md
       - Teacher Work Attachment.md
       - Ecostewardship.md
       - Indicative PSLE Score Ranges for Individual Secondary Schools.md
