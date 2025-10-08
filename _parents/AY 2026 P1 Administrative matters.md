@@ -138,6 +138,29 @@ programmes charges incurred by the child/ward billed by the school.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Student Care Centre @ Xingnan</strong>
+</p>
+<p>Big Heart Student Care @ Xingnan caters to the after school care needs
+of our students.
+<br>
+<br>Interested applicants may submit your interest online via the link:
+<br>
+<br>Contact Person: Ms Siti : +65 97729974
+<br><a href="https://cms.isomer.gov.sg/sites/moe-xingnanpri/folders/removed-pages/editPage/xingnan@shgstudentcare.com.sg" rel="noopener noreferrer nofollow" target="_blank">Email: </a>xingnan@shgstudentcare.com.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://bigheartstudentcare.com/interest/" rel="noopener noreferrer nofollow" target="_blank">Student Care @ Xingnan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Optional</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
