@@ -6,6 +6,18 @@ third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h2>2025</h2>
+<h4>Innovator (Technology for Learning)</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Salini A/P Baloh</p>
+</li>
+</ul>
+<h4>Facilitator of Networked Learning Communities</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tay Anling</p>
+</li>
+</ul>
 <h4>National Day Public Administration Medal (Bronze)</h4>
 <ul data-tight="true" class="tight">
 <li>
