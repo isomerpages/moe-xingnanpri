@@ -6,6 +6,75 @@ third_nav_title: Our Accolades
 variant: tiptap
 ---
 <h2>2025</h2>
+<h4>MOE Service Excellence Award (MSEA)</h4>
+<p><u>Award Category Awardees</u>
+</p>
+<p><strong>Platinum</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Abdul Wahab Bin Abdul Rahman</p>
+</li>
+<li>
+<p>Balhetchet Daniel Benjamin</p>
+</li>
+</ul>
+<p><strong>Gold</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chng Yen Teng Sheree</p>
+</li>
+<li>
+<p>Chow Kar Yin</p>
+</li>
+<li>
+<p>Lin Chudai</p>
+</li>
+<li>
+<p>Low Chun Hong</p>
+</li>
+<li>
+<p>Ma Chen</p>
+</li>
+<li>
+<p>Nur Sasterawati Bte Md Yatim</p>
+</li>
+<li>
+<p>Shankar Ganesh S/O Balakrishna</p>
+</li>
+<li>
+<p>Tan Khai Im</p>
+</li>
+<li>
+<p>Wong Shi Yuan</p>
+</li>
+</ul>
+<p><strong>Silver</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Abdul Halim Bin Abdul Sani</p>
+</li>
+<li>
+<p>Chong Yen Lian Janet</p>
+</li>
+<li>
+<p>Hazlyna Bte Usope</p>
+</li>
+<li>
+<p>Isabel Soo</p>
+</li>
+<li>
+<p>Phang Shiow Wen Joseph</p>
+</li>
+<li>
+<p>Wong Chun Chit Benjamin</p>
+</li>
+<li>
+<p>Yuan Quan</p>
+</li>
+</ul>
 <h4>Innovator (Technology for Learning)</h4>
 <ul data-tight="true" class="tight">
 <li>
