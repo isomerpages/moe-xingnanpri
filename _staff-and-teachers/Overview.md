@@ -145,6 +145,10 @@ variant: tiptap
 <p><strong><a href="https://form.gov.sg/677b38ce53af8180d88c916e" rel="noopener noreferrer nofollow" target="_blank">Logistic Request</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://script.google.com/macros/s/AKfycbyJBlyVNv6YKf_4AxgK-pO6d_qC7eLjFqtiKyeOcLtvuaU6u6B201qG-vEsqZYrO5NuuA/exec" rel="noopener nofollow" target="_blank">Late Coming / Early Release system</a> </strong>
+</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
