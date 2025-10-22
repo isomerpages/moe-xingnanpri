@@ -2,6 +2,7 @@ collections:
   removed-pages:
     output: true
     order:
+      - P1 Registration.md
       - AY 2025 P1 Matters.md
       - Environmental Club.md
       - Learn for Life Programme (LLP).md
