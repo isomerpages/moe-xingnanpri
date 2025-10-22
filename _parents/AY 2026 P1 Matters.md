@@ -11,8 +11,7 @@ description: ""
 <p><strong>Dear Parents,</strong>
 </p>
 <p>Welcome to Xingnan Primary School! We’re delighted to have you and your
-child join our school community — and to our returning families, a warm
-welcome back!</p>
+child join our school — and to our returning families, a warm welcome back!</p>
 <p>In addition to the administrative matters page, this section will help
 you prepare for <strong>Orientation Day</strong>, which will be held on <strong>21 November 2025 (Friday), from 9.00 a.m. to 11.00 a.m.</strong>
 </p>
