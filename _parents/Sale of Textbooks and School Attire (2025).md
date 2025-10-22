@@ -4,6 +4,13 @@ permalink: /parents/2025saleofbooks/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<h4><strong>2026 Sale of Textbooks and School Attire</strong></h4>
+<p><strong><em>We’ll be posting the 2026 booklist and uniform details by mid-November 2025. Please check back soon for more information to help you prepare for the new school year.</em></strong>
+</p>
+<hr>
+<p></p>
+<p></p>
 <p>Dear Parents and Guardians,</p>
 <p>We are delighted to welcome you to the upcoming 2025 school year! As we
 prepare for another exciting academic term, we understand the importance
