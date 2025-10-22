@@ -4,10 +4,10 @@ permalink: /parents/2025-moe-fas-application/
 description: ""
 variant: markdown
 ---
-### 2025 MOE FAS Application
+### 2026 MOE FAS Application
 
  Dear Parents/ Guardians&nbsp;
-The 2025 MOE FAS application is now open for registration. Please submit your application by filling up the online&nbsp;[FAS application form](https://go.gov.sg/moe-efas). 
+The 2026 MOE FAS application is now open for registration. Please submit your application by filling up the online&nbsp;[FAS application form](https://go.gov.sg/moe-efas). 
 
 Please note the following when filling up the application form.  
 
