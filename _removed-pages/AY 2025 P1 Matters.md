@@ -1,5 +1,5 @@
 ---
-title: AY 2026 P1 Matters
+title: AY 2025 P1 Matters
 permalink: /parents/2026p1orientation/
 description: ""
 variant: tiptap
