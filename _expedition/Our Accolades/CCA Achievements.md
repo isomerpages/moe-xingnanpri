@@ -87,10 +87,10 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG Volleyball League 1 Competition</p>
+<p>NSG Volleyball League 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 1 - 2nd</p>
+<p>2nd</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior</p>
@@ -168,10 +168,10 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games</p>
+<p>National School Games League 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 1 - 2nd</p>
+<p>2nd</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior</p>
@@ -210,7 +210,7 @@ variant: tiptap
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (West Zone)</p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 8</p>
@@ -263,10 +263,10 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (West Zone)</p>
+<p>National School Games League 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 1 - Top 12</p>
+<p>Top 12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior (Girls)</p>
@@ -277,10 +277,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (West Zone)</p>
+<p>National School Games League 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 4 - 4th</p>
+<p>4th</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior (Girls)</p>
@@ -414,7 +414,7 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (West Zone)</p>
+<p>National School Games League 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd</p>
