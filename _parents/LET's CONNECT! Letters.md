@@ -21,10 +21,12 @@ which will highlight key updates and information for the term ahead.</p>
 <p>2025 Term 2 Letter</p>
 </li>
 <li>
-<p>2025 Term 3 Letter</p>
+<p><a href="/files/Parents/LET’s CONNECT Letters/Term_3___Letter_from_P.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Letter</a>
+</p>
 </li>
 <li>
-<p>2025 Term 4 Letter</p>
+<p><a href="/files/Parents/LET’s CONNECT Letters/Term_4_A_Note_from_the_Principal.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Letter</a>
+</p>
 </li>
 </ol>
 <p></p>
