@@ -42,7 +42,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2026 FAS Application (Link will be made available soon)</p>
+<p><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">2026 FAS Application</a>
+</p>
 </td>
 </tr>
 <tr>
