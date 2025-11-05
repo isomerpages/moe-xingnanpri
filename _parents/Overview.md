@@ -24,20 +24,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025p1admin/" rel="noopener noreferrer nofollow" target="_blank">2025 Primary 1 Administrative &amp; Orientation Matters</a>
+<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025p1admin/" rel="noopener noreferrer nofollow" target="_blank">2026 Primary 1 Administrative &amp; Orientation Matters</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025p1orientation/" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Orientation Details</a>
+<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025p1orientation/" rel="noopener noreferrer nofollow" target="_blank">2026 P1 Orientation Details</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://xingnanpri.moe.edu.sg/parents/2025saleofbooks/" rel="noopener nofollow" target="_blank">2025 Books and Attire Purchase</a>
-</p>
+<p>2026 Books and Attire Purchase (Link will be made available soon)</p>
 </td>
 </tr>
 <tr>
