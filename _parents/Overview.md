@@ -24,13 +24,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025p1admin/" rel="noopener noreferrer nofollow" target="_blank">2026 Primary 1 Administrative &amp; Orientation Matters</a>
+<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2026p1admin/" rel="noopener noreferrer nofollow" target="_blank">2026 Primary 1 Administrative &amp; Orientation Matters</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.xingnanpri.moe.edu.sg/parents/2025p1orientation/" rel="noopener noreferrer nofollow" target="_blank">2026 P1 Orientation Details</a>
+<p><a href="https://www.xingnanpri.moe.edu.sg/ay-2026-p1-matters/" rel="noopener noreferrer nofollow" target="_blank">2026 P1 Orientation Details</a>
 </p>
 </td>
 </tr>
