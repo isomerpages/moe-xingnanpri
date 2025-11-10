@@ -255,8 +255,23 @@ variant: tiptap
 <p>Placing</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Team</p>
+<p>Team/ Individual</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Junior Boys Single</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Fan Jon</p>
+<p>(4D)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -503,6 +518,47 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Achievers</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>80m run</p>
+</li>
+<li>
+<p>Combined events</p>
+</li>
+<li>
+<p>Medicine ball throw (2kg)</p>
+</li>
+<li>
+<p>Standing long jump</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1st Place</p>
+</li>
+<li>
+<p>2nd Place</p>
+</li>
+<li>
+<p>5th Place</p>
+</li>
+<li>
+<p>8th Place</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Ali Zidane Bin Mohamed Aidil</p>
+<p>(5A)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
