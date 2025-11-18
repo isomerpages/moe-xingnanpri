@@ -11,13 +11,13 @@ variant: tiptap
 <hr>
 <p></p>
 <p></p>
-<p>Dear Parents and Guardians,</p>
-<p>We are delighted to welcome you to the upcoming 2025 school year! As we
-prepare for another exciting academic term, we understand the importance
-of providing you with all the necessary information to ensure a smooth
-start. Below, you will find the booklist and uniform details for the 2025
-school year.</p>
-<p>Kindly access the online purchasing guide using the links below.</p>
+<p><strong>Dear Parents and Guardians,</strong>
+</p>
+<p>We are pleased to welcome you to the 2026 school year! As we look forward
+to another enriching academic term, we want to ensure you have all the
+essential information for a smooth and well-prepared start. Below, you
+will find the details for the 2026 booklist and school uniform.</p>
+<p>Please access the online purchasing guide through the links provided below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Parents/Books and Attire 2025/Books_Online_Purchase_2025.pdf" rel="noopener nofollow" target="_blank">School Books</a>
