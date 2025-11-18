@@ -10,8 +10,9 @@ variant: tiptap
 journey with us. Please click on the following image to access the Primary
 1 ‘Start-it-Right’ (SIR) Kit for Parents which would be useful for your
 child/ward in their preparation for the new academic year.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Parents/SIR_2024.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/Start_It_Right_2026_cover.png">
 </div>
 <p>
 <br>
@@ -75,7 +76,7 @@ of this page, which will be instrumental in preparing your child for Primary
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/student matter.png">
 </div>
 <p></p>
-<p><a href="/ay-2026-p1-matters/" rel="noopener nofollow" target="_blank">Essential information on P1 orientation day and how to make a seamless start to your child's academic journey.  </a>
+<p><a href="/ay-2026-p1-matters/" rel="noopener nofollow" target="_blank">Essential information on P1 orientation day and how to make a seamless start to your child's academic journey.</a>
 </p>
 </td>
 </tr>
