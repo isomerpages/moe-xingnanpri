@@ -69,7 +69,7 @@ level.</p>
 <hr>
 <h5><strong>Online Order</strong>&nbsp;&nbsp;&nbsp;&nbsp;</h5>
 <p>Bookshop (HB Book Centre) -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.ihuntforbooks.com</a>
-<br>Online start date – <strong>24 November 2025, 9.00 a.m. </strong>
+<br>Online start date – <strong>24 November 2025, 9.00 a.m.</strong>
 </p>
 <p>Online last day of order – <strong>22 December 2025, 6.00 p.m.</strong>
 </p>
@@ -83,7 +83,7 @@ level.</p>
 Home Delivery Service or Self-Collection at school Delivery charge apply</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Textbooks - $14 per order Attire - $6 per order</p>
+<p>Textbooks - $14 per order Attire - $6.54 per order</p>
 </li>
 <li>
 <p>Mode of payment – via PayNow</p>
@@ -102,8 +102,8 @@ of Appointment</p>
 Collection time - Mondays to Fridays, 9 a.m. to 4 p.m.</p>
 </li>
 <li>
-<p>Start date for Online Self-Collection - 26/11/2024
-<br>Last day of Online Self-Collection - 27/12/2024
+<p>Please note that you can collect the books only on your appointment date.</p>
+<p>Last day of Online Self-Collection - 26/12/2024
 <br>Mode of payment – via PayNow.</p>
 <hr>
 </li>
