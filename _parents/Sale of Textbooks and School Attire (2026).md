@@ -20,10 +20,7 @@ will find the details for the 2026 booklist and school uniform.</p>
 <li>
 <p><a href="/files/Parents/Booklist 2026/Xingnan_Primary_Schoo_online_ordering_guide_for_NON_FAS__2026_.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (NON FAS)</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Parents/Booklist 2026/Xingnan_Primary_Schoo_online_ordering_guide_for_FAS__2026_.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (FAS)</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
@@ -111,7 +108,7 @@ Collection time - Mondays to Fridays, 9 a.m. to 4 p.m.</p>
 <h5><strong>Collection of Textbooks &amp; Attire for FAS students only</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Collection date starting from – 1/12/2023
+<p>Collection date starting from – 15/12/2025
 <br>
 </p>
 </li>
@@ -138,10 +135,6 @@ Scan QR Code to book appointment.</p>
 <ul>
 <li>
 <p>Follow the guide to order the attire</p>
-</li>
-<li>
-<p><a href="/files/Parents/Books and Attire 2025/non_fas_2025_online_ordering_guide_09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (NON FAS)</a>
-</p>
 </li>
 <li>
 <p><a href="/files/Parents/Books and Attire 2025/fas_2025_online_ordering_guide__09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (FAS)</a>
