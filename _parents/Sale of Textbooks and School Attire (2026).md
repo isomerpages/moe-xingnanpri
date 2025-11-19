@@ -14,7 +14,7 @@ will find the details for the 2026 booklist and school uniform.</p>
 <p>Please access the online purchasing guide through the links provided below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/Booklist 2026/Step_by_Step_Guide___Online_Purchase_2025.pdf" rel="noopener nofollow" target="_blank">Online Textbooks Ordering Guide</a>
+<p><a href="/files/Parents/Booklist 2026/Step_by_Step_Guide___Online_Purchase_2025.pdf" rel="noopener nofollow" target="_blank">Online Textbooks Ordering Guide (NON FAS)</a>
 </p>
 </li>
 <li>
@@ -103,7 +103,7 @@ Collection time - Mondays to Fridays, 9 a.m. to 4 p.m.</p>
 </li>
 <li>
 <p>Please note that you can collect the books only on your appointment date.</p>
-<p>Last day of Online Self-Collection - 26/12/2025
+<p>Last day of Online Purchase Self-Collection - 26/12/2025
 <br>Mode of payment – via PayNow.</p>
 <hr>
 </li>

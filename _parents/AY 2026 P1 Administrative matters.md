@@ -161,6 +161,66 @@ of our students.
 <p>Optional</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Bus</strong>
+</p>
+<p>Please click on the school bus application if your child/ward need school
+bus arrangement.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.xingnanpri.moe.edu.sg/parents/schoolbus/" rel="noopener noreferrer nofollow" target="_blank">School Bus Application</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Optional</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Uniform</strong>
+</p>
+<p>Please click on the link to access the school uniform website.</p>
+<p>Sales dates for uniform are the same as textbook sale.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/</a>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Required</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Textbooks</strong>
+</p>
+<p>Please click on the link to access the bookshop website.</p>
+<p>Please refer to the booklist for the sales dates.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://ihuntforbooks.com/" rel="noopener noreferrer nofollow" target="_blank">https://ihuntforbooks.com/</a> 
+<br>
+<br>School<a href="https://www.xingnanpri.moe.edu.sg/parents/2026saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Required</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p></p>
