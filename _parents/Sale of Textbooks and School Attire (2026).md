@@ -69,7 +69,7 @@ level.</p>
 <hr>
 <h5><strong>Online Order</strong>&nbsp;&nbsp;&nbsp;&nbsp;</h5>
 <p>Bookshop (HB Book Centre) -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.ihuntforbooks.com</a>
-<br>Online start date – <strong>24 November 2025, 9.00 a.m.</strong>
+<br>Online start date – <strong>24 November 2025, 9.00 a.m. </strong>
 </p>
 <p>Online last day of order – <strong>22 December 2025, 6.00 p.m.</strong>
 </p>
