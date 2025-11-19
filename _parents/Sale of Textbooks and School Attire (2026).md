@@ -37,54 +37,17 @@ will find the details for the 2026 booklist and school uniform.</p>
 </p>
 <p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P4_.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist 2026</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P1_2025.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist 2025</a>
+<p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P5_.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist 2026</a>
+</p>
+<p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P5Fdn_.pdf" rel="noopener nofollow" target="_blank">Primary 5 FDN Booklist 2026</a>
+</p>
+<p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P6_.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist 2026</a>
+</p>
+<p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P6Fdn_.pdf" rel="noopener nofollow" target="_blank">Primary 6 FDN Booklist 2026</a>
+</p>
+<p>
 <br>
 </p>
-</li>
-<li>
-<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P2_2025.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist 2025</a>
-<br>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P3_2025.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist 2025</a>
-<br>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P4_2025.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist 2025</a>
-<br>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P5_2025.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist 2025</a>
-<br>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P5_2025_FDN.pdf" rel="noopener nofollow" target="_blank">Primary 5 FDN Booklist 2025</a>
-<br>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P6_2025.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist 2025</a>
-<br>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P6_2025_FDN.pdf" rel="noopener nofollow" target="_blank">Primary 6 FDN Booklist 2025</a>
-<br>
-</p>
-</li>
-</ul>
 <hr>
 <h5><strong>Online Order</strong>&nbsp;&nbsp;&nbsp;&nbsp;</h5>
 <p>Bookshop (HB Book Centre) - <a href="http://www.ihuntforbooks.com" rel="noopener noreferrer nofollow" target="_blank">www.ihuntforbooks.com</a>
@@ -179,4 +142,5 @@ Scan QR Code to book appointment.</p>
 <p>Attire after wash will not be accepted.</p>
 </li>
 </ul>
+<p></p>
 <p></p>
