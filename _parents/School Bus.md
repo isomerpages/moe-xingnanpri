@@ -7,7 +7,7 @@ variant: tiptap
 <p>Dear Parents and Guardians,</p>
 <p>Please refer to the table below for school bus fares.</p>
 <p></p>
-<p>Bus fares applicable from <strong>1 January 2024 to 31 Dec 2025:</strong>
+<p>Bus fares applicable from <strong>1 January 2026 to 31 Dec 2027:</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
