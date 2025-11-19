@@ -14,7 +14,7 @@ will find the details for the 2026 booklist and school uniform.</p>
 <p>Please access the online purchasing guide through the links provided below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/Booklist 2026/Step_by_Step_Guide___Online_Purchase_2025.pdf" rel="noopener nofollow" target="_blank">Online Textbooks Ordering Guide</a>
+<p><a href="/files/Parents/Booklist 2026/Step_by_Step_Guide___Online_Purchase_2025.pdf" rel="noopener nofollow" target="_blank">Online Textbooks Ordering Guide (NON FAS)</a>
 </p>
 </li>
 <li>
