@@ -111,7 +111,7 @@ Collection time - Mondays to Fridays, 9 a.m. to 4 p.m.</p>
 <h5><strong>Collection of Textbooks &amp; Attire for <em>[ FAS students only ]</em></strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Collection date starting from – 15/12/2025
+<p>Collection date starting from – 8/12/2025
 <br>
 </p>
 </li>
