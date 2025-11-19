@@ -28,33 +28,55 @@ will find the details for the 2026 booklist and school uniform.</p>
 </ul>
 <p></p>
 <hr>
-<h5><strong>Booklist 2025</strong><br>Please click the link below to download the booklist for your child’s level.</h5>
+<p><strong>Booklist 2025</strong>
+<br>Please click the link below to download the booklist for your child’s
+level.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P1_.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist 2026</a>
 </p>
+</li>
+<li>
 <p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P2_.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist 2026</a>
 </p>
+</li>
+<li>
 <p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P3_.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist 2026</a>
 </p>
+</li>
+<li>
 <p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P4_.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist 2026</a>
 </p>
+</li>
+<li>
 <p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P5_.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist 2026</a>
 </p>
+</li>
+<li>
 <p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P5Fdn_.pdf" rel="noopener nofollow" target="_blank">Primary 5 FDN Booklist 2026</a>
 </p>
+</li>
+<li>
 <p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P6_.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist 2026</a>
 </p>
+</li>
+<li>
 <p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P6Fdn_.pdf" rel="noopener nofollow" target="_blank">Primary 6 FDN Booklist 2026</a>
-</p>
-<p>
 <br>
 </p>
+</li>
+</ul>
 <hr>
 <h5><strong>Online Order</strong>&nbsp;&nbsp;&nbsp;&nbsp;</h5>
-<p>Bookshop (HB Book Centre) - <a href="http://www.ihuntforbooks.com" rel="noopener noreferrer nofollow" target="_blank">www.ihuntforbooks.com</a>
-<br>Online start date – 18 November 2024, 9.00 a.m.
-<br>Online last day of order – 19 December 2024, 6.00 p.m.</p>
-<p>Uniform (Asencio) – <a href="http://www.asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.asencio.com.sg</a>
-<br>Please order early to provide sufficient time for vendors to make delivery.</p>
+<p>Bookshop (HB Book Centre) -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.ihuntforbooks.com</a>
+<br>Online start date – <strong>24 November 2025, 9.00 a.m.</strong>
+</p>
+<p>Online last day of order – <strong>22 December 2025, 6.00 p.m.</strong>
+</p>
+<p>Last day of Self-Collection - 29/12/2025</p>
+<p>Uniform (Asencio) –&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.asencio.com.sg</a>
+</p>
+<p>Please order early to provide sufficient time for vendors to make delivery.</p>
 <hr>
 <h5><strong>Mode of Receipt</strong></h5>
 <p><strong>A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Delivery Service<br></strong>Select
