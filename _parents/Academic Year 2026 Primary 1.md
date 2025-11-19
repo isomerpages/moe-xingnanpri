@@ -14,7 +14,7 @@ child/ward in their preparation for the new academic year.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/Start_It_Right_2026_cover.png">
 </div>
-<p><a href="/files/Parents/Start_It_Right_2026.pdf" rel="noopener nofollow" target="_blank">Click here to download the file</a>
+<p>
 <br>
 </p>
 <hr>
