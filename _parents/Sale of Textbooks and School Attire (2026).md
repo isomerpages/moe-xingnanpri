@@ -103,7 +103,7 @@ Collection time - Mondays to Fridays, 9 a.m. to 4 p.m.</p>
 </li>
 <li>
 <p>Please note that you can collect the books only on your appointment date.</p>
-<p>Last day of Online Self-Collection - 26/12/2025
+<p>Last day of Online Purchase Self-Collection - 26/12/2025
 <br>Mode of payment – via PayNow.</p>
 <hr>
 </li>
