@@ -7,7 +7,7 @@ variant: tiptap
 <p>Dear Parents and Guardians,</p>
 <p>Please refer to the table below for school bus fares.</p>
 <p></p>
-<p>Bus fares applicable from <strong>1 January 2024 to 31 Dec 2025:</strong>
+<p>Bus fares applicable from <strong>1 January 2026 to 31 Dec 2027:</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -50,16 +50,16 @@ variant: tiptap
 <p>Up to 2km</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$170</p>
+<p>$190</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$170</p>
+<p>$190</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$120</p>
+<p>$140</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$120</p>
+<p>$140</p>
 </td>
 </tr>
 <tr>
@@ -67,16 +67,16 @@ variant: tiptap
 <p>&gt;2 – 4km</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$190</p>
+<p>$210</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$190</p>
+<p>$210</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$140</p>
+<p>$160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$140</p>
+<p>$160</p>
 </td>
 </tr>
 </tbody>
