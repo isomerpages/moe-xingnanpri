@@ -18,6 +18,9 @@ to another enriching academic term, we want to ensure you have all the
 essential information for a smooth and well-prepared start. Below, you
 will find the details for the 2026 booklist and school uniform.</p>
 <p>Please access the online purchasing guide through the links provided below.</p>
+<p></p>
+<p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Parents/Books and Attire 2025/Books_Online_Purchase_2025.pdf" rel="noopener nofollow" target="_blank">School Books</a>
