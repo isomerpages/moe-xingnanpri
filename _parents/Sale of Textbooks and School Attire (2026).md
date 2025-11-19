@@ -14,7 +14,7 @@ will find the details for the 2026 booklist and school uniform.</p>
 <p>Please access the online purchasing guide through the links provided below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/Booklist 2026/Step_by_Step_Guide___Online_Purchase_2025.pdf" rel="noopener nofollow" target="_blank">Online Textbooks Ordering Guide </a>
+<p><a href="/files/Parents/Booklist 2026/Step_by_Step_Guide___Online_Purchase_2025.pdf" rel="noopener nofollow" target="_blank">Online Textbooks Ordering Guide</a>
 </p>
 </li>
 <li>
@@ -28,8 +28,21 @@ will find the details for the 2026 booklist and school uniform.</p>
 </ul>
 <p></p>
 <hr>
-<h5><strong>Booklist 2025</strong><br></h5>
-<p>Kindly click on the link below to download the booklist by level.</p>
+<h5><strong>Booklist 2025</strong><br>Please click the link below to download the booklist for your child’s level.</h5>
+<p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P1_.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist 2026</a>
+</p>
+<p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P2_.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist 2026</a>
+</p>
+<p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P3_.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist 2026</a>
+</p>
+<p><a href="/files/Parents/Booklist 2026/XN_Booklist_2026__P4_.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist 2026</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Parents/Booklist 2025/XNPS_Booklist_P1_2025.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist 2025</a>
