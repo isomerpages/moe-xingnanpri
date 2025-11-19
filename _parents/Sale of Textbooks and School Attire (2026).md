@@ -80,7 +80,10 @@ level.</p>
 Home Delivery Service or Self-Collection at school Delivery charge apply</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Textbooks - $14 per order Attire - $6.54 per order</p>
+<p>Textbooks - $14 per order</p>
+</li>
+<li>
+<p>Attire - $6.54 per order</p>
 </li>
 <li>
 <p>Mode of payment – via PayNow</p>
@@ -100,7 +103,7 @@ Collection time - Mondays to Fridays, 9 a.m. to 4 p.m.</p>
 </li>
 <li>
 <p>Please note that you can collect the books only on your appointment date.</p>
-<p>Last day of Online Self-Collection - 26/12/2024
+<p>Last day of Online Self-Collection - 26/12/2025
 <br>Mode of payment – via PayNow.</p>
 <hr>
 </li>
