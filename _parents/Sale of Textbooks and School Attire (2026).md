@@ -5,12 +5,6 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<h4><strong>2026 Sale of Textbooks and School Attire</strong></h4>
-<p><strong><em>We’ll be posting the 2026 booklist and uniform details by mid-November 2025. Please check back soon for more information to help you prepare for the new school year.</em></strong>
-</p>
-<hr>
-<p></p>
-<p></p>
 <p><strong>Dear Parents and Guardians,</strong>
 </p>
 <p>We are pleased to welcome you to the 2026 school year! As we look forward
@@ -18,20 +12,17 @@ to another enriching academic term, we want to ensure you have all the
 essential information for a smooth and well-prepared start. Below, you
 will find the details for the 2026 booklist and school uniform.</p>
 <p>Please access the online purchasing guide through the links provided below.</p>
-<p></p>
-<p></p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/Books and Attire 2025/Books_Online_Purchase_2025.pdf" rel="noopener nofollow" target="_blank">School Books</a>
+<p><a href="/files/Parents/Booklist 2026/Step_by_Step_Guide___Online_Purchase_2025.pdf" rel="noopener nofollow" target="_blank">Online Textbooks Ordering Guide </a>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/Books and Attire 2025/non_fas_2025_online_ordering_guide_09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (NON FAS)</a>
+<p><a href="/files/Parents/Booklist 2026/Xingnan_Primary_Schoo_online_ordering_guide_for_NON_FAS__2026_.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (NON FAS)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/Books and Attire 2025/fas_2025_online_ordering_guide__09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (FAS)</a>
+<p><a href="/files/Parents/Booklist 2026/Xingnan_Primary_Schoo_online_ordering_guide_for_FAS__2026_.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (FAS)</a>
 </p>
 </li>
 </ul>
