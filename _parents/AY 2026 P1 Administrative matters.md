@@ -193,7 +193,7 @@ bus arrangement.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/</a>
 <br>
-<br>School<a href="https://www.xingnanpri.moe.edu.sg/parents/2025saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,7 +213,7 @@ bus arrangement.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://ihuntforbooks.com/" rel="noopener noreferrer nofollow" target="_blank">https://ihuntforbooks.com/</a> 
 <br>
-<br>School<a href="https://www.xingnanpri.moe.edu.sg/parents/2025saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
+<br>School<a href="https://www.xingnanpri.moe.edu.sg/parents/2026saleofbooks/" rel="noopener noreferrer nofollow" target="_blank">Book and Attire Information</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
