@@ -37,7 +37,7 @@ community of over <strong>36,000 parents</strong> on Instagram:
 </p>
 <p>
 <br>Please click here to <a href="/files/Parents/2026_P1_Orientation_YH_Sharing.pdf" rel="noopener nofollow" target="_blank">download </a>the
-slides from the 2026 P1 Orientation (YH Sharing session).</p>
+slides from the 2026 P1 Orientation (YH Sharing session) 21 November 2025.</p>
 <p></p>
 <hr>
 <h4><strong>Helpful Resources</strong></h4>
