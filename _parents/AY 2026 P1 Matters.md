@@ -35,8 +35,13 @@ home.</p>
 community of over <strong>36,000 parents</strong> on Instagram:
 <br>📸 <strong>@parentingwith.moesg</strong>
 </p>
+<p>
+<br>Please click here to <a href="/files/Parents/2026_P1_Orientation_YH_Sharing.pdf" rel="noopener nofollow" target="_blank">download </a>the
+slides from the 2026 P1 Orientation (YH Sharing session).</p>
+<p></p>
 <hr>
 <h4><strong>Helpful Resources</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parent Kit: Preparing Our Children for P1 : <a href="https://go.gov.sg/pk-p1-preparation" rel="noopener nofollow" target="_blank">https://go.gov.sg/pk-p1-preparation</a>
