@@ -36,7 +36,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2026 Books and Attire Purchase (Link will be made available soon)</p>
+<p><a href="/parents/2026saleofbooks/" rel="noopener nofollow" target="_blank">2026 Books and Attire Sale</a>
+</p>
 </td>
 </tr>
 <tr>
