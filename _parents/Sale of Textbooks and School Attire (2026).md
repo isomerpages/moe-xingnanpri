@@ -140,8 +140,9 @@ Scan QR Code to book appointment.</p>
 <p>Follow the guide to order the attire</p>
 </li>
 <li>
-<p><a href="/files/Parents/Books and Attire 2025/fas_2025_online_ordering_guide__09102024.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (FAS)</a>
+<p><a href="/files/Parents/Booklist 2026/Xingnan_Primary_Schoo_online_ordering_guide_for_FAS__2026_.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (FAS)</a>
 </p>
+<p></p>
 <hr>
 </li>
 </ul>
