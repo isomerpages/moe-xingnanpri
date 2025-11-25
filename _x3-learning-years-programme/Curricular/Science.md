@@ -156,6 +156,23 @@ of Science.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Raffles Science Olympiad (RSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5 students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Singapore Youth Science Fair (SYSF)</p>
 </td>
 <td rowspan="1" colspan="1">
