@@ -71,7 +71,7 @@ level.</p>
 <p>Online last day of order – <strong>22 December 2025, 6.00 p.m.</strong>
 </p>
 <p>Last day of Self-Collection - 29/12/2025</p>
-<p>Uniform (Asencio) –&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.asencio.com.sg</a>
+<p>Uniform (Asencio) –&nbsp;<a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.asencio.com.sg</a>
 </p>
 <p>Please order early to provide sufficient time for vendors to make delivery.</p>
 <hr>
