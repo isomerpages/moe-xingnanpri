@@ -63,6 +63,18 @@ variant: tiptap
 <p><a rel="noopener noreferrer nofollow" target="_blank">ang_hwee_loo@schools.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yong Hua Moy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yong_hua_moy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_hua_moy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
@@ -146,6 +158,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_tina@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Si Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_si_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_si_hua@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -448,18 +472,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head [Student Wellbeing]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nursasterawati Bte Md Yatim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nursasterawati_md_yatim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher [Educational Support]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -530,18 +542,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chng_yen_teng_sheree@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head [Partnership &amp; Publicity]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rachel Sin Meng Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sin_meng_hui_rachel@schools.gov.sg</a>
 </p>
 </td>
 </tr>
