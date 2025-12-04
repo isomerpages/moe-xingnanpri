@@ -472,18 +472,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head [Student Wellbeing]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nursasterawati Bte Md Yatim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nursasterawati_md_yatim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher [Educational Support]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -554,18 +542,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chng_yen_teng_sheree@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head [Partnership &amp; Publicity]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rachel Sin Meng Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sin_meng_hui_rachel@schools.gov.sg</a>
 </p>
 </td>
 </tr>
