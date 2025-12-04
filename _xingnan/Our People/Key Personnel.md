@@ -63,6 +63,18 @@ variant: tiptap
 <p><a rel="noopener noreferrer nofollow" target="_blank">ang_hwee_loo@schools.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yong Hua Moy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yong_hua_moy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_hua_moy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
