@@ -163,6 +163,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Year Head (Upper Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Si Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_si_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_si_hua@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
