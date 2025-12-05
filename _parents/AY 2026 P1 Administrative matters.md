@@ -49,6 +49,22 @@ school announcements and updates moving forward.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Student Data Form (SDF)</p>
+<p>Please complete the form for P1 Pupil Data Capturing Exercise.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">Student Data Form </a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dateline : 31 December 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Parent Gateway Setup (PG)</strong>
 </p>
 <p>Parents Gateway (PG) is a one-stop mobile app for parents and schools
@@ -79,7 +95,7 @@ Play Store app on your mobile phone to download.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>eGiro</strong>
@@ -120,7 +136,7 @@ submission using the provided link.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Edusave (for Singaporeans only)</strong>
@@ -140,7 +156,7 @@ programmes charges incurred by the child/ward billed by the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Student Care Centre @ Xingnan</strong>
@@ -163,7 +179,7 @@ of our students.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Bus</strong>
@@ -182,7 +198,7 @@ bus arrangement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Uniform</strong>
@@ -202,7 +218,7 @@ bus arrangement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Textbooks</strong>
