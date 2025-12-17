@@ -48,7 +48,7 @@ variant: markdown
 </p>
 
 <p>
-    As a school, Xingnan has stood the test of time and grown from strength to strength over the past 92 years, from a little 
+    As a school, Xingnan has stood the test of time and grown from strength to strength over the past 93 years, from a little 
     village school to one with a conducive learning environment, caring and committed staff and a forward-looking curriculum. 
     It takes a village to raise a child. We appreciate the strong support from our school advisory committee, parent support 
     group, parents, alumni, and community partners who have walked the journey with us to develop our students holistically.
