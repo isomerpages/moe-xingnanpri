@@ -383,6 +383,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head [Physical Education &amp; Co-Curricular Activities (PE/CCA)]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Denise Yap (Ms Yap)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:denise_yap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>denise_yap@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher [Music]</p>
 </td>
 <td rowspan="1" colspan="1">
