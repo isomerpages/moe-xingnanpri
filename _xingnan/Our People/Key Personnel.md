@@ -154,18 +154,6 @@ variant: tiptap
 <p>Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tina Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_tina@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Tan Si Hua</p>
 </td>
 <td rowspan="1" colspan="1">
