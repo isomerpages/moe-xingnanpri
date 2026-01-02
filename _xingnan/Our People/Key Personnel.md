@@ -154,18 +154,6 @@ variant: tiptap
 <p>Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tina Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_tina@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Tan Si Hua</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -390,6 +378,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wahab_rahman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head [Physical Education &amp; Co-Curricular Activities (PE/CCA)]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Denise Yap (Ms Yap)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:denise_yap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>denise_yap@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
