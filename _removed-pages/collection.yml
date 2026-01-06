@@ -2,6 +2,8 @@ collections:
   removed-pages:
     output: true
     order:
+      - 2023 WE STories.md
+      - School Newsletter.md
       - P1 Registration.md
       - AY 2025 P1 Matters.md
       - Environmental Club.md

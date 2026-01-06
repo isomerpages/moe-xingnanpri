@@ -2,7 +2,6 @@
 title: 2023 WE STories
 permalink: /expedition/school-publications/westories/
 description: ""
-third_nav_title: School Publications
 ---
 <a href="https://online.fliphtml5.com/obrr/qkde/#p=1https://online.fliphtml5.com/obrr/qkde/#p=1"><img src="/images/Events/westories.JPG" style="width:220px;height:340px;margin-right:20px;" align="left"></a>
 
