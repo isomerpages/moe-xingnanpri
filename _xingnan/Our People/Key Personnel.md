@@ -313,18 +313,6 @@ variant: tiptap
 <p>Senior Teacher [Science]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Huang Li Juan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siau_li_juan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher [Science]</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Janet See</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -407,8 +395,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Co-Curricular Department</strong>

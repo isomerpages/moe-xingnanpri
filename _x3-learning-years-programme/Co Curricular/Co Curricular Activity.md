@@ -9,17 +9,13 @@ variant: tiptap
 <p><strong>Click on the image to read more!</strong>
 </p>
 <h4>Performing Arts</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -36,16 +32,11 @@ variant: tiptap
 <p><strong>Chinese Dance</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/diabolo/"><img style="width: 99%;" height="auto" width="100%" alt="" src="/images/cca3.png"></a>
-<p><strong>Diabolo</strong>
-</p>
-</td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -57,15 +48,8 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/indian-dance/"><img style="width:98%" height="auto" width="100%" src="/images/cca4.png"></a>
-<p><strong>Indian Dance</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/international-dance/"><img style="width:80%" height="auto" width="100%" src="/images/cca5.png"></a>
 <p><strong>International Dance</strong>
 </p>
