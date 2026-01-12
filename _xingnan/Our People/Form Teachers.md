@@ -15,6 +15,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<p>Primary 1</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p><strong>Class</strong>
 </p>
@@ -173,6 +178,27 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<p></p>
+<p>Primary 2</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>P2A</p>
 </td>
@@ -317,6 +343,27 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<p></p>
+<p>Primary 3</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>P3A</p>
 </td>
@@ -411,6 +458,27 @@ variant: tiptap
 <p><a href="mailto:yuan_quan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yuan_quan_a@schools.gov.sg</u></a>
 </p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<p></p>
+<p>Primary 4</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -569,6 +637,27 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<p></p>
+<p>Primary 5</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>P5A</p>
 </td>
@@ -711,6 +800,27 @@ variant: tiptap
 <p><a href="mailto:taufek_b_siniwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>taufek_b_siniwi@schools.gov.sg</u></a>
 </p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<p></p>
+<p>Primary 6</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
