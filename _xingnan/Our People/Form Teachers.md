@@ -227,7 +227,7 @@ variant: tiptap
 <p>P2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christina Wong (FAJT)</p>
+<p>Ms Wong Kim Yinn, Christina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wong_kim_yinn_christina@schools.gov.sg</a>
@@ -239,7 +239,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Nian (Mdm Yang)</p>
+<p>Mdm Yang Nian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yang_nian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yang_nian@schools.gov.sg</u></a>
@@ -251,7 +251,7 @@ variant: tiptap
 <p>P2C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kaye Wong Min Qi (Miss Kaye)</p>
+<p>Miss Kaye Wong Min Qi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_min_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_min_qi@schools.gov.sg</u></a>
@@ -311,7 +311,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Skye Gan Soon Keat</p>
+<p>Mr Gan Soon Keat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gan_soon_keat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gan_soon_keat@schools.gov.sg</u></a>
@@ -323,7 +323,7 @@ variant: tiptap
 <p>P2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Oon-Yeo Lay Hoon (Mrs Oon)</p>
+<p>Mrs Oon-Yeo Lay Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_lay_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_lay_hoon@schools.gov.sg</u></a>
@@ -440,7 +440,7 @@ variant: tiptap
 <p>P3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Benjamin Wong Chun Chit</p>
+<p>Mr Wong Chun Chit, Benjamin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_chun_chit_benjamin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_chun_chit_benjamin@schools.gov.sg</u></a>
@@ -509,7 +509,7 @@ variant: tiptap
 <p>P4B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Joel Ang</p>
+<p>Mr Ang Chay Hee, Joseph Joel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joseph_ang_chay_hee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>joseph_ang_chay_hee@schools.gov.sg</u></a>
@@ -533,7 +533,7 @@ variant: tiptap
 <p>P4C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Clara Choo Jia En (Miss Choo)</p>
+<p>Miss Choo Jia En, Clara</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:clara_choo_jia_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>clara_choo_jia_en@schools.gov.sg</u></a>
@@ -698,7 +698,7 @@ variant: tiptap
 <p>P5C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Isabel Soo</p>
+<p>Mdm Tan Kah Cheng, Isabel (Mrs Soo)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_kah_cheng_isabel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_kah_cheng_isabel@schools.gov.sg</u></a>
