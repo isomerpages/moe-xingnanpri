@@ -4,30 +4,25 @@ permalink: /parents/permalink/2026parentsengagement/
 variant: tiptap
 description: ""
 ---
-<h4><strong>2025 Parents Engagement Session</strong></h4>
+<h4><strong>2026 Parents Engagement Session</strong></h4>
 <p>Dear Parents,</p>
-<p>Please find the <strong>2025 Parent Engagement Sessions recordings here</strong>.
-These sessions provide valuable insights into our school’s programs, initiatives,
-and ways we can work together to support our students' learning journey.</p>
-<p>Whether you missed the live sessions or would like to revisit key discussions,
-you can now access the recordings at your convenience. We encourage you
-to watch and stay informed about important school matters, classroom experiences,
-and strategies to support your child’s growth.</p>
-<p>Thank you for your continued partnership and commitment to your child’s
-education. If you have any questions, feel free to reach out to us.</p>
+<p><strong>Welcome, and thank you for joining us for the 2026 Parent Engagement Sessions.</strong>
+<br>The recordings for each session will be made available after the live
+sessions and can be accessed via the link provided.</p>
+<p>These sessions offer valuable insights into our school’s programmes, initiatives,
+and how we can work together to support our students’ learning journey.
+If you were unable to attend the live sessions or would like to revisit
+key discussions, we encourage you to view the recordings at your convenience.</p>
+<p>Parents are also welcome to watch the <strong>Principal’s Address video</strong>,
+which shares important updates and the school’s direction for the year
+ahead.</p>
+<p>Thank you for your continued partnership and support in your child’s education.
+Should you have any questions, please feel free to contact us.</p>
 <p></p>
-<p>Primary 2 Session.</p>
+<p><strong>Principal Message</strong>
+</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kk96yWvkcLc?si=VO8enbHw05nWJbcs"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-x9IGdxRkvg?si=i4eZhqWCGPmoGe-G"></iframe>
 </div>
 <p></p>
-<p>Primary 3 and 4 session.</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oDCwmWxDID0?si=UudlTI5B2UVv3TG6"></iframe>
-</div>
-<p></p>
-<p>Primary 5 and 6 session .</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RSYtoNq8HvE?si=PggaduX60BgBak23"></iframe>
-</div>
 <p></p>
