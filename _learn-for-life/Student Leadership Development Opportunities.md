@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Student Leadership Development Opportunities</h3>
-<p><strong><u>Student Leadership Development Opportunities</u></strong>
-</p>
+<p></p>
 <p>At Xingnan, we believe that every student has the potential to be developed
 as a leader, with each possessing a unique blend of abilities and talents.
 Guided by this belief, we provide a range of student leadership development
@@ -218,7 +217,7 @@ appointments, excluding Group Representatives, is one year.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Prefects </u></strong>
+<summary><strong><u>Prefects</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The prefectorial structure comprises Prefect Interns, Prefects, and the
