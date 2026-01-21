@@ -4,7 +4,7 @@ permalink: /learn-for-life/student-leadership-development-opportunities/
 description: ""
 variant: tiptap
 ---
-<h3>Leaders Lead Leaders</h3>
+<h3>Student Leadership Development Opportunities</h3>
 <p>Bearing holistic education as the core of our belief, the school sees
 the importance of self-discipline in playing a major role in pupil development.&nbsp;&nbsp;To
 achieve this, school needs to have a common set of language/habit to anchor
