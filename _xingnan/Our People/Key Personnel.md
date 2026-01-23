@@ -253,7 +253,7 @@ variant: tiptap
 <p>Head of Department [Mathematics]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Koh Pei Cheng, Jerica</p>
+<p>Mrs Jerica Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lim_pei_cheng@schools.gov.sg</a>
