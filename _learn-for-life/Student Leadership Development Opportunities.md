@@ -297,9 +297,7 @@ and well-being of the entire school community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Head Prefect</p>
-<p>(Eco)</p>
-<p>– Chief Eco Leader</p>
+<p>Vice Head Prefect (Eco) – Chief Eco Leader</p>
 </td>
 </tr>
 <tr>
