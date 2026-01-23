@@ -18,10 +18,10 @@ service opportunities. Through these experiences, student leaders are entrusted
 with responsibilities that allow them to apply their skills, gain valuable
 experience, and contribute purposefully to the school community.&nbsp;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Learn For Life/Student_Leadership_Development_Opportunities.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/St_Ldr_Pathway.png">
+</div>
 <p><u>Switching of Student Leadership Pathways</u>.&nbsp; Student Leaders
 and Interns are expected to relinquish their current appointments if they
 wish to pursue a different student leadership pathway, after consulting
@@ -81,8 +81,7 @@ behaviours online and offline, and model good character.&nbsp;</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peer Support Leader</p>
-<p>(PSL)</p>
+<p>Peer Support Leader (PSL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All levels</p>
@@ -90,9 +89,7 @@ behaviours online and offline, and model good character.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Deputy Lead</p>
-<p>Peer Support Leader</p>
-<p>(Dy Lead PSL)</p>
+<p>Deputy Lead Peer Support Leader (Dy Lead PSL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5</p>
@@ -100,9 +97,7 @@ behaviours online and offline, and model good character.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead</p>
-<p>Peer Support Leader</p>
-<p>(Lead PSL)</p>
+<p>Lead Peer Support Leader (Lead PSL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6</p>
@@ -302,9 +297,7 @@ and well-being of the entire school community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Head Prefect</p>
-<p>(Eco)</p>
-<p>– Chief Eco Leader</p>
+<p>Vice Head Prefect (Eco) – Chief Eco Leader</p>
 </td>
 </tr>
 <tr>
@@ -398,8 +391,7 @@ specialised leadership and expertise in eco sustainability matters.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Deputy</p>
-<p>Chief Eco Leader</p>
+<p>Deputy Chief Eco Leader</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5</p>
@@ -410,8 +402,7 @@ specialised leadership and expertise in eco sustainability matters.&nbsp;</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Eco Leader</p>
-<p>– Vice Head Prefect (Eco)</p>
+<p>Chief Eco Leader – Vice Head Prefect (Eco)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6</p>

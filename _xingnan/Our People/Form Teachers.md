@@ -851,7 +851,7 @@ variant: tiptap
 <p>P6B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Ai Ling (Mrs Kwek)</p>
+<p>Mrs Kwek Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chau_ai_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chau_ai_ling@schools.gov.sg</u></a>
