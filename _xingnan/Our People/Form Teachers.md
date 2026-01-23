@@ -770,7 +770,7 @@ variant: tiptap
 <p>P5F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Munavvar Nisha D/O O Fazlur Rahman (Ms Nisha)</p>
+<p>Mdm Munavvar Nisha D/O Fazlur Rahman (Ms Nisha)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:munavvar_nisha_fazlur_rahm@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>munavvar_nisha_fazlur_rahm@schools.gov.sg</u></a>
