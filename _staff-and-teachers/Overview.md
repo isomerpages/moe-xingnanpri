@@ -110,14 +110,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SCHOOLS FORMS</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -146,11 +138,31 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://script.google.com/macros/s/AKfycbyJBlyVNv6YKf_4AxgK-pO6d_qC7eLjFqtiKyeOcLtvuaU6u6B201qG-vEsqZYrO5NuuA/exec" rel="noopener nofollow" target="_blank">Late Coming / Early Release system</a> </strong>
+<p><strong><a href="https://script.google.com/macros/s/AKfycbyJBlyVNv6YKf_4AxgK-pO6d_qC7eLjFqtiKyeOcLtvuaU6u6B201qG-vEsqZYrO5NuuA/exec" rel="noopener nofollow" target="_blank">Late Coming / Early Release system</a></strong>
 </p>
 </li>
 </ul>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>XNPS AIBots</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://aibots.gov.sg/chats/xnps-assessment-policy-guidelines" rel="noopener nofollow" target="_blank">Assessment Policy &amp; Guidelines</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://aibots.gov.sg/chats/21st-century-competencies-21cc-explainer" rel="noopener nofollow" target="_blank">21CC explainer</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://aibots.gov.sg/chats/xnps-ict-support" rel="noopener nofollow" target="_blank">ICT Support</a></strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>OTHERS</strong>
 </p>
@@ -160,6 +172,9 @@ variant: tiptap
 </p>
 </li>
 </ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
