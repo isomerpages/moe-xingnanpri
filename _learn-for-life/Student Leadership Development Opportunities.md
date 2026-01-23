@@ -391,8 +391,7 @@ specialised leadership and expertise in eco sustainability matters.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Deputy</p>
-<p>Chief Eco Leader</p>
+<p>Deputy Chief Eco Leader</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5</p>
@@ -403,8 +402,7 @@ specialised leadership and expertise in eco sustainability matters.&nbsp;</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Eco Leader</p>
-<p>– Vice Head Prefect (Eco)</p>
+<p>Chief Eco Leader – Vice Head Prefect (Eco)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6</p>
