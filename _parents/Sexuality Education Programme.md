@@ -4,11 +4,8 @@ permalink: /parents/sexuality-education-programme/
 description: ""
 variant: tiptap
 ---
-<p><strong>XINGNAN PRIMARY SCHOOL</strong>
-</p>
-<p><strong>&nbsp;Moe Sexuality Education in Schools</strong>
-</p>
-<p>&nbsp;</p>
+<h4><strong>XINGNAN PRIMARY SCHOOL</strong></h4>
+<h4><strong>&nbsp;Moe Sexuality Education in Schools</strong>&nbsp;</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -24,8 +21,6 @@ on sexuality issues.</p>
 </li>
 <li>
 <p>The <strong>Goals</strong> of Sexuality Education are:</p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Support students in managing their physiological, social and emotional
@@ -41,11 +36,11 @@ by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
 </li>
 </ul>
+</li>
+</ol>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
@@ -63,12 +58,12 @@ unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 </li>
 </ul>
+</li>
+</ol>
 <p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here </a>for
-more information on MOE Sexuality Education.</p>
-<p><strong><br></strong>
+more information on MOE Sexuality Education.<strong><br></strong>
 </p>
-<p><strong>Overview of Xingnan Primary School’s Sexuality Education Programme for 2026</strong>
-</p>
+<h4><strong>Overview of Xingnan Primary School’s Sexuality Education Programme for 2026</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -81,7 +76,6 @@ curriculum.</p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Science</p>
@@ -93,7 +87,7 @@ curriculum.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>Sexuality Education Lessons</strong>&nbsp;</p>
+<h4><strong>Sexuality Education Lessons</strong>&nbsp;</h4>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>The upper primary years mark the onset of puberty. With better nutrition
@@ -106,10 +100,8 @@ our young are also exposed to a wide range of influences that could endanger
 health and undermine the integrity of the family. Our students require
 close guidance so that they can respond with discernment to the sexual
 messages in the media and other sources.</p>
-</li>
-</ol>
 <p>&nbsp;</p>
-<ol start="7" data-tight="true" class="tight">
+</li>
 <li>
 <p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
 Primary 5 and 6. Through these lessons, students will learn healthy ways
@@ -120,27 +112,20 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<p><strong>Information for Parents</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>Information for Parents&nbsp;</strong></h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
 supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+<p></p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<ol start="9" data-tight="true" class="tight">
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. &nbsp;The completed opt-out form
 will be made available in Parent’s Gateway and is to be submitted by 6
-March 2026.</p>
+March 2026.&nbsp;</p>
+<p></p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<ol start="10" data-tight="true" class="tight">
 <li>
 <p>Parents can contact the school at +65 67913679 or email at&nbsp;<a href="mailto:xingnan_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xingnan_ps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
