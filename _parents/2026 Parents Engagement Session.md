@@ -25,4 +25,11 @@ Should you have any questions, please feel free to contact us.</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-x9IGdxRkvg?si=i4eZhqWCGPmoGe-G"></iframe>
 </div>
 <p></p>
+<p><strong>P2 Parent Engagement Session</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z4-zIFtMDNw?si=_pjzNtJr2gfQtQ6g"></iframe>
+</div>
+<p><a href="/files/Parents/Parents Engagement/2026_P2_Parent_Engagement_Day__FT_Engagement_Slides_.pdf" rel="noopener noreferrer nofollow" target="_blank">Please click here to download the P2 Teachers Sharing slides. </a>
+</p>
 <p></p>

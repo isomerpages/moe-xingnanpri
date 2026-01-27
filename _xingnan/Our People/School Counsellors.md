@@ -23,24 +23,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Rahmah Binte Ja’afar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_rahmah_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_rahmah_jaafar@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Thanaletchmi Rasanayagam (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:thanaletchmi_rasanayagam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thanaletchmi_rasanayagam@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Juliana&nbsp; Binte Johari (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">

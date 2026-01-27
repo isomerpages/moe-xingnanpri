@@ -23,6 +23,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Kwek Khiok Chai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kwek_khiok_chai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_khiok_chai@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Flora Chew Seok May</p>
 </td>
 <td rowspan="1" colspan="1">
