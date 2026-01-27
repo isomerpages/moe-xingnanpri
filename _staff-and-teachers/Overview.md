@@ -122,7 +122,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://docs.google.com/forms/d/1qYdbi7NHF5L_oGCV2K5MqR5j0ttNFn9a0O-CJLoCg1E/viewform" rel="noopener noreferrer nofollow" target="_blank">Bus Booking Form</a></strong>
+<p><strong><a href="https://form.gov.sg/693623c7c6410ced705183be" rel="noopener noreferrer nofollow" target="_blank">Bus Booking Form</a></strong>
 </p>
 </li>
 <li>
