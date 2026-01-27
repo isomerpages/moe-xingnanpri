@@ -30,4 +30,6 @@ Should you have any questions, please feel free to contact us.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z4-zIFtMDNw?si=_pjzNtJr2gfQtQ6g"></iframe>
 </div>
-<p>Please click here to download the P2 Teachers Sharing form.</p>
+<p><a href="/files/Parents/Parents Engagement/2026_P2_Parent_Engagement_Day__FT_Engagement_Slides_.pdf" rel="noopener noreferrer nofollow" target="_blank">Please click here to download the P2 Teachers Sharing slides. </a>
+</p>
+<p></p>
