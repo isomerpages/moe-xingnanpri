@@ -112,6 +112,15 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/Primary_5_Sexed___2026.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/Primary_6_Sexed___2026.png">
+</div>
 <h4><strong>Information for Parents&nbsp;</strong></h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
