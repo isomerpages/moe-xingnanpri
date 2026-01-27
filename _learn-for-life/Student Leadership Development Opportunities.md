@@ -418,9 +418,10 @@ specialised leadership and expertise in eco sustainability matters.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CCA leadership structure includes all students participating in co-curricular
-activities, with leadership roles such as Captain and Vice-Captain in Sports
-and Games CCAs, and President and Vice-President in Performing Arts and
-Clubs and Societies CCAs.</p>
+activities, with leadership roles such as (1) Captain and Vice-Captain
+in Sports and Games CCAs, (2) President and Vice-President in Performing
+Arts and Clubs and Societies CCAs and (3) Senior Sixer and Assistant Senior
+Sixers in Uniformed Group (Scout).</p>
 <p>CCA leaders are expected to lead by example by modelling commitment, discipline,
 and school values in all activities. They support teachers and coaches
 in organising training and events, maintain order and safety, motivate
