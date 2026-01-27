@@ -16,11 +16,9 @@ to table below) aligned with Character and Citizenship Education (CCE)
 outcomes. Within these subjects and experiences, students are provided
 with opportunities to reinforce and apply their learning, with dedicated
 time set aside for reflection and personal application.</p>
-<p>&nbsp;</p>
 <p>Beyond instruction, we aspire for all our students to internalise these
 principles, qualities, and traits, and to demonstrate positive transformation
 from the inside out.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
