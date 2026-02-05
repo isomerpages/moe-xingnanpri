@@ -322,20 +322,6 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 5 Qualification</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>League 1 - 4th</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,7 +333,7 @@ variant: tiptap
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 2 Doubles Champions</p>
@@ -361,7 +347,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 2 Singles Champion</p>
@@ -375,7 +361,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 3 Singles Champion</p>
@@ -389,7 +375,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>League 2 Qualification</p>
@@ -403,10 +389,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 5</p>
+<p>League 5 Qualification</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior (Boys)</p>
