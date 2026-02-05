@@ -456,10 +456,24 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games League 1</p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>League 1 - 3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 2 Qualification&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior</p>
