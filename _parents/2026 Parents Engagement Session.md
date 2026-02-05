@@ -38,3 +38,5 @@ Should you have any questions, please feel free to contact us.</p>
 <p></p>
 <p><strong>P3 &amp; P4 Parent Engagement Session</strong>
 </p>
+<p><a href="/files/Parents/Parents Engagement/PE_Classroom_2026v1.pdf" rel="noopener nofollow" target="_blank">Please click here to download the P3 &amp; P4 Parent Engagement Slides</a>
+</p>
