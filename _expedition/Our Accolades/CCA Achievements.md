@@ -567,34 +567,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>80m run</p>
-</li>
-<li>
-<p>Combined events</p>
-</li>
-<li>
-<p>Medicine ball throw (2kg)</p>
-</li>
-<li>
-<p>Standing long jump</p>
+<p>National School Games (Athletics)</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>1st Place</p>
-</li>
-<li>
-<p>2nd Place</p>
-</li>
-<li>
-<p>5th Place</p>
-</li>
-<li>
-<p>8th Place</p>
-</li>
-</ul>
+<p>1st in 80m sprint, 5th in medicine ball throw, 8th for long jump</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Muhammad Ali Zidane Bin Mohamed Aidil</p>
@@ -697,6 +675,48 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Vivian Ho (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Bowling)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keegan Ng (5D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Golf)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vedona Gong (5C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Wushu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yoon Joong Ho (6A) – 7th</p>
 </td>
 </tr>
 <tr>
