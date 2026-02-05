@@ -291,14 +291,13 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games Junior Boys Single</p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion</p>
+<p>Tier 2 Champion&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Fan Jon</p>
-<p>(4D)</p>
+<p>Junior Boys (Lim Fan Jon, 4D)</p>
 </td>
 </tr>
 <tr>
@@ -306,10 +305,10 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games League 1</p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 12</p>
+<p>League 1 Top 12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior (Girls)</p>
@@ -320,10 +319,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games League 1</p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>League 1 - 4th</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior (Girls)</p>
@@ -334,7 +333,7 @@ variant: tiptap
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 2 Doubles Champions</p>
@@ -348,7 +347,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 2 Singles Champion</p>
@@ -362,7 +361,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tier 3 Singles Champion</p>
@@ -376,7 +375,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>League 2 Qualification</p>
@@ -390,10 +389,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 5</p>
+<p>League 5 Qualification</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior (Boys)</p>
@@ -457,10 +456,24 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games League 1</p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>League 1 - 3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 2 Qualification&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior</p>
@@ -554,34 +567,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>80m run</p>
-</li>
-<li>
-<p>Combined events</p>
-</li>
-<li>
-<p>Medicine ball throw (2kg)</p>
-</li>
-<li>
-<p>Standing long jump</p>
+<p>National School Games (Athletics)</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>1st Place</p>
-</li>
-<li>
-<p>2nd Place</p>
-</li>
-<li>
-<p>5th Place</p>
-</li>
-<li>
-<p>8th Place</p>
-</li>
-</ul>
+<p>1st in 80m sprint, 5th in medicine ball throw, 8th for long jump</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Muhammad Ali Zidane Bin Mohamed Aidil</p>
@@ -590,7 +581,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Calligraphy</p>
@@ -604,7 +595,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>14th National On-the-Spot Calligraphy Competition</p>
@@ -684,6 +675,48 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Vivian Ho (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Bowling)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keegan Ng (5D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Golf)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vedona Gong (5C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Wushu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yoon Joong Ho (6A) – 7th</p>
 </td>
 </tr>
 <tr>
