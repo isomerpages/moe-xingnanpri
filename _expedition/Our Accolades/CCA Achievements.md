@@ -581,7 +581,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Calligraphy</p>
@@ -595,7 +595,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>14th National On-the-Spot Calligraphy Competition</p>
