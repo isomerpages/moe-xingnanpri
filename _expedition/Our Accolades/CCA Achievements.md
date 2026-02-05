@@ -291,14 +291,13 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games Junior Boys Single</p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion</p>
+<p>Tier 2 Champion&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Fan Jon</p>
-<p>(4D)</p>
+<p>Junior Boys (Lim Fan Jon, 4D)</p>
 </td>
 </tr>
 <tr>
@@ -306,10 +305,10 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games League 1</p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 12</p>
+<p>League 1 Top 12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior (Girls)</p>
@@ -320,10 +319,24 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games League 1</p>
+<p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>League 5 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1 - 4th</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior (Girls)</p>
