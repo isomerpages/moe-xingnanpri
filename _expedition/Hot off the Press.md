@@ -7,6 +7,13 @@ variant: tiptap
 <h3>Hot Off The Press</h3>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="https://www.straitstimes.com/sport/badminton-teacher-coachs-hands-on-approach-a-smash-hit-at-xingnan-primary-school" rel="noopener nofollow" target="_blank">Badminton teacher-coach’s hands-on approach a smash hit at Xingnan Primary School</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Expedition/Ms_Denise_Yap.png">
+</div>
+</li>
+<li>
 <p>A group of pupils at Xingnan Primary School in Jurong West helped to design
 a multi-purpose room in their school, something which even most adults
 might not have done before. They worked with coaches to turn their sketches
@@ -25,7 +32,7 @@ our Primary 3 students in action. Xingnan Primary School is featured from
 </li>
 </ol>
 <div class="iframe-wrapper">
-<iframe height="250" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fVgkufQ9wfI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="250" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fVgkufQ9wfI"></iframe>
 </div>
 <ol start="3">
 <li>
@@ -57,7 +64,7 @@ our Primary 3 students in action. Xingnan Primary School is featured from
 </li>
 </ol>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Ri_aWGiIXw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Ri_aWGiIXw"></iframe>
 </div>
 <ol start="11" data-tight="true" class="tight">
 <li>
