@@ -35,6 +35,8 @@ Should you have any questions, please feel free to contact us.</p>
 </div>
 <p><a href="/files/Parents/Parents Engagement/2026_P2_Parent_Engagement_Day__FT_Engagement_Slides_.pdf" rel="noopener noreferrer nofollow" target="_blank">Please click here to download the P2 Teachers Sharing slides.</a>
 </p>
+<hr>
+<p></p>
 <p></p>
 <p><strong>P3 &amp; P4 Parent Engagement Session</strong>
 </p>
