@@ -11,18 +11,6 @@ variant: tiptap
 to another enriching academic term, we want to ensure you have all the
 essential information for a smooth and well-prepared start. Below, you
 will find the details for the 2026 booklist and school uniform.</p>
-<p>Please access the online purchasing guide through the links provided below.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Parents/Booklist 2026/Step_by_Step_Guide___Online_Purchase_2025.pdf" rel="noopener nofollow" target="_blank">Online Textbooks Ordering Guide (NON FAS)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parents/Booklist 2026/Xingnan_Primary_Schoo_online_ordering_guide_for_NON_FAS__2026_.pdf" rel="noopener nofollow" target="_blank">Online Uniform Ordering Guide (NON FAS)</a>
-</p>
-<p></p>
-</li>
-</ul>
 <p></p>
 <hr>
 <p><strong>Booklist 2025</strong>
@@ -65,15 +53,7 @@ level.</p>
 </ul>
 <hr>
 <h5><strong>Online Order</strong>&nbsp;&nbsp;&nbsp;&nbsp;</h5>
-<p>Bookshop (HB Book Centre) -&nbsp;<a href="https://ihuntforbooks.com/" rel="noopener noreferrer nofollow" target="_blank">www.ihuntforbooks.com</a>
-<br>Online start date – <strong>24 November 2025, 9.00 a.m.</strong>
-</p>
-<p>Online last day of order – <strong>22 December 2025, 6.00 p.m.</strong>
-</p>
-<p>Last day of Self-Collection - 29/12/2025</p>
-<p>Uniform (Asencio) –&nbsp;<a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.asencio.com.sg</a>
-</p>
-<p>Please order early to provide sufficient time for vendors to make delivery.</p>
+<p>More information on the online book sale will be shared soon.</p>
 <hr>
 <h5><strong>Mode of Receipt</strong></h5>
 <p><strong>A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Delivery Service<br></strong>Select
