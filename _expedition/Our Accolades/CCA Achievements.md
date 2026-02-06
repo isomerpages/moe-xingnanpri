@@ -126,6 +126,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 1 Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,20 +308,6 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tier 2 Champion&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Boys (Lim Fan Jon, 4D)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>League 1 Top 12</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -330,7 +330,49 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 2 Champion&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Boys (Lim Fan Jon, 4D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 2 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 5 Qualification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National School Games</p>
@@ -368,34 +410,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Junior (Boys)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>League 2 Qualification</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior (Girls)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>League 5 Qualification</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior (Boys)</p>
 </td>
 </tr>
 <tr>
@@ -487,10 +501,10 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tier 1 Qualification</p>
+<p>League 2 - 3rd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior</p>
+<p>Senior</p>
 </td>
 </tr>
 <tr>
@@ -501,10 +515,10 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 2 - 3rd</p>
+<p>Tier 1 Qualification</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior</p>
+<p>Junior</p>
 </td>
 </tr>
 <tr>
@@ -515,10 +529,10 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tier 1 Champion</p>
+<p>West Zone Prelims</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior</p>
+<p>Senior</p>
 </td>
 </tr>
 <tr>
@@ -529,10 +543,10 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West Zone Prelims</p>
+<p>Tier 1 Champion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior</p>
+<p>Junior</p>
 </td>
 </tr>
 </tbody>
@@ -716,7 +730,7 @@ variant: tiptap
 <p>7th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yoon Joong Ho (6A) – 7th</p>
+<p>Yoon Joong Ho (6A)</p>
 </td>
 </tr>
 <tr>
