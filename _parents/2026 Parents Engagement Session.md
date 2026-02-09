@@ -41,7 +41,7 @@ Should you have any questions, please feel free to contact us.</p>
 <p><strong>P3 &amp; P4 Parent Engagement Session</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hdg3DdJGCKI?si=2_YDtUviZzzDAXPa"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hdg3DdJGCKI?si=ON-GEM2m56L1V44x"></iframe>
 </div>
 <p><a href="/files/Parents/Parents Engagement/PE_Classroom_2026v1.pdf" rel="noopener nofollow" target="_blank">Please click here to download the P3 &amp; P4 Parent Engagement Slides</a>
 </p>
