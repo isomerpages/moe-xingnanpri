@@ -114,7 +114,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://sites.google.com/moe.edu.sg/communication-channel-teachers/home?authuser=1" rel="noopener nofollow" target="_blank">C@MAX</a></strong>
+<p><strong><a href="https://go.gov.sg/xnpscounsellingteacher" rel="noopener nofollow" target="_blank">Counselling Referral Form</a></strong>
 </p>
 </li>
 <li>
@@ -179,6 +179,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
