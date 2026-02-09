@@ -45,3 +45,11 @@ Should you have any questions, please feel free to contact us.</p>
 </div>
 <p><a href="/files/Parents/Parents Engagement/PE_Classroom_2026v1.pdf" rel="noopener nofollow" target="_blank">Please click here to download the P3 &amp; P4 Parent Engagement Slides</a>
 </p>
+<p></p>
+<p><strong>P5 &amp; P6 Parent Engagement Session</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hdg3DdJGCKI?si=2_YDtUviZzzDAXPa"></iframe>
+</div>
+<p><a href="/files/Parents/Parents Engagement/P5___P6_Parent_Engagement_Slides_for_FTs.pdf" rel="noopener nofollow" target="_blank">Please click here to download the P5 &amp; P5 Parent Engagement Slides</a>
+</p>
