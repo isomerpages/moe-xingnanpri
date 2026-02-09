@@ -118,10 +118,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://sites.google.com/moe.edu.sg/communication-channel-teachers/home?authuser=1" rel="noopener nofollow" target="_blank">C@MAX</a></strong>
-</p>
-</li>
-<li>
 <p><strong><a href="https://form.gov.sg/6642d3a1048abac439daaf13" rel="noopener nofollow" target="_blank">Staff Travel Declaration</a></strong>
 </p>
 </li>
@@ -183,6 +179,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
