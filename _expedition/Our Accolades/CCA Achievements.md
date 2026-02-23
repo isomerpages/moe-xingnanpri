@@ -255,7 +255,7 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 8</p>
+<p>League 1 - Top 8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior</p>
@@ -322,10 +322,10 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 1 - 4th</p>
+<p>League 4 - 4th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior (Girls)</p>
+<p>Senior (Boys)</p>
 </td>
 </tr>
 <tr>
@@ -473,7 +473,7 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 1 - 3rd</p>
+<p>League 2 Qualification</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior</p>
@@ -487,10 +487,10 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 2 Qualification&nbsp;</p>
+<p>Tier 2 Qualification</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior</p>
+<p>Junior</p>
 </td>
 </tr>
 <tr>
@@ -579,11 +579,7 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>National School Games (Athletics)</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st in 80m sprint, 5th in medicine ball throw, 8th for long jump</p>
