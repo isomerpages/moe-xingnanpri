@@ -17,13 +17,15 @@ to set-up the 3-security challenge questions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/MIMS_Support_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/MIMS_Support_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/3.png">
 </div>
 </td>
 </tr>

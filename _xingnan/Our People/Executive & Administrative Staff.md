@@ -220,22 +220,22 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Halim Bin Abdul Sani</p>
+<p>Mr Chu Ee Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Abdul_Halim_Abdul_Sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Abdul_Halim_Abdul_Sani@schools.gov.sg</u></a>
+<p><a href="mailto:chu_ee_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chu_ee_soon@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chu Ee Soon</p>
+<p>Mr Abdul Halim Bin Abdul Sani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chu_ee_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chu_ee_soon@schools.gov.sg</u></a>
+<p><a href="mailto:Abdul_Halim_Abdul_Sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Abdul_Halim_Abdul_Sani@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -290,10 +290,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sum Wai Keong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 </tr>
 <tr>
