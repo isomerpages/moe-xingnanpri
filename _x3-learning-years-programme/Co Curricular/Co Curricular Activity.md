@@ -27,7 +27,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__7_.png">
 </div>
 <p><strong>Brass Band</strong>
 </p>
@@ -35,7 +35,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/ChatGPT_Image_Mar_4__2026__10_33_48_AM.png">
 </div>
 <p><strong>Chinese Dance</strong>
 </p>
@@ -60,6 +60,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__4_.png">
+</div>
 <p><strong>International Dance</strong>
 </p>
 <p>
@@ -112,7 +116,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/scouts/"><img style="width:165%" height="auto" width="100%" src="/images/cca9.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__5_.png">
+</div>
 <p><strong>Scouts</strong>
 </p>
 </td>
