@@ -46,10 +46,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Chinese Cultural Appreciation Club</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/CCC.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/chinese-cultural-appreciation-club/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/CCC.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Scouts</strong>
