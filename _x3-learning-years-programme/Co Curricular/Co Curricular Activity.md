@@ -51,7 +51,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Scouts</strong>
 </p>
-<p></p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/scouts/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__5_.png"></a>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/scouts/"><img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__5_.png"></a>
 </td>
 </tr>
 </tbody>
