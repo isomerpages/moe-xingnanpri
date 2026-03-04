@@ -3,13 +3,89 @@ title: Overview
 permalink: /x3-learning-years-programme/Curricular/overview/
 description: ""
 third_nav_title: Curricular
-variant: markdown
+variant: tiptap
 ---
-### Curricular
-
-**Click on the image to read more!**
-
-|  	|  	|  	|
-|---	|---	|---	|
-| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/english-language-and-social-studies/"><img style="width:95%" src="/images/curr6.png"></a><b>English Language &amp; Social Studies</b></figure><br> 	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/mathematics/"><img style="width:80%" src="/images/curr2.png"></a><b>Mathematics</b></figure><br>  	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/curricular/science-department/"><img style="width:205%" src="/images/curr3.png"></a><b>Science</b></figure><br> 	|
-| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/mother-tongue/"><img style="width:180%" src="/images/curr4.png"></a><b>Mother Tongue</b></figure><br> 	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Curricular/pe-art-music/"><img style="width:88%" src="/images/curr5.png"></a><b>PE, Art and Music (PAM)</b></figure><br> 	|  	|
+<h3>Curricular</h3>
+<p><strong>Click on the image to read more!</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/Students/Website_Curricular.png">
+</div>
+<p><strong>English Language &amp; Social Studies</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Students/Website_Curricular__1_.png">
+</div>
+<p><strong>Mathematics</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/Website_Curricular__2_.png">
+</div>
+<p><strong>Science</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:180%" height="auto" width="100%" src="/images/curr4.png">
+</div>
+<p><strong>Mother Tongue</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:88%" height="auto" width="100%" src="/images/curr5.png">
+</div>
+<p><strong>PE, Art and Music (PAM)</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
