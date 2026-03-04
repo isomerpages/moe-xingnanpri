@@ -203,14 +203,22 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/badminton/"><img style="width:50%" height="auto" width="100%" src="/images/cca13.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__12_.png">
+</div>
 <p><strong>Badminton</strong>
 </p>
 <p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/soccer/"><img style="width:55%" height="auto" width="100%" src="/images/cca14.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__13_.png">
+</div>
 <p><strong>Soccer</strong>
 </p>
 <p>
@@ -219,14 +227,22 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/basketball/"><img style="width:50%" height="auto" width="100%" src="/images/cca15.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__14_.png">
+</div>
 <p><strong>Basketball</strong>
 </p>
 <p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/volleyball/"><img style="width:54%" height="auto" width="100%" src="/images/cca16.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__15_.png">
+</div>
 <p><strong>Volleyball</strong>
 </p>
 <p>
