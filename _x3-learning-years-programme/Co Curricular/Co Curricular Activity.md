@@ -27,17 +27,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>International Dance</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__4_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://xingnanpri.moe.edu.sg/cca/Performing-Arts/international-dance/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__4_.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Malay Dance</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__18_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/cca/Performing-Arts/malay-dance/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__18_.png"></a>
 </td>
 </tr>
 </tbody>
@@ -52,18 +46,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Chinese Cultural Appreciation Club</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__9_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/chinese-cultural-appreciation-club/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__9_.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Scouts</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__5_.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/scouts/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__5_.png"></a>
 </td>
 </tr>
 </tbody>
@@ -78,10 +66,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Pottery Club</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__10_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/pottery-club/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__10_.png"></a>
 <p></p>
 <p>
 <br>
@@ -89,20 +74,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Art Club</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__11_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/art-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__11_.png"></a>
 <p>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Infocomm Club</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/ChatGPT_Image_Mar_4__2026__10_52_02_AM.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/infocomm-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/ChatGPT_Image_Mar_4__2026__10_52_02_AM.png"></a>
 <p></p>
 <p>
 <br>
@@ -121,33 +100,21 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Badminton</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__12_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/badminton/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__12_.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Soccer</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__13_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/soccer/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__13_.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Basketball</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__14_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/basketball/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__14_.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Volleyball</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__15_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/volleyball/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__15_.png"></a>
 </td>
 </tr>
 </tbody>
