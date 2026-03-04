@@ -3,17 +3,68 @@ title: Overview
 permalink: /x3-learning-years-programme/Co-Curricular/overview/
 description: ""
 third_nav_title: Co Curricular
+variant: tiptap
 ---
-### Co-curricular
-
-The Co-curricular Activities are crafted to present opportunities for our pupils to excel in areas of interest beyond the classrooms and each have objectives anchored on our mission in developing “Passion to Learn, Will to Overcome, Attitude to Excel and Spirit to Serve” in our young ones.  
-  
-A variety of CCAs in performing arts, sports as well as clubs and societies are offered. The CCAs are managed and monitored by teachers and many of them are supported by professional instructors engaged by the school.  
-  
-Participation in CCAs allows Xingnanians to grow holistically and in areas that they are passionate about. It is also a platform for pupils to develop leadership qualities and important social skills that are critical for the 21st century.
-
-**Click on the image to read more!**
-
-|  	|  	|  	|
-|---	|---	|---	|
-| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Co-Curricular/infomation-communication-and-digital-media/"><img style="width:66%" src="/images/cco1.png"></a> <b>Information Communication and Digital Media (ICDM) & School Library </b></figure><br>	| <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Co-Curricular/cce/"><img style="width:75%" src="/images/cco2.png"></a> <b>Character and Citizenship Education (CCE) </b></figure><br>	|  <figure><a href="https://staging.d24s03z0ob23eb.amplifyapp.com/x3-learning-years-programme/Co-Curricular/cca/"><img style="width:80%" src="/images/cco3.png"></a><b>Co-Curricular Activity (CCA) </b></figure>	|
+<h3>Co-curricular</h3>
+<p>The Co-curricular Activities are crafted to present opportunities for
+our pupils to excel in areas of interest beyond the classrooms and each
+have objectives anchored on our mission in developing “Passion to Learn,
+Will to Overcome, Attitude to Excel and Spirit to Serve” in our young ones.</p>
+<p>A variety of CCAs in performing arts, sports as well as clubs and societies
+are offered. The CCAs are managed and monitored by teachers and many of
+them are supported by professional instructors engaged by the school.</p>
+<p>Participation in CCAs allows Xingnanians to grow holistically and in areas
+that they are passionate about. It is also a platform for pupils to develop
+leadership qualities and important social skills that are critical for
+the 21st century.</p>
+<p><strong>Click on the image to read more!</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__17_.png">
+</div>
+<p><strong>Information Communication and Digital Media (ICDM) &amp; School Library</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__16_.png">
+</div>
+<p><strong>Character and Citizenship Education (CCE)</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Co-Curricular Activity (CCA)</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
