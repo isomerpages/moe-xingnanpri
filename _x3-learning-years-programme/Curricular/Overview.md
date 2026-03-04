@@ -62,6 +62,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Students/Website_Curricular__4_.png">
+</div>
 <p><strong>PE, Art and Music (PAM)</strong>
 </p>
 <p>
@@ -74,4 +78,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/Website_Curricular__4_.png">
+</div>
 <p></p>
