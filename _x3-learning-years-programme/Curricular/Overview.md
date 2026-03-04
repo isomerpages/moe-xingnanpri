@@ -28,10 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/Students/Website_Curricular.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/x3-learning-years-programme/Curricular/english-language-and-social-studies/"><img style="width: 88%;" height="auto" width="100%" alt="" src="/images/Students/Website_Curricular.png"></a>
 <p><strong>English Language &amp; Social Studies</strong>
 </p>
 <p>
@@ -39,10 +36,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Students/Website_Curricular__1_.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/x3-learning-years-programme/Curricular/mathematics/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Students/Website_Curricular__1_.png"></a>
 <p><strong>Mathematics</strong>
 </p>
 <p>
@@ -50,10 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/Website_Curricular__2_.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/x3-learning-years-programme/curricular/science-department/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students/Website_Curricular__2_.png"></a>
 <p><strong>Science</strong>
 </p>
 <p>
