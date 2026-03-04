@@ -49,50 +49,27 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Clubs and Societies</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__9_.png">
-</div>
 <p><strong>Chinese Cultural Appreciation Club</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__5_.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__9_.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Scouts</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__5_.png">
+</div>
 </td>
 </tr>
 </tbody>
@@ -105,44 +82,34 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__10_.png">
-</div>
 <p><strong>Pottery Club</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__10_.png">
+</div>
+<p></p>
 <p>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Art Club </strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__11_.png">
 </div>
-<p><strong>Art Club </strong>
+<p>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Infocomm Club</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/ChatGPT_Image_Mar_4__2026__10_52_02_AM.png">
 </div>
-<p><strong>Infocomm Club</strong>
-</p>
+<p></p>
 <p>
 <br>
 </p>
