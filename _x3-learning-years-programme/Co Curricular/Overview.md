@@ -29,10 +29,8 @@ the 21st century.</p>
 <p><strong>Information Communication and Digital Media (ICDM) &amp; School Library</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__17_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__21_.png">
 </div>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -40,7 +38,7 @@ the 21st century.</p>
 <p><strong>Character and Citizenship Education (CCE)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__16_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__20_.png">
 </div>
 </td>
 </tr>
@@ -48,11 +46,9 @@ the 21st century.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Co-Curricular Activity (CCA)</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__19_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__22_.png">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
