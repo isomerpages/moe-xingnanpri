@@ -19,50 +19,40 @@ leadership qualities and important social skills that are critical for
 the 21st century.</p>
 <p><strong>Click on the image to read more!</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>Information Communication and Digital Media (ICDM) &amp; School Library</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__17_.png">
+</div>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__17_.png">
-</div>
-<p><strong>Information Communication and Digital Media (ICDM) &amp; School Library</strong>
+<p><strong>Character and Citizenship Education (CCE)</strong>
 </p>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__16_.png">
 </div>
-<p><strong>Character and Citizenship Education (CCE)</strong>
-</p>
-<p>
-<br>
-</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Co-Curricular Activity (CCA)</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__19_.png">
+</div>
+<p></p>
 </td>
 </tr>
 </tbody>
