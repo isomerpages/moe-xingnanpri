@@ -18,16 +18,10 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Brass Band</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__7_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://xingnanpri.moe.edu.sg/cca/Performing-Arts/brass-band/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__7_.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>Chinese Dance</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/ChatGPT_Image_Mar_4__2026__10_33_48_AM.png">
-</div>
+<p>Chinese Dance</p><a class="isomer-image-wrapper" href="https://xingnanpri.moe.edu.sg/cca/Performing-Arts/chinese-dance/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/ChatGPT_Image_Mar_4__2026__10_33_48_AM.png"></a>
 </th>
 </tr>
 <tr>
