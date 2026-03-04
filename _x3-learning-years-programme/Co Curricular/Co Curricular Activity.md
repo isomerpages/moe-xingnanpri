@@ -125,47 +125,35 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Badminton</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__12_.png">
 </div>
-<p><strong>Badminton</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Soccer</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__13_.png">
 </div>
-<p><strong>Soccer</strong>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Basketball</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__14_.png">
 </div>
-<p><strong>Basketball</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Volleyball</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__15_.png">
 </div>
-<p><strong>Volleyball</strong>
-</p>
 </td>
 </tr>
 </tbody>
