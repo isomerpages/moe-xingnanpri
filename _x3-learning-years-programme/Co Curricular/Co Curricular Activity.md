@@ -109,7 +109,11 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/chinese-cultural-appreciation-club/"><img style="width:70%" height="auto" width="100%" src="/images/cca7.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__9_.png">
+</div>
 <p><strong>Chinese Cultural Appreciation Club</strong>
 </p>
 </td>
@@ -149,19 +153,31 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/pottery-club/"><img style="width:90%" height="auto" width="100%" src="/images/cca10.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__10_.png">
+</div>
 <p><strong>Pottery Club</strong>
 </p>
 <p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/art-club/"><img style="width:105%" height="auto" width="100%" src="/images/cca11.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__11_.png">
+</div>
 <p><strong>Art Club </strong>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/infocomm-club/"><img style="width:85%" height="auto" width="100%" src="/images/cca12.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/ChatGPT_Image_Mar_4__2026__10_52_02_AM.png">
+</div>
 <p><strong>Infocomm Club</strong>
 </p>
 <p>
