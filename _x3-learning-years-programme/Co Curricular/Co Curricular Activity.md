@@ -66,9 +66,6 @@ variant: tiptap
 </div>
 <p><strong>International Dance</strong>
 </p>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -77,9 +74,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__8_.png">
 </div>
 <p><strong>Malay Dance</strong>
-</p>
-<p>
-<br>
 </p>
 </td>
 </tr>
