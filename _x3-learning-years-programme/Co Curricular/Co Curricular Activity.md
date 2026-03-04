@@ -9,31 +9,6 @@ variant: tiptap
 <p><strong>Click on the image to read more!</strong>
 </p>
 <h4>Performing Arts</h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Brass Band</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__7_.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Chinese Dance</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/ChatGPT_Image_Mar_4__2026__10_33_48_AM.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,30 +17,33 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Brass Band</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__7_.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Chinese Dance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/ChatGPT_Image_Mar_4__2026__10_33_48_AM.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__4_.png">
-</div>
 <p><strong>International Dance</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__4_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__8_.png">
-</div>
 <p><strong>Malay Dance</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs.png">
+</div>
 </td>
 </tr>
 </tbody>
