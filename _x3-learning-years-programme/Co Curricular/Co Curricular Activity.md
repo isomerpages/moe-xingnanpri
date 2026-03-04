@@ -24,11 +24,19 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/brass-band/"><img style="width:115%" height="auto" width="100%" src="/images/cca1.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__2_.png">
+</div>
 <p><strong>Brass Band</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/chinese-dance/"><img style="width:95%" height="auto" width="100%" src="/images/cca2.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__1_.png">
+</div>
 <p><strong>Chinese Dance</strong>
 </p>
 </td>
@@ -50,14 +58,20 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/international-dance/"><img style="width:80%" height="auto" width="100%" src="/images/cca5.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 <p><strong>International Dance</strong>
 </p>
 <p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Performing-Arts/malay-dance/"><img style="width:105%" height="auto" width="100%" src="/images/cca6.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs.png">
+</div>
 <p><strong>Malay Dance</strong>
 </p>
 <p>
@@ -68,8 +82,9 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Clubs and Societies</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -85,11 +100,17 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/chinese-cultural-appreciation-club/"><img style="width:70%" height="auto" width="100%" src="/images/cca7.png"></a>
 <p><strong>Chinese Cultural Appreciation Club</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/scouts/"><img style="width:165%" height="auto" width="100%" src="/images/cca9.png"></a>
 <p><strong>Scouts</strong>
