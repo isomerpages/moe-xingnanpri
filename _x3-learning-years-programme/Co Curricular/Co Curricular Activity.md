@@ -9,36 +9,27 @@ variant: tiptap
 <p><strong>Click on the image to read more!</strong>
 </p>
 <h4>Performing Arts</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Brass Band</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__7_.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__7_.png">
-</div>
-<p><strong>Brass Band</strong>
+<p><strong>Chinese Dance</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/ChatGPT_Image_Mar_4__2026__10_33_48_AM.png">
 </div>
-<p><strong>Chinese Dance</strong>
-</p>
 </td>
 </tr>
 </tbody>
