@@ -27,28 +27,19 @@ the 21st century.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Information Communication and Digital Media (ICDM) &amp; School Library</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__21_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/x3-learning-years-programme/Co-Curricular/infomation-communication-and-digital-media/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__21_.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Character and Citizenship Education (CCE)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__20_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/x3-learning-years-programme/Co-Curricular/cce/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__20_.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Co-Curricular Activity (CCA)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__22_.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/x3-learning-years-programme/Co-Curricular/cca/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__22_.png"></a>
 </td>
 </tr>
 </tbody>
