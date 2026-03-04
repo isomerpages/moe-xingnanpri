@@ -204,9 +204,6 @@ variant: tiptap
 </div>
 <p><strong>Badminton</strong>
 </p>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -214,9 +211,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__13_.png">
 </div>
 <p><strong>Soccer</strong>
-</p>
-<p>
-<br>
 </p>
 </td>
 </tr>
@@ -228,9 +222,6 @@ variant: tiptap
 </div>
 <p><strong>Basketball</strong>
 </p>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -238,9 +229,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__15_.png">
 </div>
 <p><strong>Volleyball</strong>
-</p>
-<p>
-<br>
 </p>
 </td>
 </tr>
