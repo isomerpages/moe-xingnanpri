@@ -99,11 +99,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Badminton</strong>
-</p><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/badminton/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__12_.png"></a>
+</p><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/badminton/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__12_.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Soccer</strong>
-</p><a class="isomer-image-wrapper" href="/cca/Sports-and-Games/soccer/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__13_.png"></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_images.png">
+</div>
 </td>
 </tr>
 <tr>
