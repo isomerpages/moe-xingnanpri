@@ -17,6 +17,6 @@ this journey of staying active, building confidence and developing a lifelong
 love for the game.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="395" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTEbbiPT7BIVcgvrVxXK4KtVM5OYZgUJPY1NE7TmK0zvw8H4b-7vl-S6ZevXgzodMvXDV3Zqm-pBFEo/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="380" width="610" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTEbbiPT7BIVcgvrVxXK4KtVM5OYZgUJPY1NE7TmK0zvw8H4b-7vl-S6ZevXgzodMvXDV3Zqm-pBFEo/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
