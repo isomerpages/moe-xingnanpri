@@ -16,11 +16,7 @@ for excellence as we learn and grow as individuals and as a team.</p>
 in this journey of staying active, building confidence and developing a
 lifelong love for the game.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/BADMINTON.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn%20For%20Life/CCA%20Images/BADMINTON_2.jpg">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTEbbiPT7BIVcgvrVxXK4KtVM5OYZgUJPY1NE7TmK0zvw8H4b-7vl-S6ZevXgzodMvXDV3Zqm-pBFEo/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
