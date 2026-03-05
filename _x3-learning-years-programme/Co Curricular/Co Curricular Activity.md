@@ -50,8 +50,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Scouts</strong>
-</p>
-<p></p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/scouts/"><img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__5_.png"></a>
+</p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/scouts/"><img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__5_.png"></a>
 </td>
 </tr>
 </tbody>
@@ -66,7 +65,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Pottery Club</strong>
-</p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/pottery-club/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__10_.png"></a>
+</p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/pottery-club/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__10_.png"></a>
 <p></p>
 <p>
 <br>
@@ -74,7 +73,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Art Club</strong>
-</p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/art-club/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__11_.png"></a>
+</p><a class="isomer-image-wrapper" href="/cca/Clubs-and-Societies/art-club/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Website_CCAs__11_.png"></a>
 <p>
 <br>
 </p>
