@@ -17,19 +17,11 @@ practical experience in designing and implementing technological solutions
 while learning teamwork, leadership, and critical thinking.&nbsp;</p>
 <p>The Infocomm Club is a platform for students to innovate, experiment,
 and build confidence in technology, preparing them for future learning
-and careers in the ever-evolving digital world.</p>
-<p>
+and careers in the ever-evolving digital world.
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/Infocomm_Club_1.jpg">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="380" width="610" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLuWj997zG2ETXyM0TbIZK5Zv1DwN23BjFDKkHVPZfZ4dUoHC6KVnaWiKdlOl9yfRSc8RfliR4bp5q/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/Infocomm_Club_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/Infocomm_Club_3.jpg">
-</div>
 <p></p>
