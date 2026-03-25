@@ -19,14 +19,12 @@ the best in them.</p>
 <p>Whether aiming to compete at a high level or simply enjoy the game, our
 Soccer Club welcomes all students who would like to stay active, build
 confidence, and develop a lifelong passion for the sport.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="380" width="610" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRoJVzr02qFF6k4iz_CpePwJWBifFUiPgmOVlt85ELonh8F83RFf-O3D0pUX7VfgEIY2rdPjvBWtth7/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Football_2.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Learn For Life/CCA Images/Football_1.jpg">
-</div>
 <p></p>
