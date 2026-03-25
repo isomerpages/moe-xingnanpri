@@ -23,6 +23,15 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Shanice Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_khai_im_shanice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_khai_im_shanice@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Janarthanan Lakshmi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,10 +50,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shanice Tan</p>
+<p>Mdm Sangeetha S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_khai_im_shanice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_khai_im_shanice@schools.gov.sg</u></a>
+<p><a href="mailto:sangeetha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sangeetha@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
