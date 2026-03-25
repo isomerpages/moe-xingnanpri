@@ -677,7 +677,7 @@ variant: tiptap
 <p>Mdm Nur Affizah Binte Salehudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_affizah_salehudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_affizah_salehudin@schools.gov.sg</a> 
+<p><a href="mailto:nur_affizah_salehudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_affizah_salehudin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
