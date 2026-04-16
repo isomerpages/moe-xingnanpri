@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Our Accolades
 variant: tiptap
 ---
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Green Schools @ South West 2025 - Platinum Award</p>
+<p></p>
+</li>
+</ul>
 <p><strong>2022</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -28,7 +36,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The Best Pradice Award (BPA)</p>
+<p>The Best Practice Award (BPA)</p>
 </li>
 <li>
 <p>SEC-StarHub School Green Awards</p>
@@ -46,7 +54,7 @@ variant: tiptap
 <p>People Developer Standard</p>
 </li>
 <li>
-<p>Programme for School Based Excellence (PSE)Award</p>
+<p>Programme for School-Based Excellence (PSE)Award</p>
 </li>
 </ul>
 <p></p>
