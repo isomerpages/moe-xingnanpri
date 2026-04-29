@@ -23,7 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Jelita Jade Jaimon</p>
+<p>Ms Jelita Jade Jaimon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jelita_jade_jaimon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jelita_jade_jaimon@schools.gov.sg</a>
