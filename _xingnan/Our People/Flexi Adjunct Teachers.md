@@ -116,7 +116,7 @@ variant: tiptap
 <p>Ms Christina Wong Kim Yinn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wong_Kim_Yinn_Christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kim_yinn_christina@schools.gov.sg</a>
+<p><a href="mailto:Wong_Kim_Yinn_Christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kim_yinn_christina@schools.gov.sgA</a>
 </p>
 </td>
 </tr>
