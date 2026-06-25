@@ -122,11 +122,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://form.gov.sg/693623c7c6410ced705183be" rel="noopener noreferrer nofollow" target="_blank">Bus Booking Form</a></strong>
+<p><strong><a href="https://script.google.com/a/macros/xnps.edu.sg/s/AKfycbzolZ6s6Y18nwcshWIBGGnXUk3RAdlg43mQo-C7rsqAm02VZVahN5cLMfAqKBHPFPGa9g/exec" rel="noopener noreferrer nofollow" target="_blank">Adhoc Bus Booking Form</a></strong>
 </p>
 </li>
 <li>
 <p><strong><a href="http://for.edu.sg/xnpsreliefrequest" rel="noopener noreferrer nofollow" target="_blank">Xnps Relief Request</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://go.gov.sg/xnpsseasonparkingrequest" rel="noopener nofollow" target="_blank">Season Parking Application</a></strong>
 </p>
 </li>
 <li>
