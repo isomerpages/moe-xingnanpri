@@ -122,7 +122,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://script.google.com/a/macros/xnps.edu.sg/s/AKfycbzolZ6s6Y18nwcshWIBGGnXUk3RAdlg43mQo-C7rsqAm02VZVahN5cLMfAqKBHPFPGa9g/exec" rel="noopener noreferrer nofollow" target="_blank">Adhoc Bus Booking Form</a></strong>
+<p><strong><a href="https://script.google.com/a/macros/xnps.edu.sg/s/AKfycbyqhqDtEScOnFu7KV_F1hmPNTokz4QiaK1YpSmogt-6VnKZ-2DVxTUcIhU4ZzPdxRqcxA/exec" rel="noopener noreferrer nofollow" target="_blank">Adhoc Bus Booking Form</a></strong>
 </p>
 </li>
 <li>
