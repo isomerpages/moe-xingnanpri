@@ -1,5 +1,5 @@
 collections:
-  parents:
+  students-and-parents:
     output: true
     order:
       - School Library.md
