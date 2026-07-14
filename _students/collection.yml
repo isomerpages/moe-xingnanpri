@@ -2,5 +2,4 @@ collections:
   students:
     output: true
     order:
-      - School Library.md
       - 2025 President’s & Outstanding Award for Teachers.md
