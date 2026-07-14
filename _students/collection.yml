@@ -1,5 +1,4 @@
 collections:
   students:
     output: true
-    order:
-      - 2025 President’s & Outstanding Award for Teachers.md
+    order: []
