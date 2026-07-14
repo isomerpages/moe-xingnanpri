@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - School Library.md
       - MIMS Account Self Reset Guide.md
       - Useful Links and Resources.md
       - Overview.md
