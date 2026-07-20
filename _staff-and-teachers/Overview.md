@@ -122,6 +122,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><strong><a href="https://script.google.com/macros/s/AKfycbzHZ2pDIYNsqXwoske2GZxqwf4nR7yqOMTe7Wu3zF6jg0NPFDmGhMUhR5Yc1llj3lefzw/exec" rel="noopener nofollow" target="_blank">Attendance Portal for CCA Instructors &amp; Contract Staff</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://script.google.com/a/macros/xnps.edu.sg/s/AKfycbyqhqDtEScOnFu7KV_F1hmPNTokz4QiaK1YpSmogt-6VnKZ-2DVxTUcIhU4ZzPdxRqcxA/exec" rel="noopener noreferrer nofollow" target="_blank">Adhoc Bus Booking Form</a></strong>
 </p>
 </li>
